@@ -3,7 +3,7 @@ layout: post
 title:  "Group Meeting 16/10/2018"
 date:   2018-10-16
 author: Lijing Shao
-categories: group
+categories: activities
 ---
 
 ## Junjie Zhao

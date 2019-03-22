@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Thomas H. Reiprich's talk 15/11/2018"
+date:   2018-11-15
+author: Lijing Shao
+categories: activities
+---
+
+## Thomas H. Reiprich (Argelander-Institut für Astronomie, Bonn University)
+
+#### Cosmology with X-ray Galaxy Clusters
+
+The massive dark matter halos that host galaxy clusters can be well traced by
+X-ray satellite observatories. The intracluster gas trapped in the deep
+potential wells gets heated to 10s of millions of Kelvin, emitting thermal
+bremsstrahlung at X-ray wavelengths. The latest cosmological constraints from
+X-ray selected galaxy clusters will be discussed. A new test to constrain the
+cosmological luminosity distance anisotropy using galaxy clusters is introduced
+and results indicating a violation of isotropy are shown. New X-ray selected
+very extended nearby galaxy groups and clusters have been discovered in ROSAT
+All-Sky Survey images at positions where no X-ray source was found previously;
+the properties of the cluster candidate sample (>1,000 in total) and
+implications for cosmological constraints from clusters are discussed. The
+current status of and prospects for the eROSITA telescope to be launched aboard
+the SRG mission early next year are outlined. The expectations for the ESA
+L-class mission Athena to discover and characterize early galaxy groups,
+massive and evolved enough to contain >10 million Kelvin gas, above redshift 2
+are quantified. [[link](http://kiaa.pku.edu.cn/colloquia/cosmology-x-ray-galaxy-clusters)]
+
+**Place**: KIAA-PKU Auditorium
+
+**Time**: Thursday, November 15, 2018 - 4:00pm to 5:00pm

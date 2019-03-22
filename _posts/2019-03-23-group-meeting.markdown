@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Group Meeting 23/03/2019"
-date:   2019-03-21
+date:   2019-03-23
 author: Lijing Shao
-categories: group
+categories: activities
 ---
 
 

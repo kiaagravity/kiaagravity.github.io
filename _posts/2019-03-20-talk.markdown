@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Fupeng Zhang's talk 20/03/2019"
+date:   2019-03-20
+author: Lijing Shao
+categories: activities
+---
+
+## Fupeng Zhang (Guangzhou Univ)
+
+#### Gravitational-wave merging events from the dynamics of stellar mass binary black holes around the massive black holes in galactic nuclei
+
+The Advanced LIGO have detected a number of gravitational-wave events that
+caused by merging of stellar mass binary black holes (BBHs). We study the
+dynamical evolution of stellar mass BBHs in a galactic nucleus that contains a
+massive black hole (MBH). We performed a comprehensive study of BBH merging
+events in the galactic nucleus, by considering simultaneously the non-resonant
+and resonant relaxations of the BBHs, the binary-single encounters of the BBHs
+with the field stars, the Kozai-Lidov (KL) oscillation, and the close
+encounters between the BBHs and the central MBH.  As the BBHs are usually
+heavier than the background stars, they sink to the center by mass segregation,
+making the KL oscillation an importanteffect in merging BBHs. The binary-single
+encounters can make BBHs hardening, and thus increase the merging rates
+significantly. The mergers of BBHs are mainly contributed by galaxies
+containing MBHs less massive than 10^8 solar masses and the total event rates
+are likely in orders of 1-10 /Gpc^3/yr,depending on the detailed assumptions of
+the nucleus clusters. About 3-10% of these BBH mergers have eccentricities
+>0.01 when their gravitational wave oscillating frequencies enter the LIGO band
+(10 Hz). Our results show that merging the BBHs within galactic nuclei can be
+an important source of the merging events detected by the Advanced LIGO/Virgo,
+and they can be distinguished from BBH mergers from the galactic fields and
+globular clusters when enough events are accumulated.
+[[link](http://kiaa.pku.edu.cn/lunchtalks/2019marfri-1)]
+
+**Place**: KIAA 1st meeting room
+
+**Time**: Wed, 2019-03-20 12:00 to 13:00

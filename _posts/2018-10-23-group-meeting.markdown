@@ -3,7 +3,7 @@ layout: post
 title:  "Group Meeting 23/10/2018"
 date:   2018-10-23
 author: Lijing Shao
-categories: group
+categories: activities
 ---
 
 ## Yong Gao

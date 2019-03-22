@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Junwu Huang's talk 20/12/2018"
+date:   2018-12-20
+author: Lijing Shao
+categories: activities
+---
+
+## Junwu Huang (Perimeter Institute, Canada)
+
+#### Probing axions with neutron star inspirals observed by Advanced LIGO
+
+In certain models of a QCD axion, finite density corrections to the axion
+potential can result in the axion being sourced by large dense objects. There
+are a variety of ways to test this phenomenon, but perhaps the most surprising
+effect is that the axion can mediate forces between neutron stars that can be
+as strong as gravity. In this talk, I will discuss how axion forces and
+radiations can be detected by Advanced LIGO observations of neutron star
+inspirals. The axion mediated forces can be both attractive or repulsive. By a
+numerical coincidence, axion forces between neutron stars with gravitational
+strength naturally have an associated length scale of tens of kilometers or
+longer, similar to that of a neutron star. A significant axion field profile
+can only be sourced by large dense objects, and therefore evades various fifth
+force constraints. Observations of neutron star mergers in Advanced LIGO can
+probe many orders of magnitude of unconstrained axion parameter space. In the
+talk, I will also discuss using an effective field theory (EFT) approach to
+calculate the first post-Newtonian corrections to the orbital dynamics,
+radiated power, and gravitational waveform for binary neutron star mergers in
+the presence of an axion. These results can be used to perform a detailed
+forecast of the potential for Advanced LIGO to constrain the free parameters of
+the EFT, and map these to the mass and decay constant of the axion.
+[[link](http://kiaa.pku.edu.cn/lunchtalks/2018octmon-2)]
+
+**Place**: 1st floor meeting room, KIAA
+
+**Time**: Thu, 2018-12-20 12:00 to 13:00

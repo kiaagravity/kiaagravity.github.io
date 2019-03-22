@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Cosimo Bambi's talk 29/03/2019"
+date:   2019-03-29
+author: Lijing Shao
+categories: activities
+---
+
+## Cosimo Bambi (Fudan University)
+
+#### Testing general relativity using X-ray reflection spectroscopy
+
+Einstein's theory of general relativity was proposed over 100 years ago and has
+successfully passed a large number of observational tests in weak gravitational
+fields. However, the strong field regime is still largely unexplored, and there
+are many modified and alternative theories that have the same predictions as
+Einstein's gravity for weak fields and present deviations only when gravity
+becomes strong. X-ray reflection spectroscopy is potentially a powerful tool
+for testing the strong gravity region around astrophysical black holes with
+electromagnetic radiation. In this talk, I will present the reflection model
+RELXILL_NK designed for testing the metric around black holes and the current
+constraints on possible new physics from the analysis of a few sources.
+[[link](http://kiaa.pku.edu.cn/colloquia/testing-general-relativity-using-x-ray-reflection-spectroscopy)]
+
+**Place**: KIAA-PKU Auditorium
+
+**Time**: Friday, March 29, 2019 - 3:30pm to 4:30pm

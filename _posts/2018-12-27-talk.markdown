@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Weiwei Xu's talk 27/12/2018"
+date:   2018-12-27
+author: Lijing Shao
+categories: activities
+---
+
+## Weiwei Xu (National Astronomical Observatories, Chinese Academy of Sciences)
+
+#### A New X-Ray Selected Galaxy Cluster Sample from the ROSAT All-Sky Survey
+
+Some indications for tension have long been identified between cosmological
+constraints obtained from galaxy clusters and primary cosmic microwave
+background (CMB) measurements. Typically, assuming the matter density and
+fluctuations, as parameterized with Omega_m and sigma_8, estimated from CMB
+measurements, many more clusters are expected than those actually observed.
+This has been reinforced recently by the Planck collaboration. One possible
+explanation could be that certain types of galaxy groups or clusters were
+missed in samples constructed in previous surveys, resulting in a higher
+incompleteness than estimated. In this work, we aim to determine if a
+hypothetical class of very extended, low-surface-brightness galaxy groups or
+clusters have been missed in previous X-ray cluster surveys based on the ROSAT
+All-Sky Survey (RASS).We applied a dedicated source-detection algorithm
+sensitive also to more unusual group or cluster surface-brightness
+distributions. We found many known groups but also a number of new group
+candidates, which are not included in any previous X-ray or SZ cluster
+catalogs. In this talk, I will present a pilot sample of 13 very extended
+groups discovered in the RASS at positions where no X-ray source has been
+detected previously and with clear optical counterparts. The X-ray fluxes of at
+least 5 of these are above the nominal flux-limits of previous RASS cluster
+catalogs (> 3x10^{-12} erg s^{-1} cm^{-2} in the 0.1-2.4 keV energy band). They
+have low mass (10^{13} Msun We demonstrate that galaxy groups were missed in
+previous RASS surveys, possibly due to the flat surface-brightness
+distributions of this potential new population. Analysis of the full sample
+will show if this might have a significant effect on previous cosmological
+parameter constraints based on RASS cluster surveys.
+[[link](http://kiaa.pku.edu.cn/lunchtalks/2018decthu)]
+
+**Place**: first floor meeting room, KIAA
+
+**Time**: Thu, 2018-12-27 12:00 to 13:00

@@ -3,7 +3,7 @@ layout: post
 title:  "Group Meeting 13/11/2018"
 date:   2018-11-13
 author: Lijing Shao
-categories: group
+categories: activities
 ---
 
 ## Zihang Wang

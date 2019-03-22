@@ -3,7 +3,7 @@ layout: post
 title:  "Group Meeting 06/11/2018"
 date:   2018-11-06
 author: Lijing Shao
-categories: group
+categories: activities
 ---
 
 ## Xueli Miao

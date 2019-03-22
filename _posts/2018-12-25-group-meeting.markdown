@@ -3,7 +3,7 @@ layout: post
 title:  "Group Meeting 25/12/2018"
 date:   2018-12-25
 author: Lijing Shao
-categories: group
+categories: activities
 ---
 
 ## Zhongfu Zhang
