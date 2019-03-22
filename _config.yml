@@ -49,10 +49,10 @@ jekyll-archives:
 # Category descriptions (for archive pages)
 descriptions:
   - cat: event
-    desc: "event"
+    desc: ""
 
   - cat: group
-    desc: "group"
+    desc: ""
 
 # Social icons and sharing options
 #
