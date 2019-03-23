@@ -60,7 +60,7 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Gao_Yong.png" title="Profile Picture" class="profile">
 <big><b>Yong Gao (高勇)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
