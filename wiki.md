@@ -52,7 +52,6 @@ We have a Journal Club **Gravitational Astrophysics** on
 #### Upcoming Speakers
 
 | **PAPER PRESENTATION** | **LITERATURE READING** |
-| Zihang Wang	|	Junjie Zhao |
 | Wenlong Li	|	Yong Gao |
 | Zhongpeng Sun	|	Xueli Miao |
 | Zhongfu Zhang | Zihang Wang |
