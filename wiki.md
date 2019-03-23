@@ -22,7 +22,7 @@ tr:nth-child(odd) {
 }
 </style>
 
-### About Group Meetings
+## About Group Meetings
 
 Group meeting provides a friendly environment to interact with other group
 members or visiting scholars.  It also brings the opportunity to broaden views

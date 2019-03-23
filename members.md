@@ -42,12 +42,12 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Zhao_Junjie.png" title="Profile Picture" class="profile">
 <big><b>Junjie Zhao (赵俊杰)</b></big><br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: junjiezhao@pku.edu.cn<br>
-<b>Research Interests</b>: <br>
+<b>Research Interests</b>: gravitational waves, alternative theories of gravity<br>
 
 ---
 
