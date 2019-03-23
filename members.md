@@ -1,0 +1,89 @@
+---
+layout: page
+title: "Members"
+permalink: /member/
+---
+
+<style>
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #dddddd;
+  }
+</style>
+
+<img src="{{ site.baseurl }}/assets/Shao_Lijing.png" title="Profile Picture" class="profile">
+
+<big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
+<i><b>Assistant Professor</b>, Kavli Institute for Astronomy and Astrophysics,
+  Peking University</i><br>
+<b>Email</b>: lshao@pku.edu.cn<br>
+<b>Research Interests</b>: gravitational waves, pulsar astronomy, new physics
+beyond the standard model<br>
+
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<big><b>Dr. Rui Xu (徐睿)</b></big><br>
+<i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
+  Peking University</i><br>
+<b>Email</b>:  <br>
+<b>Research Interests</b>: <br>
+
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<big><b>Junjie Zhao (赵俊杰)</b></big><br>
+<i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: junjiezhao@pku.edu.cn<br>
+<b>Research Interests</b>: <br>
+
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<big><b>Xueli Miao (缪雪丽)</b></big><br>
+<i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: <br>
+<b>Research Interests</b>: <br>
+
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<big><b>Yong Gao (高勇)</b></big><br>
+<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: <br>
+<b>Research Interests</b>: <br>
+
+## A Full List of Members
+
+| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
+| 2018 — present | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2019 — present | **Rui Xu** | **徐睿** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2018 — present | **Yong Gao** | **高勇** | Doctoral Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Junjie Zhao** | **赵俊杰** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| 2018 — present | **Xueli Miao** | **缪雪丽** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2018 — present | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Dewang Xu** | **徐德望** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Jiangwei Xu** | **徐江伟** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Fan Hu** | **胡帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Wenxiu Li** | **李文秀** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Xuxiang Li** | **黎旭翔** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2018 — present | **Zhongpeng Sun** | **孙忠鹏** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Wenlong Li** | **李汶隆** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Yacheng Kang** | **康亚城** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Xiaojing Lin** | **林小靖** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Huimei Wang** | **王惠美** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Zhengrong Li** | **李政融** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Tongxuan Zhang** | **张通烜** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |
+| 2019 — present | **Zihe An** | **安子訸** | Undergraduate | [Mech-PKU](http://web.mech.pku.edu.cn/) |
+| 2019 — present | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+
+
+<p></p>
