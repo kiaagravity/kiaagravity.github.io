@@ -64,8 +64,8 @@ beyond the standard model<br>
 <big><b>Yong Gao (高勇)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
-<b>Email</b>: <br>
-<b>Research Interests</b>: <br>
+<b>Email</b>: gaoyong.physics@pku.edu.cn <br>
+<b>Research Interests</b>: gravitational waves, neutron stars <br>
 
 ---
 
