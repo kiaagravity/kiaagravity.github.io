@@ -22,15 +22,28 @@ tr:nth-child(odd) {
 }
 </style>
 
+## Research Interests 
+
+We are broadly interested in various topics related to **gravitational astrophysics**, in particular we enjoyed working on
+- Tests of gravity theories
+- Gravitational waves
+- Pulsars and neutron stars
+- Astrophysical studies of dark matter
+- Black hole spacetime
+- Precision tests of fundamental physics
+- Bayesian data analysis and statistics
+
 ### Welcome to Join our Research
 
-I am interested in supervising **senior undergraduates**, and **graduates at
+Dr. Lijing Shao is interested in supervising **senior undergraduates**, and **graduates at
 all levels**. Those who are good at either mathematics or computer science are
 especially encouraged. Students from other universities/institutions are also
-welcome. I would also like to hire **postdoctoral researchers**. If you are
+welcome. 
+
+He would also like to hire **postdoctoral researchers**. If you are
 interested in gravitational physics or searching for new physics from
-astrophysical observations, please send your CV and I will help you in getting
-a position when available. Please contact me!
+astrophysical observations, please send your CV and he will help you in getting
+a position when available. Please contact [Dr. Lijing Shao](mailto:lshao@pku.edu.cn)!
 
 <figure>                                                                        
 <img src="/assets/group_meeting_Dec25_2018.jpeg" style="width:100%">                 

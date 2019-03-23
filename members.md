@@ -31,12 +31,16 @@ permalink: /member/
 <b>Research Interests</b>: gravitational waves, pulsar astronomy, new physics
 beyond the standard model<br>
 
+---
+
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 <big><b>Dr. Rui Xu (徐睿)</b></big><br>
 <i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>:  <br>
 <b>Research Interests</b>: <br>
+
+---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 <big><b>Junjie Zhao (赵俊杰)</b></big><br>
@@ -45,12 +49,16 @@ beyond the standard model<br>
 <b>Email</b>: junjiezhao@pku.edu.cn<br>
 <b>Research Interests</b>: <br>
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+---
+
+<img src="{{ site.baseurl }}/assets/Miao_Xueli.jpeg" title="Profile Picture" class="profile">
 <big><b>Xueli Miao (缪雪丽)</b></big><br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
   Peking University</i><br>
-<b>Email</b>: <br>
-<b>Research Interests</b>: <br>
+<b>Email</b>: 18883263806@163.com<br>
+<b>Research Interests</b>: pulsar astronomy, new physics beyond the standard model<br>
+
+---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 <big><b>Yong Gao (高勇)</b></big><br>
@@ -58,6 +66,8 @@ beyond the standard model<br>
   Peking University</i><br>
 <b>Email</b>: <br>
 <b>Research Interests</b>: <br>
+
+---
 
 ## A Full List of Members
 
