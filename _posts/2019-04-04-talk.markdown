@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tjonnie Li's talk 04/04/2019"
+title:  "Tjonnie Li's colloquium talk 04/04/2019"
 date:   2019-04-04
 author: Lijing Shao
 categories: activities

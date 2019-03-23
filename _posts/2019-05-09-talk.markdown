@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zonghong Zhu's talk 09/05/2019"
+title:  "Zonghong Zhu's colloquium talk 09/05/2019"
 date:   2019-05-09
 author: Lijing Shao
 categories: activities
