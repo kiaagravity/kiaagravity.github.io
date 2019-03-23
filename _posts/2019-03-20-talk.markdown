@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fupeng Zhang's lunch talk 20/03/2019"
+title:  "Prof. Fupeng Zhang's lunch talk 20/03/2019"
 date:   2019-03-20
 author: Lijing Shao
 categories: activities

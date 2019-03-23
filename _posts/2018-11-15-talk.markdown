@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thomas H. Reiprich's colloquium talk 15/11/2018"
+title:  "Prof. Thomas H. Reiprich's colloquium talk 15/11/2018"
 date:   2018-11-15
 author: Lijing Shao
 categories: activities

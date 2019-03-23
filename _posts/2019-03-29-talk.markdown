@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cosimo Bambi's colloquium talk 29/03/2019"
+title:  "Prof. Cosimo Bambi's colloquium talk 29/03/2019"
 date:   2019-03-29
 author: Lijing Shao
 categories: activities
