@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-test
+We explore the Universe.
