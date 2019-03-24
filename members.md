@@ -37,8 +37,10 @@ beyond the standard model<br>
 <big><b>Dr. Rui Xu (徐睿)</b></big><br>
 <i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
-<b>Email</b>:  <br>
-<b>Research Interests</b>: <br>
+<b>Email</b>: ryxxastro@outlook.com  <br>
+<b>Research Interests</b>: experimental tests of Lorentz symmetry in gravity,
+alternatives to general relativity, structure of black hole spacetime,
+evolution of binary black holes <br>
 
 ---
 
@@ -74,9 +76,9 @@ beyond the standard model<br>
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018 — present | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2019 — present | **Rui Xu** | **徐睿** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2018 — present | **Yong Gao** | **高勇** | Doctoral Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Junjie Zhao** | **赵俊杰** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2018 — present | **Xueli Miao** | **缪雪丽** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2018 — present | **Yong Gao** | **高勇** | Doctoral Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
