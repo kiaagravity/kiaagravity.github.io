@@ -40,9 +40,9 @@ all levels**. Those who are good at either mathematics or computer science are
 especially encouraged. Students from other universities/institutions are also
 welcome. 
 
-He would also like to hire **postdoctoral researchers**. If you are interested
+We would also like to hire **postdoctoral researchers**. If you are interested
 in gravitational physics or searching for new physics from astrophysical
-observations, please send your CV and he will help you in getting a position
+observations, please send your CV and we will help you in getting a position
 when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
 
 <figure>                                                                        
