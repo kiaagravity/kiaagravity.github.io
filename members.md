@@ -33,7 +33,7 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Xu_Rui.jpeg" title="Profile Picture" class="profile">
 <big><b>Dr. Rui Xu (徐睿)</b></big><br>
 <i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
