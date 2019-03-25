@@ -6,8 +6,8 @@ permalink: /publication/
 
 ### 2019
 
-- B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
-  [Extreme Gravity and Fundamental Physics](https://arxiv.org/abs/1903.09221),
+- B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, et al.,
+  [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
 arXiv:1903.09221
 
 - K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, et al., [On
