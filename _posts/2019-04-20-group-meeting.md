@@ -23,3 +23,15 @@ categories: activities
 ## Yong Gao
 
 #### Updates on project
+
+---
+
+## Xueli Miao
+
+#### Rehearsal for “Workshop on Gravitational Waves and Cosmology Related to FAST Sciences”
+
+---
+
+## Junjie Zhao
+
+#### Rehearsal for “Workshop on Gravitational Waves and Cosmology Related to FAST Sciences”
