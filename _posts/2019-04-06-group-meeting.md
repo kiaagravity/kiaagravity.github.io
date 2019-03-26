@@ -22,3 +22,8 @@ by 	B.C. Seymour, K. Yagi [[arXiv:1808.00080](https://arxiv.org/abs/1808.00080)]
 
 by A. Bauswein, N. Stergioulas [[arXiv:1502.03176](https://arxiv.org/abs/1502.03176)]
 
+---
+
+## Junjie Zhao
+
+#### Updates on project

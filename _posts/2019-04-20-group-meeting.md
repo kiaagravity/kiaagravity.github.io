@@ -18,4 +18,8 @@ categories: activities
 
 #### Literature reading: TBA
 
+---
 
+## Yong Gao
+
+#### Updates on project
