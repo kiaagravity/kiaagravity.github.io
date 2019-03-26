@@ -52,11 +52,9 @@ We have a Journal Club **Gravitational Astrophysics** on
 #### Upcoming Speakers
 
 | **PAPER PRESENTATION** | **LITERATURE READING** |
-| Wenlong Li	|	Yong Gao |
-| Zhongpeng Sun	|	Xueli Miao |
-| Zhongfu Zhang | Zihang Wang |
-| Dewang Xu | Wenlong Li |
-| Jiangwei Xu | Zhongpeng Sun |
+| Zhongfu Zhang | Yong Gao |
+| Dewang Xu |	Xueli Miao |
+| Jiangwei Xu | Zihang Wang |
 | Rui Xu | Zhongfu Zhang |
 | Fan Hu | Dewang Xu |
 | Xuxiang Li | Jiangwei Xu |
