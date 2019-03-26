@@ -51,18 +51,18 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 #### Upcoming Speakers
 
-| **PAPER PRESENTATION** | **LITERATURE READING** |
-| Zhongfu Zhang | Yong Gao |
-| Dewang Xu |	Xueli Miao |
-| Jiangwei Xu | Zihang Wang |
-| Rui Xu | Zhongfu Zhang |
-| Fan Hu | Dewang Xu |
-| Xuxiang Li | Jiangwei Xu |
-| Junjie Zhao | Rui Xu |
-| Xueli Miao | Fan Hu |
-| Yong Gao | Xuxiang Li |
-| -- | Junjie Zhao |
-| -- | Xueli Miao |
-| -- | Yong Gao |
+| **ESTIMATED DATE**  | **PAPER PRESENTATION** | **LITERATURE READING** |
+| 11/05 | Zhongfu Zhang | Yong Gao |
+| 18/05 | Dewang Xu |	Xueli Miao |
+| 25/05 | Jiangwei Xu | Zihang Wang |
+| 01/06 | Fan Hu | Zhongfu Zhang |
+| 08/06 | Xuxiang Li | Dewang Xu |
+| | Rui Xu | Jiangwei Xu |
+| | Junjie Zhao | Fan Hu |
+| | Xueli Miao | Xuxiang Li |
+| | Yong Gao | Rui Xu |
+| | -- | Junjie Zhao |
+| | -- | Xueli Miao |
+| | -- | Yong Gao |
 
 <p></p>
