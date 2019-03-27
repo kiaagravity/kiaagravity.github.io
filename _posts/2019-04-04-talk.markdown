@@ -10,7 +10,24 @@ categories: activities
 
 #### Gravitational Lensing of Gravitational Waves
 
-TBA
+Gravitational lensing phenomena are widespread in electromagnetic astrophysics,
+and in principle may also be uncovered with gravitational waves. I examine
+gravitational wave events in the limit of geometric optics, where one expects
+to see multiple signals from the same event with different arrival times and
+amplitudes, and wave optics, where one expects to see effects such as
+interference and diffraction.
+
+Recent studies are showing that second generation gravitational-wave detectors
+may observe more than one lensed event. I present the results from a search for
+signatures of gravitational lensing in the binary black hole events detected by
+Advanced LIGO and Virgo during their first two observational runs. In
+particular, we look for three effects: 1) evidence of lensing magnification in
+the individual signals due to galaxy lenses, 2) evidence of multiple images due
+to strong lensing by galaxies, 3) evidence of wave optics effects due to
+point-mass lenses. We find no compelling evidence of any of these signatures in
+the observed gravitational wave signals. Finally, I will also look ahead to the
+microlensing effects due to substructure on top of strong lensing by (clusters
+of) galaxies.
 [[link](http://kiaa.pku.edu.cn/colloquia/gravitational-lensing-gravitational-waves)]
 
 **Place**: KIAA-PKU Auditorium

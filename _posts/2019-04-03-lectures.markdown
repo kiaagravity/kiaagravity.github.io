@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Prof. Tjonnie Li's lectures on 03/04/2019 & 05/04/2019"
+date:   2019-04-03
+author: Lijing Shao
+categories: activities
+---
+
+## Tjonnie Li (The Chinese University of Hong Kong)
+
+#### Extracting Physics from Gravitational Waves (1/2)
+
+**Place**: K208, KIAA-PKU
+
+**Time**: 10:00AM, Apr 3
+
+
+#### Extracting Physics from Gravitational Waves (2/2)
+
+**Place**: 1st floor meeting room, KIAA-PKU
+
+**Time**: 10:00AM, Apr 5
+
