@@ -71,6 +71,15 @@ evolution of binary black holes <br>
 
 ---
 
+<img src="{{ site.baseurl }}/assets/Liu_Chang.jpeg" title="Profile Picture" class="profile">
+<big><b>Chang Liu (刘畅)</b></big><br>
+<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: leslielc@pku.edu.cn <br>
+<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+
+---
+
 ## A Full List of Members
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
@@ -79,7 +88,7 @@ evolution of binary black holes <br>
 | 2018 — present | **Junjie Zhao** | **赵俊杰** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2018 — present | **Xueli Miao** | **缪雪丽** | Joint Doctoral Thesis | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
 | 2018 — present | **Yong Gao** | **高勇** | Doctoral Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
-| 2018 — present | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Chang Liu** | **刘畅** | Doctoral Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Dewang Xu** | **徐德望** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
