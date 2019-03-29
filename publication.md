@@ -6,6 +6,11 @@ permalink: /publication/
 
 ### 2019
 
+- L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence principle
+  in the standard-model extension with binary
+pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* (accepted),
+arXiv:1903.11760
+
 - B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, et al.,
   [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
 arXiv:1903.09221
