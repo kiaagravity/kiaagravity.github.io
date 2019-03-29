@@ -18,6 +18,9 @@ by J.B. Hartle [[ADS:1967ApJ…150.1005H](http://adsabs.harvard.edu/abs/1967ApJ.
 
 ## Chang Liu
 
-#### Literature reading: TBA
+#### Literature reading: The search for extra-galactic intelligence signals synchronized with binary neutron star mergers
+
+by Y. Nishino & N. Seto [[arXiv:1807.06024](https://arxiv.org/abs/1807.06024)]
+
 
 
