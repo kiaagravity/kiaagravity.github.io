@@ -16,6 +16,8 @@ categories: activities
 
 ## Yong Gao
 
-#### Literature reading: TBA
+#### Literature reading: Relativistic Spin Precession in the Double Pulsar
+
+by R.P. Breton et al. [[arXiv:0807.2644](https://arxiv.org/abs/0807.2644)]
 
 
