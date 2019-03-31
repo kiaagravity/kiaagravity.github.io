@@ -59,8 +59,9 @@ We have a Journal Club **Gravitational Astrophysics** on
 | | Junjie Zhao | Fan Hu |
 | | Xueli Miao | Xuxiang Li |
 | | Yong Gao | Rui Xu |
-| | -- | Junjie Zhao |
+| | Chang Liu | Junjie Zhao |
 | | -- | Xueli Miao |
 | | -- | Yong Gao |
+| | -- | Chang Liu |
 
 <p></p>
