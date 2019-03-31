@@ -16,7 +16,9 @@ categories: activities
 
 ## Junjie Zhao
 
-#### Literature reading: TBA
+#### Literature reading: Can a black hole-neutron star merger explain GW170817, AT2017gfo, GRB170817A?
+
+by M.W. Coughlin, T. Dietrich [[arXiv:1901.06052](https://arxiv.org/abs/1901.06052)]
 
 ---
 
