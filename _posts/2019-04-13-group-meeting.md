@@ -22,5 +22,17 @@ by J.B. Hartle [[ADS:1967ApJ…150.1005H](http://adsabs.harvard.edu/abs/1967ApJ.
 
 by Y. Nishino & N. Seto [[arXiv:1807.06024](https://arxiv.org/abs/1807.06024)]
 
+---
+
+## Wenlong Li
+
+#### Updates on bachelor thesis
+
+---
+
+## Zhongpeng Sun
+
+#### Updates on bachelor thesis
+
 
 
