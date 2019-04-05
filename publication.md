@@ -6,6 +6,9 @@ permalink: /publication/
 
 ### 2019
 
+- X. Miao, L. Shao, B.-Q. Ma, Bounding the mass of graviton in a dynamic regime
+  with binary pulsars, submitted
+
 - L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence principle
   in the standard-model extension with binary
 pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* (accepted),
