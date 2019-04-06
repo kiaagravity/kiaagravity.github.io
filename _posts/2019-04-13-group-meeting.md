@@ -40,5 +40,9 @@ by Y. Nishino & N. Seto [[arXiv:1807.06024](https://arxiv.org/abs/1807.06024)]
 
 #### Updates on bachelor thesis
 
+---
 
+## Yong Gao
+
+#### Updates on project
 
