@@ -10,7 +10,10 @@ categories: activities
 
 ## Zihang Wang
 
-#### Paper presentation: TBA
+#### Paper presentation: Cool WISPs for stellar cooling excesses
+
+by M. Giannotti, I. Irastorza, J. Redondo, A. Ringwald
+[[arXiv:1512.08108](https://arxiv.org/abs/1512.08108)]
 
 ---
 
