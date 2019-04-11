@@ -9,11 +9,6 @@ permalink: /publication/
 - X. Miao, L. Shao, B.-Q. Ma, Bounding the mass of graviton in a dynamic regime
   with binary pulsars, submitted
 
-- L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence principle
-  in the standard-model extension with binary
-pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* (accepted),
-arXiv:1903.11760
-
 - B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, et al.,
   [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
 arXiv:1903.09221
@@ -33,6 +28,10 @@ of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 - L. Shao, [Degeneracy in studying the supranuclear equation of state and
   modified gravity with neutron stars](https://arxiv.org/abs/1901.07546),
 arXiv:1901.07546
+
+- L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence principle
+  in the standard-model extension with binary
+pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99 (2019) 084017
 
 ### 2018
 
