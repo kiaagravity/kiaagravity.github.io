@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2019
 
+- O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, et al., [The
+  event horizon general relativistic magnetohydrodynamic code comparison
+project](https://arxiv.org/abs/1904.04923), arXiv:1904.04923
+
 - X. Miao, L. Shao, B.-Q. Ma, Bounding the mass of graviton in a dynamic regime
   with binary pulsars, submitted
 
@@ -29,9 +33,35 @@ of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
   modified gravity with neutron stars](https://arxiv.org/abs/1901.07546),
 arXiv:1901.07546
 
+- K. Akiyama, et al., [First M87 Event Horizon Telescope results. VI. The
+  shadow and mass of the central black
+hole](https://doi.org/10.3847/2041-8213/ab1141), *Astrophys. J. Lett.* 875 (2019) L6 
+
+- K. Akiyama, et al., [First M87 Event Horizon Telescope results. V. Physical
+  origin of the asymmetric ring](https://doi.org/10.3847/2041-8213/ab0f43),
+*Astrophys. J. Lett.* 875 (2019) L5 
+
+- K. Akiyama, et al., [First M87 Event Horizon Telescope results. IV. Imaging
+  the central supermassive black
+hole](https://doi.org/10.3847/2041-8213/ab0e85), *Astrophys. J. Lett.* 875 (2019) L4 
+
+- K. Akiyama, et al., [First M87 Event Horizon Telescope results. III. Data
+  processing and calibration](https://doi.org/10.3847/2041-8213/ab0c57),
+*Astrophys. J. Lett.* 875 (2019) L3 
+
+- K. Akiyama, et al., [First M87 Event Horizon Telescope results. II. Array and
+  instrumentation](https://doi.org/10.3847/2041-8213/ab0c96), *Astrophys. J.
+Lett.* 875 (2019) L2 
+
+- K. Akiyama, et al., [First M87 Event Horizon Telescope results. I. The shadow
+  of the supermassive black hole](https://doi.org/10.3847/2041-8213/ab0ec7),
+*Astrophys. J. Lett.* 875 (2019) L1 
+
 - L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence principle
   in the standard-model extension with binary
 pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99 (2019) 084017
+
+---
 
 ### 2018
 
@@ -46,3 +76,5 @@ Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 - L. Shao, Q.G. Bailey, [Testing velocity-dependent CPT-violating gravitational
   forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D*
 98 (2018) 084049
+
+---
