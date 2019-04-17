@@ -62,9 +62,6 @@ We have a Journal Club **Gravitational Astrophysics** on
 #### Upcoming Speakers
 
 | **ESTIMATED DATE**  | **PAPER PRESENTATION** | **LITERATURE READING** |
-| 25/05 | Jiangwei Xu | Zihang Wang |
-| 01/06 | Fan Hu | Zhongfu Zhang |
-| 08/06 | Xuxiang Li | Dewang Xu |
 | | Rui Xu | Jiangwei Xu |
 | | Junjie Zhao | Fan Hu |
 | | Xueli Miao | Xuxiang Li |
