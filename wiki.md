@@ -24,21 +24,31 @@ tr:nth-child(odd) {
 
 ## About Group Meetings
 
-Group meeting provides a friendly environment to interact with other group
+Group meeting provides a friendly environment to interact with group
 members or visiting scholars.  It also brings the opportunity to broaden views
 in science, to learn different methods in solving problems, to strengthen the
 capability in scientifically sound presentations, even to develop close
 collaborations via inspiring discussions. 
 
-Our group meetings take place in the <b>Room 208 at KIAA</b>. To avoid
-conflicts with students' classes, the time is fixed to <b>Saturday
-9:00—11:00</b>. It is suggested to use English whenever there are foreigners in the audience. Otherwise it is suggested to talk in Chinese, but use English in slides.
+1. Our group meetings take place in the <b>Room 208 at KIAA</b>. To avoid
+   conflicts with students' classes, the time is fixed to <b>Saturday
+   9:00—11:00</b>. 
+
+2. Sessions **literature reading** and **paper presentation** are reserved for
+   graduates/postdocs who work on research projects in the group, while
+   everyone is <b>HIGHLY</b> encouraged to talk in the session **updates on
+   projects**.
+
+3. It is suggested to use English whenever there are foreigners in the
+   audience.  Otherwise it is suggested to talk in Chinese, but use English in
+   slides. 
 
 | **FORMAT** | **DURATION** | **NOTE** |
-| **General news** | about 5 minutes |
-| **Literature reading** | restricted to 15 minutes | <small>Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper! |
-| **Paper presentation** | about 1 hour | <small>The presenter <b>MUST</b> inform the other group members the paper to be discussed at least 5 days in advance. |
-| **Updates on projects** | indefinite time | <small>Those who are not involved are free to leave. |
+| **General News** | about 5 min |
+| **Literature Reading** | < 15 min | <small>Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper! |
+| **Paper Presentation** | about 1 hr | <small><b>PLEASE</b> announce the paper at least one week in advance! |
+| **Break** | 5 min | |
+| **Updates on Projects** | indefinite | <small>Those who are not involved are free to leave. |
 
 <p></p>
 
