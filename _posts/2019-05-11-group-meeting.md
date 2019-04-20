@@ -18,3 +18,8 @@ categories: activities
 
 #### Literature reading: TBA
 
+---
+
+## Chang Liu
+
+#### Updates on project
