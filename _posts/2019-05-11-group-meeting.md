@@ -16,7 +16,9 @@ categories: activities
 
 ## Xueli Miao
 
-#### Literature reading: TBA
+#### Literature reading: Detecting exoplanets with FAST?
+
+by P. Zarka et al. [[arXiv:1904.01239](https://arxiv.org/abs/1904.01239)]
 
 ---
 
