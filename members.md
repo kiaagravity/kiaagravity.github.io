@@ -44,7 +44,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Zhao_Junjie.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Zhao_Junjie.png" title="Profile Picture" class="profile">
 <big><b>Junjie Zhao (赵俊杰)</b></big><br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
   Peking University</i><br>
