@@ -10,7 +10,9 @@ categories: activities
 
 ## Zhongfu Zhang
 
-#### Paper presentation: TBA
+#### Paper presentation: First M87 Event Horizon Telescope Results. V. Physical Origin of the Asymmetric Ring
+
+by Event Horizon Telescope Collaboration [[ADS:2019ApJ...875L...5E](https://ui.adsabs.harvard.edu/abs/2019ApJ...875L...5E/abstract)]
 
 ---
 
