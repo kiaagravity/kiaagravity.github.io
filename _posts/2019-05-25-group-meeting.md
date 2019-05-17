@@ -18,3 +18,8 @@ categories: activities
 
 #### Literature reading: TBA
 
+---
+
+## Lijing Shao
+
+#### Round table

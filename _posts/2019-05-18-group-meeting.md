@@ -10,13 +10,10 @@ categories: activities
 
 ## Dewang Xu
 
-#### Paper presentation: Precise Black Hole Masses from Megamaser Disks: Black Hole-Bulge Relations at Low Mass
+#### Paper presentation: Detection of Prominent Stellar Disks in the Progenitors of Present-day Massive Elliptical Galaxies
 
-by J.E. Greene et al. [[arXiv:1007.2851](https://arxiv.org/abs/1007.2851)]
+by R.H. Davari et al. [[arXiv:1606.07571](https://arxiv.org/abs/1606.07571)]
 
-#### Paper presentation: Tracing Black Hole and Galaxy Co-evolution in the Romulus Simulations
-
-by A. Ricarte et al. [[arXiv:1904.10116](https://arxiv.org/abs/1904.10116)]
 
 ---
 
