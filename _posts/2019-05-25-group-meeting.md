@@ -10,7 +10,9 @@ categories: activities
 
 ## Jiangwei Xu
 
-#### Paper presentation: TBA
+#### Paper presentation: Tests of general relativity from timing the double pulsar
+
+by M. Kramer [[arXiv:astro-ph/0609417](https://arxiv.org/abs/astro-ph/0609417)]
 
 ---
 
@@ -25,3 +27,15 @@ by Y. Chen [[arXiv:1905.02213](https://arxiv.org/abs/1905.02213)]
 ## Lijing Shao
 
 #### Round table
+
+---
+
+## Wenlong Li
+
+#### Rehearsal for the final defense of bachelor thesis
+
+---
+
+## Zhongpeng Sun
+
+#### Rehearsal for the final defense of bachelor thesis
