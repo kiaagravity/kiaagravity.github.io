@@ -10,7 +10,9 @@ categories: activities
 
 ## Fan Hu
 
-#### Paper presentation: TBA
+#### Paper presentation: Constraint on the maximum mass of neutron stars using GW170817 event
+
+by M. Shibata et al. [[arXiv:1905.03656](https://arxiv.org/abs/1905.03656)]
 
 ---
 
