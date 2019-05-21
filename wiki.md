@@ -32,7 +32,7 @@ collaborations via inspiring discussions.
 
 1. Our group meetings take place in the <b>Room 208 at KIAA</b>. To avoid
    conflicts with students' classes, the time is fixed to <b>Saturday
-   9:00—11:00</b>. 
+   9:00—11:30</b>. 
 
 2. Sessions **literature reading** and **paper presentation** are reserved for
    graduates/postdocs who work on research projects in the group, while
@@ -72,3 +72,13 @@ We have a Journal Club **Gravitational Astrophysics** on
 | | -- | Chang Liu |
 
 <p></p>
+
+---
+
+## Useful Tools
+
+For new members in the group, it is highly advisable to learn the following basic tools. I am sure that they will benefit the rest of your scientific life.
+
+- Search with [Google](https://www.google.com/ncr)
+- Write with **LaTeX** and [**Overleaf**](https://www.overleaf.com): [Quick Guide to LaTeX](https://www.overleaf.com/latex/templates/a-quick-guide-to-latex/fghqpfgnxggz), [Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)
+- Manage codes (your latex as well!) with **Git**: [Guide](http://rogerdudler.github.io/git-guide/), [Tutorials](https://www.atlassian.com/git/tutorials)
