@@ -6,6 +6,8 @@ permalink: /publication/
 
 ### 2019
 
+- L. Shao, [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
+
 - O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, et al., [The
   event horizon general relativistic magnetohydrodynamic code comparison
 project](https://arxiv.org/abs/1904.04923), arXiv:1904.04923

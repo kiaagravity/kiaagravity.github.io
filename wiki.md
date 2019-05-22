@@ -77,7 +77,7 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 ## Useful Tools
 
-For new members in the group, it is highly advisable to learn the following basic tools. I am sure that they will benefit the rest of your scientific life.
+For new members in the group, it is highly advisable to learn the following basic tools. They will surely benefit the rest of your scientific life.
 
 - Search with [Google](https://www.google.com/ncr)
 - Write with **LaTeX** and [**Overleaf**](https://www.overleaf.com): [Quick Guide to LaTeX](https://www.overleaf.com/latex/templates/a-quick-guide-to-latex/fghqpfgnxggz), [Overleaf Tutorials](https://www.overleaf.com/learn/latex/Tutorials)
