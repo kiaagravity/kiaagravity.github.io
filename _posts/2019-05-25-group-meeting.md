@@ -39,3 +39,11 @@ by Y. Chen [[arXiv:1905.02213](https://arxiv.org/abs/1905.02213)]
 ## Zhongpeng Sun
 
 #### Rehearsal for the final defense of bachelor thesis
+
+---
+
+## Xueli Miao
+
+#### Measuring stochastic gravitational-wave energy beyond general relativity
+
+by M. Isi & L.C. Stein [[arXiv:1807.02123](https://arxiv.org/abs/1807.02123)]
