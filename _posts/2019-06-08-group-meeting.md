@@ -10,7 +10,9 @@ categories: activities
 
 ## Xuxiang Li
 
-#### Paper presentation: TBA
+#### Paper presentation: ZAIGA: Zhaoshan Long-baseline Atom Interferometer Gravitation Antenna
+
+by M.-S. Zhan et al. [[arXiv:1903.09288](https://arxiv.org/abs/1903.09288)]
 
 ---
 
