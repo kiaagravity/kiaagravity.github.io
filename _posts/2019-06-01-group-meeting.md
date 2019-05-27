@@ -20,7 +20,7 @@ by M. Shibata et al. [[arXiv:1905.03656](https://arxiv.org/abs/1905.03656)]
 
 #### Literature reading: Gravitational waves from compact dark matter objects in the solar system
 
-by C. J. Horowitz et al [[arXiv:1902.08273](https://arxiv.org/abs/1902.08273)]
+by C. J. Horowitz et al. [[arXiv:1902.08273](https://arxiv.org/abs/1902.08273)]
 
 
 
