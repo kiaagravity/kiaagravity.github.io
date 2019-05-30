@@ -18,7 +18,9 @@ by M.-S. Zhan et al. [[arXiv:1903.09288](https://arxiv.org/abs/1903.09288)]
 
 ## Dewang Xu
 
-#### Literature reading: TBA
+#### Literature reading: KAGRA: 2.5 Generation Interferometric Gravitational Wave Detector
+
+by T. Akutsu et al. [[arXiv:1811.08079](https://arxiv.org/abs/1811.08079)]
 
 ---
 
