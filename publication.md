@@ -23,10 +23,6 @@ arXiv:1903.09221
   the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
-- F. Zhang, L. Shao, W. Zhu, [Gravitational-wave merging events from the
-  dynamics of stellar mass binary black holes around the massive black hole in
-a galactic nucleus](https://arxiv.org/abs/1903.02685), arXiv:1903.02685
-
 - A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, L. Shao, W. Yan,
   [Constraints on millicharged dark matter and axion-like particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
@@ -34,6 +30,10 @@ of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 - L. Shao, [Degeneracy in studying the supranuclear equation of state and
   modified gravity with neutron stars](https://arxiv.org/abs/1901.07546),
 arXiv:1901.07546
+
+- F. Zhang, L. Shao, W. Zhu, [Gravitational-wave merging events from the
+  dynamics of stellar mass binary black holes around the massive black hole in
+a galactic nucleus](https://arxiv.org/abs/1903.02685), Astrophys. J. 877 (2019) 87
 
 - K. Akiyama, et al., [First M87 Event Horizon Telescope results. VI. The
   shadow and mass of the central black
