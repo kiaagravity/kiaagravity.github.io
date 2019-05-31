@@ -12,8 +12,8 @@ permalink: /publication/
   event horizon general relativistic magnetohydrodynamic code comparison
 project](https://arxiv.org/abs/1904.04923), arXiv:1904.04923
 
-- X. Miao, L. Shao, B.-Q. Ma, Bounding the mass of graviton in a dynamic regime
-  with binary pulsars, submitted
+- X. Miao, L. Shao, B.-Q. Ma, [Bounding the mass of graviton in a dynamic regime
+  with binary pulsars](https://arxiv.org/abs/1905.12836), arXiv:1905.12836
 
 - B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, et al.,
   [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
