@@ -46,6 +46,11 @@ observations, please send your CV and we will help you in getting a position
 when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
 
 <figure>                                                                        
+<img src="/assets/kiaa_20190601.jpg" style="width:100%">                 
+<figcaption><font color="grey"><b>Group meeting on June 1, 2019.</b></font></figcaption>
+</figure>
+
+<figure>                                                                        
 <img src="/assets/group_meeting_Dec25_2018.jpeg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 25, 2018.</b></font></figcaption>
 </figure>
