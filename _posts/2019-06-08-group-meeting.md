@@ -30,6 +30,6 @@ by T. Akutsu et al. [[arXiv:1811.08079](https://arxiv.org/abs/1811.08079)]
 
 ---
 
-## R
+## Rui Xu
 
 #### Updates on project
