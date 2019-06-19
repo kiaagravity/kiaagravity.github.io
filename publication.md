@@ -12,13 +12,6 @@ permalink: /publication/
   event horizon general relativistic magnetohydrodynamic code comparison
 project](https://arxiv.org/abs/1904.04923), arXiv:1904.04923
 
-- X. Miao, L. Shao, B.-Q. Ma, [Bounding the mass of graviton in a dynamic regime
-  with binary pulsars](https://arxiv.org/abs/1905.12836), arXiv:1905.12836
-
-- B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, et al.,
-  [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
-arXiv:1903.09221
-
 - K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, et al., [On
   the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
@@ -30,6 +23,13 @@ of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
 - L. Shao, [Degeneracy in studying the supranuclear equation of state and
   modified gravity with neutron stars](https://arxiv.org/abs/1901.07546),
 arXiv:1901.07546
+
+- X. Miao, L. Shao, B.-Q. Ma, [Bounding the mass of graviton in a dynamic regime
+  with binary pulsars](https://arxiv.org/abs/1905.12836), Phys. Rev. D 99 (2019) 123015
+
+- B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, et al.,
+  [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
+  Bulletin of the American Astronomical Society 51 (2019) 251
 
 - F. Zhang, L. Shao, W. Zhu, [Gravitational-wave merging events from the
   dynamics of stellar mass binary black holes around the massive black hole in
