@@ -6,6 +6,8 @@ permalink: /publication/
 
 ### 2019
 
+- J. Zhao, L. Shao, Z. Cao, B.-Q. Ma, [Reduced-order surrogate models for scalar-tensor gravity in the strong field and applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780), arXiv: 1907.00780
+
 - L. Shao, [Pulsar tests of the gravitational Lorentz violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
 - O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, et al., [The
