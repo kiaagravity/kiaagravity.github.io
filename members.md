@@ -80,7 +80,7 @@ evolution of binary black holes <br>
 
 ---
 
-## A Full List of Members
+## Members
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018 — present | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -89,6 +89,16 @@ evolution of binary black holes <br>
 | 2018 — present | **Xueli Miao** | **缪雪丽** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
 | 2018 — present | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2018 — present | **Huimei Wang** | **王惠美** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Zihe An** | **安子訸** | Undergraduate Research | [Mech-PKU](http://web.mech.pku.edu.cn/) |
+| 2019 — present | **Zhengyuan Du** | **杜政远** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2019 — present | **Yichen Wang** | **王弋尘** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+
+<p></p>
+
+## Visitors
+
+| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018 — present | **Zihang Wang** | **王子航** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Zhongfu Zhang** | **张中府** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Dewang Xu** | **徐德望** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
@@ -96,15 +106,15 @@ evolution of binary black holes <br>
 | 2018 — present | **Fan Hu** | **胡帆** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Wenxiu Li** | **李文秀** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2019 — present | **Xuxiang Li** | **黎旭翔** | Visiting PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
-| 2018 — present | **Huimei Wang** | **王惠美** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
-| 2019 — present | **Zihe An** | **安子訸** | Undergraduate Research | [Mech-PKU](http://web.mech.pku.edu.cn/) |
-| 2019 — present | **Zhengyuan Du** | **杜政远** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2019 — present | **Yichen Wang** | **王弋尘** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2019 — present | **Xiaonan Liu** | **刘晓楠** | Visiting PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
 | 2018 — present | **Yacheng Kang** | **康亚城** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Xiaojing Lin** | **林小靖** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2019 — present | **Zhengrong Li** | **李政融** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2019 — present | **Tongxuan Zhang** | **张通烜** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |
 | 2019 — present | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+| 2019 — present | **Zongxu Yan** | **燕宗喣** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 
 <p></p>
 
