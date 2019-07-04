@@ -53,7 +53,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Miao_Xueli.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/MiaoXueli.jpeg" title="Profile Picture" class="profile">
 <big><b>Xueli Miao (缪雪丽)</b></big><br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
   Peking University</i><br>
