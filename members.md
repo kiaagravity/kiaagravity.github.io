@@ -110,7 +110,6 @@ evolution of binary black holes <br>
 | 2018 — present | **Yacheng Kang** | **康亚城** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — present | **Xiaojing Lin** | **林小靖** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2019 — present | **Zhengrong Li** | **李政融** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
-| 2019 — present | **Tongxuan Zhang** | **张通烜** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |
 | 2019 — present | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2019 — present | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2019 — present | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
@@ -125,3 +124,8 @@ evolution of binary black holes <br>
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018 — 2019 | **Wenlong Li** | **李汶隆** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
 | 2018 — 2019 | **Zhongpeng Sun** | **孙忠鹏** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/index/home.htm) |
+
+## Former Visitors
+
+| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
+| 2019 — 2019 | **Tongxuan Zhang** | **张通烜** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |

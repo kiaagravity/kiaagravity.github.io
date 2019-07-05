@@ -26,6 +26,8 @@ of radio waves](https://arxiv.org/abs/1902.02695), arXiv:1902.02695
   modified gravity with neutron stars](https://arxiv.org/abs/1901.07546),
 arXiv:1901.07546
 
+- L. Shao, [Testing fifth forces from the Galactic dark matter](https://arxiv.org/abs/1907.02232), Proceedings 17 (2019) 3
+
 - X. Miao, L. Shao, B.-Q. Ma, [Bounding the mass of graviton in a dynamic regime
   with binary pulsars](https://arxiv.org/abs/1905.12836), Phys. Rev. D 99 (2019) 123015
 
