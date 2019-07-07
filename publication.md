@@ -31,6 +31,10 @@ arXiv:1901.07546
 - X. Miao, L. Shao, B.-Q. Ma, [Bounding the mass of graviton in a dynamic regime
   with binary pulsars](https://arxiv.org/abs/1905.12836), Phys. Rev. D 99 (2019) 123015
 
+- G.C. Bower, et al., [Fundamental physics with Galactic center
+  pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B), Bulletin of the
+American Astronomical Society 51 (2019) 438
+
 - B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, et al.,
   [Extreme gravity and fundamental physics](https://arxiv.org/abs/1903.09221),
   Bulletin of the American Astronomical Society 51 (2019) 251
