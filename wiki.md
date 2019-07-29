@@ -59,22 +59,6 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 ---
 
-#### Upcoming Speakers
-
-| **ESTIMATED DATE**  | **PAPER PRESENTATION** | **LITERATURE READING** |
-| | Rui Xu | Jiangwei Xu |
-| | Junjie Zhao | Fan Hu |
-| | Xueli Miao | Xuxiang Li |
-| | Yong Gao | Rui Xu |
-| | Chang Liu | Junjie Zhao |
-| | -- | Xueli Miao |
-| | -- | Yong Gao |
-| | -- | Chang Liu |
-
-<p></p>
-
----
-
 ## Useful Tools
 
 For new members in the group, it is highly advisable to learn the following basic tools. They will surely benefit the rest of your scientific life.
