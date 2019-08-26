@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ## Group Meeting
 
-**Organiser**: Xueli Miao (缪雪丽)
+**Chair**: Xueli Miao (缪雪丽)
 
 Group meeting provides a friendly environment to interact with group
 members or visiting scholars.  It also brings the opportunity to broaden views
@@ -63,7 +63,7 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 ## Discussion on Research Topics
 
-**Organiser**: Rui Xu (徐睿)
+**Chair**: Dr. Rui Xu (徐睿 博士)
 
 We have weekly discussion on research topics every **Wednesday 14:00—16:00** in the **2nd meeting room at KIAA**. 
 The attendees are limited to graduates/postdocs who work on research
