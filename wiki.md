@@ -22,7 +22,9 @@ tr:nth-child(odd) {
 }
 </style>
 
-## About Group Meetings
+## Group Meeting
+
+**Organiser**: Xueli Miao (缪雪丽)
 
 Group meeting provides a friendly environment to interact with group
 members or visiting scholars.  It also brings the opportunity to broaden views
@@ -54,6 +56,18 @@ collaborations via inspiring discussions.
 
 We have a Journal Club **Gravitational Astrophysics** on
 [benty-fields](https://benty-fields.com/). Everyone is free to join.
+
+<p></p>
+
+---
+
+## Discussion on Research Topics
+
+**Organiser**: Rui Xu (徐睿)
+
+We have weekly discussion on research topics every **Wednesday 14:00—16:00** in the **2nd meeting room at KIAA**. 
+The attendees are limited to graduates/postdocs who work on research
+projects in the group. Speakers are **NOT** allowed to use slides. Blackboard only!
 
 <p></p>
 
