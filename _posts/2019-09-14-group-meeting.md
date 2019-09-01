@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Group Meeting 14/09/2019"
-date:   2019-05-25
+date:   2019-09-14
 author: Xueli Miao
 categories: activities
 ---
