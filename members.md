@@ -125,6 +125,8 @@ evolution of binary black holes <br>
 | 2019 — present | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Zongxu Yan** | **燕宗喣** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019 — present | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019 — present | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <!--
 

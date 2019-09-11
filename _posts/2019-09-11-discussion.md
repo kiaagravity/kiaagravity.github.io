@@ -15,4 +15,4 @@ Rui, Chang, Yong, Junjie, Xueli, Lijing
 
 ### Agenda
 
-- Rui: hairy BHs
+- Rui: SSS solution to a minimally coupled scalar field
