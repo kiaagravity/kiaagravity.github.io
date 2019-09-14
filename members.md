@@ -97,14 +97,6 @@ evolution of binary black holes <br>
 
 <p></p>
 
-## Former Members
-
-| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2018 — 2019 | **Wenlong Li** | **李汶隆** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2018 — 2019 | **Zhongpeng Sun** | **孙忠鹏** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-
-<p></p>
-
 ---
 
 ## Visitors
@@ -121,6 +113,17 @@ evolution of binary black holes <br>
 | 2019 — present | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+
+<p></p>
+
+---
+
+## Former Members
+
+| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
+| 2018 — 2019 | **Wenlong Li** | **李汶隆** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2018 — 2019 | **Zhongpeng Sun** | **孙忠鹏** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+
 
 <!--
 
