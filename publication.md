@@ -23,6 +23,9 @@ violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
   the properties of the massive binary black hole merger
 GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
+- A. Weltman, et al., [Fundamental physics with the Square
+Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
 - J. Zhao, L. Shao, Z. Cao, B.-Q. Ma, [Reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary
 pulsars and GW170817](https://arxiv.org/abs/1907.00780), 
@@ -32,6 +35,8 @@ pulsars and GW170817](https://arxiv.org/abs/1907.00780),
   [Constraints on millicharged dark matter and axion-like particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), 
 *Phys. Rev. D* (accepted), arXiv:1902.02695
+
+- 邵立晶, [GW170817: 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48 (2019) 567
 
 - O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, et al., [The
   event horizon general relativistic magnetohydrodynamic code comparison
@@ -98,9 +103,6 @@ pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99 (2019) 084017
 - 邵立晶 [编译],
   [一“波”发现](http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml), 《物理》
 47 (2018) 734
-
-- A. Weltman, et al., [Fundamental physics with the Square
-Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
 - L. Shao, Q.G. Bailey, [Testing velocity-dependent CPT-violating gravitational
   forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D*
