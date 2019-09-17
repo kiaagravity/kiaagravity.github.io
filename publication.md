@@ -32,9 +32,9 @@ pulsars and GW170817](https://arxiv.org/abs/1907.00780),
 *Phys. Rev. D* (accepted), arXiv: 1907.00780
 
 - A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, L. Shao, W. Yan,
-  [Constraints on millicharged dark matter and axion-like particles from timing
+  [Constraints on millicharged dark matter and axionlike particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), 
-*Phys. Rev. D* (accepted), arXiv:1902.02695
+*Phys. Rev. D* 100 (2019) 063515
 
 - 邵立晶, [GW170817: 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48 (2019) 567
 
