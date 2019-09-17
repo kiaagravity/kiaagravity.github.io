@@ -15,4 +15,4 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 
 ### Agenda
 
-- Chang: space-based GW detectors II (multi-frequency signals)
+- Chang: space-based GW detectors II (time-varying frequency signals)
