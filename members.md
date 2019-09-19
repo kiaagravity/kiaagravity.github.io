@@ -121,9 +121,15 @@ evolution of binary black holes <br>
 
 ## Former Members
 
-| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2018 — 2019 | **Wenlong Li** | **李汶隆** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2018 — 2019 | **Zhongpeng Sun** | **孙忠鹏** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+- 2018—2019, **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking
+  University
+  - Bachelor Thesis: <small>*Astrophysics from Space-based Gravitational Wave Detectors*
+    (Peking University 2019)
+
+- 2018—2019, **Zhongpeng Sun** (**孙忠鹏**), Department of Astronomy, Peking
+  University
+  - Bachelor Thesis: <small>*Constraining Dark Matter Properties with Neutron Stars*
+    (Peking University 2019)
 
 
 <!--
