@@ -94,6 +94,7 @@ evolution of binary black holes <br>
 | 2019 — present | **Zhengyuan Du** | **杜政远** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019 — present | **Yichen Wang** | **王弋尘** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019 — present | **Heming Xia** | **夏鹤明** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019 — present | **Yu Tao** | **陶昱** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
