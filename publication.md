@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2019
 
+- R. Xu, J. Zhao, L. Shao, [Neutron Star Structure in the Minimal Gravitational 
+Standard-Model Extension and the Implication to 
+Continuous Gravitational Waves](https://arxiv.org/abs/1909.10372), arXiv:1909.10372
+
 - I. Dvorkin, et al., [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 
@@ -16,6 +20,11 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
+- J. Zhao, L. Shao, Z. Cao, B.-Q. Ma, [Reduced-order surrogate models 
+for scalar-tensor gravity in the strong field regime 
+and applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780), 
+*Phys. Rev. D* 100 (2019) 064034
+
 - L. Shao, [Pulsar tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
@@ -25,11 +34,6 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 
 - A. Weltman, et al., [Fundamental physics with the Square
 Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
-
-- J. Zhao, L. Shao, Z. Cao, B.-Q. Ma, [Reduced-order surrogate models for
-scalar-tensor gravity in the strong field and applications to binary
-pulsars and GW170817](https://arxiv.org/abs/1907.00780), 
-*Phys. Rev. D* (accepted), arXiv: 1907.00780
 
 - A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, L. Shao, W. Yan,
   [Constraints on millicharged dark matter and axionlike particles from timing
