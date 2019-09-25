@@ -21,6 +21,7 @@ by Gregory Desvignes et al. [[arXiv:1909.06212](https://arxiv.org/abs/1909.06212
 #### Paper presentation: Relativistic Spin Precession in the Double Pulsar
 
 by Rene P. Breton  et al. [[arXiv:0807.2644](https://arxiv.org/abs/0807.2644)]
+
 ---
 
 ## Chang Liu
