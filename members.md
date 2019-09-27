@@ -123,13 +123,13 @@ evolution of binary black holes <br>
 
 - 2018—2019, **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking
   University
-  - Bachelor Thesis: <small>*Astrophysics from Space-based Gravitational Wave Detectors*
-    (Peking University 2019)
+  - <small><b>Bachelor Thesis:</b> *Astrophysics from Space-based Gravitational
+    Wave Detectors* (Peking University 2019)
 
 - 2018—2019, **Zhongpeng Sun** (**孙忠鹏**), Department of Astronomy, Peking
   University
-  - Bachelor Thesis: <small>*Constraining Dark Matter Properties with Neutron Stars*
-    (Peking University 2019)
+  - <small><b>Bachelor Thesis:</b> *Constraining Dark Matter Properties with
+    Neutron Stars* (Peking University 2019)
 
 
 <!--
