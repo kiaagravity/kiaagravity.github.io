@@ -18,5 +18,5 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 - Yong: Calculation of the tidal deformability in General Relativity
 
 References:
-Tanja Hinderer, * Tidal Love numbers of neutron stars*. [[arXiv:0711.2420
+Tanja Hinderer, *Tidal Love numbers of neutron stars*. [[arXiv:0711.2420
 ](https://arxiv.org/abs/0711.2420)]
