@@ -22,5 +22,5 @@ by B. P. Abbott et al. [[arXiv:1304.0670](https://arxiv.org/abs/1304.0670)]
 
 ## Xueli Miao
 
-#### Literature reading: A planetary system around the millisecond pulsar PSR1257 + 12 
+#### Literature reading: A planetary system around the millisecond pulsar PSR1257+12 
 by A. Wolszczan et al. [[nature](https://www.nature.com/articles/355145a0.pdf)]
