@@ -14,7 +14,7 @@ categories: activities
 
 by K. Grover et al. [[arXiv:1310.7454](https://arxiv.org/abs/1310.7454)]
 
-#### Paper presentation: Prospects for Observing and Localizing Gravitational-Wave Transients with Advanced LIGO, Advanced Virgo and KAGRA
+#### Paper presentation: Prospects for Observing and Localizing Gravitational-Wave Transients with Advanced LIGO, Advanced Virgo and KAGRA [3.2]
 
 by B. P. Abbott et al. [[arXiv:1304.0670](https://arxiv.org/abs/1304.0670)]
 
