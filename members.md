@@ -107,6 +107,7 @@ evolution of binary black holes <br>
 | 2018 — present | **Zhongfu Zhang** | **张中府** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Jiayin Shen** | **申佳音** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Shanshan Yin** | **尹珊珊** | Visiting PhD Student | [PPNP-PKU](http://ppnp.pku.edu.cn/) |
+| 2019 — present | **Jie Lin** | **林杰** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018 — present | **Yacheng Kang** | **康亚城** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018 — present | **Xiaojing Lin** | **林小靖** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
