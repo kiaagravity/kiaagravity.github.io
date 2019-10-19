@@ -2,14 +2,14 @@
 layout: post
 title:  "Discussion on Research Topics 16/10/2019"
 date:   2019-10-16
-author: Lijing Shao
+author: Rui Xu
 categories: activities
 ---
 
 
 ### Attendees
 
-Rui, Lijing, Chang, Yong, Junjie, Xueli
+Rui, Lijing, Chang, Yong, Junjie, Xueli, Enping
 
 ---
 
