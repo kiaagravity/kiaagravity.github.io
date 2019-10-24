@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Discussion on Research Topics 23/10/2019"
-date:   2019-10-23
+title:  "Discussion on Research Topics 24/10/2019"
+date:   2019-10-24
 author: Rui Xu
 categories: activities
 ---

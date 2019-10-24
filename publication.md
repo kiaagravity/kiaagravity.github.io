@@ -36,6 +36,9 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 - A. Weltman, et al., [Fundamental physics with the Square
 Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
+- R. Xu, [Modifications to Plane Gravitational Waves from Minimal Lorentz
+  Violation](https://arxiv.org/abs/1910.09762), Symmetry 11 (2019) 1318
+
 - B. Sun, Z. Cao, L. Shao, [Constraints on fifth forces through perihelion
   precession of planets](https://arxiv.org/abs/1910.05666), Phys. Rev. D 100
 (2019) 084030
