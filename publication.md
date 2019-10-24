@@ -6,6 +6,11 @@ permalink: /publication/
 
 ### 2019
 
+
+- X. Liu, Z. Cao, L. Shao, [Validating the effective-one-body
+  numerical-relativity waveform models for spin-aligned binary black holes
+along eccentric orbits](https://arxiv.org/abs/1910.00784), arXiv:1910.00784
+
 - R. Xu, J. Zhao, L. Shao, [Neutron Star Structure in the Minimal Gravitational 
 Standard-Model Extension and the Implication to 
 Continuous Gravitational Waves](https://arxiv.org/abs/1909.10372), arXiv:1909.10372
@@ -20,10 +25,6 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
-- J. Zhao, L. Shao, Z. Cao, B.-Q. Ma, [Reduced-order surrogate models 
-for scalar-tensor gravity in the strong field regime 
-and applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780), 
-*Phys. Rev. D* 100 (2019) 064034
 
 - L. Shao, [Pulsar tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
@@ -35,12 +36,27 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 - A. Weltman, et al., [Fundamental physics with the Square
 Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
+- B. Sun, Z. Cao, L. Shao, [Constraints on fifth forces through perihelion
+  precession of planets](https://arxiv.org/abs/1910.05666), Phys. Rev. D 100
+(2019) 084030
+
+- J. Zhao, L. Shao, Z. Cao, B.-Q. Ma, [Reduced-order surrogate models 
+for scalar-tensor gravity in the strong field regime 
+and applications to binary pulsars and GW170817](https://arxiv.org/abs/1907.00780), 
+*Phys. Rev. D* 100 (2019) 064034
+
+- 高勇, 邵立晶, 徐仁新,
+  [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
+《中国国家天文》9 (2019) 54
+
 - A. Caputo, L. Sberna, M. Frias, D. Blas, P. Pani, L. Shao, W. Yan,
   [Constraints on millicharged dark matter and axionlike particles from timing
 of radio waves](https://arxiv.org/abs/1902.02695), 
 *Phys. Rev. D* 100 (2019) 063515
 
-- 邵立晶, [GW170817: 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), 《物理》 48 (2019) 567
+- 邵立晶, [GW170817:
+  爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml),
+《物理》 48 (2019) 567
 
 - O. Porth, K. Chatterjee, R. Narayan, C.F. Gammie, Y. Mizuno, et al., [The
   event horizon general relativistic magnetohydrodynamic code comparison

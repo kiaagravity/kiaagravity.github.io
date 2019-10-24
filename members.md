@@ -111,7 +111,6 @@ evolution of binary black holes <br>
 | 2018 — present | **Yacheng Kang** | **康亚城** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018 — present | **Xiaojing Lin** | **林小靖** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019 — present | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — present | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -146,11 +145,12 @@ evolution of binary black holes <br>
 | 2018 — 2019 | **Fan Hu** | **胡帆** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018 — 2019 | **Wenxiu Li** | **李文秀** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — 2019 | **Xiaonan Liu** | **刘晓楠** | Visiting PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2019 — 2019 | **Xuxiang Li** | **黎旭翔** | Visiting PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
 | 2019 — 2019 | **Zhengrong Li** | **李政融** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — 2019 | **Zongxu Yan** | **燕宗喣** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — 2019 | **Tongxuan Zhang** | **张通烜** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |
-| 2019 — 2019 | **Xuxiang Li** | **黎旭翔** | Visiting PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
-| 2019 — present | **Minghao Guo** | **郭明浩** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| 2019 — 2019 | **Minghao Guo** | **郭明浩** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| 2019 — 2019 | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 -->
 
