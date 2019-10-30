@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Prof. Kohei Inayoshi's colloquium talk 31/10/2019"
+date:   2019-10-31
+author: Lijing Shao
+categories: activities
+---
+
+## Kohei Inayoshi (Peking University)
+
+#### First binary black hole coalescences
+
+The direct detections of gravitational waves (GWs) by Advanced LIGO/Virgo
+have opened a new era in astronomy. The discovery of an unexpected
+population of massive binary BHs (BBHs) constraints their formation pathway
+and requires massive star formation in low-metallicity environments. In
+this talk, I discuss low-metallicity massive star formation in the early
+universe, so called Population III stars (PopIII stars), and binary
+evolution of massive PopIII stars into colliding BBHs. Intriguingly, PopIII
+binary model can explain the natures of coalescing BBHs observed by
+LIGO/Virgo, in terms of the merger event rate and BH mass distribution. A
+majority of the first binary BHs form and merge in the early universe. We
+have suggested that such individually unresolved GWs develop a GW
+background, which would be detectable by O5 LIGO/Virgo observation. More
+interestingly, the BH population producing the GW background will also be
+probed by the observations of the cosmic microwave background, on which
+stellar activities of the first stars are directly imprinted.
+[[link](http://kiaa.pku.edu.cn/colloquia/first-binary-black-hole-coalescences)]
+
+**Place**: KIAA-PKU Auditorium
+
+**Time**: Thursday, October 31, 2019 - 4:00pm to 5:00pm
