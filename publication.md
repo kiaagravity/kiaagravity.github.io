@@ -36,6 +36,9 @@ GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
 - A. Weltman, et al., [Fundamental physics with the Square
 Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
+- C. Goddi, et al., [First M87 Event Horizon Telescope Results and the Role of
+  ALMA](https://arxiv.org/abs/1910.10193), Messenger 177 (2019) 25
+
 - R. Xu, [Modifications to Plane Gravitational Waves from Minimal Lorentz
   Violation](https://arxiv.org/abs/1910.09762), Symmetry 11 (2019) 1318
 
