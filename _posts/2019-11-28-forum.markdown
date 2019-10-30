@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "KIAA Forum: The Future of Gravitational Wave Astrophysics 28/11/2019"
+date:   2019-11-28
+author: Lijing Shao
+categories: activities
+---
+
+## KIAA Forum 2019: The Future of Gravitational Wave Astrophysics [[link](http://kiaa.pku.edu.cn/astroforum19/)]
+
+#### 28-29 November, 2019
+
+The direct detection of gravitational waves in 2015 opened a new window for
+us astronomers to explore the Universe. Since then, astronomy entered a new
+era. Through this window, we have now detected stellar-mass binary black
+holes, discovered a population of very massive black holes that had never
+been seen before, and we testified the validity of general relativity in a
+regime of extremely strong gravity. By joining the observations of
+electromagnetic and gravitational waves, we have also established the
+correlation between neutron star mergers and short gamma-ray bursts,
+constrained the equation of state of neutron stars to an unprecedentedly
+high accuracy, and measured in a completely independent way the Hubble
+constant of the local universe. In the next few years, along with the
+steady upgrade of the ground-based detectors and continuous operation of
+the pulsar timing arrays, new discoveries will certainly come and,
+moreover, new technologies will become ripe.
+
+The rapid development in gravitational wave observation is creating a
+paradigm shift in astrophysics. In this time of imminent breakthrough, the
+Kavli Institute for Astronomy and Astrophysics at Peking University will
+host the forum “The Future of Gravitational Wave Astrophysics” during 28-29
+November 2019. This forum will provide a platform for researchers inside
+China and abroad to exchange ideas and collaborate in the following fields:
+
+1. Gravitational wave experiments
+2. Electromagnetic counterparts
+3. Astrophysics
+4. Fundamental physics and cosmology
+
+The forum will feature the following open questions: 
+
+1. What are the most important/difficult questions/problems in the gravitational-wave era?
+2. How would the relevant questions/problems be addressed by gravitational-wave and electromagnetic-wave observations in the next two years, five years, ten years, twenty years?
+3. Are there science/technology cases which are underappreciated currently but have great potential to grow into one of the main themes of the future gravitational-wave research?
+4. What are the prospects for promoting interdisciplinary sciences?
+
+**Place**: Kavli Institute for Astronomy and Astrophysics, Peking University
