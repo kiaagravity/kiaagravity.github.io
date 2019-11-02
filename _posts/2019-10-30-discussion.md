@@ -27,3 +27,9 @@ Massimo Tinto and Sanjeev V. Dhurandhar, *Time-Delay Interferometry*. [[Living R
 
 Thomas A. Moore and Ronald W. Hellings, *The Angular Resolution of Space-Based Gravitational Wave Detectors*. [[arXiv:gr-qc/9910116
 ](https://arxiv.org/abs/gr-qc/9910116)]
+
+Louis J. Rubbo, Neil J. Cornish, Olivier Poujade, *Forward Modeling of Space-borne Gravitational Wave Detectors*. [[arXiv:gr-qc/0311069](https://arxiv.org/abs/gr-qc/0311069)]
+
+Thomas A. Prince, Massimo Tinto, Shane L. Larson, and J. W. Armstrong, *LISA optimal sensitivity*. [[PRD 66, 122002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.66.122002)]
+
+Wen-Hong Ruan, Chang Liu, Zong-Kuan Guo, Yue-Liang Wu, Rong-Gen Cai, *The LISA-Taiji network: precision localization of massive black hole binaries*. [[arXiv:1909.07104](https://arxiv.org/abs/1909.07104)]
