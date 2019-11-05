@@ -24,7 +24,7 @@ by Sascha Husa et al. [[arXiv:1508.07250](https://arxiv.org/abs/1508.07250)]
 
 #### Paper presentation: Frequency-domain gravitational waves from non-precessing black-hole binaries. II. A phenomenological model for the advanced detector era
 
-by Sascha Husa et al. [[arXiv:1508.07253](https://arxiv.org/abs/1508.07253)]
+by Sebastian Khan et al. [[arXiv:1508.07253](https://arxiv.org/abs/1508.07253)]
 
 ---
 
