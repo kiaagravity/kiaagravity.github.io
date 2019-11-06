@@ -30,6 +30,6 @@ by Sebastian Khan et al. [[arXiv:1508.07253](https://arxiv.org/abs/1508.07253)]
 
 ## Yichen Wang
 
-#### updates on undergraduate research: Updates on undergraduate research: constraining dark matter by neutron stars
+#### Updates on undergraduate research: constraining dark matter by neutron stars
 
 reference: Joseph Bramante et al. [[arXiv:1405.1031](https://arxiv.org/abs/1405.1031)]; Joseph Bramante et al. [[arXiv:1706.00001](https://arxiv.org/abs/1706.00001)]
