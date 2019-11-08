@@ -80,6 +80,15 @@ evolution of binary black holes <br>
 
 ---
 
+<img src="{{ site.baseurl }}/assets/Shen_Jiayin.jpeg" title="Profile Picture" class="profile">
+<big><b>Jiayin Shen (申佳音)</b></big><br>
+<i><b>PhD Student (2019-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: 1901110217@pku.edu.cn <br>
+<b>Research Interests</b>: gravitational waves, modified gauge gravity with Lorentz violation, the accelerated universe without dark energy <br>
+
+---
+
 ## Members
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
