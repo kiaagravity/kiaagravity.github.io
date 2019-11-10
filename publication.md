@@ -29,12 +29,12 @@ range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 - L. Shao, [Pulsar tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
-- K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, et al., [On
-  the properties of the massive binary black hole merger
-GW170729](https://arxiv.org/abs/1903.06742), arXiv:1903.06742
-
 - A. Weltman, et al., [Fundamental physics with the Square
 Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
+- K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, et al., [On
+  the properties of the massive binary black hole merger
+GW170729](https://arxiv.org/abs/1903.06742), Phys. Rev. D 100 (2019) 104015
 
 - C. Goddi, et al., [First M87 Event Horizon Telescope Results and the Role of
   ALMA](https://arxiv.org/abs/1910.10193), Messenger 177 (2019) 25
