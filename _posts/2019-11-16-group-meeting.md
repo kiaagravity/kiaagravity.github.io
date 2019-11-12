@@ -31,5 +31,5 @@ reference: Emanuele Berti et al. [[arXiv:0905.2975](https://arxiv.org/abs/0905.2
 
 #### Gravity Probe B: Final Results of a Space Experiment to Test General Relativity
 
-reference: Emanuele Berti et al. [[arXiv:1105.3456](https://arxiv.org/abs/1105.3456)]
+reference: C. W. F. Everitt et al. [[arXiv:1105.3456](https://arxiv.org/abs/1105.3456)]
 
