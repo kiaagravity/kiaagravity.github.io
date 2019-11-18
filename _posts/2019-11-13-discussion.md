@@ -16,7 +16,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 ### Agenda
 
 - Yong: Anisotropic spheres in general relativity
-- Lijing: Progresses on the TianQin project (30 mins)
+- Lijing: review TianQin papers (30 mins)
 
 References:
 
