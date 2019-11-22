@@ -16,6 +16,8 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 ### Agenda
 
 - Chang: Current status of space-borne GW detector network II
+- Lijing: Neutron stars' free precession
+- Junjie: testing dipole radiation with BNSs
 
 ### References
 
