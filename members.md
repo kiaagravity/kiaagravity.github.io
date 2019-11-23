@@ -125,8 +125,6 @@ evolution of binary black holes <br>
 | 2019—now | **Minghao Guo** | **郭明浩** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Fajie Wang** | **王法杰** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2019—now | **Siyi Zhao** | **赵思逸** | Undergraduate | [PHY-THU](http://www.phys.tsinghua.edu.cn/) |
 
 <p></p>
 
@@ -163,6 +161,8 @@ evolution of binary black holes <br>
 | 2019 — 2019 | **Zhengrong Li** | **李政融** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — 2019 | **Zongxu Yan** | **燕宗喣** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — 2019 | **Tongxuan Zhang** | **张通烜** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |
+| 2019 — 2019 | **Fajie Wang** | **王法杰** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2019 — 2019 | **Siyi Zhao** | **赵思逸** | Undergraduate | [PHY-THU](http://www.phys.tsinghua.edu.cn/) |
 
 -->
 
