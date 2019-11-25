@@ -9,13 +9,13 @@ categories: activities
 
 ### Attendees
 
-Rui, Lijing, Chang, Yong, Junjie, Xueli
+Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 
 ---
 
 ### Agenda
 
-- Rui: Current status of space-borne GW detector network
+- Rui: Hairy Kerr black holes
 
 ### References
 
