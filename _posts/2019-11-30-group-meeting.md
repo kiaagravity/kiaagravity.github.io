@@ -21,4 +21,4 @@ by Guilherme Raposo et al. [[arXiv:1811.07917](https://arxiv.org/abs/1811.07917)
 
 #### Literature reading: How would GW150914 look with future GW detector networks?
 
-reference: Sebastian M. Gaebel, John Veitch [[arXiv:1703.08988](https://arxiv.org/abs/1703.08988)]
+by Sebastian M. Gaebel, John Veitch [[arXiv:1703.08988](https://arxiv.org/abs/1703.08988)]
