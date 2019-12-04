@@ -65,7 +65,7 @@ We have a Journal Club **Gravitational Astrophysics** on
 
 **Chair**: Dr. Rui Xu (徐睿 博士)
 
-We have weekly discussion on research topics every **Wednesday 14:00—16:00** in the **2nd meeting room at KIAA**. 
+We have weekly discussion on research topics every **Wednesday 14:00—17:00** in the **2nd meeting room at KIAA**. 
 The attendees are limited to graduates/postdocs who work on research
 projects in the group. Speakers are **NOT** allowed to use slides. Blackboard only!
 
