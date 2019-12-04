@@ -16,3 +16,4 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 ### Agenda
 
 - Junjie: research progress
+- Rui: Hamilton-Jacobi equations for scalar fields around BHs
