@@ -44,5 +44,5 @@ Problems](http://www.claymath.org/millennium-problems), worthing one million US
 dollars each.
 
 <img src="{{ site.baseurl }}/assets/pulsar.jpeg" title="pulsar" class="profile">
-<p style="text-align:center"><FONT SIZE=2>(David J. Champion, MPIfR/Bonn)</FONT></p>
+<p style="text-align:center"<font size="2">>(David J. Champion, MPIfR/Bonn)</font></p>
 
