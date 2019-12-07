@@ -37,7 +37,12 @@ phenomena, provide a powerful playground to fundamental physics.
 
 ### Pulsar Timing
 
-Pulsar timing is unbelievably accurate in measuring tiny effects caused by the distorsion of spacetime, while it also probes deep into interior materials of neutron stars, that is listed among the seven [Millennium Problems](http://www.claymath.org/millennium-problems), worthing one million US dollars each.
+Pulsar timing is unbelievably accurate in measuring tiny effects caused by the
+distorsion of spacetime, while it also probes deep into interior materials of
+neutron stars, that is listed among the seven [Millennium
+Problems](http://www.claymath.org/millennium-problems), worthing one million US
+dollars each.
 
 <img src="{{ site.baseurl }}/assets/pulsar.jpeg" title="pulsar" class="profile">
-(David J. Champion, MPIfR/Bonn)
+<p style="text-align:center"><FONT SIZE=2>(David J. Champion, MPIfR/Bonn)</FONT></p>
+
