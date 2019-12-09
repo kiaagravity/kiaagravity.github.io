@@ -16,7 +16,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 ### Agenda
 
 - Junjie: research progress
-- Rui: Comparing the Hamilton-Jacobi equations of a test particle and the Klein-Gordon equation of a scalar field around BHs
+- Rui: Comparing the Hamilton-Jacobi equation of a test particle and the Klein-Gordon equation of a scalar field around BHs
 
 ### Reference
 
