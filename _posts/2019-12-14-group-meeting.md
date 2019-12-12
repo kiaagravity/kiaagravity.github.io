@@ -35,6 +35,6 @@ by Zhi Xiao [[arXiv:1906.00146](https://arxiv.org/abs/1906.00146)]
 
 ## Lijing Shao
 
-#### Paper presentation: Millicharged Dark Matter and Axionlike Particles
+#### Paper presentation: Constraints on millicharged dark matter and axion-like particles from timing of radio waves
 
 by Andrea Caputo et al. [[arXiv:1902.02695](https://arxiv.org/abs/1902.02695)]
