@@ -115,7 +115,6 @@ evolution of binary black holes <br>
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Zihang Wang** | **王子航** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Zhongfu Zhang** | **张中府** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Shanshan Yin** | **尹珊珊** | Visiting PhD Student | [PPNP-PKU](http://ppnp.pku.edu.cn/) |
 | 2019—now | **Jie Lin** | **林杰** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Yacheng Kang** | **康亚城** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -124,6 +123,7 @@ evolution of binary black holes <br>
 | 2019—now | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Minghao Guo** | **郭明浩** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
@@ -154,6 +154,7 @@ evolution of binary black holes <br>
 | 2018 — 2019 | **Wenxiu Li** | **李文秀** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019 — 2019 | **Xiaonan Liu** | **刘晓楠** | Visiting PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
 | 2019 — 2019 | **Xuxiang Li** | **黎旭翔** | Visiting PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2019 — 2019 | **Shanshan Yin** | **尹珊珊** | Visiting PhD Student | [PPNP-PKU](http://ppnp.pku.edu.cn/) |
 
 
 | 2018 — 2019 | **Xiaojing Lin** | **林小靖** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -162,7 +163,6 @@ evolution of binary black holes <br>
 | 2019 — 2019 | **Tongxuan Zhang** | **张通烜** | Undergraduate | [BIO-PKU](http://www.bio.pku.edu.cn/) |
 | 2019 — 2019 | **Fajie Wang** | **王法杰** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019 — 2019 | **Siyi Zhao** | **赵思逸** | Undergraduate | [PHY-THU](http://www.phys.tsinghua.edu.cn/) |
-| 2019 — 2019 | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 -->
 
