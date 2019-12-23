@@ -4,8 +4,7 @@ title: Publication
 permalink: /publication/
 ---
 
-### 2019
-
+### 2020
 
 - X. Liu, Z. Cao, L. Shao, [Validating the effective-one-body
   numerical-relativity waveform models for spin-aligned binary black holes
@@ -14,6 +13,15 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784), arXiv:1910.00784
 - R. Xu, J. Zhao, L. Shao, [Neutron Star Structure in the Minimal Gravitational 
 Standard-Model Extension and the Implication to 
 Continuous Gravitational Waves](https://arxiv.org/abs/1909.10372), arXiv:1909.10372
+
+- L. Shao, [Pulsar tests of the gravitational Lorentz
+violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
+
+- A. Weltman, et al., [Fundamental physics with the Square
+Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+
+
+### 2019
 
 - I. Dvorkin, et al., [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
@@ -24,13 +32,6 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 - M. Arca Sedda, C.P.L. Berry, K. Jani, et al., [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
-
-
-- L. Shao, [Pulsar tests of the gravitational Lorentz
-violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
-
-- A. Weltman, et al., [Fundamental physics with the Square
-Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
 
 - J. Liu, et al., A wide star−black-hole binary system from radial-velocity measurements, *Nature* 575 (2019) 618
 
