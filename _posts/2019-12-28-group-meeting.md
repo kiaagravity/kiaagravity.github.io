@@ -19,7 +19,7 @@ by Kip S. Thorne [[Reviews of Modern Physics](https://journals.aps.org/rmp/abstr
 
 ## Zihang Wang
 
-#### Thesis proposal: Axion as a dark matter candidate
+#### Doctoral Dissertation Proposal: Axion as a dark matter candidate
 
 Reference: David J. E. Marsh [[arXiv:1510.07633](https://arxiv.org/abs/1510.07633)]
 
@@ -28,7 +28,7 @@ Reference: David J. E. Marsh [[arXiv:1510.07633](https://arxiv.org/abs/1510.0763
 
 ## Yong Gao
 
-#### Thesis proposal: Probing neutron star structures with gravitational waves
+#### Doctoral Dissertation Proposal: Probing neutron star structures with gravitational waves
 
 Reference: The LIGO Scientific Collaboration, The Virgo Collaboration [[arXiv:1710.05832](https://arxiv.org/abs/1710.05832)]
 
