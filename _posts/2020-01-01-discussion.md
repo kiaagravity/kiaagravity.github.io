@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discussion on Research Topics 01/01/2019"
+title:  "Discussion on Research Topics 01/01/2020"
 date:   2020-01-01
 author: Rui Xu
 categories: activities
