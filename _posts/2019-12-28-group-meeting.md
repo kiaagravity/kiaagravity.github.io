@@ -26,10 +26,3 @@ Reference: David J. E. Marsh [[arXiv:1510.07633](https://arxiv.org/abs/1510.0763
 ---
 
 
-## Yong Gao
-
-#### Doctoral Dissertation Proposal: Probing neutron star structures with gravitational waves
-
-Reference: The LIGO Scientific Collaboration, The Virgo Collaboration [[arXiv:1710.05832](https://arxiv.org/abs/1710.05832)]
-
----
