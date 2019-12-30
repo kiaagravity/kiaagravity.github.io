@@ -14,7 +14,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 ---
 
 ### Agenda
-
+- Round table
 - Rui: Hairy Kerr black holes
 
 ### References
