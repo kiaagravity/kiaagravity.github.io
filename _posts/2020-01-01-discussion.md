@@ -16,6 +16,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 ### Agenda
 
 - Round table
+- Yong: Thesis proposal rehearsal
 - Xueli: Probing dark matter with binary pulsars
 
 ### References
