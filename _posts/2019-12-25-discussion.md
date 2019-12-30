@@ -15,5 +15,6 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 
 ### Agenda
 
+- Round table
 - Junjie: research progress II
 
