@@ -15,6 +15,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 
 ### Agenda
 
+- Round table
 - Rui: Neutron star structure with Lorentz violation and the implication to continuous gravitational waves (20-mins talk)
 - Rui: Search of analytical solution for hairy black holes 
 
