@@ -15,6 +15,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 
 ### Agenda
 
+- Round table
 - Xueli: Constraining dark matter with neutron star observations
 
 ### References
