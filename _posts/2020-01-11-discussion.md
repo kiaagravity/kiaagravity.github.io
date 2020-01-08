@@ -16,6 +16,6 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 ### Agenda
 
 - Round table
-- Chang: TBD
+- Chang: research progress
 - Lijing: GW190425
 
