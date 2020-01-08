@@ -9,7 +9,7 @@ categories: activities
 
 ### Attendees
 
-Rui, Lijing, Chang, Yong, Junjie, Xueli
+Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 
 ---
 
@@ -17,5 +17,5 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli
 
 - Round table
 - Chang: research progress
-- Lijing: GW190425
+- Lijing: GW190425 [link](https://arxiv.org/abs/2001.01761)
 
