@@ -17,5 +17,5 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 
 - Round table
 - Chang: research progress
-- Lijing: GW190425 [link](https://arxiv.org/abs/2001.01761)
+- Lijing: GW190425 [[link](https://arxiv.org/abs/2001.01761)]
 
