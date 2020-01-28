@@ -6,6 +6,9 @@ permalink: /publication/
 
 ### 2020
 
+- E. Barausse, *et al.*, [Prospects for fundamental physics with
+   LISA](https://arxiv.org/abs/2001.09793), arXiv:2001.09793
+
 - X. Liu, Z. Cao, L. Shao, [Validating the effective-one-body
   numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), arXiv:1910.00784
