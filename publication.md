@@ -20,8 +20,9 @@ Continuous Gravitational Waves](https://arxiv.org/abs/1909.10372), arXiv:1909.10
 - L. Shao, [Pulsar tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
-- A. Weltman, et al., [Fundamental physics with the Square
-Kilometre Array](https://arxiv.org/abs/1810.02680), arXiv:1810.02680
+- A. Weltman, *et al.*, [Fundamental physics with the Square
+Kilometre Array](https://arxiv.org/abs/1810.02680), 
+*Publ. Astron. Soc. Aust.* 37 (2020) e002
 
 
 ### 2019
