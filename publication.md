@@ -41,7 +41,8 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
-- J. Liu, et al., A wide star−black-hole binary system from radial-velocity measurements, *Nature* 575 (2019) 618
+- J. Liu, et al., [A wide star−black-hole binary system from radial-velocity
+  measurements](https://arxiv.org/abs/1911.11989), *Nature* 575 (2019) 618
 
 - K. Chatziioannou, R. Cotesta, S. Ghonge, J. Lange, K.K.-Y. Ng, et al., [On
   the properties of the massive binary black hole merger
