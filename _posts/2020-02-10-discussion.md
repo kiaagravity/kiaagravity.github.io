@@ -15,7 +15,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 
 ### Agenda
 
-- Rui: work on BHs with scalar hairs
+- Rui: [Spontaneously Scalarized Kerr Black Holes in Extended Scalar-Tensor–Gauss-Bonnet Gravity](https://arxiv.org/abs/1904.09997)
 - Lijing: [S62 on a 9.9 yr Orbit around
   SgrA*](https://arxiv.org/abs/2002.02341) by Peißker et al.
 - Lijing: [Lense-Thirring frame dragging induced by a fast-rotating white
