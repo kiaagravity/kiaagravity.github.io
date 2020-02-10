@@ -18,3 +18,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 - Yong: [Freely precessing neutron stars: model and observations](https://arxiv.org/abs/astro-ph/0011063)
 - Yong: [Axisymmetric deformations of neutron stars and gravitational-wave astronomy](https://arxiv.org/abs/2002.02555)
 - Lijing: TBA
+
+### Time
+
+09:00 am -- TBD
