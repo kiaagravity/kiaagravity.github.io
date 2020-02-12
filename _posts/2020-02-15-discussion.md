@@ -2,7 +2,7 @@
 layout: post
 title:  "Group Discussion against nCov 15/02/2020"
 date:   2020-02-15
-author: Lijing Shao
+author: Rui Xu
 categories: activities
 ---
 
@@ -18,4 +18,4 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 - Chang:TBA
 
 ### Time
-2:00 pm -- TBD
+2:00 pm -- 4:00 pm
