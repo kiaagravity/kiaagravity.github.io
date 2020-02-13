@@ -24,7 +24,7 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784),
 0. R. Xu, J. Zhao, L. Shao, [Neutron Star Structure in the Minimal Gravitational 
 Standard-Model Extension and the Implication to 
 Continuous Gravitational Waves](https://arxiv.org/abs/1909.10372), 
-*Phys. Lett. B* (accepted), arXiv:1909.10372
+*Phys. Lett. B* 803 (2020) 135283
 
 0. A. Weltman, *et al.*, [Fundamental physics with the Square
 Kilometre Array](https://arxiv.org/abs/1810.02680), 
