@@ -25,6 +25,7 @@ permalink: /member/
 <img src="{{ site.baseurl }}/assets/Shao_Lijing.png" title="Profile Picture" class="profile">
 
 <big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
+<a href="https://orcid.org/0000-0002-1334-8853"><img src="{{ site.baseurl }}/assets/orcid.png" alt="orcid" style="width:25px;height:25px;"></a>
 <i><b>Assistant Professor</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: lshao@pku.edu.cn<br>
