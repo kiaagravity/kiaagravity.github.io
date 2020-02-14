@@ -22,7 +22,7 @@ permalink: /member/
   }
 </style>
 
-<a href="https://orcid.org/0000-0002-1334-8853">
+<a href="https://friendshao.github.io/about/">
 <img src="{{ site.baseurl }}/assets/Shao_Lijing.png" title="Profile Picture" class="profile">
 </a>
 <big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
@@ -104,7 +104,6 @@ evolution of binary black holes <br>
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Huimei Wang** | **王惠美** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Zihe An** | **安子訸** | Undergraduate Research | [Mech-PKU](http://web.mech.pku.edu.cn/) |
-| 2019—now | **Zhengyuan Du** | **杜政远** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019—now | **Yichen Wang** | **王弋尘** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019—now | **Heming Xia** | **夏鹤明** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yu Tao** | **陶昱** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -127,6 +126,7 @@ evolution of binary black holes <br>
 | 2019—now | **Minghao Guo** | **郭明浩** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019—now | **Zhengyuan Du** | **杜政远** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
