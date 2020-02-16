@@ -16,6 +16,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin,
 ### Agenda
 
 - Rui: Numerical code for finding rotating hairy black holes
+- Lijing: [A guide to LIGO-Virgo detector noise and extraction of transient gravitational-wave signals](https://arxiv.org/abs/1908.11170) by LIGO/Virgo
 
 ### Time
 
