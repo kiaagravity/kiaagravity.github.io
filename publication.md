@@ -6,6 +6,9 @@ permalink: /publication/
 
 ### 2020
 
+0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
+   clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
+
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 arXiv:2002.01185
