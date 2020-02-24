@@ -20,9 +20,9 @@ arXiv:2002.01185
 violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
 0. X. Liu, Z. Cao, L. Shao, [Validating the effective-one-body
-  numerical-relativity waveform models for spin-aligned binary black holes
-along eccentric orbits](https://arxiv.org/abs/1910.00784), 
-*Phys. Rev. D* (accepted), arXiv:1910.00784
+   numerical-relativity waveform models for spin-aligned binary black holes
+along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D* 101
+(2020) 044049
 
 0. R. Xu, J. Zhao, L. Shao, [Neutron Star Structure in the Minimal Gravitational 
 Standard-Model Extension and the Implication to 
