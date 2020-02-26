@@ -15,7 +15,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 
 ### Agenda
 
-- Xueli: Numerical hairy black solutions in extended scalar-tensor-Gauss-Bonnet gravity 
+- Xueli: An algorithm for determining the rotation count of pulsars 
 
 ### References
 
