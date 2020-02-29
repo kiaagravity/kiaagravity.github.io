@@ -129,6 +129,7 @@ evolution of binary black holes <br>
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Zhengyuan Du** | **杜政远** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2020—now | **Qikang Feng** | **冯齐康** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
