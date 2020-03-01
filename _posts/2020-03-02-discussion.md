@@ -20,7 +20,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 
 ### References
 
-[General Relativity and Gravitation: A Centennial Perspective, Chapter 6, Sources of Gravitational Waves: Theory and Observations](https://arxiv.org/abs/1409.5823v1)
+[General Relativity and Gravitation: A Centennial Perspective, Chapter 6, Sources of Gravitational Waves: Theory and Observations](https://arxiv.org/abs/1410.7832)
 
 ### Time
 
