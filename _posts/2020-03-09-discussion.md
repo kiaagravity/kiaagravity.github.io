@@ -16,6 +16,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin, Huimei
 
 ### Agenda
 
+- Round Table
 - Huimei: A Bayesian Framework to Constrain the Photon Mass with a Catalog of Fast Radio Bursts
 
 ### References
