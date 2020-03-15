@@ -17,7 +17,7 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 ### Agenda
 
 - Round Table
-- Chang: Pulsars from free precessing neutron stars
+- Chang: tests of gravity with multi-band gravitational wave observations
 
 
 ### Reference
