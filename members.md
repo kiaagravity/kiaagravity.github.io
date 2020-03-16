@@ -118,9 +118,10 @@ evolution of binary black holes <br>
 ## Visitors
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2018—now | **Zihang Wang** | **王子航** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2018—now | **Zhongfu Zhang** | **张中府** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Jie Lin** | **林杰** | Visiting PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Zhi Xiao** | **肖智** | Lecturer | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
+| 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019—now | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
