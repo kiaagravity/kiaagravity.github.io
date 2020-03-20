@@ -26,4 +26,4 @@ Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin, Zhi, Huimei, Xinmiao
 
 ### Time
 
-2:00 am -- 4:00 am
+2:00 pm -- 4:00 pm
