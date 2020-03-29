@@ -15,6 +15,7 @@ Heming, Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
 
 ### Agenda
 
+- Round table
 - Heming: Convolutional neural network in deep learning
 
 
