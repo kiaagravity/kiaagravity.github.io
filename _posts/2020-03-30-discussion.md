@@ -9,7 +9,8 @@ categories: activities
 
 ### Attendees
 
-Heming, Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin
+Heming, Rui, Lijing, Chang, Yong, Junjie, Xueli, Jiayin, Jiangyi, Huimei,
+Zexin, Xuxiang, Minghao, Xinmiao
 
 ---
 
