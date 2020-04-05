@@ -6,10 +6,6 @@ permalink: /publication/
 
 ### 2020
 
-0. F. Roelofs, *et al.*, [SYMBA: An end-to-end VLBI synthetic data generation
-   pipeline](https://arxiv.org/abs/2004.01161), *Astron. & Astrophys.*
-(accepted), arXiv:2004.01161
-
 0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
    clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
@@ -22,6 +18,10 @@ arXiv:2002.01185
 
 0. L. Shao, [Pulsar tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
+
+0. F. Roelofs, *et al.*, [SYMBA: An end-to-end VLBI synthetic data generation
+   pipeline](https://arxiv.org/abs/2004.01161), *Astron. & Astrophys.* 636
+(2020) A5
 
 0. X. Liu, Z. Cao, L. Shao, [Validating the effective-one-body
    numerical-relativity waveform models for spin-aligned binary black holes
