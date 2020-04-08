@@ -19,6 +19,11 @@ arXiv:2002.01185
 0. L. Shao, [Pulsar tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
 
+0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
+archetypical blazar 3C 279 at an extreme 20 microarcsecond
+resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
+Astrophys.* (accepted)
+
 0. F. Roelofs, *et al.*, [SYMBA: An end-to-end VLBI synthetic data generation
    pipeline](https://arxiv.org/abs/2004.01161), *Astron. & Astrophys.* 636
 (2020) A5
