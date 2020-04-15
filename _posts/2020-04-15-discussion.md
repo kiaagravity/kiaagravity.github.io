@@ -10,7 +10,7 @@ categories: activities
 ### Attendees
 
 
-Rui, Yong, Junjie, Xueli, Chang, Lijing, Jiayin
+Rui, Yong, Junjie, Xueli, Chang, Lijing, Jiayin, LinJie, Xinmiao
 
 ---
 
@@ -21,8 +21,8 @@ Rui, Yong, Junjie, Xueli, Chang, Lijing, Jiayin
 
 ### Reference
 
-[Tensor-scalar gravity and binary-pulsar experiments](https://arxiv.org/abs/gr-qc/0209011)
-https://arxiv.org/abs/gr-qc/9602056
+[Tensor-scalar gravity and binary-pulsar experiments](https://arxiv.org/abs/gr-qc/9602056)
+
 
 
 ### Time
