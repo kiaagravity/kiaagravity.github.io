@@ -16,6 +16,7 @@ Chang, Xueli, Rui, Yong, Junjie, Lijing, Jiayin
 
 ### Agenda
 
+- Round table
 - Chang: Signal-to-noise ratio threshold for stellar-mass black-hole binaries as the sources of LISA  
 
 
