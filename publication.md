@@ -9,15 +9,19 @@ permalink: /publication/
 0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
    clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
-0. L. Shao, [Combined search for anisotropic birefringence in the
-gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
-*Phys. Rev. D* (accepted), arXiv:2002.01185
-
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), arXiv:2001.09793
 
 0. L. Shao, [Pulsar tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
+
+0. L. Shao, [Combined search for anisotropic birefringence in the
+gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
+*Phys. Rev. D* (accepted), arXiv:2002.01185
+
+0. Z. Xiao, L. Shao, [The CPT-violating effects on neutrons' gravitational
+   bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
+Phys.* (accepted), arXiv:1906.00146
 
 0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
