@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Group Discussion against nCov 24/04/2020"
