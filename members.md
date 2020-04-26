@@ -52,7 +52,6 @@ evolution of binary black holes <br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: junjiezhao@pku.edu.cn<br>
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9233-3683" href="https://orcid.org/0000-0002-9233-3683" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9233-3683</a></div>
 <b>Research Interests</b>: gravitational waves, alternative theories of gravity<br>
 
 ---
@@ -76,7 +75,7 @@ evolution of binary black holes <br>
 <b>Research Interests</b>: gravitational waves, neutron stars <br>
 
 ---
-
+<a href="https://orcid.org/0000-0001-7649-6792">
 <img src="{{ site.baseurl }}/assets/Liu_Chang.jpeg" title="Profile Picture" class="profile">
 <big><b>Chang Liu (刘畅)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
