@@ -66,8 +66,9 @@ evolution of binary black holes <br>
 <b>Research Interests</b>: pulsar astronomy, new physics beyond the standard model<br>
 
 ---
-
+<a href="https://orcid.org/0000-0003-1390-5477">
 <img src="{{ site.baseurl }}/assets/Gao_Yong.png" title="Profile Picture" class="profile">
+</a>
 <big><b>Yong Gao (高勇)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
@@ -77,6 +78,7 @@ evolution of binary black holes <br>
 ---
 <a href="https://orcid.org/0000-0001-7649-6792">
 <img src="{{ site.baseurl }}/assets/Liu_Chang.jpeg" title="Profile Picture" class="profile">
+</a>
 <big><b>Chang Liu (刘畅)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
