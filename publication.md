@@ -12,9 +12,6 @@ permalink: /publication/
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), arXiv:2001.09793
 
-0. L. Shao, [Pulsar tests of the gravitational Lorentz
-violation](https://arxiv.org/abs/1905.08405), arXiv:1905.08405
-
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* (accepted), arXiv:2002.01185
@@ -27,6 +24,11 @@ Phys.* (accepted), arXiv:1906.00146
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
+
+0. L. Shao, [Pulsar tests of the gravitational Lorentz
+violation](https://arxiv.org/abs/1905.08405), in *Proceedings of the Eighth
+Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020),
+p. 170
 
 0. F. Roelofs, *et al.*, [SYMBA: An end-to-end VLBI synthetic data generation
    pipeline](https://arxiv.org/abs/2004.01161), *Astron. & Astrophys.* 636
