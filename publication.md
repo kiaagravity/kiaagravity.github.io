@@ -15,7 +15,8 @@ GWTC-1](https://arxiv.org/abs/2004.12096), arXiv:2004.12096
    clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
-   LISA](https://arxiv.org/abs/2001.09793), arXiv:2001.09793
+   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
+arXiv:2001.09793
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
