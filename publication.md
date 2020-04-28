@@ -6,6 +6,11 @@ permalink: /publication/
 
 ### 2020
 
+
+0. C. Liu, L. Shao, J. Zhao, Y. Gao, [Multiband observation of LIGO/Virgo
+   binary black hole mergers in the gravitational-wave transient catalog
+GWTC-1](https://arxiv.org/abs/2004.12096), arXiv:2004.12096
+
 0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
    clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
@@ -24,6 +29,11 @@ Phys.* (accepted), arXiv:1906.00146
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
+
+0. R. Xu, [Spacetime nonmetricity and Lorentz
+   violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
+in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
+Scientific, Singapore, 2020), p. 234
 
 0. L. Shao, [Pulsar tests of the gravitational Lorentz
 violation](https://arxiv.org/abs/1905.08405), in *Proceedings of the Eighth
