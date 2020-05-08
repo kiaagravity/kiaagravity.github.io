@@ -18,6 +18,10 @@ GWTC-1](https://arxiv.org/abs/2004.12096), arXiv:2004.12096
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
 arXiv:2001.09793
 
+0. M. Arca Sedda, C.P.L. Berry, K. Jani, et al., [The missing link in
+gravitational-wave astronomy: Discoveries waiting in the decihertz
+range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
+
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* (accepted), arXiv:2002.01185
@@ -62,15 +66,11 @@ Kilometre Array](https://arxiv.org/abs/1810.02680),
 
 ### 2019
 
-0. I. Dvorkin, et al., [High angular resolution gravitational wave
+0. J. Baker, et al., [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 
 0. A. Sesana, N. Korsakova, et al., [Unveiling the gravitational Universe at
 μ-Hz frequencies](https://arxiv.org/abs/1908.11391), arXiv:1908.11391
-
-0. M. Arca Sedda, C.P.L. Berry, K. Jani, et al., [The missing link in
-gravitational-wave astronomy: Discoveries waiting in the decihertz
-range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
 0. J. Liu, et al., [A wide star−black-hole binary system from radial-velocity
   measurements](https://arxiv.org/abs/1911.11989), *Nature* 575 (2019) 618
