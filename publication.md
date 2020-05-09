@@ -64,6 +64,8 @@ in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
 Scientific, Singapore, 2020), p. 234
 {: reversed="reversed"}
 
+---
+
 ### 2019
 
 0. J. Baker, et al., [High angular resolution gravitational wave
