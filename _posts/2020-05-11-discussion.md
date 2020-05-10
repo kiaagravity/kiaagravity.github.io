@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Group Discussion against nCov 11/05/2020"
+title:  "Discussion on Research Topics 11/05/2020"
 date:   2020-05-11
 author: Rui Xu
 categories: activities
