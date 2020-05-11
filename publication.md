@@ -14,17 +14,13 @@ GWTC-1](https://arxiv.org/abs/2004.12096), arXiv:2004.12096
 0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
    clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
-0. E. Barausse, *et al.*, [Prospects for fundamental physics with
-   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
-arXiv:2001.09793
-
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, et al., [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
-0. L. Shao, [Combined search for anisotropic birefringence in the
-gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
-*Phys. Rev. D* (accepted), arXiv:2002.01185
+0. E. Barausse, *et al.*, [Prospects for fundamental physics with
+   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
+arXiv:2001.09793
 
 0. Z. Xiao, L. Shao, [The CPT-violating effects on neutrons' gravitational
    bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
@@ -34,6 +30,10 @@ Phys.* (accepted), arXiv:1906.00146
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
+
+0. L. Shao, [Combined search for anisotropic birefringence in the
+gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
+*Phys. Rev. D* 101 (2020) 104019
 
 0. R. Xu, J. Zhao, L. Shao, [Neutron Star Structure in the Minimal
 Gravitational Standard-Model Extension and the Implication to Continuous
