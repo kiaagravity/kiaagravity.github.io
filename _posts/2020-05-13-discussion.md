@@ -21,7 +21,7 @@ Yong, Chang, Xueli, Junjie, Zhi, Rui, Lijing, Jiayin
 
 ### Reference
 
-[Spitzer Observations of the Predicted Eddington Flare from Blazar OJ 287](https://arxiv.org/abs/gr-qc/0209011)
+[Spitzer Observations of the Predicted Eddington Flare from Blazar OJ 287](https://arxiv.org/abs/2004.13392)
 
 
 ### Time
