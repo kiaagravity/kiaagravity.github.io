@@ -26,4 +26,4 @@ Jiayin, Yong, Chang, Xueli, Junjie, Rui, Lijing
 
 ### Time
 
-9:00 pm -- 11:00 pm
+9:00 am -- 11:00 am
