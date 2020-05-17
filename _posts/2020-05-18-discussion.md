@@ -1,5 +1,3 @@
-2020-04-01-discussion.md
-
 ---
 layout: post
 title:  "Discussion on Research Topics 18/05/2020"
