@@ -18,10 +18,8 @@ Huimei, Yichen, Zihe, Junjie, Yong, Rui, Jiayin, Chang, Xueli, Lijing
 
 - Huimei: Constrain the photon mass with Fast Radio Burst
 - Yichen: Constrain dark matter by neutron star
-- Zihe: TBA
+- Zihe: Fisher analysis of dipole radiation and varying gravitational constant
 
-
-### Reference
 
 
 
