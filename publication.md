@@ -6,17 +6,17 @@ permalink: /publication/
 
 ### 2020
 
-
-0. C. Liu, L. Shao, J. Zhao, Y. Gao, [Multiband observation of LIGO/Virgo
-   binary black hole mergers in the gravitational-wave transient catalog
-GWTC-1](https://arxiv.org/abs/2004.12096), arXiv:2004.12096
-
 0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
    clumps](https://arxiv.org/abs/2002.09144), arXiv:2002.09144
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, et al., [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
+
+0. C. Liu, L. Shao, J. Zhao, Y. Gao, [Multiband observation of LIGO/Virgo
+   binary black hole mergers in the gravitational-wave transient catalog
+GWTC-1](https://arxiv.org/abs/2004.12096), *Mon. Not. R. Astron. Soc.*
+(accepted), arXiv:2004.12096
 
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
