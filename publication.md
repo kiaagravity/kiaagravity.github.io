@@ -35,9 +35,9 @@ Astrophys.* (accepted)
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
 
-0. R. Xu, J. Zhao, L. Shao, [Neutron Star Structure in the Minimal
-Gravitational Standard-Model Extension and the Implication to Continuous
-Gravitational Waves](https://arxiv.org/abs/1909.10372),
+0. R. Xu, J. Zhao, L. Shao, [Neutron star structure in the minimal
+gravitational standard-model extension and the implication to continuous
+gravitational waves](https://arxiv.org/abs/1909.10372),
 *Phys. Lett. B* 803 (2020) 135283
 
 0. L. Shao, [Pulsar tests of the gravitational Lorentz
