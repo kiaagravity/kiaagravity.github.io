@@ -113,8 +113,6 @@ evolution of binary black holes <br>
 | 2019—now | **Yiren Lin** | **林伊人** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Zexin Hu** | **胡泽昕** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2019—now | **Heming Xia** | **夏鹤明** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Yu Tao** | **陶昱** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
@@ -140,6 +138,16 @@ evolution of binary black holes <br>
 ---
 
 ## Former Members
+
+- 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking
+  University
+  - <small><b>Bachelor Thesis:</b> *Deep Learning in Gravitational Wave
+  Data Processing* (Peking University 2020)
+
+- 2019—2020, **Yu Tao** (**陶昱**), Department of Astronomy, Peking
+  University
+  - <small><b>Bachelor Thesis:</b> *Brief Studies on Gravitational Waveform
+  of Numerical Relativity* (Peking University 2020)
 
 - 2018—2019, **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking
   University
