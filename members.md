@@ -87,15 +87,6 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Shen_Jiayin.jpeg" title="Profile Picture" class="profile">
-<big><b>Jiayin Shen (申佳音)</b></big><br>
-<i><b>PhD Student (2019-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: 1901110217@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, modified gauge gravity with Lorentz violation, the accelerated universe without dark energy <br>
-
----
-
 ## Members
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
@@ -105,7 +96,6 @@ evolution of binary black holes <br>
 | 2018—now | **Xueli Miao** | **缪雪丽** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Huimei Wang** | **王惠美** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Zihe An** | **安子訸** | Undergraduate Research | [Mech-PKU](http://web.mech.pku.edu.cn/) |
 | 2019—now | **Yichen Wang** | **王弋尘** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -125,6 +115,7 @@ evolution of binary black holes <br>
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Minghao Guo** | **郭明浩** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
