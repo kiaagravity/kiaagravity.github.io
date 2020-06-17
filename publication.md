@@ -13,11 +13,6 @@ permalink: /publication/
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
-0. C. Liu, L. Shao, J. Zhao, Y. Gao, [Multiband observation of LIGO/Virgo
-   binary black hole mergers in the gravitational-wave transient catalog
-GWTC-1](https://arxiv.org/abs/2004.12096), *Mon. Not. R. Astron. Soc.*
-(accepted), arXiv:2004.12096
-
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
 arXiv:2001.09793
@@ -30,6 +25,11 @@ Phys.* (accepted), arXiv:1906.00146
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
+
+0. C. Liu, L. Shao, J. Zhao, Y. Gao, [Multiband observation of LIGO/Virgo
+   binary black hole mergers in the gravitational-wave transient catalog
+GWTC-1](https://arxiv.org/abs/2004.12096), *Mon. Not. R. Astron. Soc.*
+496 (2020) 182
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
