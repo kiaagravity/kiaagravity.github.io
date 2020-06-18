@@ -13,6 +13,11 @@ permalink: /publication/
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
+0. X. Miao, J. Zhao, L. Shao, N. Wex, M. Kramer, B.-Q. Ma, [Tests of
+conservation laws in post-Newtonian gravity with binary
+pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* (accepted),
+arXiv:2006.09652
+
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
 arXiv:2001.09793
