@@ -16,29 +16,29 @@ pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* (accepted),
 arXiv:2006.09652
 
 0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
-   clumps](https://arxiv.org/abs/2002.09144), *JCAP* (accepted), arXiv:2002.09144
-
-0. E. Barausse, *et al.*, [Prospects for fundamental physics with
-   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
-arXiv:2001.09793
+   clumps](https://arxiv.org/abs/2002.09144), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2002.09144
 
 0. Z. Xiao, L. Shao, [The CPT-violating effects on neutrons' gravitational
    bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
 Phys.* (accepted), arXiv:1906.00146
+
+0. E. Barausse, *et al.*, [Prospects for fundamental physics with
+   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
+arXiv:2001.09793
 
 0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
 Astrophys.* (accepted)
 
+0. L. Shao, [Combined search for anisotropic birefringence in the
+gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
+*Phys. Rev. D* 101 (2020) 104019
+
 0. C. Liu, L. Shao, J. Zhao, Y. Gao, [Multiband observation of LIGO/Virgo
    binary black hole mergers in the gravitational-wave transient catalog
 GWTC-1](https://arxiv.org/abs/2004.12096), *Mon. Not. R. Astron. Soc.*
 496 (2020) 182
-
-0. L. Shao, [Combined search for anisotropic birefringence in the
-gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
-*Phys. Rev. D* 101 (2020) 104019
 
 0. R. Xu, J. Zhao, L. Shao, [Neutron star structure in the minimal
 gravitational standard-model extension and the implication to continuous
