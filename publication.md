@@ -6,6 +6,12 @@ permalink: /publication/
 
 ### 2020
 
+0. J. Baker, et al., [High angular resolution gravitational wave
+astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
+
+0. A. Sesana, N. Korsakova, et al., [Unveiling the gravitational Universe at
+μ-Hz frequencies](https://arxiv.org/abs/1908.11391), arXiv:1908.11391
+
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, et al., [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
@@ -72,12 +78,6 @@ Scientific, Singapore, 2020), p. 234
 ---
 
 ### 2019
-
-0. J. Baker, et al., [High angular resolution gravitational wave
-astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
-
-0. A. Sesana, N. Korsakova, et al., [Unveiling the gravitational Universe at
-μ-Hz frequencies](https://arxiv.org/abs/1908.11391), arXiv:1908.11391
 
 0. L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence principle
   in the standard-model extension with binary
