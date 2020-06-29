@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Discussion on Research Topics 30/06/2020"
+date:   2020-06-30
+author: Rui Xu
+categories: activities
+---
+
+
+### Attendees
+
+Junjie, Hongbo, Xueli, Rui, Chang, Yong, Lijing
+---
+
+### Agenda
+
+- Junjie: GW190814 
+
+
+### Reference
+
+[GW190814: Gravitational Waves from the Coalescence of a 23 $M_{\odot}$ Black Holewith a 2.6 M Compact Object](https://arxiv.org/abs/2006.12611)
+
+
+### Time
+
+9:30 pm -- 11:30 pm
