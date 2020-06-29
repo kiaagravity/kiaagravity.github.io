@@ -16,6 +16,7 @@ Junjie, Hongbo, Xueli, Rui, Chang, Yong, Lijing
 
 ### Agenda
 
+- Round table
 - Junjie: GW190814 
 
 
