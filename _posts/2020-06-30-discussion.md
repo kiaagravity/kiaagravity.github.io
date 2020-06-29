@@ -21,7 +21,7 @@ Junjie, Hongbo, Xueli, Rui, Chang, Yong, Lijing
 
 ### Reference
 
-[GW190814: Gravitational Waves from the Coalescence of a 23 solar-mass Black Holewith a 2.6 solar-mass Compact Object](https://arxiv.org/abs/2006.12611)
+[GW190814: Gravitational Waves from the coalescence of a 23 solar-mass black hole with a 2.6 solar-mass compact object](https://arxiv.org/abs/2006.12611)
 
 
 ### Time
