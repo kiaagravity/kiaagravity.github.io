@@ -9,7 +9,8 @@ categories: activities
 
 ### Attendees
 
-Bofeng, Junjie, Hongbo, Xueli, Rui, Chang, Yong, Lijing
+Bofeng, Junjie, Hongbo, Xueli, Rui, Chang, Yong, Lijing, Huimei, Xinmiao,
+Yacheng, Zhi, Jiayin, Yiren
 
 ---
 
