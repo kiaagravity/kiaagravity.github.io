@@ -24,10 +24,6 @@ arXiv:2006.09652
 0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
    clumps](https://arxiv.org/abs/2002.09144), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2002.09144
 
-0. Z. Xiao, L. Shao, [The CPT-violating effects on neutrons' gravitational
-   bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
-Phys.* (accepted), arXiv:1906.00146
-
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
 arXiv:2001.09793
@@ -55,6 +51,10 @@ gravitational waves](https://arxiv.org/abs/1909.10372),
 violation](https://arxiv.org/abs/1905.08405), in *Proceedings of the Eighth
 Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020),
 p. 170
+
+0. Z. Xiao, L. Shao, [The CPT-violating effects on neutrons' gravitational
+   bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
+Phys.* 47 (2020) 085002
 
 0. X. Liu, Z. Cao, L. Shao, [Validating the effective-one-body
 numerical-relativity waveform models for spin-aligned binary black holes
