@@ -4,12 +4,14 @@ title:  "Discussion on Research Topics 04/07/2020"
 date:   2020-07-04
 author: Rui Xu
 categories: activities
+
 ---
 
 
 ### Attendees
 
 Yacheng, Junjie, Hongbo, Xueli, Rui, Chang, Yong, Lijing
+
 ---
 
 ### Agenda
