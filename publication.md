@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2020
 
+0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
+   freely-precessing neutron stars: continuous electromagnetic and
+gravitational radiation](https://arxiv.org/abs/2007.02528), arXiv:2007.02528
+
 0. J. Baker, et al., [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 
