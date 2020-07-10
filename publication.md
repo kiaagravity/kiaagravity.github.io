@@ -20,6 +20,10 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
+0. L. Shao, N. Wex, S.-Y. Zhou, [New graviton mass bound from binary
+   puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* (accepted),
+arXiv:2007.04531
+
 0. X. Miao, J. Zhao, L. Shao, N. Wex, M. Kramer, B.-Q. Ma, [Tests of
 conservation laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* (accepted),
