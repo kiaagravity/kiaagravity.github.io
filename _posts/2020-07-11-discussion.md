@@ -10,13 +10,14 @@ categories: activities
 
 ### Attendees
 
-Junjie, Chang, Xueli, Rui, Yong, Lijing, Hongbo, Yiren, Huimei, Alireza
+Junjie, Chang, Xueli, Rui, Yong, Lijing
 
 ---
 
 ### Agenda
 
-- Junjie:  
+- Junjie: constraining neutron-star radii
+
 
 ### Reference
 
