@@ -109,7 +109,7 @@ evolution of binary black holes <br>
 
 ---
 
-## Visitors
+## Friends
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2020—now | **Zhi Xiao** | **肖智** | Lecturer | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
