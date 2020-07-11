@@ -16,6 +16,7 @@ Yong, Junjie, Chang, Xueli, Rui, Lijing
 
 ### Agenda
 
+- Round table
 - Yong: Binary neutron star mergers
 
 
