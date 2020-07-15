@@ -10,13 +10,15 @@ categories: activities
 
 ### Attendees
 
-Rui, Yong, Junjie, Chang, Xueli, Lijing
+Rui, Yong, Junjie, Chang, Xueli, Lijing, Hongbo, Jiayin, Yiren, Zhi, Zexin,
+LinJie
 
 ---
 
 ### Agenda
 
-- Rui: Neutron star structure in massive scalar-tensor theory and its application to X-ray pulse profile
+- Rui: Neutron star structure in massive scalar-tensor theory and its
+  application to X-ray pulse profile
 
 
 
