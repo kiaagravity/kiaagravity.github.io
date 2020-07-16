@@ -29,9 +29,6 @@ conservation laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* (accepted),
 arXiv:2006.09652
 
-0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
-   clumps](https://arxiv.org/abs/2002.09144), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2002.09144
-
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
 arXiv:2001.09793
@@ -49,6 +46,10 @@ gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
    binary black hole mergers in the gravitational-wave transient catalog
 GWTC-1](https://arxiv.org/abs/2004.12096), *Mon. Not. R. Astron. Soc.*
 496 (2020) 182
+
+0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
+clumps](https://arxiv.org/abs/2002.09144), *J. Cosmol. Astropart. Phys.* 07
+(2020) 038
 
 0. R. Xu, J. Zhao, L. Shao, [Neutron star structure in the minimal
 gravitational standard-model extension and the implication to continuous
@@ -68,6 +69,10 @@ Phys.* 47 (2020) 085002
 numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
+
+0. A.E. Broderick, *et al.*, [Themis: A parameter estimation framework for
+the Event Horizon Telescope](https://arxiv.org/abs/TBA), 
+*Astrophys. J.* 897 (2020) 139
 
 0. F. Roelofs, *et al.*, [SYMBA: An end-to-end VLBI synthetic data
 generation pipeline](https://arxiv.org/abs/2004.01161), *Astron. &

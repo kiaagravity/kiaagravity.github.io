@@ -11,7 +11,7 @@ categories: activities
 ### Attendees
 
 Rui, Yong, Junjie, Chang, Xueli, Lijing, Hongbo, Jiayin, Yiren, Zhi, Zexin,
-LinJie
+LinJie, Minghao
 
 ---
 
