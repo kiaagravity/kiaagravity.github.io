@@ -70,8 +70,12 @@ numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
 
+0. R. Gold, *et al.*, [Verification of radiative transfer schemes for the
+EHT](https://doi.org/10.3847/1538-4357/ab96c6), *Astrophys. J.* 897 (2020)
+148
+
 0. A.E. Broderick, *et al.*, [Themis: A parameter estimation framework for
-the Event Horizon Telescope](https://arxiv.org/abs/TBA), 
+the Event Horizon Telescope](https://doi.org/10.3847/1538-4357/ab91a4),
 *Astrophys. J.* 897 (2020) 139
 
 0. F. Roelofs, *et al.*, [SYMBA: An end-to-end VLBI synthetic data
