@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2020
 
+0. R. Xu, Y. Gao, L. Shao, [Strong-field effects in massive scalar-tensor
+   gravity for slowly spinning neutron stars and application to X-ray pulsar
+pulse profiles](https://arxiv.org/abs/2007.10080), arXiv:2007.10080
+
 0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
    freely-precessing neutron stars: continuous electromagnetic and
 gravitational radiation](https://arxiv.org/abs/2007.02528), arXiv:2007.02528
