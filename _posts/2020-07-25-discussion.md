@@ -16,11 +16,11 @@ Xueli, Yong, Rui, Junjie, Chang, Lijing, Hongbo
 
 ### Agenda
 
-- Xueli: TBD
+- Xueli: Detecting double neutron stars with LISA
 
 
 ### Reference
-
+1. [Detecting double neutron stars with LISA](https://arxiv.org/abs/1910.12422)
 
 
 
