@@ -24,10 +24,6 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
-0. L. Shao, N. Wex, S.-Y. Zhou, [New graviton mass bound from binary
-   puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* (accepted),
-arXiv:2007.04531
-
 0. X. Miao, J. Zhao, L. Shao, N. Wex, M. Kramer, B.-Q. Ma, [Tests of
 conservation laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* (accepted),
@@ -45,6 +41,9 @@ Astrophys.* (accepted)
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
+
+0. L. Shao, N. Wex, S.-Y. Zhou, [New graviton mass bound from binary
+   puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020) 024069
 
 0. C. Liu, L. Shao, J. Zhao, Y. Gao, [Multiband observation of LIGO/Virgo
    binary black hole mergers in the gravitational-wave transient catalog
