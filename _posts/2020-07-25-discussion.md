@@ -10,7 +10,8 @@ categories: activities
 
 ### Attendees
 
-Xueli, Yong, Rui, Junjie, Chang, Lijing, Hongbo
+Xueli, Yong, Rui, Junjie, Chang, Lijing, Hongbo, Shoulong, Zhi, Hongbo,
+Xinmiao, Huimei
 
 ---
 
@@ -20,7 +21,7 @@ Xueli, Yong, Rui, Junjie, Chang, Lijing, Hongbo
 
 
 ### Reference
-1. [Detecting double neutron stars with LISA](https://arxiv.org/abs/1910.12422)
+- [Detecting double neutron stars with LISA](https://arxiv.org/abs/1910.12422)
 
 
 
