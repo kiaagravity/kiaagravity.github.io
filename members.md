@@ -87,6 +87,14 @@ evolution of binary black holes <br>
 
 ---
 
+<img src="{{ site.baseurl }}/assets/Li_Hongbo.jpeg" title="Profile Picture" class="profile">
+<big><b>Hongbo Li (李洪波)</b></big><br>
+<i><b>PhD Student (2020-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Research Interests</b>: gravitational wave bursts <br>
+
+---
+
 ## Members
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
