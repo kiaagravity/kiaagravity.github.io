@@ -17,10 +17,10 @@ Zhi, Chang, Xueli, Yong, Rui, Junjie, Lijing
 
 ### Agenda
 
-- Zhi: TBD
+- Zhi: Spin precessions in an accelerated frame and in the Schwarzschild spacetime
 
 ### Reference
-
+[Spin Precession in Inertial and Gravitational Fields](https://arxiv.org/abs/1307.5470)
 
 
 ### Time
