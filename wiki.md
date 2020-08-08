@@ -54,11 +54,6 @@ collaborations via inspiring discussions.
 
 <p></p>
 
-We have a Journal Club **Gravitational Astrophysics** on
-[benty-fields](https://benty-fields.com/). Everyone is free to join.
-
-<p></p>
-
 ---
 
 ## Discussion on Research Topics
