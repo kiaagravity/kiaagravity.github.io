@@ -24,6 +24,10 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
+0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
+science](https://arxiv.org/abs/2008.02921),
+*Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
 arXiv:2001.09793
