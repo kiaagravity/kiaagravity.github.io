@@ -10,10 +10,6 @@ permalink: /publication/
    gravity for slowly spinning neutron stars and application to X-ray pulsar
 pulse profiles](https://arxiv.org/abs/2007.10080), arXiv:2007.10080
 
-0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
-   freely-precessing neutron stars: continuous electromagnetic and
-gravitational radiation](https://arxiv.org/abs/2007.02528), arXiv:2007.02528
-
 0. J. Baker, et al., [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 
@@ -24,6 +20,11 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
 
+0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
+freely-precessing neutron stars: continuous electromagnetic and
+gravitational radiation](https://arxiv.org/abs/2007.02528), *Mon. Not. R.
+Astron. Soc.* (accepted), arXiv:2007.02528
+
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
@@ -31,11 +32,6 @@ science](https://arxiv.org/abs/2008.02921),
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
    LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
 arXiv:2001.09793
-
-0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
-archetypical blazar 3C 279 at an extreme 20 microarcsecond
-resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
-Astrophys.* (accepted)
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
@@ -75,6 +71,11 @@ Phys.* 47 (2020) 085002
 numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
+
+0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
+archetypical blazar 3C 279 at an extreme 20 microarcsecond
+resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
+Astrophys.* 640 (2020) A69
 
 0. R. Gold, *et al.*, [Verification of radiative transfer schemes for the
 EHT](https://doi.org/10.3847/1538-4357/ab96c6), *Astrophys. J.* 897 (2020)
