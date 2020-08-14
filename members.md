@@ -123,7 +123,7 @@ evolution of binary black holes <br>
 | 2020—now | **Zhi Xiao** | **肖智** | Lecturer | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2020—now | **Sebastian Bahamonde** |  | Postdoc | [UT.EE](http://sebastianbahamonde.com/) |
 | 2020—now | **Alireza Allahyari** |  | Postdoc | [IMP.IR](http://www.ipm.ac.ir/) |
-| 2020—now | **Shoulong Li** | 李守龙 | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
+| 2020—now | **Shoulong Li** | **李守龙** | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
