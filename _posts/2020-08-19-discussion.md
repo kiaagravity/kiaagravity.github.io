@@ -10,7 +10,7 @@ categories: activities
 
 ### Attendees
 
-Rui, Yong, Chang, Xueli, Junjie, Lijing, Hongbo
+Rui, Yong, Chang, Xueli, Junjie, Lijing, Yacheng, Shoulong, Zhi, Yiren
 
 ---
 
