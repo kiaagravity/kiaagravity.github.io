@@ -29,10 +29,6 @@ Astron. Soc.* (accepted), arXiv:2007.02528
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
-0. E. Barausse, *et al.*, [Prospects for fundamental physics with
-   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* (accepted),
-arXiv:2001.09793
-
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
@@ -92,6 +88,10 @@ Astrophys.* 636 (2020) A5
 0. A. Weltman, *et al.*, [Fundamental physics with the Square Kilometre
 Array](https://arxiv.org/abs/1810.02680),
 *Publ. Astron. Soc. Aust.* 37 (2020) e002
+
+0. E. Barausse, *et al.*, [Prospects for fundamental physics with
+   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
+81
 
 0. R. Xu, [Spacetime nonmetricity and Lorentz
 violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
