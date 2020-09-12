@@ -33,13 +33,13 @@ capability in scientifically sound presentations, even to develop close
 collaborations via inspiring discussions. 
 
 1. Our group meetings take place in the <b>1st meeting room at KIAA</b>. To avoid
-   conflicts with students' classes, the time is fixed to <b>Friday
-   19:00—21:30</b>. 
+   conflicts with students' classes, the time is fixed to <b>Saturdays
+   9:00—11:30</b>. 
 
-2. Sessions **literature reading** and **paper presentation** are reserved for
-   graduates/postdocs who work on research projects in the group, while
-   everyone is <b>HIGHLY</b> encouraged to talk in the session **updates on
-   projects**.
+2. Sessions **literature reading** and **paper presentation** are reserved
+for undergraduates/graduates/postdocs who work on research projects in the
+group, while everyone is <b>HIGHLY</b> encouraged to talk in the session
+**updates on projects**.
 
 3. It is suggested to use English whenever there are foreigners in the
    audience.  Otherwise it is suggested to talk in Chinese, but use English in
@@ -60,9 +60,10 @@ collaborations via inspiring discussions.
 
 **Chair**: Dr. Rui Xu (徐睿 博士)
 
-We have weekly discussion on research topics every **Monday 14:00—17:00** in the **2nd meeting room at KIAA**. 
-The attendees are limited to graduates/postdocs who work on research
-projects in the group. Speakers are **NOT** allowed to use slides. Blackboard only!
+We have weekly discussion on research topics every **Thursdays
+19:30—21:30** in the **2nd meeting room at KIAA**. The attendees are
+limited to graduates/postdocs who work on research projects in the group.
+Speakers are encouraged to use blackboard only!
 
 <p></p>
 
