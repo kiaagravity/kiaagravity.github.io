@@ -6,19 +6,29 @@ permalink: /publication/
 
 ### 2020
 
-0. R. Xu, Y. Gao, L. Shao, [Strong-field effects in massive scalar-tensor
-   gravity for slowly spinning neutron stars and application to X-ray pulsar
-pulse profiles](https://arxiv.org/abs/2007.10080), arXiv:2007.10080
-
 0. J. Baker, et al., [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 
 0. A. Sesana, N. Korsakova, et al., [Unveiling the gravitational Universe at
 μ-Hz frequencies](https://arxiv.org/abs/1908.11391), arXiv:1908.11391
 
+0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), 《科学通报》, 已接收
+
+0. K. Wang, S.-Q. Xi, L. Shao, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
+superluminal neutrino velocity and Lorentz invariance violation by neutrino
+emission from the blazar TXS
+0506+056](https://journals.aps.org/prd/accepted/7407bQ40Nf41d326512b5e976183888b51c96dc41),
+*Phys. Rev. D* (accepted)
+
+0. R. Xu, Y. Gao, L. Shao, [Strong-field effects in massive scalar-tensor
+   gravity for slowly spinning neutron stars and application to X-ray pulsar
+pulse profiles](https://arxiv.org/abs/2007.10080), *Phys. Rev. D* (accepted),
+arXiv:2007.10080
+
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, et al., [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
-range](https://arxiv.org/abs/1908.11375), arXiv:1908.11375
+range](https://arxiv.org/abs/1908.11375), *Class. Quantum Grav.* (accepted),
+arXiv:1908.11375
 
 0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
 freely-precessing neutron stars: continuous electromagnetic and
