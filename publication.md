@@ -17,8 +17,8 @@ astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
 0. K. Wang, S.-Q. Xi, L. Shao, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
 superluminal neutrino velocity and Lorentz invariance violation by neutrino
 emission from the blazar TXS
-0506+056](https://journals.aps.org/prd/accepted/7407bQ40Nf41d326512b5e976183888b51c96dc41),
-*Phys. Rev. D* (accepted)
+0506+056](https://arxiv.org/abs/2009.05201),
+*Phys. Rev. D* (accepted), arXiv:2009.05201
 
 0. R. Xu, Y. Gao, L. Shao, [Strong-field effects in massive scalar-tensor
    gravity for slowly spinning neutron stars and application to X-ray pulsar
