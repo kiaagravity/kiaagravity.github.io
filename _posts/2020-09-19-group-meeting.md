@@ -21,7 +21,7 @@ by J.-P. Luminet [[Astronomy and Astrophysics](http://articles.adsabs.harvard.ed
 ## Chang Liu
 
 #### Paper presentation: 
-GW190521: Astrophysics and cosmology with a decihertz gravitational-wave detector: TianGO
+Astrophysics and cosmology with a decihertz gravitational-wave detector: TianGO
 
 Reference: Kevin A. Kuns, et al. [[Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.043001)]
 
