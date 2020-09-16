@@ -34,14 +34,14 @@ gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), *Class. Quantum Grav.* (accepted),
 arXiv:1908.11375
 
-0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
-freely-precessing neutron stars: continuous electromagnetic and
-gravitational radiation](https://arxiv.org/abs/2007.02528), *Mon. Not. R.
-Astron. Soc.* (accepted), arXiv:2007.02528
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
+freely-precessing neutron stars: continuous electromagnetic and
+gravitational radiation](https://arxiv.org/abs/2007.02528), *Mon. Not. R.
+Astron. Soc.* 498 (2020) 1826
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
