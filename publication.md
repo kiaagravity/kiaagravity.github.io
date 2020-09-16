@@ -6,13 +6,17 @@ permalink: /publication/
 
 ### 2020
 
+0. L. Shao, [Pulsar tests of the graviton
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (submitted),
+arXiv:2009.06817
+
 0. J. Baker, et al., [High angular resolution gravitational wave
-astronomy](https://arxiv.org/abs/1908.11410), arXiv:1908.11410
+astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:1908.11410
 
 0. A. Sesana, N. Korsakova, et al., [Unveiling the gravitational Universe at
-μ-Hz frequencies](https://arxiv.org/abs/1908.11391), arXiv:1908.11391
+μ-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.* (submitted), arXiv:1908.11391
 
-0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), 《科学通报》, 已接收
+0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), *《科学通报》*, 已接收
 
 0. K. Wang, S.-Q. Xi, L. Shao, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
 superluminal neutrino velocity and Lorentz invariance violation by neutrino
