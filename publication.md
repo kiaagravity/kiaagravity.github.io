@@ -6,14 +6,18 @@ permalink: /publication/
 
 ### 2020
 
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
+characterization, physical environmental monitors, and the geophysics
+interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
+
 0. L. Shao, [Pulsar tests of the graviton
 mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (submitted),
 arXiv:2009.06817
 
-0. J. Baker, et al., [High angular resolution gravitational wave
+0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:1908.11410
 
-0. A. Sesana, N. Korsakova, et al., [Unveiling the gravitational Universe at
+0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe at
 μ-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.* (submitted), arXiv:1908.11391
 
 0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), *《科学通报》*, 已接收
@@ -29,7 +33,7 @@ emission from the blazar TXS
 pulse profiles](https://arxiv.org/abs/2007.10080), *Phys. Rev. D* (accepted),
 arXiv:2007.10080
 
-0. M. Arca Sedda, C.P.L. Berry, K. Jani, et al., [The missing link in
+0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), *Class. Quantum Grav.* (accepted),
 arXiv:1908.11375
