@@ -85,6 +85,11 @@ numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
 
+0. M. Wielgus, *et al.*, [Monitoring the morphology of M87$^*$ in 2009-2017
+with the Event Horizon
+Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/abac0d),
+*Astrophys. J.* 901 (2020) 67
+
 0. J.-Y. Kim, *et al.*, [Event Horizon Telescope imaging of the
 archetypical blazar 3C 279 at an extreme 20 microarcsecond
 resolution](https://doi.org/10.1051/0004-6361/202037493), *Astron. &
