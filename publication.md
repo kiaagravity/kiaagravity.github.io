@@ -28,11 +28,6 @@ emission from the blazar TXS
 0506+056](https://arxiv.org/abs/2009.05201),
 *Phys. Rev. D* (accepted), arXiv:2009.05201
 
-0. R. Xu, Y. Gao, L. Shao, [Strong-field effects in massive scalar-tensor
-   gravity for slowly spinning neutron stars and application to X-ray pulsar
-pulse profiles](https://arxiv.org/abs/2007.10080), *Phys. Rev. D* (accepted),
-arXiv:2007.10080
-
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), *Class. Quantum Grav.* (accepted),
@@ -42,17 +37,21 @@ arXiv:1908.11375
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
-0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
-freely-precessing neutron stars: continuous electromagnetic and
-gravitational radiation](https://arxiv.org/abs/2007.02528), *Mon. Not. R.
-Astron. Soc.* 498 (2020) 1826
-
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
 
 0. L. Shao, N. Wex, S.-Y. Zhou, [New graviton mass bound from binary
    puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020) 024069
+
+0. R. Xu, Y. Gao, L. Shao, [Strong-field effects in massive scalar-tensor
+   gravity for slowly spinning neutron stars and application to X-ray pulsar
+pulse profiles](https://arxiv.org/abs/2007.10080), *Phys. Rev. D* 102 (2020) 064057
+
+0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
+freely-precessing neutron stars: continuous electromagnetic and
+gravitational radiation](https://arxiv.org/abs/2007.02528), *Mon. Not. R.
+Astron. Soc.* 498 (2020) 1826
 
 0. X. Miao, J. Zhao, L. Shao, N. Wex, M. Kramer, B.-Q. Ma, [Tests of
 conservation laws in post-Newtonian gravity with binary
