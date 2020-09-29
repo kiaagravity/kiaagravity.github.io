@@ -112,6 +112,8 @@ evolution of binary black holes <br>
 | 2019—now | **Yiren Lin** | **林伊人** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Zexin Hu** | **胡泽昕** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2020—now | **Lingqian Qiu** | **邱令倩** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Jingyuan Deng** | **邓景元** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
@@ -169,6 +171,7 @@ Comments
 | 2019—2020 | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Siyi Zhao** | **赵思逸** | Undergraduate | [PHY-THU](http://www.phys.tsinghua.edu.cn/) |
+| 2020—now | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 -->
 

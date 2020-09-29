@@ -20,13 +20,12 @@ astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe at
 μ-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.* (submitted), arXiv:1908.11391
 
-0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), *《科学通报》*, 已接收
+0. K. Liu, L. Guillemot, A. Istrate, L. Shao, T.M. Tauris, N. Wex, *et al.*, [A
+   revisit of PSR J1909$-$3744 with 15-year high-precision
+timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.*
+(accepted), arXiv:2009.12544
 
-0. K. Wang, S.-Q. Xi, L. Shao, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
-superluminal neutrino velocity and Lorentz invariance violation by neutrino
-emission from the blazar TXS
-0506+056](https://arxiv.org/abs/2009.05201),
-*Phys. Rev. D* (accepted), arXiv:2009.05201
+0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), *《科学通报》*, 已接收
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
@@ -75,6 +74,12 @@ gravitational waves](https://arxiv.org/abs/1909.10372),
 violation](https://arxiv.org/abs/1905.08405), in *Proceedings of the Eighth
 Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020),
 p. 170
+
+0. K. Wang, S.-Q. Xi, L. Shao, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
+superluminal neutrino velocity and Lorentz invariance violation by neutrino
+emission from the blazar TXS
+0506+056](https://arxiv.org/abs/2009.05201),
+*Phys. Rev. D* 102 (2020) 063027
 
 0. Z. Xiao, L. Shao, [The CPT-violating effects on neutrons' gravitational
    bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
