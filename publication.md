@@ -90,6 +90,11 @@ numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
 
+0. D. Psaltis, *et al.*, [Gravitational test beyond the first
+post-Newtonian order with the shadow of the M87 black
+hole](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.141104),
+*Phys. Rev. Lett.* 125 (2020) 141104
+
 0. M. Wielgus, *et al.*, [Monitoring the morphology of M87$^\star$ in 2009-2017
 with the Event Horizon
 Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/abac0d),

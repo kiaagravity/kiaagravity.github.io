@@ -172,6 +172,7 @@ Comments
 | 2019—2020 | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Siyi Zhao** | **赵思逸** | Undergraduate | [PHY-THU](http://www.phys.tsinghua.edu.cn/) |
 | 2020—now | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2020—now | **Chunjiang Li** | **李春江** | Joint Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 -->
 
