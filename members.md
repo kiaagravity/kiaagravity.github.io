@@ -153,7 +153,7 @@ evolution of binary black holes <br>
   - <small><b>Bachelor Thesis:</b> *Deep Learning in Gravitational Wave
   Data Processing* (Peking University 2020)
 
-- 2019—2020, **Yu Tao** (**陶昱**), Department of Astronomy, Peking
+- 2019—2020, **Yu Tao** (**陶昱**), School of Physics, Peking
   University
   - <small><b>Bachelor Thesis:</b> *Brief Studies on Gravitational Waveform
   of Numerical Relativity* (Peking University 2020)
