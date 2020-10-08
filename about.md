@@ -46,6 +46,11 @@ observations, please send your CV and we will help you in getting a position
 when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
 
 <figure>                                                                        
+<img src="/assets/kiaagroup_2020.jpg" style="width:100%">                 
+<figcaption><font color="grey"><b>KIAA Group on October 7, 2020.</b></font></figcaption>
+</figure>
+
+<figure>                                                                        
 <img src="/assets/group_meeting_Dec14_2019_small.jpg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 14, 2019.</b></font></figcaption>
 </figure>
