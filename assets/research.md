@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<big><big><big> Research Interests
+<big><big><big> **Research Interests**
 
 Our contemporary wisdom in modern physics was condensed into
 
