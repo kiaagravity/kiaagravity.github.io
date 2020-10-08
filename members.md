@@ -23,7 +23,7 @@ permalink: /member/
 </style>
 
 <a href="https://friendshao.github.io/about/">
-<img src="{{ site.baseurl }}/assets/Shao_Lijing_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Shao_Lijing_floor1.jpg" title="Profile Picture" class="profile" style="width:80%">
 </a>
 <big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
 <i><b>Assistant Professor</b>, Kavli Institute for Astronomy and Astrophysics,
