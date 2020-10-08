@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Research
-permalink: /research/
+layout: default
 ---
+
+<big><big><big> Research Interests
 
 Our contemporary wisdom in modern physics was condensed into
 
