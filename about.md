@@ -40,6 +40,9 @@ all levels**. Those who are good at either mathematics or computer science are
 especially encouraged. Students from other universities/institutions are also
 welcome. 
 
+- [本科生科研](/assets/undergraduate)
+- [本科生毕业设计](/assets/bachelor)
+
 We would also like to hire **postdoctoral researchers**. If you are interested
 in gravitational physics or searching for new physics from astrophysical
 observations, please send your CV and we will help you in getting a position
