@@ -34,7 +34,9 @@ beyond the standard model<br>
 
 ---
 
+<a href="https://orcid.org/0000-0002-7157-3805">
 <img src="{{ site.baseurl }}/assets/Xu_Rui_floor1.jpg" title="Profile Picture" class="profile">
+</a>
 <big><b>Dr. Rui Xu (徐睿)</b></big><br>
 <i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
@@ -93,6 +95,7 @@ evolution of binary black holes <br>
 <big><b>Hongbo Li (李洪波)</b></big><br>
 <i><b>PhD Student (2020-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
+<b>Email</b>: lihb2020@stu.pku.edu.cn <br>
 <b>Research Interests</b>: gravitational wave bursts <br>
 
 ---
