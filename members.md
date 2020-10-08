@@ -23,7 +23,7 @@ permalink: /member/
 </style>
 
 <a href="https://friendshao.github.io/about/">
-<img src="{{ site.baseurl }}/assets/Shao_Lijing_floor1.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Shao_Lijing_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 <big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
 <i><b>Assistant Professor</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -34,7 +34,7 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Xu_Rui_floor1.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Xu_Rui_floor1.jpg" title="Profile Picture" class="profile">
 <big><b>Dr. Rui Xu (徐睿)</b></big><br>
 <i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
@@ -46,7 +46,7 @@ evolution of binary black holes <br>
 ---
 
 <a href="https://orcid.org/0000-0002-9233-3683">
-<img src="{{ site.baseurl }}/assets/Zhao_Junjie_floor1.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Zhao_Junjie_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 <big><b>Junjie Zhao (赵俊杰)</b></big><br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
@@ -57,7 +57,7 @@ evolution of binary black holes <br>
 ---
 
 <a href="https://orcid.org/0000-0003-1185-8937">
-<img src="{{ site.baseurl }}/assets/Miao_Xueli_floor1.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Miao_Xueli_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 <big><b>Xueli Miao (缪雪丽)</b></big><br>
 <i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
@@ -67,7 +67,7 @@ evolution of binary black holes <br>
 
 ---
 <a href="https://orcid.org/0000-0003-1390-5477">
-<img src="{{ site.baseurl }}/assets/Gao_Yong_floor1.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Gao_Yong_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 <big><b>Yong Gao (高勇)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
@@ -77,7 +77,7 @@ evolution of binary black holes <br>
 
 ---
 <a href="https://orcid.org/0000-0001-7649-6792">
-<img src="{{ site.baseurl }}/assets/Liu_Chang_floor1.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Liu_Chang_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 <big><b>Chang Liu (刘畅)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
@@ -88,7 +88,7 @@ evolution of binary black holes <br>
 ---
 
 <a href="https://orcid.org/0000-0002-4850-8351">
-<img src="{{ site.baseurl }}/assets/Li_Hongbo_floor1.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Li_Hongbo_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 <big><b>Hongbo Li (李洪波)</b></big><br>
 <i><b>PhD Student (2020-now)</b>, Department of Astronomy, School of Physics, 
