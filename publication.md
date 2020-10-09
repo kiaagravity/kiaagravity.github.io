@@ -27,11 +27,6 @@ timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.*
 
 0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), *《科学通报》*, 已接收
 
-0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
-gravitational-wave astronomy: Discoveries waiting in the decihertz
-range](https://arxiv.org/abs/1908.11375), *Class. Quantum Grav.* (accepted),
-arXiv:1908.11375
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
@@ -89,6 +84,11 @@ Phys.* 47 (2020) 085002
 numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
+
+0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
+   gravitational-wave astronomy: Discoveries waiting in the decihertz
+range](https://arxiv.org/abs/1908.11375), *Class. Quantum Grav.* 37 (2020)
+215011 
 
 0. D. Psaltis, *et al.*, [Gravitational test beyond the first
 post-Newtonian order with the shadow of the M87 black
