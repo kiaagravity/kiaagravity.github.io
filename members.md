@@ -155,22 +155,22 @@ evolution of binary black holes <br>
 
 - 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking
   University
-  - <small><font color="blue"><b>Bachelor Thesis</b></font>: *Deep Learning in Gravitational Wave
+  - <small><b>Bachelor Thesis:</b> *Deep Learning in Gravitational Wave
   Data Processing* (Peking University 2020)
 
 - 2019—2020, **Yu Tao** (**陶昱**), School of Physics, Peking
   University
-  - <small><font color="blue"><b>Bachelor Thesis</b></font>: *Brief Studies on Gravitational Waveform
+  - <small><b>Bachelor Thesis:</b> *Brief Studies on Gravitational Waveform
   of Numerical Relativity* (Peking University 2020)
 
 - 2018—2019, **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking
   University
-  - <small><font color="blue"><b>Bachelor Thesis</b></font>: *Astrophysics from Space-based Gravitational
+  - <small><b>Bachelor Thesis:</b> *Astrophysics from Space-based Gravitational
     Wave Detectors* (Peking University 2019)
 
 - 2018—2019, **Zhongpeng Sun** (**孙忠鹏**), Department of Astronomy, Peking
   University
-  - <small><font color="blue"><b>Bachelor Thesis</b></font>: *Constraining Dark Matter Properties with
+  - <small><b>Bachelor Thesis:</b> *Constraining Dark Matter Properties with
     Neutron Stars* (Peking University 2019)
 
 
