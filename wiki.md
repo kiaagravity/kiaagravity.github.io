@@ -47,7 +47,7 @@ group, while everyone is <b>HIGHLY</b> encouraged to talk in the session
 
 | **FORMAT** | **DURATION** | **NOTE** |
 | **General News** | about 5 min |
-| **Literature Reading** | < 15 min | <small>Sometimes, you only have 10 minutes to explain the <b>main</b> idea of a paper! |
+| **Literature Reading** | 20 min | <small>Sometimes, you have limited time to explain the <b>main</b> idea of a paper! |
 | **Paper Presentation** | about 1 hr | <small><b>PLEASE</b> announce the paper at least one week in advance! |
 | **Break** | 5 min | |
 | **Updates on Projects** | indefinite | <small>Those who are not involved are free to leave. |
