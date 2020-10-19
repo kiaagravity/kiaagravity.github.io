@@ -4,15 +4,7 @@ title: Publication
 permalink: /publication/
 ---
 
-### 2020
-
-0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
-characterization, physical environmental monitors, and the geophysics
-interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
-
-0. L. Shao, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (submitted),
-arXiv:2009.06817
+### 2021
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:1908.11410
@@ -20,12 +12,21 @@ astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe at
 μ-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.* (submitted), arXiv:1908.11391
 
+0. L. Shao, [Pulsar tests of the graviton
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (submitted),
+arXiv:2009.06817
+{: reversed="reversed"}
+
+### 2020
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
+characterization, physical environmental monitors, and the geophysics
+interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
+
 0. K. Liu, L. Guillemot, A. Istrate, L. Shao, T.M. Tauris, N. Wex, *et al.*, [A
    revisit of PSR J1909$-$3744 with 15-year high-precision
 timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.*
 (accepted), arXiv:2009.12544
-
-0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), *《科学通报》*, 已接收
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
@@ -129,6 +130,8 @@ Array](https://arxiv.org/abs/1810.02680),
 violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
 in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
 Scientific, Singapore, 2020), p. 234
+
+0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), *《科学通报》*, 已接收
 {: reversed="reversed"}
 
 ---
