@@ -23,11 +23,6 @@ arXiv:2009.06817
 characterization, physical environmental monitors, and the geophysics
 interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
 
-0. K. Liu, L. Guillemot, A. Istrate, L. Shao, T.M. Tauris, N. Wex, *et al.*, [A
-   revisit of PSR J1909$-$3744 with 15-year high-precision
-timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.*
-(accepted), arXiv:2009.12544
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
@@ -37,7 +32,7 @@ gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
 
 0. L. Shao, N. Wex, S.-Y. Zhou, [New graviton mass bound from binary
-   puslars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020) 024069
+   pulsars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020) 024069
 
 0. R. Xu, Y. Gao, L. Shao, [Strong-field effects in massive scalar-tensor
    gravity for slowly spinning neutron stars and application to X-ray pulsar
@@ -70,6 +65,11 @@ gravitational waves](https://arxiv.org/abs/1909.10372),
 violation](https://arxiv.org/abs/1905.08405), in *Proceedings of the Eighth
 Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore, 2020),
 p. 170
+
+0. K. Liu, L. Guillemot, A. Istrate, L. Shao, T.M. Tauris, N. Wex, *et
+al.*, [A revisit of PSR J1909$-$3744 with 15-year high-precision
+timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.* 499
+(2020) 2276
 
 0. K. Wang, S.-Q. Xi, L. Shao, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
 superluminal neutrino velocity and Lorentz invariance violation by neutrino
