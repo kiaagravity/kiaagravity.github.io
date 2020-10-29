@@ -12,16 +12,16 @@ astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe at
 μ-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.* (submitted), arXiv:1908.11391
 
-0. L. Shao, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (submitted),
-arXiv:2009.06817
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
+characterization, physical environmental monitors, and the geophysics
+interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
 {: reversed="reversed"}
 
 ### 2020
 
-0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
-characterization, physical environmental monitors, and the geophysics
-interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
+0. L. Shao, [Pulsar tests of the graviton
+   mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
+arXiv:2009.06817
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
