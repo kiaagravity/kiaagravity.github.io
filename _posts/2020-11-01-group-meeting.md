@@ -7,6 +7,11 @@ categories: activities
 ---
 
 
+## Junjie Zhao
+
+#### Literature reading: GWTC-2: Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run
+
+Reference: R. Abbott, et al. [[arXiv:2010.14527](https://arxiv.org/abs/2010.14527)]
 
 
 
