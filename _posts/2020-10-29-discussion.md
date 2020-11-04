@@ -18,7 +18,7 @@ Chang, Yong, Xueli, Shoulong, Junjie, Rui, Yong, Lijing
 
 ### Agenda
 
-- Round table
+
 - Chang: Frequency-domain signals and the response of LISA
 
 
