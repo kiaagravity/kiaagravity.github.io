@@ -10,7 +10,7 @@ categories: activities
 
 ### Attendees
 
-Shoulong, Chang, Yong, Xueli, Junjie, Rui, Yong, Lijing
+Shoulong, Chang, Yong, Xueli, Junjie, Rui, Hongbo, Lijing
 
 ---
 
@@ -19,9 +19,13 @@ Shoulong, Chang, Yong, Xueli, Junjie, Rui, Yong, Lijing
 ### Agenda
 
 - Round table
-- Shoulong: TBD
+- Shoulong: Gravitational wave from first order phase transition
 
 
+
+### References
+1. [Science with the space-based interferometer eLISA. II: Gravitational waves from cosmological phase transitions](https://arxiv.org/abs/1512.06239)
+2. [Cosmic phase transitions: their applications and experimental signatures](https://arxiv.org/abs/1811.01948)
 
 
 
