@@ -6,6 +6,20 @@ permalink: /publication/
 
 ### 2021
 
+0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron stars](https://arxiv.org/abs/2011.04472),
+*Astron. Nachrichten* (accepted), arXiv:2011.04472
+
+0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques
+in gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), arXiv:2011.04418
+
+0. L. Shao, [Pulsar tests of the graviton
+   mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
+arXiv:2009.06817
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
+science](https://arxiv.org/abs/2008.02921),
+*Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:1908.11410
 
@@ -18,14 +32,6 @@ interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
 {: reversed="reversed"}
 
 ### 2020
-
-0. L. Shao, [Pulsar tests of the graviton
-   mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
-arXiv:2009.06817
-
-0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
-science](https://arxiv.org/abs/2008.02921),
-*Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
