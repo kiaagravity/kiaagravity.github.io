@@ -110,8 +110,6 @@ evolution of binary black holes <br>
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Zihe An** | **安子訸** | Undergraduate Research | [Mech-PKU](http://web.mech.pku.edu.cn/) |
-| 2019—now | **Yichen Wang** | **王弋尘** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2018—now | **Yacheng Kang** | **康亚城** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Zexin Hu** | **胡泽昕** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -154,23 +152,27 @@ evolution of binary black holes <br>
 
 ## Former Members
 
-- 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking
-  University
+- 2019—2020, **Zihe An** (**安子訸**), Department of Mechanics and Engineering Science, Peking University
+  - <small><b>Undergraduate Research:</b> *Simultaneous Bounds on the
+  Gravitational Dipole Radiation and Varying Gravitational Constant from
+  Binary Neutron Star Inspirals* (Peking University 2020)
+
+- 2019—2020, **Yichen Wang** (**王弋尘**), School of Physics, Peking University
+  - <small><b>Undergraduate Research:</b> *Constraining Dark-matter Particles with Neutron Stars* (Peking University 2020)
+
+- 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking University
   - <small><b>Bachelor Thesis:</b> *Deep Learning in Gravitational Wave
   Data Processing* (Peking University 2020)
 
-- 2019—2020, **Yu Tao** (**陶昱**), School of Physics, Peking
-  University
+- 2019—2020, **Yu Tao** (**陶昱**), School of Physics, Peking University
   - <small><b>Bachelor Thesis:</b> *Brief Studies on Gravitational Waveform
   of Numerical Relativity* (Peking University 2020)
 
-- 2018—2019, **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking
-  University
+- 2018—2019, **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking University
   - <small><b>Bachelor Thesis:</b> *Astrophysics from Space-based Gravitational
     Wave Detectors* (Peking University 2019)
 
-- 2018—2019, **Zhongpeng Sun** (**孙忠鹏**), Department of Astronomy, Peking
-  University
+- 2018—2019, **Zhongpeng Sun** (**孙忠鹏**), Department of Astronomy, Peking University
   - <small><b>Bachelor Thesis:</b> *Constraining Dark Matter Properties with
     Neutron Stars* (Peking University 2019)
 
@@ -178,6 +180,8 @@ evolution of binary black holes <br>
 <!--
 
 Comments
+| 2019—2020 | **Zihe An** | **安子訸** | Undergraduate Research | [Mech-PKU](http://web.mech.pku.edu.cn/) |
+| 2019—2020 | **Yichen Wang** | **王弋尘** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019—2020 | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Siyi Zhao** | **赵思逸** | Undergraduate | [PHY-THU](http://www.phys.tsinghua.edu.cn/) |
