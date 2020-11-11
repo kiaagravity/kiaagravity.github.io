@@ -152,13 +152,11 @@ evolution of binary black holes <br>
 
 ## Former Members
 
-- 2019—2020, **Zihe An** (**安子訸**), Department of Mechanics and Engineering Science, Peking University
-  - <small><b>Undergraduate Research:</b> *Simultaneous Bounds on the
-  Gravitational Dipole Radiation and Varying Gravitational Constant from
-  Binary Neutron Star Inspirals* (Peking University 2020)
+- 2019—2020, **Zihe An** (**安子訸**), College of Engineering, Peking University
+  - <small><b>Undergraduate Research:</b> *Fisher Matrix in Gravitational-wave Data Analysis*
 
 - 2019—2020, **Yichen Wang** (**王弋尘**), School of Physics, Peking University
-  - <small><b>Undergraduate Research:</b> *Constraining Dark-matter Particles with Neutron Stars* (Peking University 2020)
+  - <small><b>Undergraduate Research:</b> *Constraining Dark-matter Particles with Neutron Stars*
 
 - 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking University
   - <small><b>Bachelor Thesis:</b> *Deep Learning in Gravitational Wave
