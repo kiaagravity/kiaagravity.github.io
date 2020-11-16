@@ -113,7 +113,7 @@ evolution of binary black holes <br>
 | 2018—now | **Yacheng Kang** | **康亚城** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Zexin Hu** | **胡泽昕** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2018—now | **Huimei Wang** | **王惠美** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2018—now | **Huimei Wang** | **王惠美** | Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Minghao Guo** | **郭明浩** | Bachelor Thesis | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Lingqian Qiu** | **邱令倩** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -151,6 +151,9 @@ evolution of binary black holes <br>
 ---
 
 ## Former Members
+
+- 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
+  - <small><b>Undergraduate Research:</b> *Bounding the Photon Mass with Fast Radio Bursts*
 
 - 2019—2020, **Zihe An** (**安子訸**), College of Engineering, Peking University
   - <small><b>Undergraduate Research:</b> *Fisher Matrix in Gravitational-wave Data Analysis*
