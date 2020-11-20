@@ -20,6 +20,7 @@ Reference: Scott E. Field, et al. [[PRX](https://journals.aps.org/prx/abstract/1
 #### Paper presentation: Fourier-domain modulations and delays of gravitational-wave signals
 
 Reference: Sylvain Marsat, John G. Baker. [[arXiv:1806.10734](https://arxiv.org/abs/1806.10734)]
+Reference: [[Laser Interferometer Space Antenna](https://lisa-ldc.lal.in2p3.fr/static/data/pdf/LDC-manual-002.pdf)]
 
 
 
