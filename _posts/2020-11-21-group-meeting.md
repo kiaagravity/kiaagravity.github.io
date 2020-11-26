@@ -7,7 +7,7 @@ categories: activities
 ---
 
 
-## Minghao Guo
+## Minghao Guo (Put off)
 
 #### Literature reading: Fast Prediction and Evaluation of Gravitational Waveforms Using Surrogate Models 
 
