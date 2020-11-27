@@ -7,6 +7,13 @@ categories: activities
 ---
 
 
+## Jingyuan Deng
+
+#### Literature reading: Precession Interpretation of the Isolated Pulsar PSR B1828-11
+
+Reference: Bennett Link，Richard I. Epstein. [[arxiv:0101434](https://arxiv.org/pdf/astro-ph/0101434.pdf)]
+
+
 ## Minghao Guo
 
 #### Literature reading: Fast Prediction and Evaluation of Gravitational Waveforms Using Surrogate Models 
@@ -15,8 +22,4 @@ Reference: Scott E. Field, et al. [[PRX](https://journals.aps.org/prx/abstract/1
 
 
 
-## Jingyuan Deng
 
-#### Literature reading: Precession Interpretation of the Isolated Pulsar PSR B1828-11
-
-Reference: Bennett Link，Richard I. Epstein. [[arxiv:0101434](https://arxiv.org/pdf/astro-ph/0101434.pdf)]
