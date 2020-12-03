@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Xu, Y. Gao, L. Shao, [Precessions of spheroidal stars under Lorentz
+   violation and observational consequences](https://arxiv.org/abs/2012.01320),
+arXiv:2012.01320
+
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques
 in gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), arXiv:2011.04418
 
