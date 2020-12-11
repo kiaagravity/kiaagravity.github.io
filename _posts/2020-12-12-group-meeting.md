@@ -24,6 +24,6 @@ Reference: Tullio Regge and John A. Wheeler. [[Physical Review Journals Archive]
 
 #### Presentation: Neutron star structure in massive scalar-tensor theory and its effect on x-ray pulsar profile
 
-##Yong Gao
+## Yong Gao
 
 #### Presentation: Precession of deformed neutron stars
