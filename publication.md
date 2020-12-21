@@ -13,23 +13,23 @@ arXiv:2012.01320
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques
 in gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), arXiv:2011.04418
 
-0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
-characterization, physical environmental monitors, and the geophysics
-interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
-
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:1908.11410
 
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe at
 μ-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.* (submitted), arXiv:1908.11391
 
-0. L. Shao, [Pulsar tests of the graviton
-   mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
-arXiv:2009.06817
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
+characterization, physical environmental monitors, and the geophysics
+interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. L. Shao, [Pulsar tests of the graviton
+   mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
+arXiv:2009.06817
 
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachrichten* (accepted), arXiv:2011.04472
@@ -141,7 +141,7 @@ violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
 in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
 Scientific, Singapore, 2020), p. 234
 
-0. 邵立晶, [引力波视角下的世界图景](https://doi.org/10.1360/TB-2020-1068), *《科学通报》*, 已接收
+0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), 《科学通报》 65 (2020) 4013
 {: reversed="reversed"}
 
 ---
