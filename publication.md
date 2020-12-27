@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
+gravitational waves from the energetic young pulsar PSR
+J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
+
 0. R. Xu, Y. Gao, L. Shao, [Precessions of spheroidal stars under Lorentz
    violation and observational consequences](https://arxiv.org/abs/2012.01320),
 arXiv:2012.01320
