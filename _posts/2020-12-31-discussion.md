@@ -23,7 +23,7 @@ Hongbo, Rui, Junjie, Shoulong, Yong, Chang, Xueli, Lijing
 
 
 ### References
-John P. Cox, _Theory of stellar pulsation, Chapter 17,_ (Princeton University Press)
+John P. Cox, _Theory of stellar pulsation, Chapter 17_ (Princeton University Press)
 
 
 
