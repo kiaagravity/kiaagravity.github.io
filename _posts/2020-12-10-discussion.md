@@ -19,12 +19,12 @@ Junjie, Shoulong, Yong, Hongbo, Chang, Xueli, Rui, Lijing
 ### Agenda
 
 - Round table
-- Junjie: Foundations of Newtonian gravity
+- Junjie: Foundations of Newtonian gravity I
 
 
 ### References
 
-[Chapter 1, page 1-37, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
+[Chapter 1, page 1-12, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
 
 
 
