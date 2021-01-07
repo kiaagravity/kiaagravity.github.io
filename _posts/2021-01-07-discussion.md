@@ -33,4 +33,4 @@ Junjie, Hongbo, Rui, Shoulong, Yong, Chang, Xueli, Lijing
 
 ### Time
 
-7:30 pm -- 9:30 pm
+7:30 pm -- 10:00 pm
