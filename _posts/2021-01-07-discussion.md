@@ -24,7 +24,7 @@ Junjie, Hongbo, Rui, Shoulong, Yong, Chang, Xueli, Lijing
 
 ### References
 
-[Chapter 1, page 38-60, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
+[Chapter 1, page 38-49, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
 
 
 
