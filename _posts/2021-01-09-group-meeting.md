@@ -12,5 +12,7 @@ categories: activities
 #### Literature reading: Constraining the dense matter equation-of-state with radio pulsars
 
 Reference: Huanchen Hu et al. [[arXiv](https://arxiv.org/abs/2007.07725)]
+
 Reference: Manjari Bagchi. [[Universe](https://www.mdpi.com/2218-1997/4/2/36)]
+
 Reference: Eric Thrane et al. [[arXiv](https://arxiv.org/abs/1910.12330v2)]
