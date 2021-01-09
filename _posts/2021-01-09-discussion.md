@@ -23,7 +23,7 @@ Junjie, Hongbo, Rui, Shoulong, Yong, Chang, Xueli, Lijing
 
 ### References
 
-[Chapter 1, page 49-60, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
+[Chapter 1, page 50-60, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
 
 
 
@@ -32,4 +32,4 @@ Junjie, Hongbo, Rui, Shoulong, Yong, Chang, Xueli, Lijing
 
 ### Time
 
-7:30 pm -- 9:30 pm
+7:00 pm -- 9:30 pm
