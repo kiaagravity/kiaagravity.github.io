@@ -18,7 +18,6 @@ Junjie, Hongbo, Rui, Shoulong, Yong, Chang, Xueli, Lijing
 
 ### Agenda
 
-- Round table
 - Junjie: Foundations of Newtonian gravity IV
 
 
