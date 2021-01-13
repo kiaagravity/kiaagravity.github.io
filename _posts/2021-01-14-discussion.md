@@ -15,6 +15,7 @@ Shoulong, Junjie, Rui, Yong, Chang, Xueli, Lijing
 
 ### Agenda
 
+- Round table
 - Shoulong: NANOGrav signal from cosmological confinement/deconfinement phase transition in different QCD systems
 
 
