@@ -20,6 +20,9 @@ Rui, Shoulong, Junjie, Yong, Chang, Xueli, Lijing
 
 ### Reference
 
+1. [New Gauss-Bonnet black holes with curvature induced scalarization in the extended scalar-tensor theories](https://arxiv.org/abs/1711.01187)
+
+2. [Spontaneous Scalarization of Black Holes and Compact Stars from a Gauss-Bonnet Coupling](https://arxiv.org/abs/1711.02080)
 
 
 
