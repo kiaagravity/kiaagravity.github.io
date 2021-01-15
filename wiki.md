@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ## Group Meeting
 
-**Chair**: Xueli Miao (缪雪丽)
+**Chair**: Yong Gao (高勇)
 
 Group meeting provides a friendly environment to interact with group
 members or visiting scholars.  It also brings the opportunity to broaden views
