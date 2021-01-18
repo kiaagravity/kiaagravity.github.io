@@ -28,4 +28,4 @@ Rui, Shoulong, Junjie, Yong, Chang, Xueli, Lijing
 
 ### Time
 
-3:00 pm -- 5:00 pm
+3:00 pm -- 5:30 pm
