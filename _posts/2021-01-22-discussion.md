@@ -15,6 +15,7 @@ Chang, Rui, Shoulong, Junjie, Yong, Xueli, Lijing, Hongbo
 
 ### Agenda
 
+- Round table
 - Chang: Structure of self-gravitating bodies
 
 
