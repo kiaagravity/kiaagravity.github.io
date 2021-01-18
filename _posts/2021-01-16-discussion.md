@@ -9,12 +9,14 @@ categories: activities
 
 ### Attendees
 
-Rui, Shoulong, Junjie, Yong, Chang, Xueli, Lijing
+Rui, Shoulong, Junjie, Yong, Chang, Xueli, Lijing, Hongbo
 
 ---
 
 ### Agenda
 
+- Chang: Annual report rehearsal
+- Yong: Annual report rehearsal
 - Rui: Spherical scalarized black hole in scalar-tensor theories with the Gauss-Bonnet term
 
 
