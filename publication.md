@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
+confinement/deconfinement phase transition in different QCD
+matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
+
 0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
 gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
