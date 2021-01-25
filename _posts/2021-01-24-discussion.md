@@ -15,7 +15,7 @@ Yong, Chang, Rui, Junjie, Xueli, Lijing, Hongbo
 
 ### Agenda
 
-- Yong: Effective one-body approach to general relativistic two-body dynamics
+- Yong: Effective one-body approach to general relativistic two-body dynamics part I
 
 
 ### Reference
@@ -27,4 +27,4 @@ Yong, Chang, Rui, Junjie, Xueli, Lijing, Hongbo
 
 ### Time
 
-2:00 pm -- 4:00 pm
+2:00 pm -- 5:00 pm
