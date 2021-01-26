@@ -184,8 +184,6 @@ Comments
 | 2019—2020 | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—2020 | **Zihe An** | **安子訸** | Undergraduate Research | [Mech-PKU](http://web.mech.pku.edu.cn/) |
-| 2019—2020 | **Yichen Wang** | **王弋尘** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2019—2020 | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Siyi Zhao** | **赵思逸** | Undergraduate | [PHY-THU](http://www.phys.tsinghua.edu.cn/) |
