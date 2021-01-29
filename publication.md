@@ -6,7 +6,7 @@ permalink: /publication/
 
 ### 2021
 
-0. J. Zhao, **L. Shao**, Y. Gao, C. Liu, Z. Cao, B.-Q.  Ma, [Dipole radiation
+0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q.  Ma, [Dipole radiation
    from binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave observatories](TBA), submitted
 
