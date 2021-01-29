@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
+background from Advanced LIGO's and Advanced Virgo's third observing
+run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
+
 0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
 confinement/deconfinement phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
