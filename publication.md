@@ -32,10 +32,6 @@ astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:
 characterization, physical environmental monitors, and the geophysics
 interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
 
-0. R. Xu, Y. Gao, L. Shao, [Signature of Lorentz violation in continuous
-gravitational-wave spectra of ellipsoidal neutron stars](https://arxiv.org/abs/2101.09431), *Galaxies*
-(accepted), arXiv:2101.09431
-
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
@@ -46,6 +42,10 @@ arXiv:2009.06817
 
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachrichten* (accepted), arXiv:2011.04472
+
+0. R. Xu, Y. Gao, L. Shao, [Signature of Lorentz violation in continuous
+gravitational-wave spectra of ellipsoidal neutron
+stars](https://arxiv.org/abs/2101.09431), *Galaxies* 9 (2021) 12
 
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
