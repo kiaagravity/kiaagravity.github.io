@@ -17,6 +17,7 @@ Rui, Yong, Chang, Junjie, Xueli, Lijing, Hongbo
 
 - Round table
 - Rui: Linearized scalar equation in ST theory with GB term
+- Junjie: research update
 
 
 ### Reference
@@ -28,4 +29,4 @@ Rui, Yong, Chang, Junjie, Xueli, Lijing, Hongbo
 
 ### Time
 
-9:00 am -- 11:00 am
+9:00 am -- 11:10 am
