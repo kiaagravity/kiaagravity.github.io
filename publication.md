@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. J. Zhao, **L. Shao**, Y. Gao, C. Liu, Z. Cao, B.-Q.  Ma, [Dipole radiation
+   from binary neutron stars with ground-based laser-interferometer and
+atom-interferometer gravitational-wave observatories](TBA), submitted
+
 0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
 background from Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
