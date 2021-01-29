@@ -36,7 +36,7 @@ astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:
 characterization, physical environmental monitors, and the geophysics
 interferometer](https://arxiv.org/abs/2009.09305), arXiv:2009.09305
 
-0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), 《天文学报》, submitted
+0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, submitted
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
@@ -164,7 +164,7 @@ violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
 in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
 Scientific, Singapore, 2020), p. 234
 
-0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), 《科学通报》 65 (2020) 4013
+0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), *《科学通报》* 65 (2020) 4013
 {: reversed="reversed"}
 
 ---
