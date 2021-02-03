@@ -15,7 +15,7 @@ Chang, Junjie, Rui, Yong, Xueli, Lijing
 
 ### Agenda
 
-- Round table
+
 - Chang: Research update -- exploring neutron star structure with decihertz GW detectors
 
 
