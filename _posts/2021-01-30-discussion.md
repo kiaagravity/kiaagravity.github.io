@@ -29,4 +29,4 @@ Chang, Junjie, Rui, Yong, Xueli, Lijing, Hongbo
 
 ### Time
 
-2:00 am -- 4:00 am
+2:00 am -- 5:00 am
