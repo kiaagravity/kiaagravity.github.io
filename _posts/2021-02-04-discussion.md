@@ -17,7 +17,7 @@ Chang, Junjie, Rui, Yong, Xueli, Lijing
 
 
 - Chang: Research update -- exploring neutron star structure with decihertz GW detectors
-
+- Yong: Research update -- moment of inertia for quark stars
 
 
 
