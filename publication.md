@@ -6,6 +6,14 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
+third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
+arXiv:2101.12248
+
+0. A. Allahyari, L. Shao, [Testing no-hair theorem by quasi-periodic
+oscillations: the quadrupole of GRO
+J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
+
 0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q.  Ma, [Dipole radiation
    from binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave observatories](TBA), submitted
