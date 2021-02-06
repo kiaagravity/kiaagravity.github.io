@@ -162,7 +162,7 @@ evolution of binary black holes <br>
 
 - 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking University
   - <small><b>Bachelor Thesis:</b> *Deep Learning in Gravitational Wave
-  Data Processing* (Peking University 2020)
+  Data Processing* (Peking University 2020) [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.024040)]
 
 - 2019—2020, **Yu Tao** (**陶昱**), School of Physics, Peking University
   - <small><b>Bachelor Thesis:</b> *Brief Studies on Gravitational Waveform
