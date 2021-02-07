@@ -16,7 +16,7 @@ Xueli, Chang, Junjie, Rui, Yong, Lijing
 ### Agenda
 
 - Round table
-- Xueli: Research update
+- Xueli: Research update --Radiative tests of gravity with highly relativistic binary pulsars in the era of LISA and SKA
 
 
 
