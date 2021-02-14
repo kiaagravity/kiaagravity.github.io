@@ -16,7 +16,7 @@ Junjie, Xueli, Chang, Rui, Yong, Lijing
 ### Agenda
 
 
-- Junjie: Research update 
+- Junjie: Research update -- Constrain the gravitational constant and dipole radiation using GW observation
 
 
 
