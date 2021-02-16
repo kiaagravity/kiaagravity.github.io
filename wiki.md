@@ -32,25 +32,22 @@ in science, to learn different methods in solving problems, to strengthen the
 capability in scientifically sound presentations, even to develop close
 collaborations via inspiring discussions. 
 
-1. Our group meetings take place in the <b>1st meeting room at KIAA</b>. To avoid
-   conflicts with students' classes, the time is fixed to <b>Saturdays
-   9:00—11:30</b>. 
+- Our group meetings take place in the <b>1st meeting room at KIAA</b>. To
+avoid conflicts with students' classes, the time is fixed to <b>Saturdays
+14:00—16:30</b>.
 
-2. Sessions **literature reading** and **paper presentation** are reserved
-for undergraduates/graduates/postdocs who work on research projects in the
-group, while everyone is <b>HIGHLY</b> encouraged to talk in the session
-**updates on projects**.
+- It is suggested to speak English whenever there are foreigners in the
+audience. Otherwise it is suggested to talk in Chinese, but use English in
+slides.
 
-3. It is suggested to use English whenever there are foreigners in the
-   audience.  Otherwise it is suggested to talk in Chinese, but use English in
-   slides. 
-
+<!---
 | **FORMAT** | **DURATION** | **NOTE** |
 | **General News** | about 5 min |
 | **Literature Reading** | 20 min | <small>Sometimes, you have limited time to explain the <b>main</b> idea of a paper! |
 | **Paper Presentation** | about 1 hr | <small><b>PLEASE</b> announce the paper at least one week in advance! |
 | **Break** | 5 min | |
 | **Updates on Projects** | indefinite | <small>Those who are not involved are free to leave. |
+--->
 
 <p></p>
 
@@ -60,8 +57,8 @@ group, while everyone is <b>HIGHLY</b> encouraged to talk in the session
 
 **Chair**: Dr. Rui Xu (徐睿 博士)
 
-We have weekly discussion on research topics every **Thursdays
-19:30—21:30** in the **2nd meeting room at KIAA**. The attendees are
+We have weekly discussion on research topics every **Wednesdays
+19:00—21:30** in the **2nd meeting room at KIAA**. The attendees are
 limited to graduates/postdocs who work on research projects in the group.
 Speakers are encouraged to use blackboard only!
 
