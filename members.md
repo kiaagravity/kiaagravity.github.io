@@ -116,7 +116,7 @@ evolution of binary black holes <br>
 | 2018—now | **Huimei Wang** | **王惠美** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Minghao Guo** | **郭明浩** | Bachelor Thesis | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Lingqian Qiu** | **邱令倩** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Lingchan Qiu** | **邱令倩** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Jingyuan Deng** | **邓景元** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Chunjiang Li** | **李春江** | Joint Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -132,6 +132,7 @@ evolution of binary black holes <br>
 | 2020—now | **Sebastian Bahamonde** |  | Postdoc | [UT.EE](http://sebastianbahamonde.com/) |
 | 2020—now | **Alireza Allahyari** |  | Postdoc | [IMP.IR](http://www.ipm.ac.ir/) |
 | 2020—now | **Shoulong Li** | **李守龙** | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
+| 2021—now | **Dicong Liang** | **梁迪聪** | Pre-postdoc | [HUST](http://phys.hust.edu.cn/) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -140,6 +141,7 @@ evolution of binary black holes <br>
 | 2020—now | **Zihan Xue** | **薛子涵** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Qinyuan Zhang** | **张秦源** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Rui Zhu** | **朱睿** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Zihao Wu** | **吴梓豪** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
