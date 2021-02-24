@@ -56,11 +56,12 @@ science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
 0. L. Shao, [Pulsar tests of the graviton
-   mass](https://arxiv.org/abs/2009.06817), *Astron. Nachrichten* (accepted),
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* (accepted),
 arXiv:2009.06817
 
-0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron stars](https://arxiv.org/abs/2011.04472),
-*Astron. Nachrichten* (accepted), arXiv:2011.04472
+0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
+stars](https://arxiv.org/abs/2011.04472),
+*Astron. Nachr.* (accepted), arXiv:2011.04472
 
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
