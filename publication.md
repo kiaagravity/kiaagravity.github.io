@@ -33,14 +33,15 @@ matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 
-0. R. Xu, Y. Gao, L. Shao, [Precessions of spheroidal stars under Lorentz
-   violation and observational consequences](https://arxiv.org/abs/2012.01320),
-arXiv:2012.01320
-
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:1908.11410
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, submitted
+
+0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
+and observational consequences for neutron
+stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* (accepted),
+arXiv:2012.01320
 
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
