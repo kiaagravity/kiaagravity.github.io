@@ -18,7 +18,7 @@ Reference: James Terrell [[PHYSICAL REVIEW](https://journals.aps.org/pr/abstract
 
 #### Paper presentation: Axion as a dark matter candidate
 
-Reference: Zihang Wang, et al. [[Journal of Cosmology and Astroparticle Physics](https://www.sciencedirect.com/science/article/pii/S2213133716301056?via%3Dihub)]
+Reference: Zihang Wang, et al. [[Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/article/10.1088/1475-7516/2020/07/038/meta)]
 
 Reference: Zihang Wang, et al. [[Arxiv](https://arxiv.org/abs/2102.04669)]
 
