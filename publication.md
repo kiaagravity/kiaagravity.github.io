@@ -73,6 +73,11 @@ Rev. D* 103 (2021) 024040
 0. R. Xu, Y. Gao, L. Shao, [Signature of Lorentz violation in continuous
 gravitational-wave spectra of ellipsoidal neutron
 stars](https://arxiv.org/abs/2101.09431), *Galaxies* 9 (2021) 12
+
+0. T. Akutsu, *et al.*, [Vibration isolation systems for the beam splitter
+and signal recycling mirrors of the KAGRA gravitational wave
+detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
+*Class. Quantum Grav.* 38 (2021) 065011
 {: reversed="reversed"}
 
 ### 2020
