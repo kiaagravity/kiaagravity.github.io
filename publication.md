@@ -80,6 +80,8 @@ detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
 *Class. Quantum Grav.* 38 (2021) 065011
 {: reversed="reversed"}
 
+---
+
 ### 2020
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
