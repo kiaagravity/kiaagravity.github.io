@@ -153,41 +153,44 @@ evolution of binary black holes <br>
 
 ## Former Members
 
+<span style="background-color:#1E90FF"><font color="white"><b>Undergraduate Research</b></font></span>
+&nbsp;
+<span style="background-color:#32CD32"><font color="white"><b>Bachelor Thesis</b></font></span>
+&nbsp;
+<span style="background-color:#6A5ACD"><font color="white"><b>Doctoral Thesis</b></font></span>
+&nbsp;
+<span style="background-color:#2F4F4F"><font color="white"><b>Postdoctoral Report</b></font></span>
+
 - 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>Undergraduate Research</b></font></span> 
-    *Bounding the Photon Mass with Fast Radio Bursts*
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Bounding the Photon Mass with Fast Radio Bursts* 
 
 - 2019—2020, **Zihe An** (**安子訸**), College of Engineering, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>Undergraduate Research</b></font></span> 
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Fisher Matrix in Gravitational-wave Data Analysis*
 
 - 2019—2020, **Yichen Wang** (**王弋尘**), School of Physics, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>Undergraduate Research</b></font></span> 
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Constraining Dark-matter Particles with Neutron Stars*
 
 - 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>Bachelor Thesis</b></font></span>
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Deep Learning in Gravitational Wave Data Processing* (Peking University 2020) 
     [[PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.024040)]
 
 - 2019—2020, **Yu Tao** (**陶昱**), School of Physics, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>Bachelor Thesis</b></font></span> 
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> 
     *Brief Studies on Gravitational Waveform of Numerical Relativity* (Peking University 2020)
 
 - 2018—2019, **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>Bachelor Thesis</b></font></span>
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Astrophysics from Space-based Gravitational Wave Detectors* (Peking University 2019)
 
 - 2018—2019, **Zhongpeng Sun** (**孙忠鹏**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>Bachelor Thesis</b></font></span> 
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> 
     *Constraining Dark Matter Properties with Neutron Stars* (Peking University 2019)
 
-
 <!--
-
-<small><span style="background-color:#2F4F4F"><font color="white"><b>Postdoctoral Report</b></font></span>
-
-<small><span style="background-color:#6A5ACD"><font color="white"><b>Doctoral Thesis</b></font></span>
 
 Comments
 
