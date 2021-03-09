@@ -151,8 +151,6 @@ evolution of binary black holes <br>
 
 ---
 
-## Former Members
-
 <small>
 <span style="background-color:#1E90FF"><font color="white"><b>Undergraduate Research</b></font></span>
 &nbsp;
@@ -162,6 +160,8 @@ evolution of binary black holes <br>
 &nbsp;
 <span style="background-color:#2F4F4F"><font color="white"><b>Postdoctoral Report</b></font></span>
 </small>
+
+## Former Members
 
 - 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
