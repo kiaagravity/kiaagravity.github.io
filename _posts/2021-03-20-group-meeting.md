@@ -14,8 +14,6 @@ categories: activities
 
 ## Paper presentation
 
-------
-
 #### Yacheng Kang: The gravitational-wave detection of exoplanets orbiting white dwarf binaries using LISA
 
 Reference: Nicola Tamanini, et al. [[nature astronomy](https://www.nature.com/articles/s41550-019-0807-y)]
