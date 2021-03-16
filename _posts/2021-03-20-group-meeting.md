@@ -6,7 +6,7 @@ author: Yong Gao
 categories: activities
 ---
 
-##  Rehearsal of Doctoral Dissertation Defense
+##  Rehearsal of doctoral dissertation defense
 
 #### Junjie Zhao: 利用脉冲双星系统与引力波检验偶极辐射 
 
