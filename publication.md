@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Abbott, *et al.*, [Search for anisotropic gravitational-wave
+backgrounds using data from Advanced LIGO's and Advanced Virgo's first
+three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
+
 0. Z. Wang, L. Shao, [Axion induced spin effective
    couplings](https://arxiv.org/abs/2102.04669), arXiv:2102.04669
 
