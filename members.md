@@ -194,6 +194,12 @@ evolution of binary black holes <br>
 
 <!--
 
+
+<p></p>
+    <img src="{{ site.baseurl }}/assets/Zhao_junjie_floor1.jpg" alt="Avatar" class="avatar">
+    <img src="{{ site.baseurl }}/assets/Miao_Xueli_floor1.jpg" alt="Avatar" class="avatar">
+<p></p>
+
 Comments
 
 | 2019—2020 | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
