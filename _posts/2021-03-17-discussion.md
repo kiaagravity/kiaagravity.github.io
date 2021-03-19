@@ -16,7 +16,7 @@ Hongbo, Junjie, Yong, Lijing, Xueli, Chang, Rui
 ### Agenda
 
 - Round table
-- Hongbo: Oscillations of neutron stars I
+- Hongbo: Oscillations of neutron stars II
 
 
 ### Reference
