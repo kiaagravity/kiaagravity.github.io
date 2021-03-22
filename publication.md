@@ -11,7 +11,7 @@ backgrounds using data from Advanced LIGO's and Advanced Virgo's first
 three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
 
 0. Z. Wang, L. Shao, [Axion induced spin effective
-   couplings](https://arxiv.org/abs/2102.04669), arXiv:2102.04669
+couplings](https://arxiv.org/abs/2102.04669), arXiv:2102.04669
 
 0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
 third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
@@ -21,8 +21,8 @@ arXiv:2101.12248
 oscillations: the quadrupole of GRO
 J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 
-0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q.  Ma, [Dipole radiation
-   from binary neutron stars with ground-based laser-interferometer and
+0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation
+from binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave observatories](TBA), submitted
 
 0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
@@ -38,13 +38,14 @@ gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
-astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted), arXiv:1908.11410
+astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted),
+arXiv:1908.11410
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, submitted
 
-1. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, submitted
+0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, submitted
 
-2. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
+0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
 stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* (accepted),
 arXiv:2012.01320
@@ -55,7 +56,7 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
 characterization, physical environmental monitors, and the geophysics
-interferometer](https://arxiv.org/abs/2009.09305), 
+interferometer](https://arxiv.org/abs/2009.09305),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2009.09305
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
@@ -88,15 +89,18 @@ detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
 ### 2020
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
-gravitational-wave transient catalog GWTC-1](https://arxiv.org/abs/2002.01185),
+gravitational-wave transient catalog
+GWTC-1](https://arxiv.org/abs/2002.01185),
 *Phys. Rev. D* 101 (2020) 104019
 
 0. L. Shao, N. Wex, S.-Y. Zhou, [New graviton mass bound from binary
-   pulsars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020) 024069
+pulsars](https://arxiv.org/abs/2007.04531), *Phys. Rev. D* 102 (2020)
+024069
 
 0. R. Xu, Y. Gao, L. Shao, [Strong-field effects in massive scalar-tensor
-   gravity for slowly spinning neutron stars and application to X-ray pulsar
-pulse profiles](https://arxiv.org/abs/2007.10080), *Phys. Rev. D* 102 (2020) 064057
+gravity for slowly spinning neutron stars and application to X-ray pulsar
+pulse profiles](https://arxiv.org/abs/2007.10080), *Phys. Rev. D* 102
+(2020) 064057
 
 0. Y. Gao, L. Shao, R. Xu, L. Sun, C. Liu, R.-X. Xu, [Triaxially-deformed
 freely-precessing neutron stars: continuous electromagnetic and
@@ -108,9 +112,9 @@ conservation laws in post-Newtonian gravity with binary
 pulsars](https://arxiv.org/abs/2006.09652), *Astrophys. J.* 898 (2020) 69
 
 0. C. Liu, L. Shao, J. Zhao, Y. Gao, [Multiband observation of LIGO/Virgo
-   binary black hole mergers in the gravitational-wave transient catalog
-GWTC-1](https://arxiv.org/abs/2004.12096), *Mon. Not. R. Astron. Soc.*
-496 (2020) 182
+binary black hole mergers in the gravitational-wave transient catalog
+GWTC-1](https://arxiv.org/abs/2004.12096), *Mon. Not. R. Astron. Soc.* 496
+(2020) 182
 
 0. Z. Wang, L. Shao, L.-X. Li, [Resonant instability of axionic dark matter
 clumps](https://arxiv.org/abs/2002.09144), *J. Cosmol. Astropart. Phys.* 07
@@ -133,12 +137,11 @@ timing](https://arxiv.org/abs/2009.12544), *Mon. Not. R. Astron. Soc.* 499
 
 0. K. Wang, S.-Q. Xi, L. Shao, R.-Y. Liu, Z. Li, Z.-K. Zhang, [Limiting
 superluminal neutrino velocity and Lorentz invariance violation by neutrino
-emission from the blazar TXS
-0506+056](https://arxiv.org/abs/2009.05201),
+emission from the blazar TXS 0506+056](https://arxiv.org/abs/2009.05201),
 *Phys. Rev. D* 102 (2020) 063027
 
 0. Z. Xiao, L. Shao, [The CPT-violating effects on neutrons' gravitational
-   bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
+bound state](https://arxiv.org/abs/1906.00146), *J. Phys. G: Nucl. Part.
 Phys.* 47 (2020) 085002
 
 0. X. Liu, Z. Cao, L. Shao, [Validating the effective-one-body
@@ -147,17 +150,17 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
-   gravitational-wave astronomy: Discoveries waiting in the decihertz
+gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), *Class. Quantum Grav.* 37 (2020)
-215011 
+215011
 
 0. D. Psaltis, *et al.*, [Gravitational test beyond the first
 post-Newtonian order with the shadow of the M87 black
 hole](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.141104),
 *Phys. Rev. Lett.* 125 (2020) 141104
 
-0. M. Wielgus, *et al.*, [Monitoring the morphology of M87$^\star$ in 2009-2017
-with the Event Horizon
+0. M. Wielgus, *et al.*, [Monitoring the morphology of M87$^\star$ in
+2009-2017 with the Event Horizon
 Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/abac0d),
 *Astrophys. J.* 901 (2020) 67
 
@@ -183,7 +186,7 @@ Array](https://arxiv.org/abs/1810.02680),
 *Publ. Astron. Soc. Aust.* 37 (2020) e002
 
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
-   LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
+LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
 81
 
 0. R. Xu, [Spacetime nonmetricity and Lorentz
@@ -191,15 +194,16 @@ violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
 in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
 Scientific, Singapore, 2020), p. 234
 
-0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), *《科学通报》* 65 (2020) 4013
+0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068),
+*《科学通报》* 65 (2020) 4013
 {: reversed="reversed"}
 
 ---
 
 ### 2019
 
-0. L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence principle
-  in the standard-model extension with binary
+0. L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence
+principle in the standard-model extension with binary
 pulsars](https://arxiv.org/abs/1903.11760), *Phys. Rev. D* 99 (2019) 084017
 
 0. L. Shao, [Lorentz-violating matter-gravity couplings in
@@ -256,14 +260,14 @@ project](https://arxiv.org/abs/1904.04923), *Astrophys. J. Suppl.* 243
 0. B.S. Sathyaprakash, A. Buonanno, L. Lehner, C. Van Den Broeck, *et al.*,
 [Extreme gravity and fundamental
 physics](https://arxiv.org/abs/1903.09221),
-*Bulletin of the American Astronomical Society* 51 (2019) 251
+*Bull. Am. Astron. Soc.* 51 (2019) 251
 
 0. G.C. Bower, *et al.*, [Fundamental physics with Galactic center
-pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B), *Bulletin of
-the American Astronomical Society* 51 (2019) 438
+pulsars](http://adsabs.harvard.edu/abs/2019BAAS...51c.438B), *Bull. Am.
+Astron. Soc.* 51 (2019) 438
 
-0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VI. The
-shadow and mass of the central black
+0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VI.
+The shadow and mass of the central black
 hole](https://doi.org/10.3847/2041-8213/ab1141), *Astrophys. J. Lett.* 875
 (2019) L6
 
