@@ -118,7 +118,6 @@ evolution of binary black holes <br>
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Lingchan Qiu** | **邱令倩** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Jingyuan Deng** | **邓景元** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Chunjiang Li** | **李春江** | Joint Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
@@ -139,7 +138,7 @@ evolution of binary black holes <br>
 | 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Rui Zhu** | **朱睿** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR](https://www.mpifr-bonn.mpg.de/research/fundamental) |
+| 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
@@ -206,6 +205,7 @@ Comments
 | 2019—2020 | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Siyi Zhao** | **赵思逸** | Undergraduate | [PHY-THU](http://www.phys.tsinghua.edu.cn/) |
 | 2020—2020 | **Fangzheng Xiong** | **熊方正** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 -->
 
