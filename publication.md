@@ -62,14 +62,6 @@ interferometer](https://arxiv.org/abs/2009.09305),
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
-0. L. Shao, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* (accepted),
-arXiv:2009.06817
-
-0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
-stars](https://arxiv.org/abs/2011.04472),
-*Astron. Nachr.* (accepted), arXiv:2011.04472
-
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
@@ -77,6 +69,13 @@ Rev. D* 103 (2021) 024040
 0. R. Xu, Y. Gao, L. Shao, [Signature of Lorentz violation in continuous
 gravitational-wave spectra of ellipsoidal neutron
 stars](https://arxiv.org/abs/2101.09431), *Galaxies* 9 (2021) 12
+
+0. L. Shao, [Pulsar tests of the graviton
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
+
+0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
+stars](https://arxiv.org/abs/2011.04472),
+*Astron. Nachr.* 342 (2021) 364
 
 0. T. Akutsu, *et al.*, [Vibration isolation systems for the beam splitter
 and signal recycling mirrors of the KAGRA gravitational wave
