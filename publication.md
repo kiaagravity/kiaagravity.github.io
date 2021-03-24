@@ -84,11 +84,11 @@ stars](https://arxiv.org/abs/2011.04472),
 
 0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VIII.
 Magnetic field structure near the event
-horizon](http://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
+horizon](https://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
 910 (2021) L13
 
 0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VII.
-Polarization of the ring](http://doi.org/10.3847/2041-8213/abe71e),
+Polarization of the ring](https://doi.org/10.3847/2041-8213/abe71e),
 *Astrophys. J. Lett.* 910 (2021) L12
 
 0. T. Akutsu, *et al.*, [Vibration isolation systems for the beam splitter
