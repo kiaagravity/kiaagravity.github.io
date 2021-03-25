@@ -9,9 +9,9 @@ categories: activities
 
 ##  Chang Liu
 
-#### Literature reading: 
+#### Literature reading: Systematic Parameter Errors in Inspiraling Neutron Star Binaries
 
-Reference: 
+Reference: Marc Favata [[Physical Review Letter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.101101)]
 
 
 ##  Ziming Wang
