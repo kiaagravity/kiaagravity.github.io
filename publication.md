@@ -63,10 +63,6 @@ interferometer](https://arxiv.org/abs/2009.09305),
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
 
-0. C. Goddi, *et al.*, [Polarimetric properties of Event Horizon Telescope
-targets from ALMA](http://doi.org/10.3847/2041-8213/abee6a), *Astrophys. J.
-Lett.* 910 (2021) TBA
-
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
@@ -82,13 +78,18 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
 
+0. C. Goddi, *et al.*, [Polarimetric properties of Event Horizon Telescope
+targets from ALMA](http://doi.org/10.3847/2041-8213/abee6a), *Astrophys. J.
+Lett.* 910 (2021) L14
+
 0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VIII.
 Magnetic field structure near the event
 horizon](https://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
 910 (2021) L13
 
 0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope results. VII.
-Polarization of the ring](https://doi.org/10.3847/2041-8213/abe71e),
+Polarization of the
+ring](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d),
 *Astrophys. J. Lett.* 910 (2021) L12
 
 0. T. Akutsu, *et al.*, [Vibration isolation systems for the beam splitter
