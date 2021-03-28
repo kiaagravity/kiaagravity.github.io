@@ -18,7 +18,7 @@ Reference: Kip S. Thorne [[The Astrophysical Journal](https://ui.adsabs.harvard.
 
 #### Paper presentation: Boson Stars: Gravitational Equilibria of Self-Interacting Scalar Fields
 
-Reference: Monica Colpi, Stuart L. Shapiro and Ira Wasserman [[Physical Review Letter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.57.2485)]
+Reference: Monica Colpi, Stuart L. Shapiro, and Ira Wasserman [[Physical Review Letter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.57.2485)]
 
 
 
