@@ -19,6 +19,7 @@ Reference: Kip S. Thorne [[The Astrophysical Journal](https://ui.adsabs.harvard.
 #### Paper presentation: Basic concepts of Boson stars and how to distinguish them from black holes and neutron stars from tidal interactions
 
 Reference: Monica Colpi, Stuart L. Shapiro, and Ira Wasserman [[Physical Review Letter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.57.2485)]
+
 Reference: Noah Sennett et al. [[Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.024002)]
 
 
