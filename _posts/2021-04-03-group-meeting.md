@@ -9,7 +9,7 @@ categories: activities
 
 ##  Zexin Hu
 
-#### Literature reading: DISK-ACCRETION ONTO A BLACK HOLE. II. EVOLUTION OF THE HOLE
+#### Literature reading: Disk-accretion onto a black hole. II. evolution of the hole
 
 Reference: Kip S. Thorne [[The Astrophysical Journal](https://ui.adsabs.harvard.edu/abs/1974ApJ...191..507T/abstract)]
 
