@@ -6,6 +6,9 @@ permalink: /publication/
 
 ### 2021
 
+0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
+propagation of fast radio bursts](TBA), submitted
+
 0. R. Abbott, *et al.*, [Search for anisotropic gravitational-wave
 backgrounds using data from Advanced LIGO's and Advanced Virgo's first
 three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
