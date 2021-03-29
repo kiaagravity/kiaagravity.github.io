@@ -44,8 +44,6 @@ J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted),
 arXiv:1908.11410
 
-0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, submitted
-
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, submitted
 
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
@@ -99,6 +97,8 @@ ring](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d),
 and signal recycling mirrors of the KAGRA gravitational wave
 detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
 *Class. Quantum Grav.* 38 (2021) 065011
+
+0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
 {: reversed="reversed"}
 
 ---
