@@ -16,7 +16,7 @@ Reference: Kip S. Thorne [[The Astrophysical Journal](https://ui.adsabs.harvard.
 
 ##  Yong Gao
 
-#### Paper presentation: Basic concepts of Boson stars and how to distinguish them from black holes and neutron stars from tidal interactions
+#### Paper presentation: Basic concepts of boson stars and how to distinguish them from black holes and neutron stars from tidal interactions
 
 Reference: Monica Colpi, Stuart L. Shapiro, and Ira Wasserman [[Physical Review Letter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.57.2485)]
 
