@@ -141,6 +141,7 @@ evolution of binary black holes <br>
 | 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Haoyang Qi** | **祁昊洋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 
 <p></p>
