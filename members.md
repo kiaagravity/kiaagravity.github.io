@@ -138,7 +138,10 @@ evolution of binary black holes <br>
 | 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Rui Zhu** | **朱睿** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Qinyuan Zhang** | **张秦源** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Zihan Xue** | **薛子涵** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
+| 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Haoyang Qi** | **祁昊洋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -200,7 +203,6 @@ evolution of binary black holes <br>
 Comments
 
 | 2019—2020 | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—2020 | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Minyu Wang** | **王旻宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2020 | **Zeyu Ma** | **马泽宇** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
