@@ -9,9 +9,9 @@ categories: activities
 
 ##  Chang Liu
 
-#### Paper presentation: 
+#### Paper presentation: Noisy neighbours: inference biases from overlapping gravitational-wave signals
 
-Reference: 
+Reference: Andrea Antonelli et al., [[arXiv](https://arxiv.org/pdf/2104.01897.pdf)]
 
 ##  Yong Gao
 
