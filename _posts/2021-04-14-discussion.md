@@ -15,11 +15,11 @@ Yong, Chang, Rui Xu, Hongbo, Junjie, Rui Zhu, Xueli, Lijing
 
 ### Agenda
 
-- Yong: Precession of Earth
+- Yong: Precession of the Earth
 
 
 ### Reference
-
+[Precession, Nutation and Wobble of the Earth](https://doi.org/10.1017/CBO9781316136133)
 
 
 
