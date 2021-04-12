@@ -15,6 +15,7 @@ Yong, Chang, Rui Xu, Hongbo, Junjie, Rui Zhu, Xueli, Lijing
 
 ### Agenda
 
+- Round table
 - Yong: Precession of the Earth
 
 
