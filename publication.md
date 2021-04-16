@@ -47,11 +47,6 @@ arXiv:1908.11410
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, submitted
 
-0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
-and observational consequences for neutron
-stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* (accepted),
-arXiv:2012.01320
-
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 (accepted), arXiv:1908.11391
@@ -64,6 +59,10 @@ interferometer](https://arxiv.org/abs/2009.09305),
 0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
 science](https://arxiv.org/abs/2008.02921),
 *Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
+
+0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
+and observational consequences for neutron
+stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* TBA (2021) TBA
 
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
@@ -79,6 +78,11 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
+
+0. J.C. Algaba, *et al.*, [Broadband multi-wavelength properties of M87 during
+   the 2017 Event Horizon Telescope
+campaign](https://arxiv.org/abs/2104.06855), *Astrophys. J. Lett.* 911 (2021)
+L11
 
 0. C. Goddi, *et al.*, [Polarimetric properties of Event Horizon Telescope
 targets from ALMA](http://doi.org/10.3847/2041-8213/abee6a), *Astrophys. J.
