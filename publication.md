@@ -62,7 +62,7 @@ science](https://arxiv.org/abs/2008.02921),
 
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
-stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* TBA (2021) TBA
+stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
 
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
