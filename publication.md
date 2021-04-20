@@ -47,6 +47,11 @@ arXiv:1908.11410
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, submitted
 
+0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
+with the Atacama Large Millimeter/submillimeter
+Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
+arXiv:2104.08986
+
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 (accepted), arXiv:1908.11391
