@@ -6,6 +6,9 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
+2030s](https://arxiv.org/abs/2104.09534), arXiv:2104.09534
+
 0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
 propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
 arXiv:2103.15299
