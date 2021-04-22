@@ -146,6 +146,8 @@ evolution of binary black holes <br>
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
 | 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
+| 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Yiming Dong** | **董益铭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
