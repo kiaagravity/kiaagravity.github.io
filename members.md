@@ -165,6 +165,21 @@ evolution of binary black holes <br>
 
 ## Former Members
 
+- 2018—now, **Junjie Zhao** (**赵俊杰**), Institute for Theoretical Physics, Peking University
+  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
+</small> 
+    *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* 
+
+- 2018—now, **Xueli Miao** (**缪雪丽**), Institute for Theoretical Physics, Peking University
+  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
+</small> 
+    *Testing Gravity Theories with Binary Pulsar Systems* 
+
+- 2019—now, **Rui Xu** (**徐睿**), Kavli Institute for Astronomy and Astrophysics, Peking University
+  - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
+</small> 
+    *Neutron Star Structure in Alternative Gravitational Theories* 
+
 - 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Bounding the Photon Mass with Fast Radio Bursts* 
