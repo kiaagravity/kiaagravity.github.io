@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0.  R.  Abbott, *et al.*, [Constraints from LIGO O3 data on
+gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
+J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
+
 0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
 2030s](https://arxiv.org/abs/2104.09534), arXiv:2104.09534
 
