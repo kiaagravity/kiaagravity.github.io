@@ -52,12 +52,15 @@ J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted),
 arXiv:1908.11410
 
-0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, submitted
-
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
 arXiv:2104.08986
+
+0. M. Arca Sedda, C.P.L.  Berry, K. Jani, *et al.*, [The missing link in
+gravitational-wave astronomy: A summary of discoveries waiting in the
+decihertz range](https://arxiv.org/abs/2104.14583),
+*Exp. Astron.* (accepted), arXiv:2104.14583
 
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
@@ -114,6 +117,8 @@ ring](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d),
 and signal recycling mirrors of the KAGRA gravitational wave
 detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
 *Class. Quantum Grav.* 38 (2021) 065011
+
+0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
 {: reversed="reversed"}
