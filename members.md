@@ -131,10 +131,7 @@ evolution of binary black holes <br>
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Rui Zhu** | **朱睿** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Qinyuan Zhang** | **张秦源** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Zihan Xue** | **薛子涵** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
@@ -215,6 +212,9 @@ Comments
 | 2020—now | **Alireza Allahyari** |  | Postdoc | [IMP.IR](http://www.ipm.ac.ir/) |
 | 2021—now | **Dicong Liang** | **梁迪聪** | Pre-postdoc | [HUST](http://phys.hust.edu.cn/) |
 | 2020—now | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Qinyuan Zhang** | **张秦源** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Zihan Xue** | **薛子涵** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 
 | 2019—2020 | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
