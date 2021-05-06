@@ -48,14 +48,14 @@ matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 
-0. J. Baker, *et al.*, [High angular resolution gravitational wave
-astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (submitted),
-arXiv:1908.11410
-
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
 arXiv:2104.08986
+
+0. J. Baker, *et al.*, [High angular resolution gravitational wave
+astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
+arXiv:1908.11410
 
 0. M. Arca Sedda, C.P.L.  Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: A summary of discoveries waiting in the
