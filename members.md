@@ -127,16 +127,11 @@ evolution of binary black holes <br>
 ## Friends & Visitors
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2020—now | **Zhi Xiao** | **肖智** | Lecturer | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2020—now | **Shoulong Li** | **李守龙** | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
-| 2020—now | **Sebastian Bahamonde** |  | Postdoc | [UT.EE](http://sebastianbahamonde.com/) |
-| 2020—now | **Alireza Allahyari** |  | Postdoc | [IMP.IR](http://www.ipm.ac.ir/) |
-| 2021—now | **Dicong Liang** | **梁迪聪** | Pre-postdoc | [HUST](http://phys.hust.edu.cn/) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Rui Zhu** | **朱睿** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -175,21 +170,21 @@ evolution of binary black holes <br>
 
 - 2019—now, **Rui Xu** (**徐睿**), Kavli Institute for Astronomy and Astrophysics, Peking University
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
-    *Neutron Star Structure in Alternative Gravitational Theories* (Peking University 2021)
+    *Neutron Star Structure in Alternative Gravitational Theories* (2021)
 
 - 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Bounding the Photon Mass with Fast Radio Bursts* 
+    *Bounding the Photon Mass with Fast Radio Bursts* (2020)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *The Structure of Neutron stars with Anisotropic Pressure* (Peking University 2021) 
 
 - 2019—2020, **Zihe An** (**安子訸**), College of Engineering, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Fisher Matrix in Gravitational-wave Data Analysis*
+    *Fisher Matrix in Gravitational-wave Data Analysis* (2020)
 
 - 2019—2020, **Yichen Wang** (**王弋尘**), School of Physics, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Constraining Dark-matter Particles with Neutron Stars*
+    *Constraining Dark-matter Particles with Neutron Stars* (2020)
 
 - 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
@@ -217,10 +212,15 @@ evolution of binary black holes <br>
 
 Comments
 
+| 2020—now | **Zhi Xiao** | **肖智** | Lecturer | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
+| 2020—now | **Sebastian Bahamonde** |  | Postdoc | [UT.EE](http://sebastianbahamonde.com/) |
+| 2020—now | **Alireza Allahyari** |  | Postdoc | [IMP.IR](http://www.ipm.ac.ir/) |
+| 2021—now | **Dicong Liang** | **梁迪聪** | Pre-postdoc | [HUST](http://phys.hust.edu.cn/) |
 | 2020—now | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Qinyuan Zhang** | **张秦源** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Zihan Xue** | **薛子涵** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 
 
 | 2019—2020 | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
