@@ -180,7 +180,7 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Bounding the Photon Mass with Fast Radio Bursts* (2020)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *The Structure of Neutron stars with Anisotropic Pressure* (Peking University 2021) 
+    *The Structure of Neutron Stars with Anisotropic Pressure* (Peking University 2021) 
 
 - 2019—2020, **Zihe An** (**安子訸**), College of Engineering, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
