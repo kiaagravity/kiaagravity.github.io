@@ -156,6 +156,10 @@ evolution of binary black holes <br>
 
 ## Former Members
 
+- 2019—now, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *A Numerical Study of Scalar-tensor Gravity Theory* (Peking University 2021) 
+
 - 2020—now, **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *The Forced Precession of Pulsars* (Peking University 2021) 
