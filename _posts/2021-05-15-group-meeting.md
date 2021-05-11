@@ -6,7 +6,7 @@ author: Yong Gao
 categories: activities
 ---
 
-#### Yiming Dong
+## Yiming Dong
 
 #### Literature reading: Tests of General Relativity from Timing the Double Pulsar
 
