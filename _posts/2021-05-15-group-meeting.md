@@ -19,11 +19,6 @@ Reference: M. Kramer et al. [[Science](https://science.sciencemag.org/content/31
 Reference: Rene P. Breton et al. [[Science](https://science.sciencemag.org/content/321/5885/104/tab-pdf)]
 
 
-##  Rui Zhu
-
-#### Paper presentation: The relativistic binary programme on MeerKAT: science objectives and first results
-
-Reference: M. Kramer et al.  [[MNRAS](https://academic.oup.com/mnras/article/504/2/2094/6136263)]
 
 
 
