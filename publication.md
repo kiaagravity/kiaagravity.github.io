@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. A. Rezaei Akbarieh, S.  Kazempour, L. Shao, [Cosmological perturbations in
+Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
+arXiv:2105.03744
+
 0.  R.  Abbott, *et al.*, [Constraints from LIGO O3 data on
 gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
