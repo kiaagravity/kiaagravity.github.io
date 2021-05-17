@@ -6,6 +6,9 @@ permalink: /publication/
 
 ### 2021
 
+0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
+highly relativistic binary pulsars in the era of LISA and SKA](TBA), submitted 
+
 0. A. Rezaei Akbarieh, S.  Kazempour, L. Shao, [Cosmological perturbations in
 Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
 arXiv:2105.03744
