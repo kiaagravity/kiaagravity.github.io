@@ -9,10 +9,6 @@ permalink: /publication/
 0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
 highly relativistic binary pulsars in the era of LISA and SKA](TBA), submitted 
 
-0. A. Rezaei Akbarieh, S.  Kazempour, L. Shao, [Cosmological perturbations in
-Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
-arXiv:2105.03744
-
 0.  R.  Abbott, *et al.*, [Constraints from LIGO O3 data on
 gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
@@ -54,6 +50,10 @@ matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
 gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
+
+0. A. Rezaei Akbarieh, S.  Kazempour, L. Shao, [Cosmological perturbations in
+Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
+*Phys. Rev. D* (accepted), arXiv:2105.03744
 
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
