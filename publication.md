@@ -51,7 +51,7 @@ matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 
-0. A. Rezaei Akbarieh, S.  Kazempour, L. Shao, [Cosmological perturbations in
+0. A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmological perturbations in
 Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
 *Phys. Rev. D* (accepted), arXiv:2105.03744
 
