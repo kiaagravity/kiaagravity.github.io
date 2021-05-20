@@ -104,7 +104,8 @@ evolution of binary black holes <br>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2019—now | **Rui Xu** | **徐睿** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2019—now | **Rui Xu** | **徐睿** | Boya Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2021—now | **Dicong Liang** | **梁迪聪** | KIAA Postdoc | [HUST](http://phys.hust.edu.cn/) |
 | 2018—now | **Junjie Zhao** | **赵俊杰** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2018—now | **Xueli Miao** | **缪雪丽** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -113,6 +114,10 @@ evolution of binary black holes <br>
 | 2018—now | **Yacheng Kang** | **康亚城** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Zexin Hu** | **胡泽昕** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2020—now | **Ziming Wang** | **王子铭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Yiming Dong** | **董益铭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Huimei Wang** | **王惠美** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Minghao Guo** | **郭明浩** | Bachelor Thesis | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -129,15 +134,10 @@ evolution of binary black holes <br>
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2020—now | **Shoulong Li** | **李守龙** | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Rui Zhu** | **朱睿** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
-| 2020—now | **Ziming Wang** | **王子铭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Yiming Dong** | **董益铭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 
 <p></p>
@@ -223,12 +223,11 @@ Comments
 | 2020—now | **Zhi Xiao** | **肖智** | Lecturer | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2020—now | **Sebastian Bahamonde** |  | Postdoc | [UT.EE](http://sebastianbahamonde.com/) |
 | 2020—now | **Alireza Allahyari** |  | Postdoc | [IMP.IR](http://www.ipm.ac.ir/) |
-| 2021—now | **Dicong Liang** | **梁迪聪** | Pre-postdoc | [HUST](http://phys.hust.edu.cn/) |
 | 2020—now | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Qinyuan Zhang** | **张秦源** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Zihan Xue** | **薛子涵** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
+| 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 
 | 2019—2020 | **Jie Lin** | **林杰** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
