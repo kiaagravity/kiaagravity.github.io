@@ -158,7 +158,7 @@ evolution of binary black holes <br>
 
 - 2020—now, **Lingqian Qiu** (**邱令倩**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Research on Artificial Neural Network in Gravitational Wave Data Analysis* (Peking University 2021) 
+    *Research on Suitable Neural Network Models for Gravitational Wave Detection* (Peking University 2021) 
 
 - 2019—now, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
