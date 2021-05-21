@@ -101,6 +101,10 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
 
+0. P. Kocherlakota, *et al.*, [Constraints on black-hole charges with the 2017
+EHT observations of M87$^\ast$](https://arxiv.org/abs/2105.09343), *Phys. Rev.
+D* 103 (2021) 104047
+
 0. R. Narayan, *et al.*, [The polarized image of a synchrotron emitting ring
 of gas orbiting a black hole](https://arxiv.org/abs/2105.01804),
 *Astrophys. J.* 912 (2021) 35
