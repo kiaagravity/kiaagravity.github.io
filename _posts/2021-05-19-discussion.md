@@ -19,8 +19,6 @@ Rui Xu, Yong, Chang, Hongbo, Junjie, Rui Zhu, Xueli, Lijing
 - Rui: Research update -- code to solve spherical NS in STGB
 
 
-### Reference
-
 
 
 
