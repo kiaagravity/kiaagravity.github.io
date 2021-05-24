@@ -9,7 +9,7 @@ categories: activities
 
 ### Attendees
 
-Rui Xu, Yong, Chang, Hongbo, Junjie, Rui Zhu, Xueli, Lijing, Shoulong, Yacheng, Zexin
+Rui Xu, Yong, Chang, Hongbo, Junjie, Rui Zhu, Xueli, Lijing
 
 ---
 
@@ -27,4 +27,4 @@ Rui Xu, Yong, Chang, Hongbo, Junjie, Rui Zhu, Xueli, Lijing, Shoulong, Yacheng, 
 
 ### Time
 
-7:00 pm -- 9:00 pm
+7:00 pm -- 10:00 pm
