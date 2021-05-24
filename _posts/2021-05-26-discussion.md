@@ -16,12 +16,12 @@ Junjie, Rui Xu, Yong, Chang, Hongbo, Rui Zhu, Xueli, Lijing, Shoulong, Yacheng, 
 ### Agenda
 
 - Round table
-- Junjie: 
+- Junjie: Structure of deformed bodies
 
 
 ### Reference
 
-[Chapter 2, page ??-??, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
+[Chapter 2, page 94-119, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
 
 
 
