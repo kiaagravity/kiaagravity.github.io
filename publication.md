@@ -73,15 +73,6 @@ decihertz range](https://arxiv.org/abs/2104.14583),
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 (accepted), arXiv:1908.11391
 
-0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
-characterization, physical environmental monitors, and the geophysics
-interferometer](https://arxiv.org/abs/2009.09305),
-*Prog. Theor. Exp. Phys.* (accepted), arXiv:2009.09305
-
-0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
-science](https://arxiv.org/abs/2008.02921),
-*Prog. Theor. Exp. Phys.* (accepted), arXiv:2008.02921
-
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
 stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
@@ -127,6 +118,15 @@ horizon](https://doi.org/10.3847/2041-8213/abe4de), *Astrophys. J. Lett.*
 Polarization of the
 ring](https://iopscience.iop.org/article/10.3847/2041-8213/abe71d),
 *Astrophys. J. Lett.* 910 (2021) L12
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Calibration, detector
+characterization, physical environmental monitors, and the geophysics
+interferometer](https://arxiv.org/abs/2009.09305),
+*Prog. Theor. Exp. Phys.* 2021 (2021) 05A102
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: KAGRA
+science](https://arxiv.org/abs/2008.02921),
+*Prog. Theor. Exp. Phys.* 2021 (2021) 05A103
 
 0. T. Akutsu, *et al.*, [Vibration isolation systems for the beam splitter
 and signal recycling mirrors of the KAGRA gravitational wave
