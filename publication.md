@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
+supernova remnants in the early third observing run of Advanced LIGO and
+Virgo](https://arxiv.org/abs/2105.11641), arXiv:2105.11641
+
 0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
 highly relativistic binary pulsars in the era of LISA and SKA](TBA), submitted 
 
