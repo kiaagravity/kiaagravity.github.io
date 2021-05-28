@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
+LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
+arXiv:2105.13085
+
 0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
 supernova remnants in the early third observing run of Advanced LIGO and
 Virgo](https://arxiv.org/abs/2105.11641), arXiv:2105.11641
