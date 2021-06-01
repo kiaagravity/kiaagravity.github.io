@@ -21,7 +21,7 @@ Junjie, Rui Xu, Yong, Chang, Hongbo, Rui Zhu, Xueli, Lijing, Shoulong, Zexin
 
 ### Reference
 
-[Chapter 2, page 105-??, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
+[Chapter 2, page 105-119, Gravity:Newtonian, Post-Newtonian, Relativistic](https://doi.org/10.1017/CBO9781139507486)
 
 
 
