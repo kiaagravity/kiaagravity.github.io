@@ -27,4 +27,4 @@ Junjie, Rui Xu, Yong, Chang, Hongbo, Rui Zhu, Xueli, Lijing, Shoulong, Zexin
 
 ### Time
 
-6:00 pm -- 10:00 pm
+6:00 pm -- 9:30 pm
