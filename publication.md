@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
+third observing run of Advanced LIGO and Advanced
+Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
+
 0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
 LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
 arXiv:2105.13085
