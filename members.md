@@ -118,12 +118,6 @@ evolution of binary black holes <br>
 | 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Yiming Dong** | **董益铭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2018—now | **Huimei Wang** | **王惠美** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Minghao Guo** | **郭明浩** | Bachelor Thesis | [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Lingchan Qiu** | **邱令倩** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Jingyuan Deng** | **邓景元** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Chunjiang Li** | **李春江** | Joint Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
@@ -140,6 +134,10 @@ evolution of binary black holes <br>
 | 2020—now | **Zihan Xue** | **薛子涵** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Sobhan Kazempour** | | PhD Student | [PHY-TabrizU](https://physics.tabrizu.ac.ir/en) |
+| 2018—now | **Huimei Wang** | **王惠美** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019—now | **Xinmiao Zhao** | **赵鑫淼** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019—now | **Minghao Guo** | **郭明浩** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| 2020—now | **Jingyuan Deng** | **邓景元** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | Undergraduate | [SPA-SYSU](http://spa.sysu.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 
@@ -159,10 +157,6 @@ evolution of binary black holes <br>
 
 ## Former Members
 
-- 2020—now, **Lingqian Qiu** (**邱令倩**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Research on Suitable Neural Network Models for Gravitational Wave Detection* (Peking University 2021) 
-
 - 2019—now, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *A Numerical Study of Scalar-tensor Gravity Theory* (Peking University 2021) 
@@ -170,6 +164,19 @@ evolution of binary black holes <br>
 - 2020—now, **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *The Forced Precession of Pulsars* (Peking University 2021) 
+
+- 2020—2021, **Chunjiang Li** (**李春江**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Track Down Radio Frequency Interference in FAST Data* (Peking University 2021);
+    co-advisor: Weiwei Zhu 
+
+- 2020—2021, **Lingqian Qiu** (**邱令倩**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Research on Suitable Neural Network Models for Gravitational Wave Detection* (Peking University 2021) 
+
+- 2019—now, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
 
 - 2018—now, **Junjie Zhao** (**赵俊杰**), Institute for Theoretical Physics, Peking University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
