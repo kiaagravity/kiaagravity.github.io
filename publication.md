@@ -6,6 +6,10 @@ permalink: /publication/
 
 ### 2021
 
+0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
+scalar-tensor gravity in the strong field and applications to binary pulsars and
+gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
+
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
