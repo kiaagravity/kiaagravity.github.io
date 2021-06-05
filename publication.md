@@ -6,43 +6,18 @@ permalink: /publication/
 
 ### 2021
 
+#### Short-author-list Papers
+
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 
-0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
-third observing run of Advanced LIGO and Advanced
-Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
-
-0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
-LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
-arXiv:2105.13085
-
-0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
-supernova remnants in the early third observing run of Advanced LIGO and
-Virgo](https://arxiv.org/abs/2105.11641), arXiv:2105.11641
-
 0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
 highly relativistic binary pulsars in the era of LISA and SKA](TBA), submitted 
-
-0.  R.  Abbott, *et al.*, [Constraints from LIGO O3 data on
-gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
-J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
-
-0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
-2030s](https://arxiv.org/abs/2104.09534), arXiv:2104.09534
 
 0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
 propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
 arXiv:2103.15299
-
-0. R. Abbott, *et al.*, [Search for anisotropic gravitational-wave
-backgrounds using data from Advanced LIGO's and Advanced Virgo's first
-three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
-
-0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
-third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
-arXiv:2101.12248
 
 0. A. Allahyari, L. Shao, [Testing no-hair theorem by quasi-periodic
 oscillations: the quadrupole of GRO
@@ -52,17 +27,9 @@ J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 from binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave observatories](TBA), submitted
 
-0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
-background from Advanced LIGO's and Advanced Virgo's third observing
-run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
-
 0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
 confinement/deconfinement phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
-
-0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
-gravitational waves from the energetic young pulsar PSR
-J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
 
 0. Z. Wang, L. Shao, [Axion induced spin effective
 couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* (accepted),
@@ -76,19 +43,6 @@ Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
 arXiv:2104.08986
-
-0. J. Baker, *et al.*, [High angular resolution gravitational wave
-astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
-arXiv:1908.11410
-
-0. M. Arca Sedda, C.P.L.  Berry, K. Jani, *et al.*, [The missing link in
-gravitational-wave astronomy: A summary of discoveries waiting in the
-decihertz range](https://arxiv.org/abs/2104.14583),
-*Exp. Astron.* (accepted), arXiv:2104.14583
-
-0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe
-at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
-(accepted), arXiv:1908.11391
 
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
@@ -108,6 +62,62 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
+
+0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
+
+0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
+{: reversed="reversed"}
+
+
+#### Other Papers
+
+0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
+third observing run of Advanced LIGO and Advanced
+Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
+
+0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
+LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
+arXiv:2105.13085
+
+0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
+supernova remnants in the early third observing run of Advanced LIGO and
+Virgo](https://arxiv.org/abs/2105.11641), arXiv:2105.11641
+
+0.  R. Abbott, *et al.*, [Constraints from LIGO O3 data on
+gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
+J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
+
+0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
+2030s](https://arxiv.org/abs/2104.09534), arXiv:2104.09534
+
+0. R. Abbott, *et al.*, [Search for anisotropic gravitational-wave
+backgrounds using data from Advanced LIGO's and Advanced Virgo's first
+three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
+
+0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
+third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
+arXiv:2101.12248
+
+0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
+background from Advanced LIGO's and Advanced Virgo's third observing
+run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
+
+0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
+gravitational waves from the energetic young pulsar PSR
+J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
+
+0. J. Baker, *et al.*, [High angular resolution gravitational wave
+astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
+arXiv:1908.11410
+
+0. M. Arca Sedda, C.P.L.  Berry, K. Jani, *et al.*, [The missing link in
+gravitational-wave astronomy: A summary of discoveries waiting in the
+decihertz range](https://arxiv.org/abs/2104.14583),
+*Exp. Astron.* (accepted), arXiv:2104.14583
+
+0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe
+at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
+(accepted), arXiv:1908.11391
 
 0. P. Kocherlakota, *et al.*, [Constraints on black-hole charges with the 2017
 EHT observations of M87$^\ast$](https://arxiv.org/abs/2105.09343), *Phys. Rev.
@@ -149,10 +159,6 @@ science](https://arxiv.org/abs/2008.02921),
 and signal recycling mirrors of the KAGRA gravitational wave
 detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
 *Class. Quantum Grav.* 38 (2021) 065011
-
-0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
-
-0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
 {: reversed="reversed"}
 
 ---
