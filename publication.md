@@ -6,7 +6,7 @@ permalink: /publication/
 
 ## 2021
 
-#### Short-author-list Papers
+##### Short-author-list Papers
 
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
@@ -63,7 +63,7 @@ stars](https://arxiv.org/abs/2011.04472),
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
 {: reversed="reversed"}
 
-#### Other Papers
+##### Other Papers
 
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
@@ -164,7 +164,7 @@ detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
 
 ## 2020
 
-#### Short-author-list Papers
+##### Short-author-list Papers
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog
@@ -236,7 +236,7 @@ Scientific, Singapore, 2020), p. 234
 *《科学通报》* 65 (2020) 4013
 {: reversed="reversed"}
 
-#### Other Papers
+##### Other Papers
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
@@ -283,7 +283,7 @@ LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
 
 ## 2019
 
-#### Short-author-list Papers
+##### Short-author-list Papers
 
 0. L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence
 principle in the standard-model extension with binary
@@ -334,7 +334,7 @@ Violation](https://arxiv.org/abs/1910.09762), *Symmetry* 11 (2019) 1318
 *《物理》* 48 (2019) 567
 {: reversed="reversed"}
 
-#### Other Papers
+##### Other Papers
 
 0. J. Liu, *et al.*, [A wide star−black-hole binary system from
 radial-velocity measurements](https://arxiv.org/abs/1911.11989), *Nature*
@@ -393,7 +393,7 @@ hole](https://doi.org/10.3847/2041-8213/ab0ec7),
 
 ---
 
-### 2018
+## 2018
 
 0. L. Shao, Q.G. Bailey, [Testing velocity-dependent CPT-violating
 gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332),
