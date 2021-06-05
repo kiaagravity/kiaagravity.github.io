@@ -4,7 +4,7 @@ title: Publication
 permalink: /publication/
 ---
 
-### 2021
+## 2021
 
 #### Short-author-list Papers
 
@@ -39,11 +39,6 @@ arXiv:2102.04669
 Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
 *Phys. Rev. D* (accepted), arXiv:2105.03744
 
-0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
-with the Atacama Large Millimeter/submillimeter
-Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
-arXiv:2104.08986
-
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
 stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
@@ -67,7 +62,6 @@ stars](https://arxiv.org/abs/2011.04472),
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
 {: reversed="reversed"}
-
 
 #### Other Papers
 
@@ -119,6 +113,11 @@ decihertz range](https://arxiv.org/abs/2104.14583),
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 (accepted), arXiv:1908.11391
 
+0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
+with the Atacama Large Millimeter/submillimeter
+Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
+arXiv:2104.08986
+
 0. P. Kocherlakota, *et al.*, [Constraints on black-hole charges with the 2017
 EHT observations of M87$^\ast$](https://arxiv.org/abs/2105.09343), *Phys. Rev.
 D* 103 (2021) 104047
@@ -163,7 +162,9 @@ detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922),
 
 ---
 
-### 2020
+## 2020
+
+#### Short-author-list Papers
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog
@@ -226,6 +227,17 @@ numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
 
+0. R. Xu, [Spacetime nonmetricity and Lorentz
+violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
+in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
+Scientific, Singapore, 2020), p. 234
+
+0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068),
+*《科学通报》* 65 (2020) 4013
+{: reversed="reversed"}
+
+#### Other Papers
+
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
 range](https://arxiv.org/abs/1908.11375), *Class. Quantum Grav.* 37 (2020)
@@ -265,19 +277,13 @@ Array](https://arxiv.org/abs/1810.02680),
 0. E. Barausse, *et al.*, [Prospects for fundamental physics with
 LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
 81
-
-0. R. Xu, [Spacetime nonmetricity and Lorentz
-violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
-in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
-Scientific, Singapore, 2020), p. 234
-
-0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068),
-*《科学通报》* 65 (2020) 4013
 {: reversed="reversed"}
 
 ---
 
-### 2019
+## 2019
+
+#### Short-author-list Papers
 
 0. L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence
 principle in the standard-model extension with binary
@@ -316,6 +322,19 @@ precession of planets](https://arxiv.org/abs/1910.05666), *Phys. Rev. D*
 dynamics of stellar mass binary black holes around the massive black hole
 in a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.*
 877 (2019) 87
+
+0. R. Xu, [Modifications to Plane Gravitational Waves from Minimal Lorentz
+Violation](https://arxiv.org/abs/1910.09762), *Symmetry* 11 (2019) 1318
+
+0. 高勇, 邵立晶, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
+*《中国国家天文》* 9 (2019) 54
+
+0. 邵立晶, [GW170817:
+爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml),
+*《物理》* 48 (2019) 567
+{: reversed="reversed"}
+
+#### Other Papers
 
 0. J. Liu, *et al.*, [A wide star−black-hole binary system from
 radial-velocity measurements](https://arxiv.org/abs/1911.11989), *Nature*
@@ -370,16 +389,6 @@ Array and instrumentation](https://doi.org/10.3847/2041-8213/ab0c96),
 shadow of the supermassive black
 hole](https://doi.org/10.3847/2041-8213/ab0ec7),
 *Astrophys. J. Lett.* 875 (2019) L1
-
-0. R. Xu, [Modifications to Plane Gravitational Waves from Minimal Lorentz
-Violation](https://arxiv.org/abs/1910.09762), *Symmetry* 11 (2019) 1318
-
-0. 高勇, 邵立晶, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
-*《中国国家天文》* 9 (2019) 54
-
-0. 邵立晶, [GW170817:
-爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml),
-*《物理》* 48 (2019) 567
 {: reversed="reversed"}
 
 ---
