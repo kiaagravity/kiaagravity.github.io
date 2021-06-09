@@ -88,17 +88,13 @@ J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
 backgrounds using data from Advanced LIGO's and Advanced Virgo's first
 three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
 
-0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
-third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
-arXiv:2101.12248
-
 0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
 background from Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
 
-0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
-gravitational waves from the energetic young pulsar PSR
-J0537$-$6910](https://arxiv.org/abs/2012.12926), arXiv:2012.12926
+0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
+third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
+*Phys. Rev. Lett.* (accepted), arXiv:2101.12248
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
@@ -117,6 +113,11 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
 arXiv:2104.08986
+
+0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
+gravitational waves from the energetic young pulsar PSR
+J0537$-$6910](https://arxiv.org/abs/2012.12926), *Astrophys. J. Lett.* 913
+(2021) L27
 
 0. P. Kocherlakota, *et al.*, [Constraints on black-hole charges with the 2017
 EHT observations of M87$^\ast$](https://arxiv.org/abs/2105.09343), *Phys. Rev.
