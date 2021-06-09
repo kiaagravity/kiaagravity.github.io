@@ -8,7 +8,7 @@ categories: activities
 
 ## Rehearsal of bachelor thesis
 
-#### Minghao Gao: *A Numerical Study of Scalar-tensor Gravity Theory* 
+#### Minghao Guo: *A Numerical Study of Scalar-tensor Gravity Theory* 
 
 #### Chunjiang Li: *Track Down Radio Frequency Interference in FAST Data*
 
