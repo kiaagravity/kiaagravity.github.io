@@ -25,7 +25,8 @@ J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 
 0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation
 from binary neutron stars with ground-based laser-interferometer and
-atom-interferometer gravitational-wave observatories](TBA), submitted
+atom-interferometer gravitational-wave
+observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
 
 0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
 confinement/deconfinement phase transition in different QCD
@@ -34,10 +35,6 @@ matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 0. Z. Wang, L. Shao, [Axion induced spin effective
 couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* (accepted),
 arXiv:2102.04669
-
-0. A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmological perturbations in
-Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
-*Phys. Rev. D* (accepted), arXiv:2105.03744
 
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
@@ -57,6 +54,10 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
+
+0. A.R. Akbarieh, S. Kazempour, L. Shao, [Cosmological perturbations in
+Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
+*Phys. Rev. D* 103 (2021) 123518
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
 
