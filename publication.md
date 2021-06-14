@@ -44,6 +44,10 @@ stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
 
+0. A.R. Akbarieh, S. Kazempour, L. Shao, [Cosmological perturbations in
+Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
+*Phys. Rev. D* 103 (2021) 123518
+
 0. R. Xu, Y. Gao, L. Shao, [Signature of Lorentz violation in continuous
 gravitational-wave spectra of ellipsoidal neutron
 stars](https://arxiv.org/abs/2101.09431), *Galaxies* 9 (2021) 12
@@ -54,10 +58,6 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
-
-0. A.R. Akbarieh, S. Kazempour, L. Shao, [Cosmological perturbations in
-Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
-*Phys. Rev. D* 103 (2021) 123518
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
 
