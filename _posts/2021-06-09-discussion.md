@@ -21,7 +21,6 @@ Chang, Junjie, Rui Xu, Yong, Hongbo, Xueli, Lijing, Zexin
 
 ### Reference
 
-[The failure of the Fisher Matrix when including tidal terms: Considering construction of template banks of tidally deformed binary neutron stars](https://arxiv.org/abs/2101.01091)
 
 
 
