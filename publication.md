@@ -112,8 +112,7 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
-Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* (accepted),
-arXiv:2104.08986
+Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
 
 0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
 gravitational waves from the energetic young pulsar PSR
