@@ -32,10 +32,6 @@ observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
 confinement/deconfinement phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
 
-0. Z. Wang, L. Shao, [Axion induced spin effective
-couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* (accepted),
-arXiv:2102.04669
-
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
 stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
@@ -43,6 +39,9 @@ stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
+
+0. Z. Wang, L. Shao, [Axion induced spin effective
+couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* 103 (2021) 116021
 
 0. A.R. Akbarieh, S. Kazempour, L. Shao, [Cosmological perturbations in
 Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
