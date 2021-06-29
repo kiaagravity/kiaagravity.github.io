@@ -8,6 +8,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Kang, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
+white dwarfs with LISA and Taiji](TBA), submitted
+
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
@@ -92,10 +95,6 @@ three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
 background from Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
 
-0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
-third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
-*Phys. Rev. Lett.* (accepted), arXiv:2101.12248
-
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
 arXiv:1908.11410
@@ -112,6 +111,15 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
+third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
+*Phys. Rev. Lett.* 126 (2021) 241102 
+
+0. R. Abbott, *et al.*, [Observation of gravitational waves from two neutron
+star$-$black hole
+coalescences](https://iopscience.iop.org/article/10.3847/2041-8213/ac082e),
+*Astrophys. J. Lett.* 915 (2021) L5
 
 0. R. Abbott, *et al.*, [Diving below the spin-down limit: Constraints on
 gravitational waves from the energetic young pulsar PSR
