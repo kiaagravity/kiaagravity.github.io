@@ -21,7 +21,8 @@ Rui Xu, Chang, Junjie, Yong, Hongbo, Xueli, Lijing, Zexin, Yacheng
 
 ### Reference
 
-[Non-Radial Pulsation of General-Relativistic Stellar Models. I](https://ui.adsabs.harvard.edu/abs/1967ApJ...149..591T/abstract)
+1. [Stability of a Schwarzschild Singularity](https://ui.adsabs.harvard.edu/abs/1957PhRv..108.1063R/abstract)
+2. [Non-Radial Pulsation of General-Relativistic Stellar Models. I](https://ui.adsabs.harvard.edu/abs/1967ApJ...149..591T/abstract)
 
 
 
