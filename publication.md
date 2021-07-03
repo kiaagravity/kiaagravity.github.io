@@ -68,6 +68,10 @@ stars](https://arxiv.org/abs/2011.04472),
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
+isolated neutron stars in the early O3 LIGO
+data](https://arxiv.org/abs/2107.00600), arXiv:2107.00600
+
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
