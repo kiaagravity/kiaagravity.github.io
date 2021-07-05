@@ -100,12 +100,37 @@ evolution of binary black holes <br>
 
 ---
 
-<big><b>Alumnae and Alumni</b></big><br>
+<big><big><b>Alumnae and Alumni</b></big></big><br>
 
-<p></p>
-    <img src="{{ site.baseurl }}/assets/Zhao_junjie_floor1.jpg" alt="Avatar" class="avatar">
-    <img src="{{ site.baseurl }}/assets/Miao_Xueli_floor1.jpg" alt="Avatar" class="avatar">
-<p></p>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/Zhao_junjie_floor1.jpg" alt="ZhaoJunjie" style="width:100%">
+      <div class="teamcontainer"  style="padding:1px; ">
+        <center>
+        <p></p>
+        <h4><b>Junjie Zhao (赵俊杰)</b></h4>
+        <p class="title">PhD Student</p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/Miao_Xueli_floor1.jpg" alt="MiaoXueli" style="width:100%">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h4><b>Xueli Miao (缪雪丽)</b></h4>
+        <p class="title">PhD Student</p>
+        </center>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 ---
 
