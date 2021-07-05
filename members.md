@@ -100,6 +100,15 @@ evolution of binary black holes <br>
 
 ---
 
+<big><b>Alumnae and Alumni</b></big><br>
+
+<p></p>
+    <img src="{{ site.baseurl }}/assets/Zhao_junjie_floor1.jpg" alt="Avatar" class="avatar">
+    <img src="{{ site.baseurl }}/assets/Miao_Xueli_floor1.jpg" alt="Avatar" class="avatar">
+<p></p>
+
+---
+
 ## Members
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
@@ -221,12 +230,6 @@ evolution of binary black holes <br>
     *Constraining Dark Matter Properties with Neutron Stars* (Peking University 2019)
 
 <!--
-
-
-<p></p>
-    <img src="{{ site.baseurl }}/assets/Zhao_junjie_floor1.jpg" alt="Avatar" class="avatar">
-    <img src="{{ site.baseurl }}/assets/Miao_Xueli_floor1.jpg" alt="Avatar" class="avatar">
-<p></p>
 
 Comments
 
