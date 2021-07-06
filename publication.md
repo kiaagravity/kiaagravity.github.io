@@ -239,10 +239,10 @@ numerical-relativity waveform models for spin-aligned binary black holes
 along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 101 (2020) 044049
 
-0. R. Xu, [Spacetime nonmetricity and Lorentz
+<!-- 0. R. Xu, [Spacetime nonmetricity and Lorentz
 violation](https://www.worldscientific.com/doi/10.1142/9789811213984_0062),
 in *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry* (World
-Scientific, Singapore, 2020), p. 234
+Scientific, Singapore, 2020), p. 234 -->
 
 0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068),
 *《科学通报》* 65 (2020) 4013
@@ -335,8 +335,8 @@ dynamics of stellar mass binary black holes around the massive black hole
 in a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.*
 877 (2019) 87
 
-0. R. Xu, [Modifications to Plane Gravitational Waves from Minimal Lorentz
-Violation](https://arxiv.org/abs/1910.09762), *Symmetry* 11 (2019) 1318
+<!-- 0. R. Xu, [Modifications to Plane Gravitational Waves from Minimal Lorentz
+Violation](https://arxiv.org/abs/1910.09762), *Symmetry* 11 (2019) 1318 -->
 
 0. 高勇, 邵立晶, 徐仁新, [双中子星圆舞曲](https://www.21ks.net/zrkx/zrkx_27685.html),
 *《中国国家天文》* 9 (2019) 54
