@@ -68,6 +68,10 @@ stars](https://arxiv.org/abs/2011.04472),
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
+the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.03701), arXiv:2107.03701
+
 0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
 isolated neutron stars in the early O3 LIGO
 data](https://arxiv.org/abs/2107.00600), arXiv:2107.00600
