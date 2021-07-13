@@ -9,7 +9,7 @@ categories: activities
 
 ### Attendees
 
-Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lijing, Zexin
+Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lijing
 
 ---
 
