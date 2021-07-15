@@ -16,7 +16,7 @@ scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 
 0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
-highly relativistic binary pulsars in the era of LISA and SKA](TBA), submitted 
+highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org/abs/2107.05812), arXiv:2107.05812
 
 0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
 propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
@@ -33,7 +33,7 @@ observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
 
 0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
 confinement/deconfinement phase transition in different QCD
-matters](https://arxiv.org/abs/2101.08012), arXiv:2101.08012
+matters](https://arxiv.org/abs/2101.08012), *Phys. Rev. D* (accepted), arXiv:2101.08012
 
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
