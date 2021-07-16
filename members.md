@@ -47,25 +47,14 @@ evolution of binary black holes <br>
 
 ---
 
-<a href="https://orcid.org/0000-0002-9233-3683">
-<img src="{{ site.baseurl }}/assets/Zhao_junjie_floor1.jpg" title="Profile Picture" class="profile">
+<a href="https://orcid.org/0000-0001-5021-235X">
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
 </a>
-<big><b>Junjie Zhao (赵俊杰)</b></big><br>
-<i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
+<big><b>Dicong Liang (梁迪聪)</b></big><br>
+<i><b>KIAA Postdoc (2021-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
-<b>Email</b>: junjiezhao@pku.edu.cn<br>
-<b>Research Interests</b>: gravitational waves, alternative theories of gravity<br>
-
----
-
-<a href="https://orcid.org/0000-0003-1185-8937">
-<img src="{{ site.baseurl }}/assets/Miao_Xueli_floor1.jpg" title="Profile Picture" class="profile">
-</a>
-<big><b>Xueli Miao (缪雪丽)</b></big><br>
-<i><b>PhD Student (2016-now)</b>, Institute for Theoretical Physics, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: 18883263806@163.com<br>
-<b>Research Interests</b>: pulsar astronomy, new physics beyond the standard model<br>
+<b>Email</b>: dcliang@hust.edu.cn<br>
+<b>Research Interests</b>: gravitational waves<br>
 
 ---
 <a href="https://orcid.org/0000-0003-1390-5477">
@@ -139,9 +128,7 @@ evolution of binary black holes <br>
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2019—now | **Rui Xu** | **徐睿** | Boya Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2021—now | **Dicong Liang** | **梁迪聪** | KIAA Postdoc | [HUST](http://phys.hust.edu.cn/) |
-| 2018—now | **Junjie Zhao** | **赵俊杰** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| 2018—now | **Xueli Miao** | **缪雪丽** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) | 
+| 2021—now | **Dicong Liang** | **梁迪聪** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -161,9 +148,11 @@ evolution of binary black holes <br>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2020—now | **Shoulong Li** | **李守龙** | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
+| 2018—now | **Junjie Zhao** | **赵俊杰** | Postdoc | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
+| 2018—now | **Xueli Miao** | **缪雪丽** | Postdoc | [NAOC](http://www.bao.ac.cn/) | 
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Sobhan Kazempour** | | PhD Student | [PHY-TabrizU](https://physics.tabrizu.ac.ir/en) |
+| 2020—now | **Sobhan Kazempour** | | PhD Student | [TabrizU](https://physics.tabrizu.ac.ir/en) |
 | 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Jingyuan Deng** | **邓景元** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
