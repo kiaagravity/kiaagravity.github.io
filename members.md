@@ -111,7 +111,7 @@ evolution of binary black holes <br>
         <center>
         <p></p>
         <h5><b>Junjie Zhao (赵俊杰)</b></h5>
-        <p class="teamtitle"><small>Joint PhD Student</small></p>
+        <p class="teamtitle"><small>北师大·励耘博后</small></p>
         </center>
       </div>
     </div>
@@ -124,7 +124,7 @@ evolution of binary black holes <br>
         <center>
         <p></p>
         <h5><b>Xueli Miao (缪雪丽)</b></h5>
-        <p class="teamtitle"><small>Joint PhD Student</small></p>
+        <p class="teamtitle"><small>国家天文台·博后</small></p>
         </center>
       </div>
     </div>
