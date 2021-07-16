@@ -26,7 +26,7 @@ permalink: /member/
 <img src="{{ site.baseurl }}/assets/Shao_Lijing_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 <big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
-<i><b>Assistant Professor</b>, Kavli Institute for Astronomy and Astrophysics,
+<i><b>Assistant Professor (2018-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: lshao@pku.edu.cn<br>
 <b>Research Interests</b>: gravitational waves, pulsar astronomy, new physics
@@ -38,7 +38,7 @@ beyond the standard model<br>
 <img src="{{ site.baseurl }}/assets/Xu_Rui_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 <big><b>Dr. Rui Xu (徐睿)</b></big><br>
-<i><b>Boya Postdoctoral Fellow</b>, Kavli Institute for Astronomy and Astrophysics,
+<i><b>Boya Postdoctoral Fellow (2019-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: xuru@pku.edu.cn  <br>
 <b>Research Interests</b>: experimental tests of Lorentz symmetry in gravity,
@@ -48,9 +48,9 @@ evolution of binary black holes <br>
 ---
 
 <a href="https://orcid.org/0000-0001-5021-235X">
-<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" style="width:60%">
 </a>
-<big><b>Dicong Liang (梁迪聪)</b></big><br>
+<big><b>Dr. Dicong Liang (梁迪聪)</b></big><br>
 <i><b>KIAA Postdoc (2021-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: dcliang@hust.edu.cn<br>
