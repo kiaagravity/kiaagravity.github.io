@@ -48,7 +48,7 @@ evolution of binary black holes <br>
 ---
 
 <a href="https://orcid.org/0000-0001-5021-235X">
-<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" style="width:60%">
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" style="width:40%">
 </a>
 <big><b>Dr. Dicong Liang (梁迪聪)</b></big><br>
 <i><b>KIAA Postdoc (2021-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -86,6 +86,27 @@ evolution of binary black holes <br>
   Peking University</i><br>
 <b>Email</b>: lihb2020@stu.pku.edu.cn <br>
 <b>Research Interests</b>: gravitational wave bursts <br>
+
+---
+
+<a href="https://orcid.org/0000-0001-7402-4927">
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" style="width:40%">
+</a>
+<big><b>Yacheng Kang (康亚城)</b></big><br>
+<i><b>Undergraduate (2018-now)</b>, Department of Astronomy, School of Physics, 
+  Peking University</i><br>
+<b>Email</b>: 1800011623@pku.edu.cn<br>
+<b>Research Interests</b>: gravitational waves, exoplanets<br>
+
+---
+
+<a href="TBA">
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" style="width:40%">
+</a>
+<big><b>Zexin Hu (胡泽昕)</b></big><br>
+<i><b>Undergraduate (2018-now)</b>, School of Physics, Peking University</i><br>
+<b>Email</b>: 1800011323@pku.edu.cn<br>
+<b>Research Interests</b>: pulsars, gravitation<br>
 
 ---
 
