@@ -103,6 +103,10 @@ three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
 background from Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
 
+0. M. Janssen, *et al.*, [Event Horizon Telescope observations of the jet
+launching and collimation in Centaurus
+A](https://doi.org/10.1038/s41550-021-01417-w), Nat. Astron. (accepted)
+
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
 arXiv:1908.11410

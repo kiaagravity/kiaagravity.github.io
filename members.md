@@ -148,7 +148,7 @@ evolution of binary black holes <br>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2019—now | **Rui Xu** | **徐睿** | Boya Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2019—now | **Rui Xu** | **徐睿** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2021—now | **Dicong Liang** | **梁迪聪** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
