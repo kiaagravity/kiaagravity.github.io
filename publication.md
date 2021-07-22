@@ -8,6 +8,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. S.M. Aslmarand, A.R. Akbarieh, Y.  Izadi, S. Kazempour, L.  Shao,
+[Cosmological aspects of cubic Galileon massive
+gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
+
 0. Y. Kang, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
 white dwarfs with LISA and Taiji](TBA), submitted
 
