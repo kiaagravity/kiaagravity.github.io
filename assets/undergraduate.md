@@ -74,7 +74,7 @@ layout: page
 
 ---
 
-<big><big> **附：组内本科生文章发表列表**
+<big> **附：组内本科生文章发表列表**
 
 0. **Z. Hu (胡泽昕)**, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), to be
