@@ -103,10 +103,6 @@ J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
 backgrounds using data from Advanced LIGO's and Advanced Virgo's first
 three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
 
-0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
-background from Advanced LIGO's and Advanced Virgo's third observing
-run](https://arxiv.org/abs/2101.12130), arXiv:2101.12130
-
 0. M. Janssen, *et al.*, [Event Horizon Telescope observations of the jet
 launching and collimation in Centaurus
 A](https://doi.org/10.1038/s41550-021-01417-w), Nat. Astron. (accepted)
@@ -127,6 +123,10 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
+background from Advanced LIGO's and Advanced Virgo's third observing
+run](https://arxiv.org/abs/2101.12130), *Phys. Rev. D* 104 (2021) 022004
 
 0. R. Abbott, *et al.*, [Constraints on cosmic strings using data from the
 third Advanced LIGO-Virgo observing run](https://arxiv.org/abs/2101.12248),
