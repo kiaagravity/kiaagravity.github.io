@@ -72,6 +72,10 @@ stars](https://arxiv.org/abs/2011.04472),
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
+bursts in the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.13796), arXiv:2107.13796
+
 0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
 the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.03701), arXiv:2107.03701
