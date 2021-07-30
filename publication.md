@@ -8,6 +8,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
+scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
+
 0. S.M. Aslmarand, A.R. Akbarieh, Y.  Izadi, S. Kazempour, L.  Shao,
 [Cosmological aspects of cubic Galileon massive
 gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
