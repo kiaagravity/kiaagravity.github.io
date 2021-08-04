@@ -134,7 +134,7 @@ evolution of binary black holes <br>
         <center>
         <p></p>
         <h5><b>Xueli Miao (缪雪丽)</b></h5>
-        <p class="teamtitle"><small>国家天文台·博后</small></p>
+        <p class="teamtitle"><small>国家天文台·FAST Fellow</small></p>
         </center>
       </div>
     </div>
