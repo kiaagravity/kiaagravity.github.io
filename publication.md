@@ -16,7 +16,8 @@ scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
 gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
 
 0. Y. Kang, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
-white dwarfs with LISA and Taiji](TBA), submitted
+white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357),
+arXiv:2108.01357
 
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
@@ -106,10 +107,6 @@ J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
 0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
 2030s](https://arxiv.org/abs/2104.09534), arXiv:2104.09534
 
-0. R. Abbott, *et al.*, [Search for anisotropic gravitational-wave
-backgrounds using data from Advanced LIGO's and Advanced Virgo's first
-three observing runs](https://arxiv.org/abs/2103.08520), arXiv:2103.08520
-
 0. M. Janssen, *et al.*, [Event Horizon Telescope observations of the jet
 launching and collimation in Centaurus
 A](https://doi.org/10.1038/s41550-021-01417-w), Nat. Astron. (accepted)
@@ -130,6 +127,10 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0. R. Abbott, *et al.*, [Search for anisotropic gravitational-wave backgrounds
+using data from Advanced LIGO's and Advanced Virgo's first three observing
+runs](https://arxiv.org/abs/2103.08520), *Phys. Rev. D* 104 (2021) 022005 
 
 0. R. Abbott, *et al.*, [Upper limits on the isotropic gravitational-wave
 background from Advanced LIGO's and Advanced Virgo's third observing
