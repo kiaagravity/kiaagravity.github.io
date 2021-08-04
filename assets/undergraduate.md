@@ -50,6 +50,7 @@ layout: page
 0. 此外，需要跟导师面聊一次本科生科研课题，并且（不论是否选择课题成功）需要**尽快**跟导师确认
   - 因为根据以往几年的经验，还有其他学生会想要选这个课题，做到一不挡别人（这是*基本的礼貌*），二不被别人插队
   - 这也是学术礼貌与为人处世的素养问题
+  - PS. 从2021年起，每位导师每年至多辅导4名本研
 
 0. 最后，我有个不情之请的要求：<font color="blue"><b>跟我签本研表格前，需要曾经在组会做过一次文献报告（>=5min）</b></font>
   - 可以自己选一个简单的文献讲
@@ -75,6 +76,9 @@ layout: page
 ---
 
 <big> **附：组内本科生文章发表列表**
+
+0. **Z. Wang (王子铭)**, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry
+through fifty gravitational-wave events](TBA), to be submitted
 
 0. **Z. Hu (胡泽昕)**, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
