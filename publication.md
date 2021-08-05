@@ -39,10 +39,6 @@ from binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), arXiv:2106.04883
 
-0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
-confinement/deconfinement phase transition in different QCD
-matters](https://arxiv.org/abs/2101.08012), *Phys. Rev. D* (accepted), arXiv:2101.08012
-
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
 stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
@@ -53,6 +49,10 @@ Rev. D* 103 (2021) 024040
 
 0. Z. Wang, L. Shao, [Axion induced spin effective
 couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* 103 (2021) 116021
+
+0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
+confinement/deconfinement phase transition in different QCD
+matters](https://arxiv.org/abs/2101.08012), *Phys.  Rev. D* 104 (2021) 043510
 
 0. A.R. Akbarieh, S. Kazempour, L. Shao, [Cosmological perturbations in
 Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
