@@ -77,11 +77,12 @@ layout: page
 
 <big> **附：组内本科生文章发表列表**
 
-0. **Z. Wang (王子铭)**, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry
-through fifty gravitational-wave events](TBA), to be submitted
-
 0. **Z. Hu (胡泽昕)**, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
+
+0. **Z. Wang (王子铭)**, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry
+through fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
+arXiv:2108.02974
 
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
 white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357), arXiv:2108.01357

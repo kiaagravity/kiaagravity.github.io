@@ -8,6 +8,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
+fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
+arXiv:2108.02974
+
 0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
 
