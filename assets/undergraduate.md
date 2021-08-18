@@ -93,7 +93,7 @@ gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 
 0. **H. Wang (王惠美)**, X. Miao, L. Shao, [Bounding the photon mass with cosmological
 propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
-arXiv:2103.15299
+*Phys. Lett. B* (accepted), arXiv:2103.15299
 
 0. **王弋尘**, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
 
