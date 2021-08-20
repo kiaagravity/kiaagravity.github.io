@@ -8,6 +8,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
+mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
+arXiv:2108.08490
+
 0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
 fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
 arXiv:2108.02974
