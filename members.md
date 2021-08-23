@@ -179,6 +179,7 @@ evolution of binary black holes <br>
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Jingyuan Deng** | **邓景元** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Peixiang Ji** | **姬佩祥** | Undergraduate | [NANKAI](https://physics.nankai.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 
@@ -275,7 +276,6 @@ Comments
 | 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—2021 | **Shoulong Li** | **李守龙** | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
 | 2020—now | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Sobhan Kazempour** | | PhD Student | [TabrizU](https://physics.tabrizu.ac.ir/en) |
 
 -->
