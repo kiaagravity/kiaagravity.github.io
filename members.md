@@ -199,22 +199,15 @@ evolution of binary black holes <br>
 
 ## Former Members
 
-- 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
+- 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Bounding the Photon Mass with Fast Radio Bursts* (2020)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *A Numerical Study of Scalar-tensor Gravity Theory* (Peking University 2021) 
+    *The Structure of Neutron Stars with Anisotropic Pressure* (Peking University 2021) 
 
 - 2020—now, **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *The Forced Precession of Pulsars* (Peking University 2021) 
-
-- 2020—2021, **Chunjiang Li** (**李春江**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Track Down Radio Frequency Interference in FAST Data* (Peking University 2021);
-    co-advisor: Weiwei Zhu 
-
-- 2020—2021, **Lingqian Qiu** (**邱令倩**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Research on Suitable Neural Network Models for Gravitational Wave Detection* (Peking University 2021) 
 
 - 2019—now, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
@@ -234,11 +227,18 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
     *Neutron Star Structure in Alternative Gravitational Theories* (2021)
 
-- 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Bounding the Photon Mass with Fast Radio Bursts* (2020)
+- 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *The Structure of Neutron Stars with Anisotropic Pressure* (Peking University 2021) 
+    *A Numerical Study of Scalar-tensor Gravity Theory* (Peking University 2021) 
+
+- 2020—2021, **Chunjiang Li** (**李春江**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Track Down Radio Frequency Interference in FAST Data* (Peking University 2021);
+    co-advisor: Weiwei Zhu 
+
+- 2020—2021, **Lingqian Qiu** (**邱令倩**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Research on Suitable Neural Network Models for Gravitational Wave Detection* (Peking University 2021) 
 
 - 2019—2020, **Zihe An** (**安子訸**), College of Engineering, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
