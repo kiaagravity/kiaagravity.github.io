@@ -18,7 +18,7 @@ Ziming, Yacheng, Zexin, Dicong, Shoulong, Hongbo, Rui Xu, Chang, Junjie, Yong, X
 - Round table
 - Hongbo: General Relativistic Polytropic Fluid Spheres
 
-  References: [Tooper 1964](https://ui.adsabs.harvard.edu/abs/1964ApJ...140..434T/abstract), [Tooper 1965](https://ui.adsabs.harvard.edu/abs/1965ApJ...142.1541T/abstract)
+  References: [Chandrasekhar 1935](http://articles.adsabs.harvard.edu/pdf/1935MNRAS..95..207C), [Tooper 1964](https://ui.adsabs.harvard.edu/abs/1964ApJ...140..434T/abstract), [Tooper 1965](https://ui.adsabs.harvard.edu/abs/1965ApJ...142.1541T/abstract)
 
 
 ### Time
