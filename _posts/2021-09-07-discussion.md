@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Discussion on Research Topics 08/31/2021"
-date:   2021-08-31
+title:  "Discussion on Research Topics 09/07/2021"
+date:   2021-09-07
 author: Yong Gao
 categories: activities
 ---
