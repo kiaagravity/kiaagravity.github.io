@@ -80,25 +80,26 @@ layout: page
 0. **Z. Hu (胡泽昕)**, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
 
-0. **Z. Wang (王子铭)**, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry
-through fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
-arXiv:2108.02974
-
-0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
-white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357), arXiv:2108.01357
-
 0. **M. Guo (郭明浩)**, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 
-0. **H. Wang (王惠美)**, X. Miao, L. Shao, [Bounding the photon mass with cosmological
-propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
-*Phys. Lett. B* (accepted), arXiv:2103.15299
+0. **Z. Wang (王子铭)**, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry
+through fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
+*Astrophys. J.* (accepted), arXiv:2108.02974
+
+0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Prospects for detecting exoplanets
+around double white dwarfs with LISA and
+Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted),
+arXiv:2108.01357
 
 0. **王弋尘**, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
+
+0. **H. Wang (王惠美)**, X. Miao, L. Shao, [Bounding the photon mass with cosmological
+propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
+*Phys. Lett. B* 820 (2021) 136596
 
 0. **H. Xia (夏鹤明)**, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
 {: reversed="reversed"}
-

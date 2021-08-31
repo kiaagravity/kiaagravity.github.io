@@ -12,10 +12,6 @@ permalink: /publication/
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 arXiv:2108.08490
 
-0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
-fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
-arXiv:2108.02974
-
 0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
 
@@ -35,19 +31,23 @@ gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 oscillations: the quadrupole of GRO
 J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
 
+0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
+fifty gravitational-wave events](https://arxiv.org/abs/2108.02974), *Astrophys.
+J.* (accepted), arXiv:2108.02974
+
 0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
 highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org/abs/2107.05812),
 *Astrophys. J* (accepted), arXiv:2107.05812
-
-0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
-propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
-*Phys. Lett. B* (accepted), arXiv:2103.15299
 
 0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation
 from binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), 
 *Phys. Rev. D* (accepted), arXiv:2106.04883
+
+0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
+propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
+*Phys. Lett. B* 820 (2021) 136596
 
 0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
 and observational consequences for neutron
