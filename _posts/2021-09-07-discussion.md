@@ -23,4 +23,4 @@ Ziming, Yacheng, Zexin, Dicong,  Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lij
 
 ### Time
 
-7:00 pm -- 9:00 pm
+6:00 pm -- 9:00 pm
