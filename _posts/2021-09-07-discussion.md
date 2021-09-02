@@ -16,7 +16,7 @@ Ziming, Yacheng, Zexin, Dicong,  Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lij
 ### Agenda
 
 - Round table
-- Chang Liu: Tidally deformed bodies
+- Chang Liu: Tidally deformed bodies (Section 2.5)
 
   References: [[Poisson & Will, 2014]](https://www.cambridge.org/9781107032866)
 
