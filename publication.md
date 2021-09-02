@@ -19,21 +19,21 @@ scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
 [Cosmological aspects of cubic Galileon massive
 gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
 
-0. Y. Kang, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
-white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357),
-arXiv:2108.01357
-
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 
-0. A. Allahyari, L. Shao, [Testing no-hair theorem by quasi-periodic
-oscillations: the quadrupole of GRO
-J1655$-$40](https://arxiv.org/abs/2102.02232), arXiv:2102.02232
-
 0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
 fifty gravitational-wave events](https://arxiv.org/abs/2108.02974), *Astrophys.
 J.* (accepted), arXiv:2108.02974
+
+0. Y. Kang, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
+white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357), arXiv:2108.01357
+
+0. A. Allahyari, L. Shao, [Testing no-hair theorem by quasi-periodic
+oscillations: the quadrupole of GRO
+J1655$-$40](https://arxiv.org/abs/2102.02232), *J. Cosmol. Astropart. Phys.*
+(accepted),  arXiv:2102.02232
 
 0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
 highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org/abs/2107.05812),

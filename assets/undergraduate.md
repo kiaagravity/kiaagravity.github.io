@@ -90,7 +90,7 @@ through fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
 
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Prospects for detecting exoplanets
 around double white dwarfs with LISA and
-Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted),
+Taiji](https://arxiv.org/abs/2108.01357), 
 arXiv:2108.01357
 
 0. **王弋尘**, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
