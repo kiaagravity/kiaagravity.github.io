@@ -38,7 +38,7 @@ J1655$-$40](https://arxiv.org/abs/2102.02232), *J. Cosmol. Astropart. Phys.*
 
 0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
 highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org/abs/2107.05812),
-*Astrophys. J* (accepted), arXiv:2107.05812
+*Astrophys. J.* (accepted), arXiv:2107.05812
 
 0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation
 from binary neutron stars with ground-based laser-interferometer and
@@ -120,7 +120,7 @@ J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
 
 0. M. Janssen, *et al.*, [Event Horizon Telescope observations of the jet
 launching and collimation in Centaurus
-A](https://doi.org/10.1038/s41550-021-01417-w), Nat. Astron. (accepted)
+A](https://doi.org/10.1038/s41550-021-01417-w), *Nat. Astron.* (accepted)
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
