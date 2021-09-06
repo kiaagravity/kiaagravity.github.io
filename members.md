@@ -48,7 +48,7 @@ evolution of binary black holes <br>
 ---
 
 <a href="https://orcid.org/0000-0001-5021-235X">
-<img src="{{ site.baseurl }}/assets/Liang_Dicong_floor1.jpeg" title="Profile Picture" style="width:40%">
+<img src="{{ site.baseurl }}/assets/Liang_Dicong_floor1.jpeg" title="Profile Picture" class="profile">
 </a>
 <big><b>Dr. Dicong Liang (梁迪聪)</b></big><br>
 <i><b>KIAA Postdoc (2021-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -90,7 +90,7 @@ evolution of binary black holes <br>
 ---
 
 <a href="https://orcid.org/0000-0001-7402-4927">
-<img src="{{ site.baseurl }}/assets/Kang_Yacheng_floor1.jpeg" title="Profile Picture" style="width:40%">
+<img src="{{ site.baseurl }}/assets/Kang_Yacheng_floor1.jpeg" title="Profile Picture" class="profile">
 </a>
 <big><b>Yacheng Kang (康亚城)</b></big><br>
 <i><b>Undergraduate (2018-now)</b>, Department of Astronomy, School of Physics, 
@@ -101,7 +101,7 @@ evolution of binary black holes <br>
 ---
 
 <a href="TBA">
-<img src="{{ site.baseurl }}/assets/Hu_Zexin_floor1.jpeg" title="Profile Picture" style="width:40%">
+<img src="{{ site.baseurl }}/assets/Hu_Zexin_floor1.jpeg" title="Profile Picture" class="profile">
 </a>
 <big><b>Zexin Hu (胡泽昕)</b></big><br>
 <i><b>Undergraduate (2018-now)</b>, School of Physics, Peking University</i><br>
