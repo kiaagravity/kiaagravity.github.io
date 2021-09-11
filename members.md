@@ -53,7 +53,7 @@ evolution of binary black holes <br>
 <big><b>Dr. Dicong Liang (梁迪聪)</b></big><br>
 <i><b>KIAA Postdoc (2021-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
-<b>Email</b>: dcliang@hust.edu.cn<br>
+<b>Email</b>: dcliang@pku.edu.cn<br>
 <b>Research Interests</b>: gravitational waves<br>
 
 ---
