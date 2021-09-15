@@ -18,13 +18,16 @@ Ref:  Ding et al. 2021 [[ApJ](https://arxiv.org/abs/2009.11106)]
 
 Ref: Tong et al. 2021 [[arXiv](https://arxiv.org/abs/2106.13484)]
 
-
+## 
 
 ##  Rehearsal for [PKU Undergraduate Astronomy Symposium 2021](http://kavli.pku.edu.cn/undersymp21/)
 
-#### Zexin Hu: Neutron star structure in scalar tensor thoery
+#### Zexin Hu: 
+##### Neutron star structure in scalar tensor thoery
 
-#### Yacheng Kang: Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
+#### Yacheng Kang: 
+##### Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
 
-#### Ziming Wang: New limits on the Lorentz/CPT symmetry through fifty gravitational-wave events
+#### Ziming Wang: 
+##### New limits on the Lorentz/CPT symmetry through fifty gravitational-wave events
 
