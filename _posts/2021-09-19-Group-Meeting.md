@@ -24,7 +24,7 @@ Ref: Tong et al. 2021 [[arXiv](https://arxiv.org/abs/2106.13484)]
 
 #### Yacheng Kang: Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
 
-#### Zexin Hu: 标量张量下的中子星结构
+#### Zexin Hu: Neutron star structure in scalar tensor thoery
 
 #### Ziming Wang: New limits on the Lorentz/CPT symmetry through fifty gravitational-wave events
 
