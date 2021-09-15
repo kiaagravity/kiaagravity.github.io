@@ -16,11 +16,11 @@ Ref:  Ding et al. 2021 [[ApJ](https://arxiv.org/abs/2009.11106)]
 
 #### Zhejian Zhang: Gravitational Collider Physics via Pulsar-Black Hole Binaries II: Fine and Hyperfine Structures are Favored
 
-Ref: Tong et al, 2021 [[arXiv](https://arxiv.org/abs/2106.13484)]
+Ref: Tong et al. 2021 [[arXiv](https://arxiv.org/abs/2106.13484)]
 
 
 
-##  Rehearsal for [[PKU Undergraduate Astronomy Symposium 2021](http://kavli.pku.edu.cn/undersymp21/)]
+##  Rehearsal for [PKU Undergraduate Astronomy Symposium 2021](http://kavli.pku.edu.cn/undersymp21/)
 
 #### Yacheng Kang: Prospects for detecting exoplanets around double white dwarfs with LISA and Taiji
 
