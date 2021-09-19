@@ -21,9 +21,9 @@ Ziming, Yacheng, Zexin, Dicong,  Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lij
 
   References: [[Poisson & Will, 2014]](https://www.cambridge.org/9781107032866)
   
-- Dicong Liang: 
+- Dicong Liang: Constraint on Brans-Dicke theory from intermediate/extreme mass ratio insprials 
 
-  References: [[General relativistic celestial mechanics of binary systems. I. The post-newtonian motion](http://www.numdam.org/item/AIHPA_1985__43_1_107_0/)]
+  References: [[Constraint on Brans-Dicke theory from intermediate/extreme mass ratio insprials with self-force method](https://arxiv.org/abs/2107.02700)]
 
 
 ### Time
