@@ -8,6 +8,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
+birefringence with the gravitaitonal-wave
+catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 arXiv:2108.08490
@@ -86,6 +90,10 @@ stars](https://arxiv.org/abs/2011.04472),
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [Search for continuous gravitational waves from 20
+accreting millisecond X-ray pulsars in O3 LIGO
+data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
 
 0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
 bursts in the third Advanced LIGO and Advanced Virgo
