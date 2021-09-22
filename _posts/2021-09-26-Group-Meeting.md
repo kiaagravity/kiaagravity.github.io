@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Group Meeting 09/19/2021"
-date:   2021-09-19
+title:  "Group Meeting 09/26/2021"
+date:   2021-09-26
 author: Chang
 categories: activities
 ---
