@@ -17,7 +17,7 @@ Ziming, Yacheng, Zexin, Dicong,  Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lij
 
 - Round table
 
-- Radial stability analysis and f mode oscillations 
+- Hongbo: Radial stability analysis and f mode oscillations 
 
   References: [[Andersson, 2021]](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198568032.001.0001/oso-9780198568032)
   
