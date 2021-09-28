@@ -22,3 +22,4 @@ Ref1: Mendes and Ortiz 2018 [[New class of quasinormal modes of neutron stars in
 
 Ref2: Blazquez-Salcedo et al. 2021 [[Polar Quasinormal Modes of Neutron Stars in Massive Scalar-Tensor Theories](https://arxiv.org/abs/2107.06726)]
 
+Ref3: [[QNM review](https://ui.adsabs.harvard.edu/abs/1999CQGra..16R.159N/abstract)]
