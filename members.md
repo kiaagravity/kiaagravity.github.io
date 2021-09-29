@@ -268,20 +268,19 @@ evolution of binary black holes <br>
 
 Comments
 
-| 2020—now | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
-| 2020—now | **Sebastian Bahamonde** |  | Postdoc | [UT.EE](http://sebastianbahamonde.com/) |
+| 2020—2021 | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 
-| 2020—now | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
+| 2020—2021 | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—2021 | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2019—2021 | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—2021 | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 
 | 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2019—2021 | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—2021 | **Shoulong Li** | **李守龙** | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
-| 2020—now | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2020—2020 | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Sobhan Kazempour** | | PhD Student | [TabrizU](https://physics.tabrizu.ac.ir/en) |
 
 -->

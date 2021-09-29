@@ -8,6 +8,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
+stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
+arXiv:2109.13234
+
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
@@ -16,9 +20,6 @@ catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 arXiv:2108.08490
 
-0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
-scalar-tensor gravity: X-ray pulsars and tidal deformability](TBA), submitted
-
 0. S.M. Aslmarand, A.R. Akbarieh, Y.  Izadi, S. Kazempour, L.  Shao,
 [Cosmological aspects of cubic Galileon massive
 gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
@@ -26,6 +27,11 @@ gravity](https://arxiv.org/abs/2107.09919), arXiv:2107.09919
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
+
+0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
+scalar-tensor gravity: X-ray pulsars and tidal
+deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* (accepted),
+arXiv:2109.13453
 
 0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
 fifty gravitational-wave events](https://arxiv.org/abs/2108.02974), *Astrophys.
@@ -90,6 +96,10 @@ stars](https://arxiv.org/abs/2011.04472),
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [Search for subsolar-mass binaries in the first half of
+Advanced LIGO and Virgo's third observing
+run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 
 0. R. Abbott, *et al.*, [Search for continuous gravitational waves from 20
 accreting millisecond X-ray pulsars in O3 LIGO
