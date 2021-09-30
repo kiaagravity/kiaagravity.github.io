@@ -178,9 +178,7 @@ evolution of binary black holes <br>
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Jingyuan Deng** | **邓景元** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Yuxi Duan** | **段雨曦** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Peixiang Ji** | **姬佩祥** | Undergraduate | [NANKAI](https://physics.nankai.edu.cn/) |
-| 2021—now | **Shenyong Ye** | **叶沈镛** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Haimeng Chen** | **陈海萌** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 
 <p></p>
@@ -270,7 +268,7 @@ Comments
 
 | 2020—2021 | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
-| 2018—now | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2018—2020 | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 | 2020—2021 | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—2021 | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -283,6 +281,8 @@ Comments
 | 2020—2020 | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Sobhan Kazempour** | | PhD Student | [TabrizU](https://physics.tabrizu.ac.ir/en) |
 
+| 2021—now | **Yuxi Duan** | **段雨曦** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Shenyong Ye** | **叶沈镛** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 -->
 
 <script type="text/x-mathjax-config">
