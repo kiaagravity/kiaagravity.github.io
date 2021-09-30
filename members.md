@@ -154,7 +154,7 @@ evolution of binary black holes <br>
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Yacheng Kang** | **康亚城** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Zexin Hu** | **胡泽昕** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2020—now | **Zexin Hu** | **胡泽昕** | Undergraduate Research & Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
