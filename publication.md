@@ -31,7 +31,7 @@ gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 0. F. Zhang, X. Chen, L.  Shao, K. Inayoshi, [The eccentric and accelerating
 stellar binary black hole mergers in galactic nuclei: observing in ground and
 space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
-*Astrophys. J* (accepted), arXiv:2109.14842
+*Astrophys. J.* (accepted), arXiv:2109.14842
 
 0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal
@@ -124,6 +124,8 @@ decihertz range](https://arxiv.org/abs/2104.14583),
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 (accepted), arXiv:1908.11391
 {: reversed="reversed"}
+
+---
 
 ### 2021
 
