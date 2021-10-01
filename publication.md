@@ -55,12 +55,6 @@ J1655$-$40](https://arxiv.org/abs/2102.02232), *J. Cosmol. Astropart. Phys.*
 highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org/abs/2107.05812),
 *Astrophys. J.* (accepted), arXiv:2107.05812
 
-0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation
-from binary neutron stars with ground-based laser-interferometer and
-atom-interferometer gravitational-wave
-observatories](https://arxiv.org/abs/2106.04883), 
-*Phys. Rev. D* (accepted), arXiv:2106.04883
-
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
@@ -130,6 +124,12 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 ### 2021
 
 ##### Short-author-list Papers
+
+0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation from
+binary neutron stars with ground-based laser-interferometer and
+atom-interferometer gravitational-wave
+observatories](https://arxiv.org/abs/2106.04883), 
+*Phys. Rev. D* 104 (2021) 084008
 
 0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
 propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
