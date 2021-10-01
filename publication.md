@@ -4,7 +4,7 @@ title: Publication
 permalink: /publication/
 ---
 
-### 2021
+### 2022
 
 ##### Short-author-list Papers
 
@@ -60,40 +60,6 @@ from binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), 
 *Phys. Rev. D* (accepted), arXiv:2106.04883
-
-0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
-propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
-*Phys. Lett. B* 820 (2021) 136596
-
-0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
-and observational consequences for neutron
-stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
-
-0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
-gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
-Rev. D* 103 (2021) 024040
-
-0. Z. Wang, L. Shao, [Axion induced spin effective
-couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* 103 (2021) 116021
-
-0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
-confinement/deconfinement phase transition in different QCD
-matters](https://arxiv.org/abs/2101.08012), *Phys.  Rev. D* 104 (2021) 043510
-
-0. A.R. Akbarieh, S. Kazempour, L. Shao, [Cosmological perturbations in
-Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
-*Phys. Rev. D* 103 (2021) 123518
-
-0. R. Xu, Y. Gao, L. Shao, [Signature of Lorentz violation in continuous
-gravitational-wave spectra of ellipsoidal neutron
-stars](https://arxiv.org/abs/2101.09431), *Galaxies* 9 (2021) 12
-
-0. L. Shao, [Pulsar tests of the graviton
-mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
-
-0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
-stars](https://arxiv.org/abs/2011.04472),
-*Astron. Nachr.* 342 (2021) 364
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
 
@@ -157,6 +123,48 @@ decihertz range](https://arxiv.org/abs/2104.14583),
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 (accepted), arXiv:1908.11391
+{: reversed="reversed"}
+
+### 2021
+
+##### Short-author-list Papers
+
+0. H. Wang, X. Miao, L. Shao, [Bounding the photon mass with cosmological
+propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
+*Phys. Lett. B* 820 (2021) 136596
+
+0. R. Xu, Y. Gao, L. Shao, [Precession of spheroids under Lorentz violation
+and observational consequences for neutron
+stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
+
+0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
+gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
+Rev. D* 103 (2021) 024040
+
+0. Z. Wang, L. Shao, [Axion induced spin effective
+couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* 103 (2021) 116021
+
+0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
+confinement/deconfinement phase transition in different QCD
+matters](https://arxiv.org/abs/2101.08012), *Phys.  Rev. D* 104 (2021) 043510
+
+0. A.R. Akbarieh, S. Kazempour, L. Shao, [Cosmological perturbations in
+Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
+*Phys. Rev. D* 103 (2021) 123518
+
+0. R. Xu, Y. Gao, L. Shao, [Signature of Lorentz violation in continuous
+gravitational-wave spectra of ellipsoidal neutron
+stars](https://arxiv.org/abs/2101.09431), *Galaxies* 9 (2021) 12
+
+0. L. Shao, [Pulsar tests of the graviton
+mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
+
+0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
+stars](https://arxiv.org/abs/2011.04472),
+*Astron. Nachr.* 342 (2021) 364
+{: reversed="reversed"}
+
+##### Other Papers
 
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
