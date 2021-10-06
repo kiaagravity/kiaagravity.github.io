@@ -103,11 +103,6 @@ highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
 
-0. A. Allahyari, L. Shao, [Testing no-hair theorem by quasi-periodic
-oscillations: the quadrupole of GRO
-J1655$-$40](https://arxiv.org/abs/2102.02232), *J. Cosmol. Astropart. Phys.* 10
-(2021) 003
-
 0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation from
 binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave
@@ -125,6 +120,11 @@ stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
+
+0. A. Allahyari, L. Shao, [Testing no-hair theorem by quasi-periodic
+oscillations: the quadrupole of GRO
+J1655$-$40](https://arxiv.org/abs/2102.02232), *J. Cosmol. Astropart. Phys.* 10
+(2021) 003
 
 0. Z. Wang, L. Shao, [Axion induced spin effective
 couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* 103 (2021) 116021
