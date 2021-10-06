@@ -35,17 +35,9 @@ run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 accreting millisecond X-ray pulsars in O3 LIGO
 data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
 
-0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
-bursts in the third Advanced LIGO and Advanced Virgo
-run](https://arxiv.org/abs/2107.13796), arXiv:2107.13796
-
 0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
 the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.03701), arXiv:2107.03701
-
-0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
-isolated neutron stars in the early O3 LIGO
-data](https://arxiv.org/abs/2107.00600), arXiv:2107.00600
 
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
@@ -150,6 +142,14 @@ stars](https://arxiv.org/abs/2011.04472),
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
+isolated neutron stars in the early O3 LIGO
+data](https://arxiv.org/abs/2107.00600), *Phys. Rev. D* (accepted), arXiv:2107.00600
+
+0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
+bursts in the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* (accepted), arXiv:2107.13796
 
 0. M. Janssen, *et al.*, [Event Horizon Telescope observations of the jet
 launching and collimation in Centaurus
