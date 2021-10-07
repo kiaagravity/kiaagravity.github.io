@@ -39,21 +39,9 @@ data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
 the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.03701), arXiv:2107.03701
 
-0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
-third observing run of Advanced LIGO and Advanced
-Virgo](https://arxiv.org/abs/2105.15120), arXiv:2105.15120
-
 0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
 LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
 arXiv:2105.13085
-
-0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
-supernova remnants in the early third observing run of Advanced LIGO and
-Virgo](https://arxiv.org/abs/2105.11641), arXiv:2105.11641
-
-0.  R. Abbott, *et al.*, [Constraints from LIGO O3 data on
-gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
-J0537$-$6910](https://arxiv.org/abs/2104.14417), arXiv:2104.14417
 
 0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
 2030s](https://arxiv.org/abs/2104.09534), arXiv:2104.09534
@@ -150,6 +138,18 @@ data](https://arxiv.org/abs/2107.00600), *Phys. Rev. D* (accepted), arXiv:2107.0
 0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
 bursts in the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* (accepted), arXiv:2107.13796
+
+0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
+third observing run of Advanced LIGO and Advanced
+Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
+
+0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
+supernova remnants in the early third observing run of Advanced LIGO and
+Virgo](https://arxiv.org/abs/2105.11641), *Astrophys. J.* (accepted), arXiv:2105.11641
+
+0.  R. Abbott, *et al.*, [Constraints from LIGO O3 data on
+gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
+J0537$-$6910](https://arxiv.org/abs/2104.14417), *Astrophys. J.* (accepted), arXiv:2104.14417
 
 0. M. Janssen, *et al.*, [Event Horizon Telescope observations of the jet
 launching and collimation in Centaurus
