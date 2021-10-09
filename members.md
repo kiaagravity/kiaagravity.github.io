@@ -110,7 +110,7 @@ evolution of binary black holes <br>
 
 ---
 
-<big><big><big><b>Alumnae and Alumni</b></big></big></big> (alphabetically)<br>
+<big><big><big><b>Alumnae and Alumni</b></big></big></big><br>
 
 
 <div class="row">
