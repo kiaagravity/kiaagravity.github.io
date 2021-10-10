@@ -155,10 +155,6 @@ Virgo](https://arxiv.org/abs/2105.11641), *Astrophys. J.* (accepted), arXiv:2105
 gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2104.14417), *Astrophys. J.* (accepted), arXiv:2104.14417
 
-0. M. Janssen, *et al.*, [Event Horizon Telescope observations of the jet
-launching and collimation in Centaurus
-A](https://doi.org/10.1038/s41550-021-01417-w), *Nat. Astron.* (accepted)
-
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
 arXiv:1908.11410
@@ -197,6 +193,10 @@ coalescences](https://iopscience.iop.org/article/10.3847/2041-8213/ac082e),
 gravitational waves from the energetic young pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2012.12926), *Astrophys. J. Lett.* 913
 (2021) L27
+
+0. M. Janssen, *et al.*, [Event Horizon Telescope observations of the jet
+launching and collimation in Centaurus
+A](https://doi.org/10.1038/s41550-021-01417-w), *Nat. Astron.* 5 (2021) 1017
 
 0. P. Kocherlakota, *et al.*, [Constraints on black-hole charges with the 2017
 EHT observations of M87$^\ast$](https://arxiv.org/abs/2105.09343), *Phys. Rev.
