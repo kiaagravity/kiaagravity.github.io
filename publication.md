@@ -135,10 +135,6 @@ stars](https://arxiv.org/abs/2011.04472),
 
 ##### Other Papers
 
-0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
-isolated neutron stars in the early O3 LIGO
-data](https://arxiv.org/abs/2107.00600), *Phys. Rev. D* (accepted), arXiv:2107.00600
-
 0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
 bursts in the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* (accepted), arXiv:2107.13796
@@ -171,6 +167,10 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
+isolated neutron stars in the early O3 LIGO
+data](https://arxiv.org/abs/2107.00600), *Phys. Rev. D* 104 (2021) 082004 
 
 0. R. Abbott, *et al.*, [Search for anisotropic gravitational-wave backgrounds
 using data from Advanced LIGO's and Advanced Virgo's first three observing
