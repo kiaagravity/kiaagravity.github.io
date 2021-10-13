@@ -17,5 +17,7 @@ Ref: Antonelli et al. 2021 [[arXiv](https://arxiv.org/abs/2104.01897)]
 
 ## Discussion on Research Topic
 
-#### Muxin Liu:  Study on the estimation ability of cosmological parameter by the gravitational-wave observation of binary black hole mergers in decihertz band 
+#### Muxin Liu: GW cosmology
+
+Study on the estimation ability of cosmological parameter by the GW observation of binary black hole mergers in decihertz band 
 
