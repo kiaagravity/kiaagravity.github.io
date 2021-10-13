@@ -39,10 +39,6 @@ run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 accreting millisecond X-ray pulsars in O3 LIGO
 data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
 
-0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
-the third Advanced LIGO and Advanced Virgo
-run](https://arxiv.org/abs/2107.03701), arXiv:2107.03701
-
 0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
 LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
 arXiv:2105.13085
@@ -134,6 +130,10 @@ stars](https://arxiv.org/abs/2011.04472),
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
+the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
 
 0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
 bursts in the third Advanced LIGO and Advanced Virgo
