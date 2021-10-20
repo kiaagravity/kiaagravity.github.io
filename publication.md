@@ -31,6 +31,10 @@ gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [All-sky, all-frequency directional search for
+persistent gravitational waves from Advanced LIGO's and Advanced Virgo's first
+three observing runs](https://arxiv.org/abs/2110.09834), arXiv:2110.09834
+
 0. R. Abbott, *et al.*, [Search for subsolar-mass binaries in the first half of
 Advanced LIGO and Virgo's third observing
 run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
