@@ -85,8 +85,6 @@ highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
 
-0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
-
 0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation from
 binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave
@@ -131,6 +129,9 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
+
+0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008),
+《天文学报》, 62 (2021) 54
 {: reversed="reversed"}
 
 ##### Other Papers

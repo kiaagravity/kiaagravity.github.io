@@ -95,7 +95,9 @@ around double white dwarfs with LISA and
 Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted), 
 arXiv:2108.01357
 
-0. **王弋尘**, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](TBA), *《天文学报》*, accepted
+0. **王弋尘**, 缪雪丽, 邵立晶,
+[用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008),
+《天文学报》, 62 (2021) 54
 
 0. **H. Wang (王惠美)**, X. Miao, L. Shao, [Bounding the photon mass with cosmological
 propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
