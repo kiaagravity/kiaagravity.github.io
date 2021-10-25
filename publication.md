@@ -46,9 +46,6 @@ data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
 0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
 LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
 arXiv:2105.13085
-
-0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
-2030s](https://arxiv.org/abs/2104.09534), arXiv:2104.09534
 {: reversed="reversed"}
 
 ---
@@ -136,6 +133,9 @@ stars](https://arxiv.org/abs/2011.04472),
 
 ##### Other Papers
 
+0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
+2030s](https://arxiv.org/abs/2104.09534), *Exp. Astron.* (accepted), arXiv:2104.09534
+
 0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
 the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
@@ -157,17 +157,17 @@ gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2104.14417), *Astrophys. J.* (accepted), arXiv:2104.14417
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
-astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* (accepted),
-arXiv:1908.11410
+astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* 
+51 (2021) 1441
 
 0. M. Arca Sedda, C.P.L.  Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: A summary of discoveries waiting in the
 decihertz range](https://arxiv.org/abs/2104.14583),
-*Exp. Astron.* (accepted), arXiv:2104.14583
+*Exp. Astron.* 51 (2021) 1427
 
 0. A. Sesana, N. Korsakova, *et al.*, [Unveiling the gravitational Universe
 at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
-(accepted), arXiv:1908.11391
+51 (2021) 1333
 
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
