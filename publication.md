@@ -23,10 +23,6 @@ catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 arXiv:2108.08490
-
-0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
-scalar-tensor gravity in the strong field and applications to binary pulsars and
-gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
 {: reversed="reversed"}
 
 ##### Other Papers
@@ -53,6 +49,11 @@ arXiv:2105.13085
 ### 2021
 
 ##### Short-author-list Papers
+
+0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
+scalar-tensor gravity in the strong field and applications to binary pulsars and
+gravitational waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D*
+(accepted), arXiv:2106.01622
 
 0. S.M. Aslmarand, A.R. Akbarieh, Y.  Izadi, S. Kazempour, L.  Shao,
 [Cosmological aspects of cubic Galileon massive

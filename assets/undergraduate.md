@@ -79,7 +79,8 @@ layout: page
 
 0. **M. Guo (郭明浩)**, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
-gravitational waves](https://arxiv.org/abs/2106.01622), arXiv:2106.01622
+gravitational waves](https://arxiv.org/abs/2106.01622), 
+*Phys. Rev. D* (accepted), arXiv:2106.01622
 
 0. **Z. Hu (胡泽昕)**, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal
