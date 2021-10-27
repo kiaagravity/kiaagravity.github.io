@@ -55,10 +55,6 @@ scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D*
 (accepted), arXiv:2106.01622
 
-0. S.M. Aslmarand, A.R. Akbarieh, Y.  Izadi, S. Kazempour, L.  Shao,
-[Cosmological aspects of cubic Galileon massive
-gravity](https://arxiv.org/abs/2107.09919), *Phys. Rev.  D* (accepted), arXiv:2107.09919
-
 0. F. Zhang, X. Chen, L.  Shao, K. Inayoshi, [The eccentric and accelerating
 stellar binary black hole mergers in galactic nuclei: observing in ground and
 space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
@@ -112,6 +108,10 @@ couplings](https://arxiv.org/abs/2102.04669),  *Phys. Rev. D* 103 (2021) 116021
 0. S.-L. Li, L. Shao, P. Wu, H. Yu, [NANOGrav signal from first-order
 confinement/deconfinement phase transition in different QCD
 matters](https://arxiv.org/abs/2101.08012), *Phys.  Rev. D* 104 (2021) 043510
+
+0. S.M. Aslmarand, A.R. Akbarieh, Y.  Izadi, S. Kazempour, L.  Shao,
+[Cosmological aspects of cubic Galileon massive
+gravity](https://arxiv.org/abs/2107.09919), *Phys. Rev.  D* 104 (2021) 083543
 
 0. A.R. Akbarieh, S. Kazempour, L. Shao, [Cosmological perturbations in
 Gauss-Bonnet quasi-dilaton massive gravity](https://arxiv.org/abs/2105.03744),
