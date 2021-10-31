@@ -182,6 +182,7 @@ evolution of binary black holes <br>
 | 2020—now | **Jingyuan Deng** | **邓景元** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Haimeng Chen** | **陈海萌** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
+| 2021—now | **Weisong Wang** | **王伟松** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
