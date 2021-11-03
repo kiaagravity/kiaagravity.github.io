@@ -12,10 +12,6 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
-0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
-stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
-arXiv:2109.13234
-
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
@@ -49,6 +45,10 @@ arXiv:2105.13085
 ### 2021
 
 ##### Short-author-list Papers
+
+0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
+stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
+*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2109.13234
 
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
