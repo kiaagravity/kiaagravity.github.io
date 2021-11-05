@@ -60,11 +60,6 @@ stellar binary black hole mergers in galactic nuclei: observing in ground and
 space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
 *Astrophys. J.* (accepted), arXiv:2109.14842
 
-0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
-scalar-tensor gravity: X-ray pulsars and tidal
-deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* (accepted),
-arXiv:2109.13453
-
 0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
 fifty gravitational-wave events](https://arxiv.org/abs/2108.02974), *Astrophys.
 J.* (accepted), arXiv:2108.02974
@@ -78,6 +73,11 @@ highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org
 *Astrophys. J.* (accepted), arXiv:2107.05812
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
+
+0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
+scalar-tensor gravity: X-ray pulsars and tidal
+deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* 104 (2021)
+104014
 
 0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation from
 binary neutron stars with ground-based laser-interferometer and

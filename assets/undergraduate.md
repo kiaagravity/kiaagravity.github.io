@@ -95,11 +95,6 @@ scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), 
 *Phys. Rev. D* (accepted), arXiv:2106.01622
 
-0. **Z. Hu (胡泽昕)**, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
-scalar-tensor gravity: X-ray pulsars and tidal
-deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* (accepted),
-arXiv:2109.13453
-
 0. **Z. Wang (王子铭)**, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry
 through fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
 *Astrophys. J.* (accepted), arXiv:2108.02974
@@ -109,9 +104,10 @@ around double white dwarfs with LISA and
 Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted), 
 arXiv:2108.01357
 
-0. **王弋尘**, 缪雪丽, 邵立晶,
-[用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008),
-《天文学报》 62 (2021) 54
+0. **Z. Hu (胡泽昕)**, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
+scalar-tensor gravity: X-ray pulsars and tidal
+deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* 104 (2021)
+104014
 
 0. **H. Wang (王惠美)**, X. Miao, L. Shao, [Bounding the photon mass with cosmological
 propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
@@ -120,4 +116,8 @@ propagation of fast radio bursts](https://arxiv.org/abs/2103.15299),
 0. **H. Xia (夏鹤明)**, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
+
+0. **王弋尘**, 缪雪丽, 邵立晶,
+[用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008),
+《天文学报》 62 (2021) 54
 {: reversed="reversed"}
