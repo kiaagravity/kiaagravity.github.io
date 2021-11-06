@@ -153,10 +153,6 @@ run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* (accepted), arXiv:2107.13
 third observing run of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
 
-0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
-supernova remnants in the early third observing run of Advanced LIGO and
-Virgo](https://arxiv.org/abs/2105.11641), *Astrophys. J.* (accepted), arXiv:2105.11641
-
 0.  R. Abbott, *et al.*, [Constraints from LIGO O3 data on
 gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
 J0537$-$6910](https://arxiv.org/abs/2104.14417), *Astrophys. J.* (accepted), arXiv:2104.14417
@@ -177,6 +173,10 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
+supernova remnants in the early third observing run of Advanced LIGO and
+Virgo](https://arxiv.org/abs/2105.11641), *Astrophys. J.* 921 (2021) 80 
 
 0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
 isolated neutron stars in the early O3 LIGO
