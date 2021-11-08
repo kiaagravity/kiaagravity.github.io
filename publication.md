@@ -23,6 +23,21 @@ arXiv:2108.08490
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
+and Virgo during the second part of the third observing
+run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
+
+0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
+GWTC-3](https://arxiv.org/abs/2111.03604), arXiv:2111.03604
+
+0. R. Abbott, *et al.*, [Search for gravitational waves associated with
+gamma-ray bursts detected by Fermi and Swift during the LIGO-Virgo run
+O3b](https://arxiv.org/abs/2111.03608), arXiv:2111.03608
+
+0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
+using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634),
+arXiv:2111.03634
+
 0. R. Abbott, *et al.*, [All-sky, all-frequency directional search for
 persistent gravitational waves from Advanced LIGO's and Advanced Virgo's first
 three observing runs](https://arxiv.org/abs/2110.09834), arXiv:2110.09834
