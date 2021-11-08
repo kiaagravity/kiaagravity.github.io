@@ -23,7 +23,7 @@ Ziming, Yacheng, Zexin, Dicong,  Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lij
 
   Reference: [N. Andersson et al., 1995](https://ui.adsabs.harvard.edu/abs/1995MNRAS.274.1039A/abstract); 
   [K. Kokkotas and B. Schutz, 1992](https://ui.adsabs.harvard.edu/abs/1992MNRAS.255..119K/abstract#:~:text=A);
-  [L. Lindblom and S. Detweiler, 1983](https://ui.adsabs.harvard.edu/abs/1995MNRAS.274.1039A/abstract); 
+  [L. Lindblom and S. Detweiler, 1983](https://ui.adsabs.harvard.edu/abs/1983ApJS...53...73L/abstract); 
 
 
 
