@@ -83,11 +83,12 @@ J.* (accepted), arXiv:2108.02974
 white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357), *Astron.
 J.* (accepted),  arXiv:2108.01357
 
-0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
-highly relativistic binary pulsars in the era of LISA and SKA](https://arxiv.org/abs/2107.05812),
-*Astrophys. J.* (accepted), arXiv:2107.05812
-
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
+
+0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
+highly relativistic binary pulsars in the era of LISA and
+SKA](https://arxiv.org/abs/2107.05812),
+*Astrophys. J.* 921 (2021) 114
 
 0. Z. Hu, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal
