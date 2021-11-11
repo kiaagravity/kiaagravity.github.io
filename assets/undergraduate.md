@@ -95,14 +95,14 @@ scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), 
 *Phys. Rev. D* (accepted), arXiv:2106.01622
 
-0. **Z. Wang (王子铭)**, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry
-through fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
-*Astrophys. J.* (accepted), arXiv:2108.02974
-
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Prospects for detecting exoplanets
 around double white dwarfs with LISA and
 Taiji](https://arxiv.org/abs/2108.01357), *Astron. J.* (accepted), 
 arXiv:2108.01357
+
+0. **Z. Wang (王子铭)**, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry
+through fifty gravitational-wave events](https://arxiv.org/abs/2108.02974),
+*Astrophys. J.* 921 (2021) 158
 
 0. **Z. Hu (胡泽昕)**, Y. Gao, R. Xu, L. Shao, [Scalarized neutron stars in massive
 scalar-tensor gravity: X-ray pulsars and tidal

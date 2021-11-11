@@ -75,15 +75,15 @@ stellar binary black hole mergers in galactic nuclei: observing in ground and
 space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
 *Astrophys. J.* (accepted), arXiv:2109.14842
 
-0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
-fifty gravitational-wave events](https://arxiv.org/abs/2108.02974), *Astrophys.
-J.* (accepted), arXiv:2108.02974
-
 0. Y. Kang, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
 white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357), *Astron.
 J.* (accepted),  arXiv:2108.01357
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
+
+0. Z. Wang, L. Shao, C. Liu, [New limits on the Lorentz/CPT symmetry through
+fifty gravitational-wave events](https://arxiv.org/abs/2108.02974), *Astrophys.
+J.* 921 (2021) 158
 
 0. X. Miao, H. Xu, L. Shao, C. Liu, B.-Q. Ma, [Stringent tests of gravity with
 highly relativistic binary pulsars in the era of LISA and
