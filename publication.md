@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. R. Xu, Y. Gao, L.  Shao, [Neutron stars in massive scalar-Gauss-Bonnet
+gravity: Spherical structure and time-independent
+perturbations](https://arxiv.org/abs/TBA), arXiv:TBA
+
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
@@ -161,10 +165,6 @@ the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 the third Advanced LIGO and Advanced Virgo
 run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
 
-0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
-bursts in the third Advanced LIGO and Advanced Virgo
-run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* (accepted), arXiv:2107.13796
-
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
@@ -189,6 +189,10 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
+bursts in the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.13796), *Phys. Rev. D* 104 (2021) 102001
 
 0. R. Abbott, *et al.*, [Searches for continuous gravitational waves from young
 supernova remnants in the early third observing run of Advanced LIGO and
