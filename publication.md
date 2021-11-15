@@ -12,9 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
-0. R. Xu, Y. Gao, L.  Shao, [Neutron stars in massive scalar-Gauss-Bonnet
+0. R. Xu, Y. Gao, L. Shao, [Neutron stars in massive scalar-Gauss-Bonnet
 gravity: Spherical structure and time-independent
-perturbations](https://arxiv.org/abs/TBA), arXiv:TBA
+perturbations](https://arxiv.org/abs/2111.06561), arXiv:2111.06561
 
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
