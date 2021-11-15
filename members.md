@@ -155,8 +155,8 @@ evolution of binary black holes <br>
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2018—now | **Yacheng Kang** | **康亚城** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Zexin Hu** | **胡泽昕** | Undergraduate Research & Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2018—now | **Yacheng Kang** | **康亚城** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Zexin Hu** | **胡泽昕** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Peixiang Ji** | **姬佩祥** | Bachelor Thesis | [NANKAI](https://physics.nankai.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -199,6 +199,14 @@ evolution of binary black holes <br>
 </small>
 
 ## Former Members
+
+- 2018—now, **Yacheng Kang** (**康亚城**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Exoplanets with Space-based Gravitational-wave Detectors* (2021)
+
+- 2020—now, **Zexin Hu** (**胡泽昕**), School of Physics, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Neutron Star Structures in Scalar-tensor Gravity* (2021)
 
 - 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
