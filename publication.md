@@ -154,6 +154,10 @@ stars](https://arxiv.org/abs/2011.04472),
 
 ##### Other Papers
 
+0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
+gravitational wave observatory: the science
+book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
 0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
 the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 (accepted), arXiv:2111.01317 
