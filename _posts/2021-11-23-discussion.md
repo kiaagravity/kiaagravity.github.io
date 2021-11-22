@@ -19,7 +19,7 @@ Ziming, Yacheng, Zexin, Dicong,  Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lij
 
 - arXiv Reading
 
-- Chang Liu:  **BNS detectionin decihertz band**
+- Chang Liu:  **BNS detection in decihertz band**
 
   Reference: [Nitz & Canton, 2021](https://doi.org/10.3847/2041-8213/ac1a75)  
 
