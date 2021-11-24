@@ -19,6 +19,10 @@ perturbations](https://arxiv.org/abs/2111.06561), arXiv:2111.06561
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
+stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
+*Mon. Not. R. Astron. Soc.* 509 (2022) 2758
 {: reversed="reversed"}
 
 ##### Other Papers
@@ -64,10 +68,6 @@ arXiv:2105.13085
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 *Astrophys. J.* (accepted), arXiv:2108.08490
-
-0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
-stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
-*Mon. Not. R. Astron. Soc.* (accepted), arXiv:2109.13234
 
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
