@@ -27,6 +27,10 @@ stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [Searches for gravitational waves from known pulsars at
+two harmonics in the second and third LIGO-Virgo observing
+runs](https://arxiv.org/abs/2111.13106), arXiv:2111.13106
+
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
@@ -69,17 +73,17 @@ arXiv:2105.13085
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 *Astrophys. J.* (accepted), arXiv:2108.08490
 
-0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
-scalar-tensor gravity in the strong field and applications to binary pulsars and
-gravitational waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D*
-(accepted), arXiv:2106.01622
-
 0. F. Zhang, X. Chen, L.  Shao, K. Inayoshi, [The eccentric and accelerating
 stellar binary black hole mergers in galactic nuclei: observing in ground and
 space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
 *Astrophys. J.* (accepted), arXiv:2109.14842
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
+
+0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
+scalar-tensor gravity in the strong field and applications to binary pulsars and
+gravitational waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D*
+XX (2021) YY
 
 0. Y. Kang, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
 white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357), *Astron.
@@ -173,10 +177,6 @@ run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03
 third observing run of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
 
-0.  R. Abbott, *et al.*, [Constraints from LIGO O3 data on
-gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
-J0537$-$6910](https://arxiv.org/abs/2104.14417), *Astrophys. J.* (accepted), arXiv:2104.14417
-
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* 
 51 (2021) 1441
@@ -193,6 +193,10 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0.  R. Abbott, *et al.*, [Constraints from LIGO O3 data on
+gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
+J0537$-$6910](https://arxiv.org/abs/2104.14417), *Astrophys. J.* 922 (2021) 71
 
 0. R. Abbott, *et al.*, [All-sky search for long-duration gravitational-wave
 bursts in the third Advanced LIGO and Advanced Virgo
