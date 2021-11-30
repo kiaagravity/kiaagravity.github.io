@@ -83,7 +83,7 @@ space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), *Phys. Rev. D*
-XX (2021) YY
+104 (2021) 104065
 
 0. Y. Kang, C. Liu, L. Shao, [Prospects for detecting exoplanets around double
 white dwarfs with LISA and Taiji](https://arxiv.org/abs/2108.01357), *Astron.

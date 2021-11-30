@@ -93,7 +93,7 @@ layout: page
 0. **M. Guo (郭明浩)**, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), 
-*Phys. Rev. D* XX (2021) YY
+*Phys. Rev. D* 104 (2021) 104065
 
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Prospects for detecting exoplanets
 around double white dwarfs with LISA and
