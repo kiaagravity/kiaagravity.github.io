@@ -12,6 +12,12 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
+Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
+Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
+first workshop on Gravitational Wave Astrophysics for Early Career
+Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
+
 0. R. Xu, Y. Gao, L. Shao, [Neutron stars in massive scalar-Gauss-Bonnet
 gravity: Spherical structure and time-independent
 perturbations](https://arxiv.org/abs/2111.06561), arXiv:2111.06561
@@ -26,6 +32,10 @@ stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [All-sky search for gravitational wave emission from
+scalar boson clouds around spinning black holes in LIGO O3
+data](https://arxiv.org/abs/2111.15507), arXiv:2111.15507
 
 0. R. Abbott, *et al.*, [Searches for gravitational waves from known pulsars at
 two harmonics in the second and third LIGO-Virgo observing
