@@ -26,6 +26,17 @@ perturbations](https://arxiv.org/abs/2111.06561), arXiv:2111.06561
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
+0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
+mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
+*Astrophys. J.* (accepted), arXiv:2108.08490
+
+0. F. Zhang, X. Chen, L.  Shao, K. Inayoshi, [The eccentric and accelerating
+stellar binary black hole mergers in galactic nuclei: observing in ground and
+space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
+*Astrophys. J.* (accepted), arXiv:2109.14842
+
+0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
+
 0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
 stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 *Mon. Not. R. Astron. Soc.* 509 (2022) 2758
@@ -71,6 +82,25 @@ data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
 0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
 LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
 arXiv:2105.13085
+
+0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
+gravitational wave observatory: the science
+book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
+the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
+(accepted), arXiv:2111.01317 
+
+0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
+2030s](https://arxiv.org/abs/2104.09534), *Exp. Astron.* (accepted), arXiv:2104.09534
+
+0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
+the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
+
+0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
+third observing run of Advanced LIGO and Advanced
+Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
 {: reversed="reversed"}
 
 ---
@@ -78,17 +108,6 @@ arXiv:2105.13085
 ### 2021
 
 ##### Short-author-list Papers
-
-0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
-mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
-*Astrophys. J.* (accepted), arXiv:2108.08490
-
-0. F. Zhang, X. Chen, L.  Shao, K. Inayoshi, [The eccentric and accelerating
-stellar binary black hole mergers in galactic nuclei: observing in ground and
-space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
-*Astrophys. J.* (accepted), arXiv:2109.14842
-
-0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
 
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
@@ -167,25 +186,6 @@ stars](https://arxiv.org/abs/2011.04472),
 {: reversed="reversed"}
 
 ##### Other Papers
-
-0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
-gravitational wave observatory: the science
-book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
-
-0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
-the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
-(accepted), arXiv:2111.01317 
-
-0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
-2030s](https://arxiv.org/abs/2104.09534), *Exp. Astron.* (accepted), arXiv:2104.09534
-
-0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
-the third Advanced LIGO and Advanced Virgo
-run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
-
-0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
-third observing run of Advanced LIGO and Advanced
-Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* 
