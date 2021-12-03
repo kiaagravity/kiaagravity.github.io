@@ -8,7 +8,7 @@ categories: activities
 
 ## Discussion on research topics
 
-#### Dicong Liang: Gravitational Waves Probes of Parity Violation in Compact Binary Coalescences
+#### Dicong Liang: Residuals for Binary Black Hole Events in GWTC-1 using χ2 Tests.
 
 Ref: [[Link](https://arxiv.org/abs/1908.11170)]
 
