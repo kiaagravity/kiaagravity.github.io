@@ -8,7 +8,7 @@ categories: activities
 
 ## Discussion on research topics
 
-#### Dicong Liang: Residuals for Binary Black Hole Events in GWTC-1 using χ2 Tests.
+#### Dicong Liang: Residuals for Binary Black Hole Events in GWTC-1 using $\chi^2$ Tests.
 
 Ref: [[Link](https://arxiv.org/abs/1908.11170)]
 
