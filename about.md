@@ -49,6 +49,12 @@ in gravitational physics or searching for new physics from astrophysical
 observations, please send your CV and we will help you in getting a position
 when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
 
+
+<figure>                                                                        
+<img src="/assets/group_meeting_Dec12_2021.jpg" style="width:100%">                 
+<figcaption><font color="grey"><b>Group meeting on Dec 12, 2021.</b></font></figcaption>
+</figure>
+
 <figure>                                                                        
 <img src="/assets/group_meeting_Jun12_2021.jpg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on June 12, 2021.</b></font></figcaption>
