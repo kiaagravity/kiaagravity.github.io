@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, S.
+Kazempour, L. Shao, [Cosmology and perturbations in tachyonic massive
+gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
+
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
@@ -108,6 +112,9 @@ Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arX
 ### 2021
 
 ##### Short-author-list Papers
+
+0. L. Shao, [General relativity withstands double pulsar's
+scrutiny](https://physics.aps.org/articles/v14/173), *Physics* 14 (2021) 173
 
 0. M. Guo, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
