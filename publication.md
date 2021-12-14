@@ -12,10 +12,6 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
-0. 	A.R. Akbarieh<font color="#5c5c5c"><sup>(#, $\ast$)</sup></font>, S.
-Kazempour, L. Shao, [Cosmology and perturbations in tachyonic massive
-gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
-
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
@@ -29,6 +25,10 @@ perturbations](https://arxiv.org/abs/2111.06561), arXiv:2111.06561
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. 	A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmology and perturbations in
+tachyonic massive gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D*
+(accepted), arXiv:TBA
 
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
@@ -47,6 +47,9 @@ stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [Tests of general relativity with
+GWTC-3](https://arxiv.org/abs/2112.06861), arXiv:2112.06861
 
 0. R. Abbott, *et al.*, [All-sky search for gravitational wave emission from
 scalar boson clouds around spinning black holes in LIGO O3
