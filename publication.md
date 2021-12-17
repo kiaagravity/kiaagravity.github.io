@@ -18,13 +18,14 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
-0. R. Xu, Y. Gao, L. Shao, [Neutron stars in massive scalar-Gauss-Bonnet
-gravity: Spherical structure and time-independent
-perturbations](https://arxiv.org/abs/2111.06561), arXiv:2111.06561
-
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. R. Xu, Y. Gao, L. Shao, [Neutron stars in massive scalar-Gauss-Bonnet
+gravity: Spherical structure and time-independent
+perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* (accepted),
+arXiv:2111.06561
 
 0. 	A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmology and perturbations in
 tachyonic massive gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D*
