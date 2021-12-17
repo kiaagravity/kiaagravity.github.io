@@ -35,11 +35,6 @@ tachyonic massive gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D*
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 *Astrophys. J.* (accepted), arXiv:2108.08490
 
-0. F. Zhang, X. Chen, L.  Shao, K. Inayoshi, [The eccentric and accelerating
-stellar binary black hole mergers in galactic nuclei: observing in ground and
-space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
-*Astrophys. J.* (accepted), arXiv:2109.14842
-
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
 
 0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
@@ -160,6 +155,11 @@ stars](https://arxiv.org/abs/2012.01320), *Phys. Rev. D* 103 (2021) 084028
 0. H. Xia, L. Shao, J. Zhao, Z. Cao, [Improved deep learning techniques in
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
+
+0. F. Zhang, X. Chen, L.  Shao, K. Inayoshi, [The eccentric and accelerating
+stellar binary black hole mergers in galactic nuclei: observing in ground and
+space gravitational wave observatories](https://arxiv.org/abs/2109.14842),
+*Astrophys. J.* 923 (2021) 139
 
 0. A. Allahyari, L. Shao, [Testing no-hair theorem by quasi-periodic
 oscillations: the quadrupole of GRO
