@@ -78,10 +78,6 @@ three observing runs](https://arxiv.org/abs/2110.09834), arXiv:2110.09834
 Advanced LIGO and Virgo's third observing
 run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 
-0. R. Abbott, *et al.*, [Search for continuous gravitational waves from 20
-accreting millisecond X-ray pulsars in O3 LIGO
-data](https://arxiv.org/abs/2109.09255), arXiv:2109.09255
-
 0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
 LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
 arXiv:2105.13085
@@ -89,6 +85,11 @@ arXiv:2105.13085
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Search for continuous gravitational waves from 20
+accreting millisecond X-ray pulsars in O3 LIGO
+data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* (accepted),
+arXiv:2109.09255
 
 0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
 the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
