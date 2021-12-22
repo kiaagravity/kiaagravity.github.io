@@ -44,6 +44,10 @@ stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [Narrowband searches for continuous and long-duration
+transient gravitational waves from known pulsars in the LIGO-Virgo third
+observing run](https://arxiv.org/abs/2112.10990), arXiv:2112.10990
+
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), arXiv:2112.06861
 
