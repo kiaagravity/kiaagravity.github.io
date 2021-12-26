@@ -183,6 +183,8 @@ evolution of binary black holes <br>
 | 2021—now | **Ping He** | **何平** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2021—now | **Haimeng Chen** | **陈海萌** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2021—now | **Bingcheng Jin** | **金秉诚** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
