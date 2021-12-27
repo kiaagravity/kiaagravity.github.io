@@ -23,8 +23,6 @@ Ziming, Yacheng, Zexin, Dicong,  Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lij
 
   Reference: [Joseph Bramante and Tim Linden, PRL, 2014](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.191301)
 
-
-
 ### Time
 
 6:30 pm -- 9:00 pm
