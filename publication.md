@@ -102,10 +102,6 @@ the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
 2030s](https://arxiv.org/abs/2104.09534), *Exp. Astron.* (accepted), arXiv:2104.09534
 
-0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
-the third Advanced LIGO and Advanced Virgo
-run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* (accepted), arXiv:2107.03701
-
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
@@ -219,6 +215,10 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
+the third Advanced LIGO and Advanced Virgo
+run](https://arxiv.org/abs/2107.03701), *Phys. Rev. D* 104 (2021) 122004
 
 0.  R. Abbott, *et al.*, [Constraints from LIGO O3 data on
 gravitational-wave emission due to $r$-modes in the glitching pulsar PSR
