@@ -22,11 +22,6 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
-0. R. Xu, Y. Gao, L. Shao, [Neutron stars in massive scalar-Gauss-Bonnet
-gravity: Spherical structure and time-independent
-perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* (accepted),
-arXiv:2111.06561
-
 0. 	A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmology and perturbations in
 tachyonic massive gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D*
 (accepted), arXiv:TBA
@@ -36,6 +31,11 @@ mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.0
 *Astrophys. J.* (accepted), arXiv:2108.08490
 
 0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
+
+0. R. Xu, Y. Gao, L. Shao, [Neutron stars in massive scalar-Gauss-Bonnet
+gravity: Spherical structure and time-independent
+perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
+024003
 
 0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
 stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
