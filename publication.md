@@ -44,6 +44,10 @@ stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
+isolated neutron stars using Advanced LIGO and Advanced Virgo O3
+data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
+
 0. R. Abbott, *et al.*, [Narrowband searches for continuous and long-duration
 transient gravitational waves from known pulsars in the LIGO-Virgo third
 observing run](https://arxiv.org/abs/2112.10990), arXiv:2112.10990
