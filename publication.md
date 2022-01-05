@@ -22,10 +22,6 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
-0. 	A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmology and perturbations in
-tachyonic massive gravity](https://arxiv.org/abs/TBA), *Phys. Rev. D*
-(accepted), arXiv:TBA
-
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 *Astrophys. J.* (accepted), arXiv:2108.08490
@@ -40,6 +36,11 @@ perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
 0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
 stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 *Mon. Not. R. Astron. Soc.* 509 (2022) 2758
+
+0. 	A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmology and perturbations in
+tachyonic massive
+gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501),
+*Phys. Rev. D* 105 (2022) 023501
 {: reversed="reversed"}
 
 ##### Other Papers
