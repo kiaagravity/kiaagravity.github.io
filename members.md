@@ -152,7 +152,6 @@ evolution of binary black holes <br>
 | 2018—now | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2019—now | **Rui Xu** | **徐睿** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2021—now | **Dicong Liang** | **梁迪聪** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2022—now | **Zhanfeng Mai** | **麦展风** | Pre-postdoc | [TJU](http://physics.tju.edu.cn/) |
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -175,6 +174,7 @@ evolution of binary black holes <br>
 | 2018—now | **Xueli Miao** | **缪雪丽** | Postdoc | [NAOC](http://www.bao.ac.cn/) | 
 | 2021—now | **Xiaonan Liu** | **刘晓楠** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
 | 2021—now | **Li Huang** | **黄力** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
+| 2022—now | **Zhanfeng Mai** | **麦展风** | Pre-postdoc | [TJU](http://physics.tju.edu.cn/) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Huimei Wang** | **王惠美** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |

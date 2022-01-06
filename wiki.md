@@ -55,7 +55,7 @@ slides.
 
 ## Discussion on Research Topics
 
-**Chair**: Yong Gao (高勇)
+**Chair**: Hongbo Li (李洪波)
 
 We have weekly discussion on research topics every **Tuesdays 18:00—21:00** in
 the **Room 208 at KIAA**. The attendees are limited to graduates/postdocs who
