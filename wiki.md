@@ -34,7 +34,7 @@ inspiring discussions.
 
 - Our group meetings take place in the <b>Room 208 at KIAA</b>. To avoid
 conflicts with students' classes, the time is fixed to <b>Sundays
-9:00—11:30</b>.
+9:00—12:00</b>.
 
 - It is suggested to speak English whenever there are foreigners in the
 audience. Otherwise it is suggested to talk in Chinese, but use English in
@@ -57,7 +57,7 @@ slides.
 
 **Chair**: Hongbo Li (李洪波)
 
-We have weekly discussion on research topics every **Tuesdays 18:00—21:00** in
+We have weekly discussion on research topics every **Fridays 18:00—21:00** in
 the **Room 208 at KIAA**. The attendees are limited to graduates/postdocs who
 work on research projects in the group.  Speakers are encouraged to use
 blackboard only!

@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. J. Zhao, P.C.C. Freire, M. Kramer, L. Shao, N. Wex, [Closing the
+spontaneous-scalarization window with binary
+pulsars](https://arxiv.org/abs/2201.03771), arXiv:2201.03771
+
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
