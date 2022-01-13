@@ -30,8 +30,6 @@ catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
 *Astrophys. J.* (accepted), arXiv:2108.08490
 
-0. 李洪波, 邵立晶, 徐仁新, [核心坍缩型超新星致引力波暴](TBA), *《天文学进展》*, accepted
-
 0. R. Xu, Y. Gao, L. Shao, [Neutron stars in massive scalar-Gauss-Bonnet
 gravity: Spherical structure and time-independent
 perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
@@ -201,6 +199,10 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
+
+0. 李洪波, 邵立晶, 徐仁新,
+[核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05),
+*《天文学进展》*, 39 (2021) 511
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008),
 *《天文学报》* 62 (2021) 54
