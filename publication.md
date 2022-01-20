@@ -97,11 +97,6 @@ arXiv:2105.13085
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
-0. R. Abbott, *et al.*, [Search for continuous gravitational waves from 20
-accreting millisecond X-ray pulsars in O3 LIGO
-data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* (accepted),
-arXiv:2109.09255
-
 0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
 the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 (accepted), arXiv:2111.01317 
@@ -112,6 +107,10 @@ the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
+
+0. R. Abbott, *et al.*, [Search for continuous gravitational waves from 20
+accreting millisecond X-ray pulsars in O3 LIGO
+data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* 105 (2022) 022002
 {: reversed="reversed"}
 
 ---
