@@ -15,9 +15,11 @@ Muxin, Yacheng, Zexin, Dicong, Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lijin
 
 ### Agenda
 
-- Chang Liu: **BNS detection in decihertz band**
+- Hongbo Li: **Oscillation of White Dwarfs**
 
-  Reference: [Aleksandra Piórkowska-Kurpas et al., AJ, 2021](https://arxiv.org/abs/2005.08727)
+- Yong Gao: **Progress on research topic: magnetar precession**
+
+- Chang Liu: **updates on BNS detection in  decihertz band**
 
 ### Time
 
