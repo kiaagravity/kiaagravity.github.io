@@ -17,7 +17,7 @@ Muxin, Yacheng, Zexin, Dicong, Hongbo, Rui Xu, Chang, Junjie, Yong, Xueli, Lijin
 
 - Hongbo Li: **Oscillation of White Dwarfs**
 
-- Yong Gao: **Progress on research topic: magnetar precession**
+- Yong Gao: **Precession of magnetars: dynamical evolutions and modulations on polarized electromagnetic waves**
 
 - Chang Liu: **updates on BNS detection in  decihertz band**
 
