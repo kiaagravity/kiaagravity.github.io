@@ -47,6 +47,10 @@ gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501),
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1 with a
+hidden Markov model in O3 LIGO data](https://arxiv.org/abs/2201.10104),
+arXiv:2201.10104
+
 0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
 isolated neutron stars using Advanced LIGO and Advanced Virgo O3
 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
