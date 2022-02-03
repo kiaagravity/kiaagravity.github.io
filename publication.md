@@ -101,9 +101,6 @@ arXiv:2105.13085
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
-0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
-2030s](https://arxiv.org/abs/2104.09534), *Exp. Astron.* (accepted), arXiv:2104.09534
-
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
 Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
@@ -229,6 +226,9 @@ at $\mu$-Hz frequencies](https://arxiv.org/abs/1908.11391), *Exp. Astron.*
 0. K. Liu, *et al.*, [An 86-GHz search for pulsars in the Galactic Center
 with the Atacama Large Millimeter/submillimeter
 Array](https://arxiv.org/abs/2104.08986), *Astrophys. J.* 914 (2021) 30
+
+0. R. Ciolfi, *et al.*, [Multi-messenger astrophysics with THESEUS in the
+2030s](https://arxiv.org/abs/2104.09534), *Exp. Astron.* 52 (2021) 245
 
 0. R. Abbott, *et al.*, [All-sky search for short gravitational-wave bursts in
 the third Advanced LIGO and Advanced Virgo
