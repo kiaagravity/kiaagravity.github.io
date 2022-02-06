@@ -17,7 +17,7 @@ Muxin, Ziming, Yacheng, Zexin, Dicong, Yong, Rui Xu, Chang, Junjie, Xueli, Hongb
 
 - Yacheng: **Transient Events from Neutron Star Mergers**
 
-  Ref: Lixin Li and Bohdan Paczyński 1998 [[Link](https://iopscience.iop.org/article/10.1086/311680)]
+  Ref: Lixin Li and Bohdan Paczyński 1998 [[Link](https://iopscience.iop.org/article/10.1086/311680)];
   Ref: Brian D. Metzger 2017 [[Link](https://link.springer.com/article/10.1007%2Fs41114-017-0006-z)]
 
 
