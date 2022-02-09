@@ -77,10 +77,6 @@ run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
 GWTC-3](https://arxiv.org/abs/2111.03604), arXiv:2111.03604
 
-0. R. Abbott, *et al.*, [Search for gravitational waves associated with
-gamma-ray bursts detected by Fermi and Swift during the LIGO-Virgo run
-O3b](https://arxiv.org/abs/2111.03608), arXiv:2111.03608
-
 0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
 using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634),
 arXiv:2111.03634
@@ -100,6 +96,10 @@ arXiv:2105.13085
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Search for gravitational waves associated with
+gamma-ray bursts detected by Fermi and Swift during the LIGO-Virgo run
+O3b](https://arxiv.org/abs/2111.03608), *Astrophys. J.* (accepted), arXiv:2111.03608
 
 0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
 third observing run of Advanced LIGO and Advanced
