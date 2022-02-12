@@ -146,7 +146,7 @@ scalar-tensor gravity: X-ray pulsars and tidal
 deformability](http://arxiv.org/abs/2109.13453), *Phys. Rev.  D* 104 (2021)
 104014
 
-0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Dipole radiation from
+0. J. Zhao, L. Shao, Y. Gao, C. Liu, Z. Cao, B.-Q. Ma, [Probing dipole radiation from
 binary neutron stars with ground-based laser-interferometer and
 atom-interferometer gravitational-wave
 observatories](https://arxiv.org/abs/2106.04883), 
