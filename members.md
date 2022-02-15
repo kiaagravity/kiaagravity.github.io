@@ -115,7 +115,7 @@ evolution of binary black holes <br>
 
 <div class="row">
 
-  <div class="column">
+  <!-- <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/Li_Shoulong_round.png" alt="LiShoulong" style="width:100%; height:160px">
       <div class="teamcontainer" style="padding:1px; ">
@@ -126,7 +126,7 @@ evolution of binary black holes <br>
         </center>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="column">
     <div class="card">
@@ -252,6 +252,9 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
     *Neutron Star Structure in Alternative Gravitational Theories* (2021)
 
+- 2020—2021, **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University
+  - <small>*Visiting Scholar*
+
 - 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *A Numerical Study of Scalar-tensor Gravity Theory* (Peking University 2021) 
@@ -304,7 +307,6 @@ Comments
 
 | 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2021 | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2020—2021 | **Shoulong Li** | **李守龙** | Postdoc | [HUNNU](http://www.hunnu.edu.cn/) |
 | 2020—2020 | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—now | **Sobhan Kazempour** | | PhD Student | [TabrizU](https://physics.tabrizu.ac.ir/en) |
 
