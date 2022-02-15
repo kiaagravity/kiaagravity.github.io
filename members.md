@@ -114,7 +114,20 @@ evolution of binary black holes <br>
 
 
 <div class="row">
-  
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/Li_Shoulong_round.png" alt="LiShoulong" style="width:100%; height:160px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b>Shou-Long Li (李守龙)</b></h5>
+        <p class="teamtitle"><small>湖南师大·讲师</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
   <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/Miao_Xueli_round.png" alt="MiaoXueli" style="width:100%; height:160px">
