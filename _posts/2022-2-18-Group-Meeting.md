@@ -25,4 +25,4 @@ Muxin, Ziming, Yacheng, Zexin, Dicong, Yong, Rui Xu, Chang, Junjie, Xueli, Hongb
 
 ### Time
 
-19:00 pm -- 22:00 pm
+18:30 pm -- 22:00 pm
