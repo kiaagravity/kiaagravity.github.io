@@ -25,7 +25,7 @@ permalink: /member/
 <a href="https://friendshao.github.io/about/">
 <img src="{{ site.baseurl }}/assets/Shao_Lijing_floor1.jpg" title="Profile Picture" class="profile">
 </a>
-<big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
+<big><b>Dr. Lijing Shao (邵立晶)</b></big>[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)<br>
 <i><b>Assistant Professor (2018-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: lshao@pku.edu.cn<br>
@@ -34,10 +34,8 @@ beyond the standard model<br>
 
 ---
 
-<a href="https://orcid.org/0000-0002-7157-3805">
 <img src="{{ site.baseurl }}/assets/Xu_Rui_floor1.jpg" title="Profile Picture" class="profile">
-</a>
-<big><b>Dr. Rui Xu (徐睿)</b></big><br>
+<big><b>Dr. Rui Xu (徐睿)</b></big>[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-7157-3805)<br>
 <i><b>Boya Postdoctoral Fellow (2019-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: xuru@pku.edu.cn  <br>
@@ -47,30 +45,26 @@ evolution of binary black holes <br>
 
 ---
 
-<a href="https://orcid.org/0000-0001-5021-235X">
 <img src="{{ site.baseurl }}/assets/Liang_Dicong_floor1.jpeg" title="Profile Picture" class="profile">
-</a>
-<big><b>Dr. Dicong Liang (梁迪聪)</b></big><br>
+<big><b>Dr. Dicong Liang (梁迪聪)</b></big>[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0001-5021-235X)<br>
 <i><b>KIAA Postdoc (2021-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: dcliang@pku.edu.cn<br>
 <b>Research Interests</b>: gravitational waves<br>
 
 ---
-<a href="https://orcid.org/0000-0003-1390-5477">
+
 <img src="{{ site.baseurl }}/assets/Gao_Yong_floor1.jpg" title="Profile Picture" class="profile">
-</a>
-<big><b>Yong Gao (高勇)</b></big><br>
+<big><b>Yong Gao (高勇)</b></big>[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0003-1390-5477)<br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: gaoyong.physics@pku.edu.cn <br>
 <b>Research Interests</b>: gravitational waves, neutron stars <br>
 
 ---
-<a href="https://orcid.org/0000-0001-7649-6792">
+
 <img src="{{ site.baseurl }}/assets/Liu_Chang_floor1.jpg" title="Profile Picture" class="profile">
-</a>
-<big><b>Chang Liu (刘畅)</b></big><br>
+<big><b>Chang Liu (刘畅)</b></big>[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0001-7649-6792)<br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: leslielc@pku.edu.cn <br>
@@ -78,10 +72,8 @@ evolution of binary black holes <br>
 
 ---
 
-<a href="https://orcid.org/0000-0002-4850-8351">
 <img src="{{ site.baseurl }}/assets/Li_Hongbo_floor1.jpg" title="Profile Picture" class="profile">
-</a>
-<big><b>Hongbo Li (李洪波)</b></big><br>
+<big><b>Hongbo Li (李洪波)</b></big>[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-4850-8351)<br>
 <i><b>PhD Student (2020-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: lihb2020@stu.pku.edu.cn <br>
@@ -89,10 +81,8 @@ evolution of binary black holes <br>
 
 ---
 
-<a href="https://orcid.org/0000-0001-7402-4927">
 <img src="{{ site.baseurl }}/assets/Kang_Yacheng_floor1.jpeg" title="Profile Picture" class="profile">
-</a>
-<big><b>Yacheng Kang (康亚城)</b></big><br>
+<big><b>Yacheng Kang (康亚城)</b></big>[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0001-7402-4927)<br>
 <i><b>Undergraduate (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: 1800011623@pku.edu.cn<br>
@@ -100,10 +90,8 @@ evolution of binary black holes <br>
 
 ---
 
-<a href="TBA">
 <img src="{{ site.baseurl }}/assets/Hu_Zexin_floor1.jpeg" title="Profile Picture" class="profile">
-</a>
-<big><b>Zexin Hu (胡泽昕)</b></big><br>
+<big><b>Zexin Hu (胡泽昕)</b></big>[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-3081-0659)<br>
 <i><b>Undergraduate (2018-now)</b>, School of Physics, Peking University</i><br>
 <b>Email</b>: 1800011323@pku.edu.cn<br>
 <b>Research Interests</b>: pulsars, gravitation<br>
