@@ -213,7 +213,7 @@ evolution of binary black holes <br>
 &nbsp;
 <span style="background-color:#2F4F4F"><font color="white"><b>Postdoctoral Report</b></font></span>
 &nbsp;
-<span style="background-color:#FF0000"><font color="white"><b>Visiting Scholar</b></font></span>
+<span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
 ## Former Members
@@ -254,7 +254,7 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
     *Neutron Star Structure in Alternative Gravitational Theories* (2021)
 
-- 2020—2021, <span style="background-color:#FF0000"><font color="white"><b>VS</b></font></span> 
+- 2020—2021, <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span></small> 
   **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University
 
 - 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
