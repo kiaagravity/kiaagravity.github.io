@@ -27,8 +27,9 @@ birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
-mergers: multiband observations and early warnings](https://arxiv.org/abs/2108.08490),
-*Astrophys. J.* (accepted), arXiv:2108.08490
+mergers: multiband observations and early
+warnings](https://arxiv.org/abs/2108.08490),
+*Astrophys. J.* 926 (2022) 158
 
 0. R. Xu, Y. Gao, L. Shao, [Neutron stars in massive scalar-Gauss-Bonnet
 gravity: Spherical structure and time-independent
