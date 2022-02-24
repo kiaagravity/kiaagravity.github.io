@@ -201,6 +201,13 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 stars](https://arxiv.org/abs/2011.04472),
 *Astron. Nachr.* 342 (2021) 364
 
+0. B. Altschul, J. Díaz, J.P. Harding, T. Katori, B. Keating, F. Kislat, A.
+Kostelecký, H. Krawczynski, R. Lehnert, P. Mészáros, M. Mewes, D.F.  Phillips,
+M. Schreck, L. Shao, J. Tasson, R. Walsworth, [Probes of Lorentz and CPT
+symmetry with particles and radiation of astrophysical
+origin](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF0-208.pdf),
+Letter of Interest for Snowmass2021
+
 0. 李洪波, 邵立晶, 徐仁新,
 [核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05),
 *《天文学进展》* 39 (2021) 511
