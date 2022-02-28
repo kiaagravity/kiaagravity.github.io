@@ -184,6 +184,7 @@ evolution of binary black holes <br>
 | 2021—now | **Xiaonan Liu** | **刘晓楠** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
 | 2021—now | **Li Huang** | **黄力** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
 | 2022—now | **Zhanfeng Mai** | **麦展风** | Pre-postdoc | [TJU](http://physics.tju.edu.cn/) |
+| 2022—now | **Haitian Wang** | **王海天** | Pre-postdoc | [USTC](https://astro.ustc.edu.cn/) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Huimei Wang** | **王惠美** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -195,6 +196,8 @@ evolution of binary black holes <br>
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Bingcheng Jin** | **金秉诚** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Wenrui Li** | **李文睿** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
@@ -301,7 +304,6 @@ Comments
 | 2020—2021 | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—2021 | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2021 | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—2021 | **Rong Du** | **杜嵘** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 
 | 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2021 | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
