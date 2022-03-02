@@ -17,8 +17,8 @@ Muxin, Ziming, Yacheng, Zexin, Dicong, Yong, Rui Xu, Chang, Junjie, Xueli, Hongb
 
 - Dicong Liang: **Gravitational Waves in Einstein Bumblebee Theory**
 
-  Ref: [[Link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.025007)]
-  Ref: [[Link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.74.045001)]
+  Ref: [[Link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.025007)];
+       [[Link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.74.045001)]
 
 
  
