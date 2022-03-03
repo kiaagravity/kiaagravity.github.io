@@ -54,6 +54,10 @@ gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501),
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [First joint observation by the underground
+gravitational-wave detector, KAGRA, with
+GEO600](https://arxiv.org/abs/2203.01270), arXiv:2203.01270
+
 0. R. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1 with a
 hidden Markov model in O3 LIGO data](https://arxiv.org/abs/2201.10104),
 arXiv:2201.10104
