@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Wang, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher information matrix
+in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
+arXiv:2203.02670
+
 0. J. Zhao, P.C.C. Freire, M. Kramer, L. Shao, N. Wex, [Closing the
 spontaneous-scalarization window with binary
 pulsars](https://arxiv.org/abs/2201.03771), arXiv:2201.03771

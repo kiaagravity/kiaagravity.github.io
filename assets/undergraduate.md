@@ -91,6 +91,10 @@ layout: page
 
 <big> **附：组内本科生文章发表列表**
 
+0. **Z. Wang (王子铭)**, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher
+information matrix in gravitational-wave data
+analysis](https://arxiv.org/abs/2203.02670), arXiv:2203.02670
+
 0. **M. Guo (郭明浩)**, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and
 gravitational waves](https://arxiv.org/abs/2106.01622), 

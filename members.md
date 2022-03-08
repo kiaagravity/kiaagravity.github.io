@@ -198,6 +198,7 @@ evolution of binary black holes <br>
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Wenrui Li** | **李文睿** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 
 <p></p>
 
