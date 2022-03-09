@@ -104,13 +104,13 @@ three observing runs](https://arxiv.org/abs/2110.09834), arXiv:2110.09834
 Advanced LIGO and Virgo's third observing
 run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 
-0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
-LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
-arXiv:2105.13085
-
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
+LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
+*Phys. Rev. D* (accepted), arXiv:2105.13085
 
 0. R. Abbott, *et al.*, [Search for gravitational waves associated with
 gamma-ray bursts detected by Fermi and Swift during the LIGO-Virgo run
