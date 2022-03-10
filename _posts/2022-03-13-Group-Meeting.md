@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Group Meeting 02/27/2022"
-date:   2022-02-27
+title:  "Group Meeting 03/13/2022"
+date:   2022-03-13
 author: Chang
 categories: activities
 ---
@@ -20,7 +20,7 @@ Refs:
 
   
 
-## Updates on undergraduate researches
+## Rehearsals of undergraduate researches
 
 #### Ziming Wang: New limits on the Lorentz/CPT symmetry through fifty gravitational-wave events
 
