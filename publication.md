@@ -58,6 +58,9 @@ gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501),
 
 ##### Other Papers
 
+0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
+Antenna](https://arxiv.org/abs/2203.06016), arXiv:2203.06016
+
 0. R. Abbott, *et al.*, [First joint observation by the underground
 gravitational-wave detector, KAGRA, with
 GEO600](https://arxiv.org/abs/2203.01270), arXiv:2203.01270
