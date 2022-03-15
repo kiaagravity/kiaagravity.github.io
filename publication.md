@@ -58,6 +58,10 @@ gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501),
 
 ##### Other Papers
 
+0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
+observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011),
+arXiv:2203.07011
+
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), arXiv:2203.06016
 
