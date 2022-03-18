@@ -123,13 +123,13 @@ LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
 gamma-ray bursts detected by Fermi and Swift during the LIGO-Virgo run
 O3b](https://arxiv.org/abs/2111.03608), *Astrophys. J.* (accepted), arXiv:2111.03608
 
-0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
-third observing run of Advanced LIGO and Advanced
-Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* (accepted), arXiv:2105.15120
-
 0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
 the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 925 (2022) 13
+
+0. R. Abbott, *et al.*, [Search for intermediate mass black hole binaries in the
+third observing run of Advanced LIGO and Advanced
+Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* 659 (2022) A84
 
 0. R. Abbott, *et al.*, [Search for continuous gravitational waves from 20
 accreting millisecond X-ray pulsars in O3 LIGO
