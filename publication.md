@@ -34,7 +34,7 @@ catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Workshop on
 Gravitational Wave Astrophysics for Early Career
-Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), Nat. Astron. (accepted)
+Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), Nat. Astron. 6 (2022) 304
 
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
 mergers: multiband observations and early
