@@ -217,7 +217,7 @@ evolution of binary black holes <br>
 ## Former Members
 
 - 2021—now, **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
-- <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai University 2022); 
     co-advisor: Liu Zhao
 
