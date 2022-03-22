@@ -210,8 +210,8 @@ evolution of binary black holes <br>
 <span style="background-color:#6A5ACD"><font color="white"><b>Doctoral Thesis</b></font></span>
 &nbsp;
 <span style="background-color:#2F4F4F"><font color="white"><b>Postdoctoral Report</b></font></span>
-<!-- &nbsp;
-<span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span> -->
+&nbsp;
+<span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
 ## Former Members
@@ -264,7 +264,7 @@ evolution of binary black holes <br>
 - 2020—2021,
   **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University
   - <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
-  *Visiting Scholar*
+  *Visiting Scholar* at Kavli Institute for Astronomy and Astrophysics, Peking University
 
 - 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
