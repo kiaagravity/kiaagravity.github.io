@@ -9,7 +9,7 @@ categories: activities
 
 ### Attendees
 
-zhanfeng, Muxin, Ziming, Yacheng, Zexin, Dicong, Yong, Rui Xu, Chang, Junjie, Xueli, Hongbo, Lijing
+Zhanfeng, Muxin, Ziming, Yacheng, Zexin, Dicong, Yong, Rui Xu, Chang, Junjie, Xueli, Hongbo, Lijing
 
 ---
 
