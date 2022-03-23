@@ -77,10 +77,6 @@ arXiv:2201.10104
 isolated neutron stars using Advanced LIGO and Advanced Virgo O3
 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
 
-0. R. Abbott, *et al.*, [Narrowband searches for continuous and long-duration
-transient gravitational waves from known pulsars in the LIGO-Virgo third
-observing run](https://arxiv.org/abs/2112.10990), arXiv:2112.10990
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), arXiv:2112.06861
 
@@ -114,6 +110,11 @@ run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Narrowband searches for continuous and long-duration
+transient gravitational waves from known pulsars in the LIGO-Virgo third
+observing run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted),
+arXiv:2112.10990
 
 0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
 LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
