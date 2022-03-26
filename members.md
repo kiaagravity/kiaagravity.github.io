@@ -184,8 +184,9 @@ evolution of binary black holes <br>
 | 2018—now | **Junjie Zhao** | **赵俊杰** | Postdoc | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
 | 2018—now | **Xueli Miao** | **缪雪丽** | Postdoc | [NAOC](http://www.bao.ac.cn/) | 
 | 2021—now | **Xiaonan Liu** | **刘晓楠** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
-| 2022—now | **Zhanfeng Mai** | **麦展风** | Pre-postdoc | [TJU](http://physics.tju.edu.cn/) |
-| 2022—now | **Haitian Wang** | **王海天** | Pre-postdoc | [USTC](https://astro.ustc.edu.cn/) |
+| 2022—now | **Zhanfeng Mai** | **麦展风** | Incoming postdoc | [TJU](http://physics.tju.edu.cn/) |
+| 2022—now | **Haitian Wang** | **王海天** | Incoming postdoc | [USTC](https://astro.ustc.edu.cn/) |
+| 2022—now | **Zhenwei Lyu** | **吕振伟** | Incoming postdoc | [Guelph](https://www.physics.uoguelph.ca/)/[PI](https://perimeterinstitute.ca/) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Huimei Wang** | **王惠美** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
