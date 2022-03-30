@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discussion on Research Topics 03/25/2022"
+title:  "Discussion on Research Topics 04/1/2022"
 date:   2022-04-1
 author: Hongbo Li
 categories: activities
