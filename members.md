@@ -73,7 +73,7 @@ evolution of binary black holes <br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: leslielc@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, pulsar astronomy <br>
+<b>Research Interests</b>: gravitational waves, cosmology, pulsar astronomy <br>
 
 ---
 
@@ -93,7 +93,7 @@ evolution of binary black holes <br>
 <i><b>Undergraduate (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: 1800011623@pku.edu.cn<br>
-<b>Research Interests</b>: gravitational waves, exoplanets<br>
+<b>Research Interests</b>: gravitational waves, exoplanets, multi-messenger astronomy <br>
 
 ---
 
