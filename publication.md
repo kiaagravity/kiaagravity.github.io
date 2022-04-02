@@ -30,12 +30,6 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
-0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
-Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
-Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Workshop on
-Gravitational Wave Astrophysics for Early Career
-Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), Nat. Astron. 6 (2022) 304
-
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
 mergers: multiband observations and early
 warnings](https://arxiv.org/abs/2108.08490),
@@ -54,6 +48,12 @@ stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234),
 tachyonic massive
 gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501),
 *Phys. Rev. D* 105 (2022) 023501
+
+0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
+Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
+Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Workshop on
+Gravitational Wave Astrophysics for Early Career
+Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), Nat. Astron. 6 (2022) 304
 {: reversed="reversed"}
 
 ##### Other Papers
