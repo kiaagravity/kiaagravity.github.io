@@ -53,7 +53,8 @@ gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501),
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Workshop on
 Gravitational Wave Astrophysics for Early Career
-Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), Nat. Astron. 6 (2022) 304
+Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), *Nat. Astron.* 6
+(2022) 304
 {: reversed="reversed"}
 
 ##### Other Papers
