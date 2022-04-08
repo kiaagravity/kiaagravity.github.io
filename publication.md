@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
+early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
+
 0. Z. Wang, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher information matrix
 in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
 arXiv:2203.02670
