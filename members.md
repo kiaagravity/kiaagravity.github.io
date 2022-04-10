@@ -190,9 +190,6 @@ evolution of binary black holes <br>
 | 2022—now | **Garvin Yim** | | Incoming postdoc | [Southampton U](https://www.southampton.ac.uk/stag/mathschallenge.page) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2018—now | **Huimei Wang** | **王惠美** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—now | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Jingyuan Deng** | **邓景元** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Ping He** | **何平** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -235,20 +232,6 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *TBA* (Peking University 2022) 
 
-- 2018—now, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Bounding the Photon Mass with Fast Radio Bursts* (2020)
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *The Structure of Neutron Stars with Anisotropic Pressure* (Peking University 2021) 
-
-- 2020—now, **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *The Forced Precession of Pulsars* (Peking University 2021) 
-
-- 2019—now, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
-
 - 2018—now, **Junjie Zhao** (**赵俊杰**), Institute for Theoretical Physics, Peking University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
     *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* (Peking University 2021); 
@@ -262,6 +245,20 @@ evolution of binary black holes <br>
 - 2019—now, **Rui Xu** (**徐睿**), Kavli Institute for Astronomy and Astrophysics, Peking University
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
     *Neutron Star Structure in Alternative Gravitational Theories* (2021)
+
+- 2018—2022, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Bounding the Photon Mass with Fast Radio Bursts* (2020)
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *The Structure of Neutron Stars with Anisotropic Pressure* (Peking University 2021) 
+
+- 2020—2022, **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *The Forced Precession of Pulsars* (Peking University 2021) 
+
+- 2019—2022, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
 
 - 2020—2021,
   **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University
