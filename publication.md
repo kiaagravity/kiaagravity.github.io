@@ -62,6 +62,10 @@ Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), *Nat. Astron.* 6
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [Search for continuous gravitational wave emission from
+the Milky Way center in O3 LIGO-Virgo data](https://arxiv.org/abs/2204.04523),
+arXiv:2204.04523
+
 0. R. Abbott, *et al.*, [Search for gravitational waves associated with fast
 radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
 O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
