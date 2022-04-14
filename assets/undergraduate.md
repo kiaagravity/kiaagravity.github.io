@@ -91,6 +91,10 @@ layout: page
 
 <big> **附：组内本科生文章发表列表**
 
+0. C. Liu, **Y. Kang (康亚城)**, L. Shao, [Realistic detection and early warning of
+binary neutron stars with decihertz gravitational-wave
+observatories](https://arxiv.org/abs/2204.06161), arXiv:2204.06161
+
 0. **Z. Wang (王子铭)**, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher
 information matrix in gravitational-wave data
 analysis](https://arxiv.org/abs/2203.02670), arXiv:2203.02670
