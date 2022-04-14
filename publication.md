@@ -134,7 +134,7 @@ arXiv:2112.10990
 
 0. R. Abbott, *et al.*, [Search for gravitational waves associated with
 gamma-ray bursts detected by Fermi and Swift during the LIGO-Virgo run
-O3b](https://arxiv.org/abs/2111.03608), *Astrophys. J.* (accepted), arXiv:2111.03608
+O3b](https://arxiv.org/abs/2111.03608), *Astrophys. J.* 928 (2022) 186
 
 0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
 the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
