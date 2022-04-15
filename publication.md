@@ -96,10 +96,6 @@ data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), arXiv:2112.06861
 
-0. R. Abbott, *et al.*, [All-sky search for gravitational wave emission from
-scalar boson clouds around spinning black holes in LIGO O3
-data](https://arxiv.org/abs/2111.15507), arXiv:2111.15507
-
 0. R. Abbott, *et al.*, [Searches for gravitational waves from known pulsars at
 two harmonics in the second and third LIGO-Virgo observing
 runs](https://arxiv.org/abs/2111.13106), arXiv:2111.13106
@@ -127,6 +123,10 @@ run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
+0. R. Abbott, *et al.*, [All-sky search for gravitational wave emission from
+scalar boson clouds around spinning black holes in LIGO O3
+data](https://arxiv.org/abs/2111.15507), *Phys. Rev. D* (accepted), arXiv:2111.15507
+
 0. R. Abbott, *et al.*, [Narrowband searches for continuous and long-duration
 transient gravitational waves from known pulsars in the LIGO-Virgo third
 observing run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted),
@@ -135,10 +135,6 @@ arXiv:2112.10990
 0. R. Abbott, *et al.*, [Search for gravitational waves associated with
 gamma-ray bursts detected by Fermi and Swift during the LIGO-Virgo run
 O3b](https://arxiv.org/abs/2111.03608), *Astrophys. J.* 928 (2022) 186
-
-0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
-the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
-925 (2022) 13
 
 0. R. Abbott, *et al.*, [Constraints on dark photon dark matter using data from
 LIGO's and Virgo's third observing run](https://arxiv.org/abs/2105.13085),
@@ -151,6 +147,10 @@ Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* 659 (2022) A84
 0. R. Abbott, *et al.*, [Search for continuous gravitational waves from 20
 accreting millisecond X-ray pulsars in O3 LIGO
 data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* 105 (2022) 022002
+
+0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
+the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
+925 (2022) 13
 {: reversed="reversed"}
 
 ---
