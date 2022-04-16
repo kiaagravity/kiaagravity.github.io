@@ -96,10 +96,6 @@ data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), arXiv:2112.06861
 
-0. R. Abbott, *et al.*, [Searches for gravitational waves from known pulsars at
-two harmonics in the second and third LIGO-Virgo observing
-runs](https://arxiv.org/abs/2111.13106), arXiv:2111.13106
-
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
@@ -122,6 +118,11 @@ run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Searches for gravitational waves from known pulsars at
+two harmonics in the second and third LIGO-Virgo observing
+runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.* (accepted),
+arXiv:2111.13106
 
 0. R. Abbott, *et al.*, [All-sky search for gravitational wave emission from
 scalar boson clouds around spinning black holes in LIGO O3
