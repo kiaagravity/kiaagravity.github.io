@@ -89,7 +89,7 @@ layout: page
 
 ---
 
-<big> **附：组内本科生文章发表列表**
+<big> **附：组内本科生文章发表列表** </big> <small>(**粗体**为本科生)</small>
 
 0. **Y. Dong (董益铭)**, L. Shao, **Z. Hu (胡泽昕)**, X. Miao, **Z. Wang (王子铭)**, in
 preparation
