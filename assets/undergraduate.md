@@ -94,6 +94,8 @@ layout: page
 0. **Y. Dong (董益铭)**, L. Shao, **Z. Hu (胡泽昕)**, X. Miao, **Z. Wang (王子铭)**, in
 preparation
 
+0. **M. Liu (刘牧鑫)**, C. Liu, Y.-M. Hu, L. Shao, **Y. Kang (康亚城)**, to be submitted
+
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, to be submitted
 
 0. C. Liu, **Y. Kang (康亚城)**, L. Shao, [Realistic detection and early warning of
