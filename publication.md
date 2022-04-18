@@ -81,10 +81,6 @@ arXiv:2203.07011
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), arXiv:2203.06016
 
-0. R. Abbott, *et al.*, [First joint observation by the underground
-gravitational-wave detector, KAGRA, with
-GEO600](https://arxiv.org/abs/2203.01270), arXiv:2203.01270
-
 0. R. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1 with a
 hidden Markov model in O3 LIGO data](https://arxiv.org/abs/2201.10104),
 arXiv:2201.10104
@@ -118,6 +114,11 @@ run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [First joint observation by the underground
+gravitational-wave detector, KAGRA, with
+GEO600](https://arxiv.org/abs/2203.01270), *Prog. Theor. Exp. Phys.* (accepted),
+arXiv:2203.01270
 
 0. R. Abbott, *et al.*, [Searches for gravitational waves from known pulsars at
 two harmonics in the second and third LIGO-Virgo observing
