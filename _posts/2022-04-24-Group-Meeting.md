@@ -14,6 +14,6 @@ Refs:
 
  [[The spins of compact objects born from helium stars in binary systems](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3951F/abstract)]
  
- [[Kilonovae](https://ui.adsabs.harvard.edu/abs/2019LRR....23....1M/abstract]
+ [[Kilonovae](https://ui.adsabs.harvard.edu/abs/2019LRR....23....1M/abstract)]
 
 
