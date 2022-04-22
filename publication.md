@@ -23,10 +23,6 @@ early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
 in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
 arXiv:2203.02670
 
-0. J. Zhao, P.C.C. Freire, M. Kramer, L. Shao, N. Wex, [Closing the
-spontaneous-scalarization window with binary
-pulsars](https://arxiv.org/abs/2201.03771), arXiv:2201.03771
-
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
@@ -36,6 +32,11 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. J. Zhao, P.C.C. Freire, M. Kramer, L. Shao, N. Wex, [Closing the
+spontaneous-scalarization window with binary
+pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* (accepted),
+arXiv:2201.03771
 
 0. C. Liu, L. Shao, [Neutron star$-$neutron star and neutron star$-$black hole
 mergers: multiband observations and early
