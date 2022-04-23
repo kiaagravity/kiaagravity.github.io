@@ -33,7 +33,7 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
-0. J. Zhao, P.C.C. Freire, M. Kramer, L. Shao, N. Wex, [Closing the
+0. J. Zhao, P.C.C. Freire, M. Kramer, L. Shao, N. Wex, [Closing a
 spontaneous-scalarization window with binary
 pulsars](https://arxiv.org/abs/2201.03771), *Class. Quantum Grav.* (accepted),
 arXiv:2201.03771
