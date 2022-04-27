@@ -151,6 +151,10 @@ Virgo](https://arxiv.org/abs/2105.15120), *Astron. & Astrophys.* 659 (2022) A84
 accreting millisecond X-ray pulsars in O3 LIGO
 data](https://arxiv.org/abs/2109.09255), *Phys. Rev. D* 105 (2022) 022002
 
+0. H. Abe, *et al.*, [The current status and future prospects of KAGRA, the
+large-scale cryogenic gravitational wave telescope built in the Kamioka
+underground](https://www.mdpi.com/2075-4434/10/3/63), *Galaxies* 10 (2022) 63
+
 0. K. Satapathy, *et al.*, [The variability of the black-hole image in M87 at
 the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 925 (2022) 13
