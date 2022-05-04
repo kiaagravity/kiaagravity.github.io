@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Kang, C. Liu, L. Shao, [Electromagnetic follow-ups of binary neutron star
+mergers with early warnings from decihertz gravitational-wave
+observatories](https://arxiv.org/abs/TBA), arXiv:TBA
+
 0. C. Liu, Y. Kang, L. Shao, [Realistic detection and early warning of binary
 neutron stars with decihertz gravitational-wave
 observatories](https://arxiv.org/abs/2204.06161), arXiv:2204.06161

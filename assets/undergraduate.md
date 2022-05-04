@@ -98,7 +98,9 @@ preparation
 
 0. **M. Liu (刘牧鑫)**, C. Liu, Y.-M. Hu, L. Shao, **Y. Kang (康亚城)**, to be submitted
 
-0. **Y. Kang (康亚城)**, C. Liu, L. Shao, to be submitted
+0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Electromagnetic follow-ups of binary
+neutron star mergers with early warnings from decihertz gravitational-wave
+observatories](https://arxiv.org/abs/TBA), arXiv:TBA
 
 0. C. Liu, **Y. Kang (康亚城)**, L. Shao, [Realistic detection and early warning of
 binary neutron stars with decihertz gravitational-wave
