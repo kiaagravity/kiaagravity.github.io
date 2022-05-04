@@ -113,6 +113,10 @@ run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
+0. K.G. Arun, *et al.*, [New horizons for fundamental physics with
+LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* (accepted),
+arXiv:2205.01597
+
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
