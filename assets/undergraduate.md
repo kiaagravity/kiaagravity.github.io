@@ -100,7 +100,7 @@ preparation
 
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Electromagnetic follow-ups of binary
 neutron star mergers with early warnings from decihertz gravitational-wave
-observatories](https://arxiv.org/abs/TBA), arXiv:TBA
+observatories](https://arxiv.org/abs/2205.02104), arXiv:2205.02104
 
 0. C. Liu, **Y. Kang (康亚城)**, L. Shao, [Realistic detection and early warning of
 binary neutron stars with decihertz gravitational-wave
