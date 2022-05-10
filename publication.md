@@ -135,14 +135,14 @@ two harmonics in the second and third LIGO-Virgo observing
 runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.* (accepted),
 arXiv:2111.13106
 
-0. R. Abbott, *et al.*, [All-sky search for gravitational wave emission from
-scalar boson clouds around spinning black holes in LIGO O3
-data](https://arxiv.org/abs/2111.15507), *Phys. Rev. D* (accepted), arXiv:2111.15507
-
 0. R. Abbott, *et al.*, [Narrowband searches for continuous and long-duration
 transient gravitational waves from known pulsars in the LIGO-Virgo third
 observing run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted),
 arXiv:2112.10990
+
+0. R. Abbott, *et al.*, [All-sky search for gravitational wave emission from
+scalar boson clouds around spinning black holes in LIGO O3
+data](https://arxiv.org/abs/2111.15507), *Phys. Rev. D* 105 (2022) 102001
 
 0. R. Abbott, *et al.*, [Search for gravitational waves associated with
 gamma-ray bursts detected by Fermi and Swift during the LIGO-Virgo run
