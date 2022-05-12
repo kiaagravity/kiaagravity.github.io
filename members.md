@@ -224,7 +224,7 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Exoplanets with Space-based Gravitational-wave Detectors* (2021)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *TBA* (Peking University 2022) 
+    *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (Peking University 2022) 
 
 - 2020—now, **Zexin Hu** (**胡泽昕**), School of Physics, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
