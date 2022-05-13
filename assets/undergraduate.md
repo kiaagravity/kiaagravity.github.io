@@ -91,12 +91,17 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
-0. **Z. Wang (王子铭)**, J. Zhao, **Z. An (安子訸)**, L. Shao, in preparation
+0. **Z. Wang (王子铭)**, J. Zhao, **Z. An (安子訸)**, L. Shao, [Simultaneous bounds on
+the gravitational dipole radiation and varying gravitational constant from
+compact binary inspirals](https://arxiv.org/abs/TBA), in preparation
 
-0. **Y. Dong (董益铭)**, L. Shao, **Z. Hu (胡泽昕)**, X. Miao, **Z. Wang (王子铭)**, in
-preparation
+0. **Y. Dong (董益铭)**, L. Shao, **Z. Hu (胡泽昕)**, X. Miao, **Z. Wang (王子铭)**,
+[Prospects for Constraining the Fifth Force with Pulsars around Sgr
+A$^\ast$](https://arxiv.org/abs/TBA), in preparation
 
-0. **M. Liu (刘牧鑫)**, C. Liu, Y.-M. Hu, L. Shao, **Y. Kang (康亚城)**, to be submitted
+0. **M. Liu (刘牧鑫)**, C. Liu, Y.-M. Hu, L. Shao, **Y. Kang (康亚城)**, [Dark-siren
+cosmology with decihertz gravitational-wave
+detectors](https://arxiv.org/abs/TBA), submitted
 
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Electromagnetic follow-ups of binary
 neutron star mergers with early warnings from decihertz gravitational-wave
@@ -141,3 +146,22 @@ Rev. D* 103 (2021) 024040
 [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008),
 《天文学报》 62 (2021) 54
 {: reversed="reversed"}
+
+
+<!---------------------------------------------------------------->
+
+<script type="text/x-mathjax-config">
+
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<!---------------------------------------------------------------->
+
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
