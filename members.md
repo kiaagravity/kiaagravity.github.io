@@ -216,8 +216,8 @@ evolution of binary black holes <br>
 
 - 2021—now, **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai University 2022); 
-    co-advisor: Liu Zhao
+    *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai University 2022)
+    <!-- co-advisor: Liu Zhao -->
 
 - 2018—now, **Yacheng Kang** (**康亚城**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
@@ -229,7 +229,7 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Neutron Star Structures in Scalar-tensor Gravity* (2021)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *TBA* (Peking University 2022) 
+    *Black Hole-pulsar Timing Model* (Peking University 2022) 
 
 - 2018—now, **Junjie Zhao** (**赵俊杰**), Institute for Theoretical Physics, Peking University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
