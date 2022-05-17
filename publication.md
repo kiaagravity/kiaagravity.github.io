@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. M. Liu, C. Liu, Y.-M. Hu, L. Shao, Y. Kang, [Dark-siren cosmology with
+decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
+arXiv:2205.06991
+
 0. Y. Kang, C. Liu, L. Shao, [Electromagnetic follow-ups of binary neutron star
 mergers with early warnings from decihertz gravitational-wave
 observatories](https://arxiv.org/abs/2205.02104), arXiv:2205.02104

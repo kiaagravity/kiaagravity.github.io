@@ -101,7 +101,7 @@ A$^\ast$](https://arxiv.org/abs/TBA), in preparation
 
 0. **M. Liu (刘牧鑫)**, C. Liu, Y.-M. Hu, L. Shao, **Y. Kang (康亚城)**, [Dark-siren
 cosmology with decihertz gravitational-wave
-detectors](https://arxiv.org/abs/TBA), submitted
+detectors](https://arxiv.org/abs/2205.06991), arXiv:2205.06991
 
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Electromagnetic follow-ups of binary
 neutron star mergers with early warnings from decihertz gravitational-wave
