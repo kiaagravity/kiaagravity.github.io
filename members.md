@@ -167,7 +167,7 @@ evolution of binary black holes <br>
 | 2018—now | **Yacheng Kang** | **康亚城** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Zexin Hu** | **胡泽昕** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Peixiang Ji** | **姬佩祥** | Joint Bachelor Thesis | [NANKAI](https://physics.nankai.edu.cn/) |
-| 2020—now | **Ziming Wang** | **王子铭** | Undergraduate Research, Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Ziming Wang** | **王子铭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Wenrui Li** | **李文睿** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -183,7 +183,6 @@ evolution of binary black holes <br>
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Junjie Zhao** | **赵俊杰** | Postdoc | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
 | 2018—now | **Xueli Miao** | **缪雪丽** | Postdoc | [NAOC](http://www.bao.ac.cn/) | 
-| 2021—now | **Xiaonan Liu** | **刘晓楠** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
 | 2022—now | **Zhanfeng Mai** | **麦展风** | Incoming KIAA Postdoc | [TJU](http://physics.tju.edu.cn/) |
 | 2022—now | **Haitian Wang** | **王海天** | Incoming KIAA Postdoc | [USTC](https://astro.ustc.edu.cn/) |
 | 2022—now | **Zhenwei Lyu** | **吕振伟** | Incoming Boya Fellow | [GuelphU](https://www.physics.uoguelph.ca/)/[Perimeter](https://perimeterinstitute.ca/) |
@@ -306,12 +305,15 @@ evolution of binary black holes <br>
 
 Comments
 
+| 2020—now | **Sobhan Kazempour** | | PhD Student | [TabrizU](https://physics.tabrizu.ac.ir/en) |
+| 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
+
 | 2021—2021 | **Li Huang** | **黄力** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
 | 2021—2022 | **Haimeng Chen** | **陈海萌** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 | 2020—2021 | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
-| 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2018—2020 | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 
+| 2021—2022 | **Xiaonan Liu** | **刘晓楠** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
 | 2021—2022 | **Ping He** | **何平** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2020—2021 | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—2021 | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -320,10 +322,9 @@ Comments
 | 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2021 | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—2020 | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2020—now | **Sobhan Kazempour** | | PhD Student | [TabrizU](https://physics.tabrizu.ac.ir/en) |
 
-| 2021—now | **Yuxi Duan** | **段雨曦** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Shenyong Ye** | **叶沈镛** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2021—2021 | **Yuxi Duan** | **段雨曦** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—2021 | **Shenyong Ye** | **叶沈镛** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 -->
 
 <script type="text/x-mathjax-config">
