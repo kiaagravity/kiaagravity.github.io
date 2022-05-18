@@ -102,9 +102,6 @@ data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 
-0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
-GWTC-3](https://arxiv.org/abs/2111.03604), arXiv:2111.03604
-
 0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
 using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634),
 arXiv:2111.03634
@@ -120,6 +117,9 @@ run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
+GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
 
 0. K.G. Arun, *et al.*, [New horizons for fundamental physics with
 LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* (accepted),
