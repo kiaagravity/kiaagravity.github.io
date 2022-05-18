@@ -229,7 +229,7 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Neutron Star Structures in Scalar-tensor Gravity* (2021)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Black Hole-pulsar Timing Model* (Peking University 2022) 
+    *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (Peking University 2022) 
 
 - 2018—now, **Junjie Zhao** (**赵俊杰**), Institute for Theoretical Physics, Peking University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
