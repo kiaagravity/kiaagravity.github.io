@@ -8,7 +8,7 @@ categories: activities
 
 ## Literature Reading
 
- #### Jierui Hu: 
+#### Jierui Hu: 
  
  Ref:
  
