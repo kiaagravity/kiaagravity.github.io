@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [On the cosmology of
+Dirac-Born-Infeld dRGT massive gravity](https://arxiv.org/abs/2205.10863),
+arXiv:2205.10863
+
 0. M. Liu, C. Liu, Y.-M. Hu, L. Shao, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 arXiv:2205.06991
