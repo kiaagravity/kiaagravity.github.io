@@ -15,7 +15,7 @@ categories: activities
 
 ## Literature Reading
 
-#### Rong Du: 
+#### Rong Du: HARM: A Numerical Scheme for General Relativistic Magnetohydrodynamics
  
 Ref: [[HARM: A Numerical Scheme for General Relativistic Magnetohydrodynamics](https://arxiv.org/abs/astro-ph/0301509)]
 
