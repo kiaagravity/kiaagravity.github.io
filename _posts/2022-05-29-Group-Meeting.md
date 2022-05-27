@@ -15,9 +15,9 @@ categories: activities
 
 ## Literature Reading
 
- #### Rong Du: 
+#### Rong Du: 
  
- Ref: [[HARM: A Numerical Scheme for General Relativistic Magnetohydrodynamics](https://arxiv.org/abs/astro-ph/0301509)]
+Ref: [[HARM: A Numerical Scheme for General Relativistic Magnetohydrodynamics](https://arxiv.org/abs/astro-ph/0301509)]
 
 #### Chang Liu: Measuring the distance-redshift relation with the cross-correlation of gravitational wave standard sirens and galaxies
 
