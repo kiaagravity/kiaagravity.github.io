@@ -10,7 +10,7 @@ categories: activities
 
 #### Junjie Zhao
 
-[reference(https://git-scm.com/)]
+[[reference](https://git-scm.com/)]
 
 
 ## Literature Reading
