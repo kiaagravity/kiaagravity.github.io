@@ -168,7 +168,6 @@ evolution of binary black holes <br>
 | 2020—now | **Zexin Hu** | **胡泽昕** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Peixiang Ji** | **姬佩祥** | Joint Bachelor Thesis | [NANKAI](https://physics.nankai.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—now | **Wenrui Li** | **李文睿** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Yiming Dong** | **董益铭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -196,6 +195,7 @@ evolution of binary black holes <br>
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 | 2021—now | **Bingcheng Jin** | **金秉诚** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Wenrui Li** | **李文睿** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
