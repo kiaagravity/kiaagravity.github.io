@@ -110,13 +110,13 @@ run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634),
 arXiv:2111.03634
 
-0. R. Abbott, *et al.*, [Search for subsolar-mass binaries in the first half of
-Advanced LIGO and Virgo's third observing
-run](https://arxiv.org/abs/2109.12197), arXiv:2109.12197
-
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Search for subsolar-mass binaries in the first half of
+Advanced LIGO and Virgo's third observing
+run](https://arxiv.org/abs/2109.12197), *Phys. Rev. Lett.* (accepted), arXiv:2109.12197
 
 0. R. Abbott, *et al.*, [All-sky, all-frequency directional search for
 persistent gravitational waves from Advanced LIGO's and Advanced Virgo's first
