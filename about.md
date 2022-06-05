@@ -50,7 +50,7 @@ observations, please send your CV and we will help you in getting a position
 when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Jun5_2023.jpg" style="width:100%">                 
+<img src="/assets/group_meeting_Jun5_2022.png" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on June 5, 2022.</b></font></figcaption>
 </figure>
 
