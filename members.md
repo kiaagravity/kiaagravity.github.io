@@ -108,7 +108,7 @@ evolution of binary black holes <br>
 
 <img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
-<big><b>Peixiang Ji (姬佩祥))</b></big><br>
+<big><b>Peixiang Ji (姬佩祥)</b></big><br>
 <i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
 <b>Email</b>: 1810228@mail.nankai.edu.cn<br>
 <b>Research Interests</b>: gravitational waves, cosmology<br>
