@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ## Group Meeting
 
-**Chair**: Chang Liu (刘畅)
+**Chair**: Dicong Liang (梁迪聪)
 
 Group meeting provides a friendly environment to interact with group members or
 visiting scholars.  It also brings the opportunity to broaden views in science,
