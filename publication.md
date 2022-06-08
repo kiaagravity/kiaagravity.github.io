@@ -121,7 +121,7 @@ run](https://arxiv.org/abs/2109.12197), *Phys. Rev. Lett.* (accepted), arXiv:210
 0. R. Abbott, *et al.*, [All-sky, all-frequency directional search for
 persistent gravitational waves from Advanced LIGO's and Advanced Virgo's first
 three observing runs](https://arxiv.org/abs/2110.09834), *Phys. Rev. D*
-(accepted), arXiv:2110.09834
+105 (2022) 122002
 
 0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
 GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
