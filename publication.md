@@ -118,11 +118,6 @@ book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 Advanced LIGO and Virgo's third observing
 run](https://arxiv.org/abs/2109.12197), *Phys. Rev. Lett.* (accepted), arXiv:2109.12197
 
-0. R. Abbott, *et al.*, [All-sky, all-frequency directional search for
-persistent gravitational waves from Advanced LIGO's and Advanced Virgo's first
-three observing runs](https://arxiv.org/abs/2110.09834), *Phys. Rev. D*
-105 (2022) 122002
-
 0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
 GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
 
@@ -148,6 +143,11 @@ arXiv:2111.13106
 transient gravitational waves from known pulsars in the LIGO-Virgo third
 observing run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted),
 arXiv:2112.10990
+
+0. R. Abbott, *et al.*, [All-sky, all-frequency directional search for
+persistent gravitational waves from Advanced LIGO's and Advanced Virgo's first
+three observing runs](https://arxiv.org/abs/2110.09834), *Phys. Rev. D*
+105 (2022) 122002
 
 0. R. Abbott, *et al.*, [All-sky search for gravitational wave emission from
 scalar boson clouds around spinning black holes in LIGO O3
