@@ -115,6 +115,24 @@ evolution of binary black holes <br>
 
 ---
 
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-8742-8397) &nbsp; 
+<big><b>Ziming Wang (王子铭)</b></big><br>
+<i><b>Undergraduate Student (2019-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
+<b>Email</b>: 1900011622@pku.edu.cn<br>
+<b>Research Interests</b>: gravitational waves, tests of gravity theories<br>
+
+---
+
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
+<big><b>Yiming Dong (董益铭)</b></big><br>
+<i><b>Undergraduate Student (2019-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
+<b>Email</b>: 1900011629@pku.edu.cn<br>
+<b>Research Interests</b>: pulsars, Square Kilometre Array<br>
+
+---
+
 <big><big><big><b>Alumnae and Alumni</b></big></big></big><br>
 
 
