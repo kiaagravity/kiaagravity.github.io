@@ -55,7 +55,7 @@ when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
 </figure>
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Dec12_2021_small.jpeg" style="width:100%">                 
+<img src="/assets/group_meeting_Dec12_2021_small.png" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 12, 2021.</b></font></figcaption>
 </figure>
 
