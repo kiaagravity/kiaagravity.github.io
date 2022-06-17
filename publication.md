@@ -24,10 +24,6 @@ arXiv:2205.06991
 mergers with early warnings from decihertz gravitational-wave
 observatories](https://arxiv.org/abs/2205.02104), arXiv:2205.02104
 
-0. C. Liu, Y. Kang, L. Shao, [Realistic detection and early warning of binary
-neutron stars with decihertz gravitational-wave
-observatories](https://arxiv.org/abs/2204.06161), arXiv:2204.06161
-
 0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
 early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
 
@@ -40,6 +36,10 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. C. Liu, Y. Kang, L. Shao, [Realistic detection and early warning of binary
+neutron stars with decihertz gravitational-wave
+observatories](https://arxiv.org/abs/2204.06161),  *Astrophys. J.* (accepted), arXiv:2204.06161
 
 0. Z. Wang, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher information matrix
 in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
