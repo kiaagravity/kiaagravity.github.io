@@ -103,13 +103,15 @@ A$^\ast$](https://arxiv.org/abs/TBA), in preparation
 cosmology with decihertz gravitational-wave
 detectors](https://arxiv.org/abs/2205.06991), arXiv:2205.06991
 
-0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Electromagnetic follow-ups of binary
-neutron star mergers with early warnings from decihertz gravitational-wave
-observatories](https://arxiv.org/abs/2205.02104), arXiv:2205.02104
+0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Electromagnetic follow-up observations
+of binary neutron star mergers with early warnings from decihertz
+gravitational-wave observatories](https://arxiv.org/abs/2205.02104), *Mon. Not.
+R. Astron. Soc.* (accepted) arXiv:2205.02104
 
 0. C. Liu, **Y. Kang (康亚城)**, L. Shao, [Realistic detection and early warning of
 binary neutron stars with decihertz gravitational-wave
-observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* (accepted), arXiv:2204.06161
+observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* (accepted),
+arXiv:2204.06161
 
 0. **Z. Wang (王子铭)**, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher
 information matrix in gravitational-wave data
