@@ -113,8 +113,7 @@ observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* (accepted), ar
 
 0. **Z. Wang (王子铭)**, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher
 information matrix in gravitational-wave data
-analysis](https://arxiv.org/abs/2203.02670), *Astrophys. J.* (accepted),
-arXiv:2203.02670
+analysis](https://arxiv.org/abs/2203.02670), *Astrophys. J.* 932 (2022) 102
 
 0. **M. Guo (郭明浩)**, J. Zhao, L.  Shao, [Extended reduced-order surrogate models for
 scalar-tensor gravity in the strong field and applications to binary pulsars and

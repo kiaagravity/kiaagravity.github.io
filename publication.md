@@ -43,7 +43,7 @@ observatories](https://arxiv.org/abs/2204.06161),  *Astrophys. J.* (accepted), a
 
 0. Z. Wang, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher information matrix
 in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
-*Astrophys. J.* (accepted), arXiv:2203.02670
+*Astrophys. J.* 932 (2022) 102
 
 0. J. Zhao, P.C.C. Freire, M.  Kramer, L. Shao, N. Wex, [Closing a
 spontaneous-scalarization window with binary
