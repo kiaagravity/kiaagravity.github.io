@@ -91,9 +91,9 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
-0. **Z. Wang (王子铭)**, J. Zhao, **Z. An (安子訸)**, L. Shao, [Simultaneous bounds on
-the gravitational dipole radiation and varying gravitational constant from
-compact binary inspirals](https://arxiv.org/abs/TBA), in preparation
+0. **Z. Wang (王子铭)**, J. Zhao, **Z. An (安子訸)**, L. Shao, Z. Cao [Simultaneous
+bounds on the gravitational dipole radiation and varying gravitational constant
+from compact binary inspirals](https://arxiv.org/abs/TBA), in preparation
 
 0. **Y. Dong (董益铭)**, L. Shao, **Z. Hu (胡泽昕)**, X. Miao, **Z. Wang (王子铭)**,
 [Prospects for Constraining the Fifth Force with Pulsars around Sgr
