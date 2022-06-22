@@ -13,7 +13,8 @@ permalink: /publication/
 ##### Short-author-list Papers
 
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
-gravitational waves from strangeon stars](TBA), arXiv:TBA
+gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407),
+arXiv:2206.09407
 
 0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [On the cosmology of
 Dirac-Born-Infeld dRGT massive gravity](https://arxiv.org/abs/2205.10863),
