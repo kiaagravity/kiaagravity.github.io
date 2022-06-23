@@ -95,7 +95,7 @@ layout: page
 [Prospects for Constraining the Fifth Force with Pulsars around Sgr
 A$^\ast$](https://arxiv.org/abs/TBA), in preparation
 
-0. **Z. Wang (王子铭)**, J. Zhao, **Z. An (安子訸)**, L. Shao, Z. Cao [Simultaneous
+0. **Z. Wang (王子铭)**, J. Zhao, **Z. An (安子訸)**, L. Shao, Z. Cao, [Simultaneous
 bounds on the gravitational dipole radiation and varying gravitational constant
 from compact binary inspirals](https://arxiv.org/abs/TBA), *Phys. Lett. B*, submitted
 
