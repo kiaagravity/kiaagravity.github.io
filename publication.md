@@ -84,6 +84,13 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Workshop on
 Gravitational Wave Astrophysics for Early Career
 Scientists](https://dx.doi.org/10.1038/s41550-022-01629-8), *Nat. Astron.* 6
 (2022) 304
+
+0. R.P. Eatough, G. Desvignes, K. Liu, R.S. Wharton, A. Noutsos, P. Torne, R.
+Karuppusamy, L. Shao, M.  Kramer, H. Falcke, L. Rezzolla, [BlackHoleCam —
+Testing general relativity with pulsars orbiting Sagittarius
+A$^\ast$](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_0278),
+in *Proceedings of the Fifteenth Marcel Grossmann Meeting* (World Scientific,
+Singapore, 2022), p. 1866
 {: reversed="reversed"}
 
 ##### Other Papers
