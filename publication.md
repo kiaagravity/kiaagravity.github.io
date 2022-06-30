@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. L. Shao, [Gravity tests with radio pulsars in perturbative and
+nonperturbative regimes](https://arxiv.org/abs/TBA), submitted
+
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry array](https://arxiv.org/abs/TBA), submitted
 
@@ -98,10 +101,6 @@ Singapore, 2022), p. 1866
 0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
 component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
 
-0. R. Abbott, *et al.*, [Search for continuous gravitational wave emission from
-the Milky Way center in O3 LIGO-Virgo data](https://arxiv.org/abs/2204.04523),
-arXiv:2204.04523
-
 0. R. Abbott, *et al.*, [Search for gravitational waves associated with fast
 radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
 O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
@@ -133,6 +132,10 @@ arXiv:2111.03634
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
+0. R. Abbott, *et al.*, [Search for continuous gravitational wave emission from
+the Milky Way center in O3 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), 
+arXiv:2204.04523
+
 0. R. Abbott, *et al.*, [Search for subsolar-mass binaries in the first half of
 Advanced LIGO and Virgo's third observing
 run](https://arxiv.org/abs/2109.12197), *Phys. Rev. Lett.* (accepted), arXiv:2109.12197
@@ -155,8 +158,7 @@ arXiv:2111.13106
 
 0. R. Abbott, *et al.*, [Narrowband searches for continuous and long-duration
 transient gravitational waves from known pulsars in the LIGO-Virgo third
-observing run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* (accepted),
-arXiv:2112.10990
+observing run](https://arxiv.org/abs/2112.10990), *Astrophys. J.* 932 (2022) 133
 
 0. R. Abbott, *et al.*, [First joint observation by the underground
 gravitational-wave detector, KAGRA, with
