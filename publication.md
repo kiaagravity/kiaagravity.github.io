@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
+tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
+
 0. L. Shao, [Gravity tests with radio pulsars in perturbative and
 nonperturbative regimes](https://arxiv.org/abs/TBA), submitted
 
