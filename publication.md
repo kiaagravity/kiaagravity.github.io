@@ -19,7 +19,8 @@ tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
 nonperturbative regimes](https://arxiv.org/abs/TBA), submitted
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
-baseline interferometry array](https://arxiv.org/abs/TBA), submitted
+baseline interferometry array](https://arxiv.org/abs/TBA), *Front. Phys.*
+(accepted)
 
 0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
 gravitational dipole radiation and varying gravitational constant from compact
@@ -49,6 +50,10 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
+
+0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
+[Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
+gravitational waves](https://arxiv.org/abs/TBA), submitted
 
 0. Y. Kang, C. Liu, L. Shao, [Electromagnetic follow-up observations of binary
 neutron star mergers with early warnings from decihertz gravitational-wave
