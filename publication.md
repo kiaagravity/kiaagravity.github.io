@@ -43,6 +43,9 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
+0. Z. Wang, L. Shao, C.  Liu, [New limits on the Lorentz/CPT symmetry through 50
+gravitational-wave events](https://arxiv.org/abs/TBA), to be submitted
+
 0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
 [Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
 gravitational waves](https://arxiv.org/abs/TBA), to be submitted
