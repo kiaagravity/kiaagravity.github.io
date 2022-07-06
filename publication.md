@@ -26,10 +26,6 @@ binary inspirals](https://arxiv.org/abs/TBA), submitted
 gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407),
 arXiv:2206.09407
 
-0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [On the cosmology of
-Dirac-Born-Infeld dRGT massive gravity](https://arxiv.org/abs/2205.10863),
-arXiv:2205.10863
-
 0. M. Liu, C. Liu, Y.-M. Hu, L. Shao, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 arXiv:2205.06991
@@ -50,6 +46,10 @@ catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
 [Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
 gravitational waves](https://arxiv.org/abs/TBA), to be submitted
+
+0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [On the cosmology of
+Dirac-Born-Infeld dRGT massive gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* (accepted), 
+arXiv:2205.10863
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry array](https://arxiv.org/abs/TBA), *Front. Phys.*
