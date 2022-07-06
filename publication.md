@@ -15,9 +15,6 @@ permalink: /publication/
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
 
-0. L. Shao, [Gravity tests with radio pulsars in perturbative and
-nonperturbative regimes](https://arxiv.org/abs/TBA), submitted
-
 0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
 gravitational dipole radiation and varying gravitational constant from compact
 binary inspirals](https://arxiv.org/abs/TBA), submitted
@@ -44,11 +41,14 @@ birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
 0. Z. Wang, L. Shao, C.  Liu, [New limits on the Lorentz/CPT symmetry through 50
-gravitational-wave events](https://arxiv.org/abs/TBA), to be submitted
+gravitational-wave events](https://arxiv.org/abs/TBA), to be submitted to *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry*
 
 0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
 [Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
-gravitational waves](https://arxiv.org/abs/TBA), to be submitted
+gravitational waves](https://arxiv.org/abs/TBA), to be submitted to *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry*
+
+0. L. Shao, [Gravity tests with radio pulsars in perturbative and
+nonperturbative regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Eighth Meeting on CPT and Lorentz Symmetry*
 
 0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [On the cosmology of
 Dirac-Born-Infeld dRGT massive gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* (accepted), 
