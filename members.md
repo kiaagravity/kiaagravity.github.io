@@ -208,8 +208,8 @@ evolution of binary black holes <br>
 ## Friends & Visitors
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2018—now | **Junjie Zhao** | **赵俊杰** | Postdoc | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
-| 2018—now | **Xueli Miao** | **缪雪丽** | Postdoc | [NAOC](http://www.bao.ac.cn/) | 
+| 2018—now | **Junjie Zhao** | **赵俊杰** | Liyun Fellow | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
+| 2018—now | **Xueli Miao** | **缪雪丽** | FAST Fellow | [NAOC](http://www.bao.ac.cn/) | 
 | 2022—now | **Zhanfeng Mai** | **麦展风** | Incoming KIAA Postdoc | [TJU](http://physics.tju.edu.cn/) |
 | 2022—now | **Haitian Wang** | **王海天** | Incoming KIAA Postdoc | [USTC](https://astro.ustc.edu.cn/) |
 | 2022—now | **Zhenwei Lyu** | **吕振伟** | Incoming Boya Fellow | [GuelphU](https://www.physics.uoguelph.ca/)/[Perimeter](https://perimeterinstitute.ca/) |
