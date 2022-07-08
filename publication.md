@@ -50,6 +50,11 @@ gravitational waves](https://arxiv.org/abs/TBA), to be submitted to *Proceedings
 0. L. Shao, [Gravity tests with radio pulsars in perturbative and
 nonperturbative regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 
+0. Y. Gao, R. Xu, **L. Shao**,
+[Precession of spheroids under Lorentz violation and observational consequences
+for neutron stars](https://arxiv.org/abs/TBA), submitted to *Proceedings of the
+Ninth Meeting on CPT and Lorentz Symmetry*
+
 0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [On the cosmology of
 Dirac-Born-Infeld dRGT massive gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* (accepted), 
 arXiv:2205.10863
