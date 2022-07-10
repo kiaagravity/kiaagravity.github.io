@@ -41,11 +41,13 @@ birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
 0. Z. Wang, L. Shao, C.  Liu, [New limits on the Lorentz/CPT symmetry through 50
-gravitational-wave events](https://arxiv.org/abs/TBA), to be submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
+gravitational-wave events](https://arxiv.org/abs/TBA), submitted to *Proceedings
+of the Ninth Meeting on CPT and Lorentz Symmetry*
 
 0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
 [Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
-gravitational waves](https://arxiv.org/abs/TBA), to be submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
+gravitational waves](https://arxiv.org/abs/TBA), submitted to *Proceedings of
+the Ninth Meeting on CPT and Lorentz Symmetry*
 
 0. L. Shao, [Gravity tests with radio pulsars in perturbative and
 nonperturbative regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
@@ -54,6 +56,8 @@ nonperturbative regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings o
 [Precession of spheroids under Lorentz violation and observational consequences
 for neutron stars](https://arxiv.org/abs/TBA), submitted to *Proceedings of the
 Ninth Meeting on CPT and Lorentz Symmetry*
+
+0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 
 0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [On the cosmology of
 Dirac-Born-Infeld dRGT massive gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* (accepted), 
