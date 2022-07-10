@@ -52,10 +52,9 @@ the Ninth Meeting on CPT and Lorentz Symmetry*
 0. L. Shao, [Gravity tests with radio pulsars in perturbative and
 nonperturbative regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 
-0. Y. Gao, R. Xu, **L. Shao**,
-[Precession of spheroids under Lorentz violation and observational consequences
-for neutron stars](https://arxiv.org/abs/TBA), submitted to *Proceedings of the
-Ninth Meeting on CPT and Lorentz Symmetry*
+0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
+observational consequences for neutron stars](https://arxiv.org/abs/TBA),
+submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 
