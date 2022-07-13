@@ -58,9 +58,9 @@ submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 
-0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [On the cosmology of
-Dirac-Born-Infeld dRGT massive gravity](https://arxiv.org/abs/2205.10863), *Phys. Rev. D* (accepted), 
-arXiv:2205.10863
+0. L. Shao, [Testing relativistic gravity with radio timing of neutron
+stars](TBA), as a chapter in the book *Pulsar Astronomy: State-of-the-Art of
+Chinese Instruments*, submitted
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry array](https://arxiv.org/abs/TBA), *Front. Phys.*
@@ -74,6 +74,11 @@ observatories](https://arxiv.org/abs/2205.02104), *Mon. Not. R. Astron. Soc.*
 0. C. Liu, Y. Kang, L. Shao, [Realistic detection and early warning of binary
 neutron stars with decihertz gravitational-wave
 observatories](https://arxiv.org/abs/2204.06161),  *Astrophys. J.* (accepted), arXiv:2204.06161
+
+0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [Cosmology of
+Dirac-Born-Infeld-de Rham-Gabadadze-Tolley massive
+gravity](https://arxiv.org/abs/2205.10863),
+*Phys. Rev. D* 106 (2022) 023508
 
 0. Z. Wang, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher information matrix
 in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
