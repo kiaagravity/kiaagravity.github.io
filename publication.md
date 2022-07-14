@@ -62,10 +62,6 @@ submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 stars](TBA), as a chapter in the book *Pulsar Astronomy: State-of-the-Art of
 Chinese Instruments*, submitted
 
-0. L. Shao, [Imaging supermassive black hole shadows with a global very long
-baseline interferometry array](https://arxiv.org/abs/TBA), *Front. Phys.*
-(accepted)
-
 0. Y. Kang, C. Liu, L. Shao, [Electromagnetic follow-up observations of binary
 neutron star mergers with early warnings from decihertz gravitational-wave
 observatories](https://arxiv.org/abs/2205.02104), *Mon. Not. R. Astron. Soc.*
@@ -75,10 +71,9 @@ observatories](https://arxiv.org/abs/2205.02104), *Mon. Not. R. Astron. Soc.*
 neutron stars with decihertz gravitational-wave
 observatories](https://arxiv.org/abs/2204.06161),  *Astrophys. J.* (accepted), arXiv:2204.06161
 
-0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [Cosmology of
-Dirac-Born-Infeld-de Rham-Gabadadze-Tolley massive
-gravity](https://arxiv.org/abs/2205.10863),
-*Phys. Rev. D* 106 (2022) 023508
+0. L. Shao, [Imaging supermassive black hole shadows with a global very long
+baseline interferometry array](https://doi.org/10.1007/s11467-022-1191-0),
+*Front. Phys.* 17 (2022) 44601
 
 0. Z. Wang, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher information matrix
 in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
@@ -100,6 +95,11 @@ perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
 
 0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
 stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234), *Mon. Not. R. Astron. Soc.* 509 (2022) 2758
+
+0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [Cosmology of
+Dirac-Born-Infeld-de Rham-Gabadadze-Tolley massive
+gravity](https://arxiv.org/abs/2205.10863),
+*Phys. Rev. D* 106 (2022) 023508
 
 0. 	A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmology and perturbations in
 tachyonic massive
