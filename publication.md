@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for fundamental
+physics](TBA), submitted
+
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
 
