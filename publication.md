@@ -132,10 +132,6 @@ component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
 radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
 O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
 
-0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
-observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011),
-arXiv:2203.07011
-
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), arXiv:2203.06016
 
@@ -158,6 +154,10 @@ arXiv:2111.03634
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
+observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
+Theor. Exp. Phys.* (accepted), arXiv:2203.07011
 
 0. R. Abbott, *et al.*, [Search for continuous gravitational wave emission from
 the Milky Way center in O3 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), 
