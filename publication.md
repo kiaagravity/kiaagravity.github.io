@@ -65,11 +65,6 @@ submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 stars](TBA), as a chapter in the book *Pulsar Astronomy: State-of-the-Art of
 Chinese Instruments*, submitted
 
-0. Y. Kang, C. Liu, L. Shao, [Electromagnetic follow-up observations of binary
-neutron star mergers with early warnings from decihertz gravitational-wave
-observatories](https://arxiv.org/abs/2205.02104), *Mon. Not. R. Astron. Soc.*
-(accepted), arXiv:2205.02104
-
 0. C. Liu, Y. Kang, L. Shao, [Realistic detection and early warning of binary
 neutron stars with decihertz gravitational-wave
 observatories](https://arxiv.org/abs/2204.06161),  *Astrophys. J.* (accepted), arXiv:2204.06161
@@ -77,6 +72,11 @@ observatories](https://arxiv.org/abs/2204.06161),  *Astrophys. J.* (accepted), a
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry array](https://doi.org/10.1007/s11467-022-1191-0),
 *Front. Phys.* 17 (2022) 44601
+
+0. Y. Kang, C. Liu, L. Shao, [Electromagnetic follow-up observations of binary
+neutron star mergers with early warnings from decihertz gravitational-wave
+observatories](https://arxiv.org/abs/2205.02104), *Mon. Not. R. Astron. Soc.*
+515 (2022) 739
 
 0. Z. Wang, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher information matrix
 in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
