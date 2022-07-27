@@ -105,8 +105,7 @@ detectors](https://arxiv.org/abs/2205.06991), arXiv:2205.06991
 
 0. C. Liu, **Y. Kang (康亚城)**, L. Shao, [Realistic detection and early warning of
 binary neutron stars with decihertz gravitational-wave
-observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* (accepted),
-arXiv:2204.06161
+observatories](https://arxiv.org/abs/2204.06161), *Astrophys. J.* 934 (2022) 84
 
 0. **Y. Kang (康亚城)**, C. Liu, L. Shao, [Electromagnetic follow-up observations
 of binary neutron star mergers with early warnings from decihertz
