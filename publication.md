@@ -70,7 +70,8 @@ neutron stars with decihertz gravitational-wave
 observatories](https://arxiv.org/abs/2204.06161),  *Astrophys. J.* (accepted), arXiv:2204.06161
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
-baseline interferometry array](https://doi.org/10.1007/s11467-022-1191-0),
+baseline interferometry
+array](https://link.springer.com/article/10.1007/s11467-022-1191-0),
 *Front. Phys.* 17 (2022) 44601
 
 0. Y. Kang, C. Liu, L. Shao, [Electromagnetic follow-up observations of binary
