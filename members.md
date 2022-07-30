@@ -216,7 +216,6 @@ evolution of binary black holes <br>
 | 2022—now | **Garvin Yim** | | Incoming KIAA Postdoc | [SouthamptonU](https://www.southampton.ac.uk/stag/mathschallenge.page) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Sobhan Kazempour** | | PhD Student | [TabrizU](https://physics.tabrizu.ac.ir/en) |
 | 2020—now | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Bingcheng Jin** | **金秉诚** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -272,6 +271,11 @@ evolution of binary black holes <br>
 - 2019—now, **Rui Xu** (**徐睿**), Kavli Institute for Astronomy and Astrophysics, Peking University
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
     *Neutron Star Structure in Alternative Gravitational Theories* (2021)
+
+- 2020—2022, **Sobhan Kazempour	Ishka**, Faculty of Physics, Tabriz University
+  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
+    *Cosmological Aspects of Massive Gravity Theory* (Tabriz University 2022); 
+    co-advisors: Amin Rezaei Akbarieh & Hossein Motavalli
 
 - 2018—2022, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
