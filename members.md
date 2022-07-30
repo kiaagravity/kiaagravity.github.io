@@ -272,7 +272,7 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
     *Neutron Star Structure in Alternative Gravitational Theories* (2021)
 
-- 2020—2022, **Sobhan Kazempour	Ishka**, Faculty of Physics, Tabriz University
+- 2020—2022, **Sobhan Kazempour**, Faculty of Physics, Tabriz University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
     *Cosmological Aspects of Massive Gravity Theory* (Tabriz University 2022); 
     co-advisors: Amin Rezaei Akbarieh & Hossein Motavalli
