@@ -8,15 +8,34 @@ permalink: /publication/
 
 ---
 
+### 2023
+
+##### Short-author-list Papers
+
+0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
+tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
+theory to Experimental Searches on All Scales*, arXiv:2206.15187
+
+0. L. Shao, [Testing relativistic gravity with radio timing of neutron
+stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
+press
+
+0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
+Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
+Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
+first workshop on Gravitational Wave Astrophysics for Early Career
+Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
+
+0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
+
+---
+
 ### 2022
 
 ##### Short-author-list Papers
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for fundamental
 physics](TBA), submitted
-
-0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
-tests](https://arxiv.org/abs/2206.15187), arXiv:2206.15187
 
 0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
 gravitational dipole radiation and varying gravitational constant from compact
@@ -33,12 +52,6 @@ arXiv:2205.06991
 0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
 early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
 
-0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
-Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
-Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
-first workshop on Gravitational Wave Astrophysics for Early Career
-Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
-
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
@@ -53,17 +66,12 @@ gravitational waves](https://arxiv.org/abs/TBA), submitted to *Proceedings of
 the Ninth Meeting on CPT and Lorentz Symmetry*
 
 0. L. Shao, [Gravity tests with radio pulsars in perturbative and
-nonperturbative regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
+nonperturbative regimes](https://arxiv.org/abs/TBA), submitted to *Proceedings
+of the Ninth Meeting on CPT and Lorentz Symmetry*
 
 0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
 observational consequences for neutron stars](https://arxiv.org/abs/TBA),
 submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
-
-0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
-
-0. L. Shao, [Testing relativistic gravity with radio timing of neutron
-stars](TBA), as a chapter in the book *Pulsar Astronomy: State-of-the-Art of
-Chinese Instruments*, submitted
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry
