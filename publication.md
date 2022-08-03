@@ -255,6 +255,11 @@ calibration](https://iopscience.iop.org/article/10.3847/2041-8213/ac6675), *Astr
 results. I. The shadow of the supermassive black hole in the center of the Milky
 Way](https://iopscience.iop.org/article/10.3847/2041-8213/ac6674), *Astrophys. J. Lett.* 930 (2022) L12
 
+0. S. Issaoun, *et al.*, [Resolving the inner parsec of the blazar J1924$-$2914
+with the Event Horizon
+Telescope](https://iopscience.iop.org/article/10.3847/1538-4357/ac7a40),
+*Astrophys. J.* 934 (2022) 145
+
 0. J. Farah, *et al.*, [Selective dynamical imaging of interferometric
 data](https://iopscience.iop.org/article/10.3847/2041-8213/ac6615), *Astrophys. J. Lett.* 930 (2022) L18
 
