@@ -175,10 +175,6 @@ Theor. Exp. Phys.* (accepted), arXiv:2203.07011
 the Milky Way center in O3 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), 
 arXiv:2204.04523
 
-0. R. Abbott, *et al.*, [Search for subsolar-mass binaries in the first half of
-Advanced LIGO and Virgo's third observing
-run](https://arxiv.org/abs/2109.12197), *Phys. Rev. Lett.* (accepted), arXiv:2109.12197
-
 0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
 GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
 
@@ -193,6 +189,10 @@ arXiv:2111.13106
 
 0. K.G. Arun, *et al.*, [New horizons for fundamental physics with
 LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* 25 (2022) 4
+
+0. R. Abbott, *et al.*, [Search for subsolar-mass binaries in the first half of
+Advanced LIGO and Virgo's third observing
+run](https://arxiv.org/abs/2109.12197), *Phys. Rev. Lett.* 129 (2022) 061104
 
 0. R. Abbott, *et al.*, [Narrowband searches for continuous and long-duration
 transient gravitational waves from known pulsars in the LIGO-Virgo third
