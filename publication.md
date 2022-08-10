@@ -171,10 +171,6 @@ book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
 Theor. Exp. Phys.* (accepted), arXiv:2203.07011
 
-0. R. Abbott, *et al.*, [Search for continuous gravitational wave emission from
-the Milky Way center in O3 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* (accepted), 
-arXiv:2204.04523
-
 0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
 GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
 
@@ -189,6 +185,9 @@ arXiv:2111.13106
 
 0. K.G. Arun, *et al.*, [New horizons for fundamental physics with
 LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* 25 (2022) 4
+
+0. R. Abbott, *et al.*, [Search for continuous gravitational wave emission from
+the Milky Way center in O3 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* 106 (2022) 042003
 
 0. R. Abbott, *et al.*, [Search for subsolar-mass binaries in the first half of
 Advanced LIGO and Virgo's third observing
