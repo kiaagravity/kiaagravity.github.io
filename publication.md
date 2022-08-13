@@ -34,6 +34,8 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 ##### Short-author-list Papers
 
+0. D. Liang, R. Xu, X. Lu, L. Shao, [Bumblebee waves](TBA), submitted
+
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
 bumblebee gravity model](http://arxiv.org/abs/2207.14423), arXiv:2207.14423
 
