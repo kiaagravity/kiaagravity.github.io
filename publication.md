@@ -180,7 +180,7 @@ GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:211
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
 
-0. A.E. Broderick, *et al.*, [The Photon Ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
+0. A.E. Broderick, *et al.*, [The photon ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
 
 0. K.G. Arun, *et al.*, [New horizons for fundamental physics with
 LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* 25 (2022) 4
