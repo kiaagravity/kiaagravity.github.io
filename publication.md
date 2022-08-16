@@ -180,13 +180,12 @@ GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:211
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
 
-0. R. Abbott, *et al.*, [Searches for gravitational waves from known pulsars at
-two harmonics in the second and third LIGO-Virgo observing
-runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.* (accepted),
-arXiv:2111.13106
-
 0. K.G. Arun, *et al.*, [New horizons for fundamental physics with
 LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* 25 (2022) 4
+
+0. R. Abbott, *et al.*, [Searches for gravitational waves from known pulsars at
+two harmonics in the second and third LIGO-Virgo observing
+runs](https://arxiv.org/abs/2111.13106), *Astrophys. J.* 935 (2022) 1
 
 0. R. Abbott, *et al.*, [Search for continuous gravitational wave emission from
 the Milky Way center in O3 LIGO-Virgo data](https://arxiv.org/abs/2204.04523), *Phys. Rev. D* 106 (2022) 042003
