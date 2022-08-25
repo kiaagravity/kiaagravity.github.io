@@ -39,12 +39,7 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
 bumblebee gravity model](http://arxiv.org/abs/2207.14423), arXiv:2207.14423
 
-0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for fundamental
-physics](TBA), submitted
-
-0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
-gravitational dipole radiation and varying gravitational constant from compact
-binary inspirals](https://arxiv.org/abs/TBA), submitted
+0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity tests](TBA), submitted
 
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
 gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407),
@@ -77,6 +72,10 @@ nonperturbative regimes](https://arxiv.org/abs/2208.00142), submitted to
 0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
 observational consequences for neutron stars](https://arxiv.org/abs/TBA),
 submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
+
+0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
+gravitational dipole radiation and varying gravitational constant from compact
+binary inspirals](https://arxiv.org/abs/TBA), *Phys. Lett. B* (accepted), arXiv:TBA
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry
