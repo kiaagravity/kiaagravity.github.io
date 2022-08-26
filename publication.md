@@ -75,7 +75,8 @@ submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 
 0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
 gravitational dipole radiation and varying gravitational constant from compact
-binary inspirals](https://arxiv.org/abs/TBA), *Phys. Lett. B* (accepted), arXiv:TBA
+binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett. B* (accepted),
+arXiv:2208.11913
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry

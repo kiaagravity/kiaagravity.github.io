@@ -101,8 +101,8 @@ detectors](https://arxiv.org/abs/2205.06991), arXiv:2205.06991
 
 0. **Z. Wang (王子铭)**, J. Zhao, **Z. An (安子訸)**, L. Shao, Z. Cao, [Simultaneous
 bounds on the gravitational dipole radiation and varying gravitational constant
-from compact binary inspirals](https://arxiv.org/abs/TBA), *Phys. Lett. B*
-(accepted), arXiv:TBA
+from compact binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett.
+B* (accepted), arXiv:2208.11913
 
 0. C. Liu, **Y. Kang (康亚城)**, L. Shao, [Realistic detection and early warning of
 binary neutron stars with decihertz gravitational-wave
