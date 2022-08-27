@@ -57,6 +57,46 @@ evolution of binary black holes <br>
 
 ---
 
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-0151-3794) &nbsp; 
+<big><b>Dr. Zhenwei Lyu (吕振伟)</b></big><br>
+<i><b>Boya Postdoctoral Fellow (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
+  Peking University</i><br>
+<b>Email</b>: zlyu@uoguelph.ca<br>
+<b>Research Interests</b>: gravitational waves<br>
+
+---
+
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-7779-8239) &nbsp; 
+<big><b>Dr. Hai-Tian Wang (王海天)</b></big><br>
+<i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
+  Peking University</i><br>
+<b>Email</b>: wanght@pmo.ac.cn<br>
+<b>Research Interests</b>: gravitational-wave data analysis<br>
+
+---
+
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0003-2724-0226) &nbsp; 
+<big><b>Dr. Zhan-Feng Mai (麦展风)</b></big><br>
+<i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
+  Peking University</i><br>
+<b>Email</b>: dcliang@pku.edu.cn<br>
+<b>Research Interests</b>: black holes, gravitational waves<br>
+
+---
+
+<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-8548-9535) &nbsp; 
+<big><b>Dr. Garvin Yim</b></big><br>
+<i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
+  Peking University</i><br>
+<b>Email</b>: garvinyim@yahoo.co.uk<br>
+<b>Research Interests</b>: neutron stars, gravitational waves<br>
+
+---
+
 <img src="{{ site.baseurl }}/assets/Gao_Yong_floor1.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0003-1390-5477) &nbsp; 
 <big><b>Yong Gao (高勇)</b></big><br>
