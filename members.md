@@ -26,7 +26,7 @@ permalink: /member/
 <img src="{{ site.baseurl }}/assets/Shao_Lijing_floor1.jpg" title="Profile Picture" class="profile">
 </a>
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-1334-8853) &nbsp; 
-<big><b>Dr. Lijing Shao (邵立晶)</b></big><br>
+<big><b>Prof. Dr. Lijing Shao (邵立晶)</b></big><br>
 <i><b>Assistant Professor (2018-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: lshao@pku.edu.cn<br>
@@ -312,6 +312,10 @@ evolution of binary black holes <br>
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
     *Neutron Star Structure in Alternative Gravitational Theories* (2021)
 
+- 2019—now, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
+
 - 2020—2022, **Sobhan Kazempour**, Faculty of Physics, Tabriz University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
     *Cosmological Aspects of Massive Gravity Theory* (Tabriz University 2022); 
@@ -326,10 +330,6 @@ evolution of binary black holes <br>
 - 2020—2022, **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *The Forced Precession of Pulsars* (Peking University 2021) 
-
-- 2019—2022, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
 
 - 2020—2021,
   **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University
