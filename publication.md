@@ -27,6 +27,7 @@ first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
+{: reversed="reversed"}
 
 ---
 
