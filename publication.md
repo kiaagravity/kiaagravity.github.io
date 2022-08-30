@@ -35,6 +35,12 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 ##### Short-author-list Papers
 
+0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
+Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
+star mergers. II. Optimal search strategy for serendipitous observations and
+target-of-opportunity observations of gravitational-wave
+triggers](https://arxiv.org/abs/2110.10469), arXiv:2110.10469
+
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Bumblebee waves](TBA), submitted
 
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
