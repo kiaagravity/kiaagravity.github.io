@@ -156,10 +156,6 @@ O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), arXiv:2203.06016
 
-0. R. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1 with a
-hidden Markov model in O3 LIGO data](https://arxiv.org/abs/2201.10104),
-arXiv:2201.10104
-
 0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
 isolated neutron stars using Advanced LIGO and Advanced Virgo O3
 data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
@@ -175,6 +171,10 @@ arXiv:2111.03634
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1 with a
+hidden Markov model in O3 LIGO data](https://arxiv.org/abs/2201.10104), *Phys. Rev. D* (accepted), 
+arXiv:2201.10104
 
 0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
