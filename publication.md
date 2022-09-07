@@ -35,6 +35,9 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 ##### Short-author-list Papers
 
+0. R. Xu, D. Liang, L.  Shao, [Static spherical vacuum solutions in the
+bumblebee gravity model](https://arxiv.org/abs/2209.02209), arXiv:2209.02209 
+
 0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
 Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
 star mergers. II. Optimal search strategy for serendipitous observations and
