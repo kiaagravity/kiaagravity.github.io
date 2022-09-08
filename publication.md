@@ -44,12 +44,11 @@ star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469), arXiv:2110.10469
 
-0. D. Liang, R. Xu, X. Lu, L. Shao, [Bumblebee waves](TBA), submitted
+0. D. Liang, R. Xu, X. Lu, L. Shao, [Bumblebee
+waves](https://arxiv.org/abs/TBA), submitted
 
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
-bumblebee gravity model](http://arxiv.org/abs/2207.14423), arXiv:2207.14423
-
-0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity tests](TBA), submitted
+bumblebee gravity model](https://arxiv.org/abs/2207.14423), arXiv:2207.14423
 
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
 gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407),
@@ -82,6 +81,9 @@ nonperturbative regimes](https://arxiv.org/abs/2208.00142), submitted to
 0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
 observational consequences for neutron stars](https://arxiv.org/abs/TBA),
 submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
+
+0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
+tests](https://arxiv.org/abs/TBA), *Sci. Bull.* (accepted) arXiv:TBA
 
 0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
 gravitational dipole radiation and varying gravitational constant from compact
@@ -148,6 +150,10 @@ Singapore, 2022), p. 1866
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [Model-based cross-correlation search for gravitational
+waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3
+data](https://arxiv.org/abs/2209.02863), arXiv:2209.02863
 
 0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
 component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
