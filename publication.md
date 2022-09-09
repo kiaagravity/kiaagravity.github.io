@@ -83,12 +83,13 @@ observational consequences for neutron stars](https://arxiv.org/abs/TBA),
 submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
-tests](https://arxiv.org/abs/TBA), *Sci. Bull.* (accepted) arXiv:TBA
+tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
+arXiv:2209.03351
 
 0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
 gravitational dipole radiation and varying gravitational constant from compact
-binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett. B* (accepted),
-arXiv:2208.11913
+binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett. B* 834 (2022)
+137416
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry
