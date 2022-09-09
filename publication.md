@@ -86,15 +86,15 @@ submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
 arXiv:2209.03351
 
-0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
-gravitational dipole radiation and varying gravitational constant from compact
-binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett. B* 834 (2022)
-137416
-
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry
 array](https://link.springer.com/article/10.1007/s11467-022-1191-0),
 *Front. Phys.* 17 (2022) 44601
+
+0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
+gravitational dipole radiation and varying gravitational constant from compact
+binary inspirals](https://arxiv.org/abs/2208.11913), *Phys. Lett. B* 834 (2022)
+137416
 
 0. Z. Wang, C. Liu, J. Zhao, L.  Shao, [Extending the Fisher information matrix
 in gravitational-wave data analysis](https://arxiv.org/abs/2203.02670),
