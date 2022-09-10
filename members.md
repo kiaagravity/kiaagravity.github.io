@@ -261,7 +261,6 @@ evolution of binary black holes <br>
 | 2021—now | **Bingcheng Jin** | **金秉诚** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Wenrui Li** | **李文睿** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—now | **Zixiang Jia** | **郏梓翔** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
@@ -377,6 +376,7 @@ evolution of binary black holes <br>
 
 Comments
 
+| 2022—2022 | **Zixiang Jia** | **郏梓翔** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2022 | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2022—2022 | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
