@@ -164,7 +164,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Dong_Yiming_floor1.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Dong_Yiming_floor1.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
 <big><b>Yiming Dong (董益铭)</b></big><br>
 <i><b>Undergraduate Student (2019-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
