@@ -57,7 +57,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Lyu_Zhenwei_floor1.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-0151-3794) &nbsp; 
 <big><b>Dr. Zhenwei Lyu (吕振伟)</b></big><br>
 <i><b>Boya Postdoctoral Fellow (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -72,7 +72,7 @@ evolution of binary black holes <br>
 <big><b>Dr. Hai-Tian Wang (王海天)</b></big><br>
 <i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
-<b>Email</b>: wanght@pmo.ac.cn<br>
+<b>Email</b>: wanght@pku.edu.cn<br>
 <b>Research Interests</b>: gravitational-wave data analysis<br>
 
 ---
@@ -150,7 +150,7 @@ evolution of binary black holes <br>
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
 <big><b>Peixiang Ji (姬佩祥)</b></big><br>
 <i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
-<b>Email</b>: 1810228@mail.nankai.edu.cn<br>
+<b>Email</b>: 2201110290@stu.pku.edu.cn<br>
 <b>Research Interests</b>: gravitational waves, cosmology<br>
 
 ---
