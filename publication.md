@@ -50,10 +50,6 @@ waves](https://arxiv.org/abs/TBA), submitted
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
 bumblebee gravity model](https://arxiv.org/abs/2207.14423), arXiv:2207.14423
 
-0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
-gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407),
-arXiv:2206.09407
-
 0. M. Liu, C. Liu, Y.-M. Hu, L. Shao, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 arXiv:2205.06991
@@ -81,6 +77,9 @@ nonperturbative regimes](https://arxiv.org/abs/2208.00142), submitted to
 0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
 observational consequences for neutron stars](https://arxiv.org/abs/TBA),
 submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
+
+0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
+gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2206.09407
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
