@@ -20,6 +20,23 @@ theory to Experimental Searches on All Scales*, arXiv:2206.15187
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
+0. Z. Wang, L. Shao, C.  Liu, [New limits on the Lorentz/CPT symmetry through 50
+gravitational-wave events](https://arxiv.org/abs/TBA), in *Proceedings of the
+Ninth Meeting on CPT and Lorentz Symmetry*, in press
+
+0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
+[Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
+gravitational waves](https://arxiv.org/abs/TBA), in *Proceedings of the Ninth
+Meeting on CPT and Lorentz Symmetry*, in press
+
+0. L. Shao, [Gravity tests with radio pulsars in perturbative and
+nonperturbative regimes](https://arxiv.org/abs/2208.00142), in *Proceedings 
+of the Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
+
+0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
+observational consequences for neutron stars](https://arxiv.org/abs/TBA), in *Proceedings 
+of the Ninth Meeting on CPT and Lorentz Symmetry*, in press
+
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
@@ -61,25 +78,9 @@ early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
 birefringence with the gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), arXiv:2109.09718
 
-0. Z. Wang, L. Shao, C.  Liu, [New limits on the Lorentz/CPT symmetry through 50
-gravitational-wave events](https://arxiv.org/abs/TBA), submitted to *Proceedings
-of the Ninth Meeting on CPT and Lorentz Symmetry*
-
-0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
-[Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
-gravitational waves](https://arxiv.org/abs/TBA), submitted to *Proceedings of
-the Ninth Meeting on CPT and Lorentz Symmetry*
-
-0. L. Shao, [Gravity tests with radio pulsars in perturbative and
-nonperturbative regimes](https://arxiv.org/abs/2208.00142), submitted to
-*Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
-
-0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
-observational consequences for neutron stars](https://arxiv.org/abs/TBA),
-submitted to *Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry*
-
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
-gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2206.09407
+gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. 
+Not. R. Astron. Soc.* (accepted), arXiv:2206.09407
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
@@ -123,7 +124,8 @@ perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
 024003
 
 0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
-stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234), *Mon. Not. R. Astron. Soc.* 509 (2022) 2758
+stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234), *Mon. 
+Not. R. Astron. Soc.* 509 (2022) 2758
 
 0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [Cosmology of
 Dirac-Born-Infeld-de Rham-Gabadadze-Tolley massive
@@ -132,7 +134,8 @@ gravity](https://arxiv.org/abs/2205.10863),
 
 0. 	A.R. Akbarieh, S.  Kazempour, L. Shao, [Cosmology and perturbations in
 tachyonic massive
-gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501), *Phys. Rev. D* 105 (2022) 023501
+gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501), *Phys. 
+Rev. D* 105 (2022) 023501
 
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
