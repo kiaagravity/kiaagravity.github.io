@@ -89,7 +89,7 @@ evolution of binary black holes <br>
 
 <img src="{{ site.baseurl }}/assets/Yim_Garvin_floor1.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-8548-9535) &nbsp; 
-<big><b>Dr. Garvin Yim</b></big><br>
+<big><b>Dr. Garvin Yim (嚴家榮)</b></big><br>
 <i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: garvinyim@yahoo.co.uk<br>
@@ -231,7 +231,7 @@ evolution of binary black holes <br>
 | 2022—now | **Zhenwei Lyu** | **吕振伟** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Zhanfeng Mai** | **麦展风** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2022—now | **Garvin Yim** | | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2022—now | **Garvin Yim** | **嚴家榮** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
