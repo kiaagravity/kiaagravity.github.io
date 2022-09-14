@@ -92,7 +92,7 @@ evolution of binary black holes <br>
 <big><b>Dr. Garvin Yim (嚴家榮)</b></big><br>
 <i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
-<b>Email</b>: garvinyim@yahoo.co.uk<br>
+<b>Email</b>: g.yim@pku.edu.cn<br>
 <b>Research Interests</b>: neutron stars, gravitational waves<br>
 
 ---
