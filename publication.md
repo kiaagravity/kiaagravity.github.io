@@ -75,7 +75,7 @@ arXiv:2205.06991
 early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
 
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
-birefringence with the gravitaitonal-wave
+birefringence with the open gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), *Phys. Rev. D* (accepted),
 arXiv:2109.09718
 
