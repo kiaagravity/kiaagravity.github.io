@@ -17,7 +17,8 @@ Yiming, Peixiang, Zhanfeng, Ziming, Yacheng, Zexin, Dicong, Yong, Rui, Chang, Ju
 
 - Yacheng Kang: **More about GRBs**
 
-  Ref: Zhang Bing [[Link](https://www.cambridge.org/core/books/physics-of-gammaray-bursts/6B74CFAD4209686DBCAA17D3A7B6E407)].
+  Ref: The Physics of Gamma-Ray Bursts, author: Bing Zhang
+  [[Link](https://www.cambridge.org/core/books/physics-of-gammaray-bursts/6B74CFAD4209686DBCAA17D3A7B6E407)].
   
        
   
