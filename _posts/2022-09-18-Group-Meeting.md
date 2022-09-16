@@ -7,9 +7,9 @@ categories: activities
 ---
 
 
-## Rehearsals
+## Rehearsal
 
-#### Rui Xu: Postdoc Midterm Defense
+#### Rui Xu: Postdoc midterm defense
 
 ## Literature Reading
 
