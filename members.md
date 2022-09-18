@@ -77,7 +77,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/unknown_male.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Mai_Zhanfeng_floor1.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0003-2724-0226) &nbsp; 
 <big><b>Dr. Zhan-Feng Mai (麦展风)</b></big><br>
 <i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
