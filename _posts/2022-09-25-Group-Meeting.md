@@ -12,7 +12,7 @@ categories: activities
  
 Ref. 1: [[The orthometric parameterisation of the Shapiro delay and an improved test of general relativity with binary pulsars](https://arxiv.org/abs/1007.0933)]
 
-Ref. 2: [[Precision Timing Measurements of PSR J1012+5307](https://arxiv.org/abs/1007.0933)]
+Ref. 2: [[Precision Timing Measurements of PSR J1012+5307](https://arxiv.org/abs/astro-ph/0102309)]
 
 ## Talk
 
