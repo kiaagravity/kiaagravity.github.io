@@ -260,6 +260,9 @@ evolution of binary black holes <br>
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 | 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Yucheng Yin** | **阴煜程** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2022—now | **Huapeng Gu** | **顾华鹏** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
