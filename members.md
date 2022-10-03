@@ -240,9 +240,9 @@ evolution of binary black holes <br>
 | 2021—now | **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Yiming Dong** | **董益铭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Huapeng Gu** | **顾华鹏** | Bachelor Thesis |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
