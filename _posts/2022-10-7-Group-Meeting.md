@@ -17,8 +17,7 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Peixiang, Ziming, Yacheng, Zexin, Di
 
 - Garvin Yim: **Gravitational waves from small spin-up and spin-down events of neutron stars**
 
-  Ref: Garvin Yim and D. I. Jones [[Link](https://arxiv.org/abs/2204.12869)];
-       Garvin Yim and D. I. Jones [[Link](https://arxiv.org/abs/2109.05076)].
+  Ref: Garvin Yim and D. I. Jones [[Link](https://arxiv.org/abs/2204.12869)] and [[Link](https://arxiv.org/abs/2109.05076)].
   
        
   
