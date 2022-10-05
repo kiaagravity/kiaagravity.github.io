@@ -79,10 +79,6 @@ birefringence with the open gravitaitonal-wave
 catalog](https://arxiv.org/abs/2109.09718), *Phys. Rev. D* (accepted),
 arXiv:2109.09718
 
-0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
-gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. 
-Not. R. Astron. Soc.* (accepted), arXiv:2206.09407
-
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
 arXiv:2209.03351
@@ -91,6 +87,10 @@ arXiv:2209.03351
 baseline interferometry
 array](https://link.springer.com/article/10.1007/s11467-022-1191-0),
 *Front. Phys.* 17 (2022) 44601
+
+0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
+gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. 
+Not. R. Astron. Soc.* 516 (2022) 6172
 
 0. Z. Wang, J. Zhao, Z. An, L. Shao, Z. Cao, [Simultaneous bounds on the
 gravitational dipole radiation and varying gravitational constant from compact
