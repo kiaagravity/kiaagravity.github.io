@@ -6,22 +6,24 @@ layout: page
 
 0. 博士后是份工作，属于教职工，不是学生；切记，切记！
 
-0. 博士后的类别很多，而且常常变化，比如某类博后某年不招人之类的，所以一定要善于搜索、善于询问。
+0. 博士后的类别很多，而且常常变化，比如某类博后某年不招人之类的，一定要善于搜索、善于询问。
 
 0. 我们单位的博后类别大致如下（不全，可能有遗漏）：
-    0. <font color="blue"><b>Boya Fellow</b></font>：主要由**学校**资助，导师可以有配套；需要提前准备好申请材料，跟导师商量好课题以及入职时间等信息；最终是否入选由**学校**决定。一般是一年招两次，招聘广告由学校发布，需关注[学校的博后网页](https://postdocs.pku.edu.cn/)。
-	0. <font color="blue"><b>KIAA Fellow</b></font>：由 K 所资助，有合作导师，但做研究可以相对较为独立。K 所一年招一次，由**博士后委员会**统一发布[广告](http://kiaa.pku.edu.cn/Job_Opportunities/Postdoc_Positions.htm)、面试、招聘等；最终入选名单也由**博士后委员会**决定。一般是11月底前提交申请，1月初面试。
-	0. <font color="blue"><b>KIAA-SHAO Fellow</b></font>：与上海天文台的合作博后，一般是北大2年，上海天文台2年；除此之外，性质与 **KIAA Fellow** 比较类似。
-	0. <font color="blue"><b>Kavli Astrophysics Fellow</b></font>：与日本的 IPMU 的合作项目，一般是北大2年，IPMU 2年；这类博后名额很少，一般是每2年1个名额，待遇很好。
-	0. <font color="blue"><b>博新（Boxin Fellow）</b></font>等项目：我不是特别清楚，好像是**博管会**资助，在 KIAA 也有合作导师，性质与 **KIAA Fellow** 类似吧！
-	0. <font color="blue"><b>FAST Fellow、CSST Fellow、PKING Fellow</b></font>等：项目博后，需要为相关项目服务。
+    0. <font color="blue"><b>Boya Fellow</b></font>：主要由**学校**资助，导师可以有配套；需要提前准备好申请材料，跟导师商量好课题以及入职时间等信息；最终是否入选由**学校**决定。一般是一年招两次，招聘广告由**学校**发布，需关注[学校的博后网页](https://postdocs.pku.edu.cn/)。
+	  0. <font color="blue"><b>KIAA Fellow</b></font>：由 K 所资助，有合作导师，但做研究可以相对较为独立。K 所一年招一次，由**博士后委员会**统一发布[广告](http://kiaa.pku.edu.cn/Job_Opportunities/Postdoc_Positions.htm)、面试、招聘等；最终入选名单也由**博士后委员会**决定。一般是11月底前提交申请，1月初面试。
+	  0. <font color="blue"><b>KIAA-SHAO Fellow</b></font>：与上海天文台的合作博后，一般是北大2年，上海天文台2年；除此之外，性质与 **KIAA Fellow** 比较类似。
+	  0. <font color="blue"><b>Kavli Astrophysics Fellow</b></font>：与日本的 IPMU 的合作项目，一般是北大2年，IPMU 2年；这类博后名额很少，一般是每2年1个名额，待遇较好。
+	  0. <font color="blue"><b>博新（Boxin Fellow）</b></font>等项目：我不是特别清楚，好像是**博管会**资助，在 KIAA 也有合作导师，性质与 **KIAA Fellow** 类似吧！
+	  0. <font color="blue"><b>FAST Fellow、CSST Fellow、PKING Fellow</b></font>等：项目博后，需要为相关项目服务。
     0. <font color="blue"><b>KIAA Postdoc、DOA Postdoc</b></font>：由导师出资，科研需要做与导师协商好的课题；招聘需要通过**博士后委员会**的同意。
 
-0. **Fellow** 一般会比博后难申请些，需要有更强的科研能力与独立性的支撑。
+0. **Fellow** 一般会比**博后（Postdoc）**难申请些，需要有更强的科研能力与独立性的支撑。
 
-0. 作为博后，一般应该争取**Fellowship**，彰显其独立性的逐渐养成；作为导师，基于显而易见的原因，自然也更愿意招**Fellow**。
+0. 作为博后，一般应该争取 **Fellowship**，彰显其独立性的逐渐养成；作为导师，基于显而易见的原因，自然也更愿意招 **Fellow**。
 
 0. 博士后，作为**长期的学生生涯**结束后的起点，是非常重要的人生旅程，需要很严肃的对待与努力；当然，更重要的是从**学生**的思维逐渐转变为**青年科学家**的思维，需要有更多的担当。
+
+>> <font color="red"><b>加油吧，少年！</b></font>
 
 <!---------------------------------------------------------------->
 
