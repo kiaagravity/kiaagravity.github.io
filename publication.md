@@ -74,11 +74,6 @@ arXiv:2205.06991
 0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
 early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
 
-0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
-birefringence with the open gravitaitonal-wave
-catalog](https://arxiv.org/abs/2109.09718), *Phys. Rev. D* (accepted),
-arXiv:2109.09718
-
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
 arXiv:2209.03351
@@ -127,6 +122,10 @@ perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
 0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
 stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234), *Mon. 
 Not. R. Astron. Soc.* 509 (2022) 2758
+
+0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
+birefringence with the open gravitaitonal-wave
+catalog](https://arxiv.org/abs/2109.09718), *Phys. Rev. D* 106 (2022) 084005
 
 0. S. Kazempour, A.R. Akbarieh, H.  Motavalli, L. Shao, [Cosmology of
 Dirac-Born-Infeld-de Rham-Gabadadze-Tolley massive
