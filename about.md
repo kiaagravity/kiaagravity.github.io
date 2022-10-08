@@ -47,7 +47,9 @@ welcome.
 We would also like to hire **postdoctoral researchers**. If you are interested
 in gravitational physics or searching for new physics from astrophysical
 observations, please send your CV and we will help you in getting a position
-when available. Please contact [Dr. Lijing Shao](https://friendshao.github.io/)!
+when available. Please read [this
+article](https://kiaagravity.github.io/assets/postdoc) and contact [Dr. Lijing
+Shao](https://friendshao.github.io/)!
 
 <figure>                                                                        
 <img src="/assets/group_meeting_Jun5_2022_small.png" style="width:100%">                 
