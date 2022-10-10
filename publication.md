@@ -150,6 +150,8 @@ Testing general relativity with pulsars orbiting Sagittarius
 A$^\ast$](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_0278),
 in *Proceedings of the Fifteenth Marcel Grossmann Meeting* (World Scientific,
 Singapore, 2022), p. 1866
+
+0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA), 《中国科学》, submitted
 {: reversed="reversed"}
 
 ##### Other Papers
