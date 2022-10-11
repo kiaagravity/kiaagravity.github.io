@@ -52,7 +52,7 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 ##### Short-author-list Papers
 
-0. L. Haegel, K. O'Neal-Ault, Q. Bailey, J.D. Tasson, M. Bloom, L. Shao,
+0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
 arXiv:2210.04481
@@ -161,10 +161,6 @@ Singapore, 2022), p. 1866
 
 ##### Other Papers
 
-0. R. Abbott, *et al.*, [Model-based cross-correlation search for gravitational
-waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3
-data](https://arxiv.org/abs/2209.02863), arXiv:2209.02863
-
 0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
 component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
 
@@ -190,6 +186,11 @@ arXiv:2111.03634
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Model-based cross-correlation search for gravitational
+waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3
+data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
+Lett.*  (accepted), arXiv:2209.02863
 
 0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
