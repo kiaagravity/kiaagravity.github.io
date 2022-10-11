@@ -52,6 +52,11 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 ##### Short-author-list Papers
 
+0. L. Haegel, K. O'Neal-Ault, Q. Bailey, J.D. Tasson, M. Bloom, L. Shao,
+[Search for anisotropic, birefringent spacetime-symmetry breaking in
+gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
+arXiv:2210.04481
+
 0. R. Xu, D. Liang, L.  Shao, [Static spherical vacuum solutions in the
 bumblebee gravity model](https://arxiv.org/abs/2209.02209), arXiv:2209.02209 
 
@@ -151,7 +156,7 @@ A$^\ast$](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_027
 in *Proceedings of the Fifteenth Marcel Grossmann Meeting* (World Scientific,
 Singapore, 2022), p. 1866
 
-0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA), 《中国科学》, submitted
+0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA), *《中国科学：物理学 力学 天文学》*, submitted
 {: reversed="reversed"}
 
 ##### Other Papers
