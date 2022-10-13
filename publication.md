@@ -161,6 +161,9 @@ Singapore, 2022), p. 1866
 
 ##### Other Papers
 
+0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
+O3GK](https://arxiv.org/abs/2210.05934), arXiv:2210.05934
+
 0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
 component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
 
