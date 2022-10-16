@@ -80,8 +80,7 @@ arXiv:2205.06991
 early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
-tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* (accepted),
-arXiv:2209.03351
+tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
 
 0. L. Shao, [Imaging supermassive black hole shadows with a global very long
 baseline interferometry
