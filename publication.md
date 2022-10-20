@@ -52,6 +52,13 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 ##### Short-author-list Papers
 
+0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
+Telescope observations](https://arxiv.org/abs/TBA), submitted
+
+0. Y. Dong, L. Shao, Z. Hu, X. Miao, Z. Wang, [Prospects for constraining the
+Yukawa gravity with pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/TBA), arXiv:TBA
+
 0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
