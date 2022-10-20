@@ -57,7 +57,11 @@ Telescope observations](https://arxiv.org/abs/TBA), submitted
 
 0. Y. Dong, L. Shao, Z. Hu, X. Miao, Z. Wang, [Prospects for constraining the
 Yukawa gravity with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/TBA), arXiv:TBA
+A$^\ast$](https://arxiv.org/abs/TBA), submitted
+
+0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
+magnetars: dynamical evolutions and modulations on polarized electromagnetic
+waves](https://arxiv.org/abs/TBA), submitted
 
 0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
