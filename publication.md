@@ -12,46 +12,6 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
-0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
-tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
-theory to Experimental Searches on All Scales*, arXiv:2206.15187
-
-0. L. Shao, [Testing relativistic gravity with radio timing of neutron
-stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
-press
-
-0. Z. Wang, L. Shao, C.  Liu, [New limits on the Lorentz/CPT symmetry through 50
-gravitational-wave events](https://arxiv.org/abs/TBA), in *Proceedings of the
-Ninth Meeting on CPT and Lorentz Symmetry*, in press
-
-0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
-[Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
-gravitational waves](https://arxiv.org/abs/TBA), in *Proceedings of the Ninth
-Meeting on CPT and Lorentz Symmetry*, in press
-
-0. L. Shao, [Gravity tests with radio pulsars in perturbative and
-nonperturbative regimes](https://arxiv.org/abs/2208.00142), in *Proceedings 
-of the Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
-
-0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
-observational consequences for neutron stars](https://arxiv.org/abs/TBA), in *Proceedings 
-of the Ninth Meeting on CPT and Lorentz Symmetry*, in press
-
-0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
-Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
-Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
-first workshop on Gravitational Wave Astrophysics for Early Career
-Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
-
-0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
-{: reversed="reversed"}
-
----
-
-### 2022
-
-##### Short-author-list Papers
-
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/TBA), submitted
 
@@ -89,6 +49,100 @@ arXiv:2205.06991
 
 0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
 early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
+
+0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
+tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
+theory to Experimental Searches on All Scales*, arXiv:2206.15187
+
+0. L. Shao, [Testing relativistic gravity with radio timing of neutron
+stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
+press
+
+0. Z. Wang, L. Shao, C.  Liu, [New limits on the Lorentz/CPT symmetry through 50
+gravitational-wave events](https://arxiv.org/abs/TBA), in *Proceedings of the
+Ninth Meeting on CPT and Lorentz Symmetry*, in press
+
+0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
+[Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
+gravitational waves](https://arxiv.org/abs/TBA), in *Proceedings of the Ninth
+Meeting on CPT and Lorentz Symmetry*, in press
+
+0. L. Shao, [Gravity tests with radio pulsars in perturbative and
+nonperturbative regimes](https://arxiv.org/abs/2208.00142), in *Proceedings 
+of the Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
+
+0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
+observational consequences for neutron stars](https://arxiv.org/abs/TBA), in *Proceedings 
+of the Ninth Meeting on CPT and Lorentz Symmetry*, in press
+
+0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
+Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
+Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
+first workshop on Gravitational Wave Astrophysics for Early Career
+Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
+
+0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA), *《中国科学：物理学 力学 天文学》*, submitted
+
+0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
+{: reversed="reversed"}
+
+##### Other Papers
+
+0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
+with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
+observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
+O3GK](https://arxiv.org/abs/2210.05934), arXiv:2210.05934
+
+0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
+component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
+
+0. R. Abbott, *et al.*, [Search for gravitational waves associated with fast
+radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
+O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
+
+0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
+isolated neutron stars using Advanced LIGO and Advanced Virgo O3
+data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
+
+0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
+and Virgo during the second part of the third observing
+run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
+
+0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
+using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634),
+arXiv:2111.03634
+
+0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
+gravitational wave observatory: the science
+book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
+Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
+
+0. R. Abbott, *et al.*, [Model-based cross-correlation search for gravitational
+waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3
+data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
+Lett.*  (accepted), arXiv:2209.02863
+
+0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
+observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
+Theor. Exp. Phys.* (accepted), arXiv:2203.07011
+
+0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
+GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
+
+0. R. Abbott, *et al.*, [Tests of general relativity with
+GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
+arXiv:2112.06861
+{: reversed="reversed"}
+
+---
+
+### 2022
+
+##### Short-author-list Papers
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
@@ -165,60 +219,9 @@ Testing general relativity with pulsars orbiting Sagittarius
 A$^\ast$](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_0278),
 in *Proceedings of the Fifteenth Marcel Grossmann Meeting* (World Scientific,
 Singapore, 2022), p. 1866
-
-0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA), *《中国科学：物理学 力学 天文学》*, submitted
 {: reversed="reversed"}
 
 ##### Other Papers
-
-0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
-with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
-observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
-
-0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
-O3GK](https://arxiv.org/abs/2210.05934), arXiv:2210.05934
-
-0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
-component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
-
-0. R. Abbott, *et al.*, [Search for gravitational waves associated with fast
-radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
-O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
-
-0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
-isolated neutron stars using Advanced LIGO and Advanced Virgo O3
-data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
-
-0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
-and Virgo during the second part of the third observing
-run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
-
-0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
-using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634),
-arXiv:2111.03634
-
-0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
-gravitational wave observatory: the science
-book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
-
-0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
-Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
-
-0. R. Abbott, *et al.*, [Model-based cross-correlation search for gravitational
-waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3
-data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
-Lett.*  (accepted), arXiv:2209.02863
-
-0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
-observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
-Theor. Exp. Phys.* (accepted), arXiv:2203.07011
-
-0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
-GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
-
-0. R. Abbott, *et al.*, [Tests of general relativity with
-GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
-arXiv:2112.06861
 
 0. A.E. Broderick, *et al.*, [The photon ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
 
