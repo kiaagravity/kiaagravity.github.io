@@ -21,3 +21,6 @@ Ref. 2: [[Evidence for Geodetic Spin Precession in the Binary Pulsar PSR 1913+16
 Ref. 1: [[Testing Equivalence Principle with Pulsar Timing](https://iopscience.iop.org/article/10.1088/0264-9381/33/3/035012)]
 
 
+## Rehearsal
+
+#### Ziming Wang, Yiming Dong, Haoyang Qi and Zhejian Zhang: Undergraduate Research Rehearsals
