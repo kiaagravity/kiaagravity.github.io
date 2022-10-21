@@ -23,4 +23,4 @@ Ref. 1: [[Testing Equivalence Principle with Pulsar Timing](https://iopscience.i
 
 ## Rehearsal
 
-#### Ziming Wang, Yiming Dong, Haoyang Qi and Zhejian Zhang: Undergraduate Research Rehearsals
+#### Ziming Wang, Yiming Dong, Haoyang Qi and Zhejian Zhang: Rehearsals for Undergraduate Research Report
