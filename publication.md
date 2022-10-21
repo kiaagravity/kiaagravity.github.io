@@ -171,6 +171,10 @@ Singapore, 2022), p. 1866
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
+with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
+observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
 0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
 O3GK](https://arxiv.org/abs/2210.05934), arXiv:2210.05934
 
