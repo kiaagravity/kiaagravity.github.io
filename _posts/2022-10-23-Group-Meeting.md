@@ -16,7 +16,7 @@ Ref. 2: [[Evidence for Geodetic Spin Precession in the Binary Pulsar PSR 1913+16
 
 ## Undergraduate Research
 
-#### Zhejian Zhang: Constraining UltraLight Dark Matter (ULDM) With Pulsar Timing
+#### Zhejian Zhang: Testing Equivalence Principle with Pulsar Timing
 
 Ref. 1: [[Testing Equivalence Principle with Pulsar Timing](https://iopscience.iop.org/article/10.1088/0264-9381/33/3/035012)]
 
