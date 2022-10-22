@@ -231,7 +231,7 @@ evolution of binary black holes <br>
 | 2022—now | **Zhenwei Lyu** | **吕振伟** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Zhanfeng Mai** | **麦展风** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2022—now | **Garvin Yim** | **嚴家榮** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2022—now | **Garvin Yim** | **嚴家榮** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
