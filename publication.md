@@ -102,10 +102,6 @@ component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
 radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
 O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
 
-0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
-isolated neutron stars using Advanced LIGO and Advanced Virgo O3
-data](https://arxiv.org/abs/2201.00697), arXiv:2201.00697
-
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
@@ -117,6 +113,10 @@ arXiv:2111.03634
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
+isolated neutron stars using Advanced LIGO and Advanced Virgo O3
+data](https://arxiv.org/abs/2201.00697), *Phys. Rev. D* (accepted), arXiv:2201.00697
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
