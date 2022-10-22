@@ -238,11 +238,10 @@ evolution of binary black holes <br>
 | 2018—now | **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Ziming Wang** | **王子铭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Yiming Dong** | **董益铭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Zhejian Zhang** | **张喆戬** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Ziming Wang** | **王子铭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Yiming Dong** | **董益铭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Huapeng Gu** | **顾华鹏** | Bachelor Thesis |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2021—now | **Zhejian Zhang** | **张喆戬** | Joint Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
@@ -258,6 +257,7 @@ evolution of binary black holes <br>
 | 2018—now | **Xueli Miao** | **缪雪丽** | FAST Fellow | [NAOC](http://www.bao.ac.cn/) | 
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 | 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -282,6 +282,22 @@ evolution of binary black holes <br>
 </small>
 
 ## Former Members
+
+- 2020—now, **Ziming Wang** (**王子铭**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Testing Spacetime Symmetries with Gravitational Waves* (2022)
+
+- 2021—now, **Yiming Dong** (**董益铭**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)
+
+- 2021—now, **Zhejian Zhang** (**张喆戬**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Testing Equivalence Principle with Pulsar Timing* (2022)
+
+- 2021—now, **Haoyang Qi** (**祁昊洋**), School of Physics, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Constraining Ultralight Dark Matters with Pulsar Timing* (2022)
 
 - 2021—now, **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
