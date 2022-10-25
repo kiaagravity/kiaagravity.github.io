@@ -48,7 +48,8 @@ decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 arXiv:2205.06991
 
 0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
-early universe](https://arxiv.org/abs/2204.03309), arXiv:2204.03309
+early universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* (accepted),
+arXiv:2204.03309
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
