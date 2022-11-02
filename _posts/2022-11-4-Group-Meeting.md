@@ -15,7 +15,7 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Peixiang, Ziming, Yacheng, Zexin, Di
 
 ### Agenda
 
-- Hongbo Li: **$g$ mode of neutron star**
+- Hongbo Li: **Neutron star oscillations in pseudo-Newtonian gravity**
 
   Ref: Yat-To Tang and Lap-Ming Lin [[Link](https://academic.oup.com/mnras/article/510/3/3629/6470651?login=true)].
        
