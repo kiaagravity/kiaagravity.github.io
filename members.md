@@ -62,7 +62,7 @@ evolution of binary black holes <br>
 <big><b>Dr. Zhenwei Lyu (吕振伟)</b></big><br>
 <i><b>Boya Postdoctoral Fellow (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
-<b>Email</b>: zlyu@uoguelph.ca<br>
+<b>Email</b>: zwlyu@pku.edu.cn<br>
 <b>Research Interests</b>: gravitational waves<br>
 
 ---
@@ -132,7 +132,7 @@ evolution of binary black holes <br>
 <big><b>Yacheng Kang (康亚城)</b></big><br>
 <i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
-<b>Email</b>: 1800011623@pku.edu.cn<br>
+<b>Email</b>: yckang@stu.pku.edu.cn<br>
 <b>Research Interests</b>: gravitational waves, exoplanets, multi-messenger astronomy <br>
 
 ---
