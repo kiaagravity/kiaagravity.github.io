@@ -133,7 +133,7 @@ evolution of binary black holes <br>
 <i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: yckang@stu.pku.edu.cn<br>
-<b>Research Interests</b>: gravitational waves, exoplanets, multi-messenger astronomy <br>
+<b>Research Interests</b>: gravitational waves, exoplanets, multi-messenger astronomy, white dwarfs <br>
 
 ---
 
