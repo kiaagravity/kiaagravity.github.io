@@ -37,9 +37,6 @@ star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469), arXiv:2110.10469
 
-0. D. Liang, R. Xu, X. Lu, L. Shao, [Bumblebee
-waves](https://arxiv.org/abs/TBA), submitted
-
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
 bumblebee gravity model](https://arxiv.org/abs/2207.14423), arXiv:2207.14423
 
