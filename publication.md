@@ -45,7 +45,7 @@ bumblebee gravity model](https://arxiv.org/abs/2207.14423), arXiv:2207.14423
 
 0. M. Liu, C. Liu, Y.-M. Hu, L. Shao, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
-arXiv:2205.06991
+*Phys. Dark Univ.* (accepted), arXiv:2205.06991
 
 0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
 early universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* (accepted),

@@ -97,7 +97,8 @@ A$^\ast$](https://arxiv.org/abs/2210.16130), arXiv:2210.16130
 
 0. **M. Liu (刘牧鑫)**, C. Liu, Y.-M. Hu, L. Shao, **Y. Kang (康亚城)**, [Dark-siren
 cosmology with decihertz gravitational-wave
-detectors](https://arxiv.org/abs/2205.06991), arXiv:2205.06991
+detectors](https://arxiv.org/abs/2205.06991), *Phys. Dark Univ.* (accepted),
+arXiv:2205.06991
 
 0. **Z. Wang (王子铭)**, J. Zhao, **Z. An (安子訸)**, L. Shao, Z. Cao, [Simultaneous
 bounds on the gravitational dipole radiation and varying gravitational constant
