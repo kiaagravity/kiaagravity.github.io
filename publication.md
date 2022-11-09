@@ -44,10 +44,6 @@ bumblebee gravity model](https://arxiv.org/abs/2207.14423), arXiv:2207.14423
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 *Phys. Dark Univ.* (accepted), arXiv:2205.06991
 
-0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
-early universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* (accepted),
-arXiv:2204.03309
-
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, arXiv:2206.15187
@@ -189,6 +185,9 @@ perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
 0. Y. Gao, X.-Y. Lai, L. Shao, R.-X. Xu, [Rotation and deformation of strangeon
 stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234), *Mon. 
 Not. R. Astron. Soc.* 509 (2022) 2758
+
+0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
+early universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* 106 (2022) 103504
 
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the open gravitaitonal-wave
