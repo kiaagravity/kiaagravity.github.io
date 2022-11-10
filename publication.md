@@ -186,7 +186,7 @@ perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
 stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234), *Mon. 
 Not. R. Astron. Soc.* 509 (2022) 2758
 
-0. Z. Wang, L. Shao, [Dark radiation as a probe for phase transition in the
+0. Z. Wang, L. Shao, [Dark radiation as a probe for a phase transition in the
 early universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* 106 (2022) 103504
 
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave

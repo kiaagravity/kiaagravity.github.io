@@ -258,7 +258,6 @@ evolution of binary black holes <br>
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Hanlin Song** | **宋翰林** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| 2021—now | **Haoyang Qi** | **祁昊洋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 | 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -292,14 +291,6 @@ evolution of binary black holes <br>
 - 2021—now, **Yiming Dong** (**董益铭**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)
-
-- 2021—now, **Zhejian Zhang** (**张喆戬**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Testing Equivalence Principle with Pulsar Timing* (2022)
-
-- 2021—now, **Haoyang Qi** (**祁昊洋**), School of Physics, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Constraining Ultralight Dark Matters with Pulsar Timing* (2022)
 
 - 2021—now, **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
@@ -335,6 +326,14 @@ evolution of binary black holes <br>
 - 2019—now, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
+
+- 2021—2022, **Zhejian Zhang** (**张喆戬**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Testing Equivalence Principle with Pulsar Timing* (2022)
+
+- 2021—2022, **Haoyang Qi** (**祁昊洋**), School of Physics, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Constraining Ultralight Dark Matters with Pulsar Timing* (2022)
 
 - 2020—2022, **Sobhan Kazempour**, Faculty of Physics, Tabriz University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
@@ -397,6 +396,7 @@ evolution of binary black holes <br>
 
 Comments
 
+| 2021—2022 | **Haoyang Qi** | **祁昊洋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—2022 | **Zhejian Zhang** | **张喆戬** | Joint Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—2022 | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—2022 | **Wenrui Li** | **李文睿** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
