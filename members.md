@@ -243,6 +243,7 @@ evolution of binary black holes <br>
 | 2022—now | **Huapeng Gu** | **顾华鹏** | Bachelor Thesis |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
@@ -264,7 +265,6 @@ evolution of binary black holes <br>
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yucheng Yin** | **阴煜程** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
