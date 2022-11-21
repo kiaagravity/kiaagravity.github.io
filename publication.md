@@ -40,10 +40,6 @@ bumblebee gravity model](https://arxiv.org/abs/2207.14423), arXiv:2207.14423
 Yukawa gravity with pulsars around Sagittarius
 A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2210.16130
 
-0. M. Liu, C. Liu, Y.-M. Hu, L. Shao, Y. Kang, [Dark-siren cosmology with
-decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
-*Phys. Dark Univ.* (accepted), arXiv:2205.06991
-
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, arXiv:2206.15187
@@ -188,6 +184,10 @@ Not. R. Astron. Soc.* 509 (2022) 2758
 
 0. Z. Wang, L. Shao, [Dark radiation as a probe for a phase transition in the
 early universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* 106 (2022) 103504
+
+0. M. Liu, C. Liu, Y.-M. Hu, L. Shao, Y. Kang, [Dark-siren cosmology with
+decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
+*Phys. Dark Univ.* 38 (2022) 101136
 
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the open gravitaitonal-wave
