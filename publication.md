@@ -28,7 +28,8 @@ arXiv:2210.04481
 bumblebee gravity model](https://arxiv.org/abs/2209.02209), arXiv:2209.02209 
 
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
-bumblebee gravity model](https://arxiv.org/abs/2207.14423), arXiv:2207.14423
+bumblebee gravity model](https://arxiv.org/abs/2207.14423), *Phys. Rev. D*
+(accepted), arXiv:2207.14423
 
 0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
 Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
@@ -70,6 +71,8 @@ Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
+
+0. 梁迪聪, 邵立晶 [摘译], [Rainer Weiss：引力波探测的50年](TBA), 《物理》, submitted
 
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA), *《中国科学：物理学 力学 天文学》*, submitted
 
