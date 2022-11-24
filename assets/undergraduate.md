@@ -93,7 +93,7 @@ layout: page
 
 0. **Y. Dong (董益铭)**, L. Shao, **Z. Hu (胡泽昕)**, X. Miao, **Z. Wang (王子铭)**,
 [Prospects for constraining the fifth force with pulsars around Sgr
-A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2210.16130
+A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* 11 (2022) 051
 
 0. **M. Liu (刘牧鑫)**, C. Liu, Y.-M. Hu, L. Shao, **Y. Kang (康亚城)**, [Dark-siren
 cosmology with decihertz gravitational-wave

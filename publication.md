@@ -37,10 +37,6 @@ star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469), *Astrophys. J.* (accepted), arXiv:2110.10469
 
-0. Y. Dong, L. Shao, Z. Hu, X. Miao, Z. Wang, [Prospects for constraining the
-Yukawa gravity with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2210.16130
-
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, arXiv:2206.15187
@@ -144,6 +140,10 @@ tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
 baseline interferometry
 array](https://link.springer.com/article/10.1007/s11467-022-1191-0),
 *Front. Phys.* 17 (2022) 44601
+
+0. Y. Dong, L. Shao, Z. Hu, X. Miao, Z. Wang, [Prospects for constraining the
+Yukawa gravity with pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* 11 (2022) 051
 
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, R. Xu, [Oscillation modes and
 gravitational waves from strangeon stars](https://arxiv.org/abs/2206.09407), *Mon. 
