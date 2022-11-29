@@ -103,10 +103,6 @@ arXiv:2111.03634
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
-0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
-isolated neutron stars using Advanced LIGO and Advanced Virgo O3
-data](https://arxiv.org/abs/2201.00697), *Phys. Rev. D* (accepted), arXiv:2201.00697
-
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
 
@@ -227,6 +223,10 @@ Singapore, 2022), p. 1866
 
 0. K.G. Arun, *et al.*, [New horizons for fundamental physics with
 LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* 25 (2022) 4
+
+0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
+isolated neutron stars using Advanced LIGO and Advanced Virgo O3
+data](https://arxiv.org/abs/2201.00697), *Phys. Rev. D* 106 (2022) 102008 
 
 0. R. Abbott, *et al.*, [Search for gravitational waves from Scorpius X-1 with a
 hidden Markov model in O3 LIGO data](https://arxiv.org/abs/2201.10104), *Phys. Rev. D* 106 (2022) 062002 
