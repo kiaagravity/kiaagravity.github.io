@@ -15,10 +15,6 @@ permalink: /publication/
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/TBA), submitted
 
-0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
-magnetars: dynamical evolutions and modulations on polarized electromagnetic
-waves](https://arxiv.org/abs/TBA), submitted
-
 0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
@@ -26,6 +22,10 @@ arXiv:2210.04481
 
 0. R. Xu, D. Liang, L.  Shao, [Static spherical vacuum solutions in the
 bumblebee gravity model](https://arxiv.org/abs/2209.02209), arXiv:2209.02209 
+
+0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
+magnetars: dynamical evolutions and modulations on polarized electromagnetic
+waves](https://arxiv.org/abs/2211.17087), *Mon. Not.  R. Astron. Soc.* (accepted), arXiv:2211.17087
 
 0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
 bumblebee gravity model](https://arxiv.org/abs/2207.14423), *Phys. Rev. D*
