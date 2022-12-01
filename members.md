@@ -244,7 +244,7 @@ evolution of binary black holes <br>
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
