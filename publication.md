@@ -81,9 +81,6 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
-O3GK](https://arxiv.org/abs/2210.05934), arXiv:2210.05934
-
 0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
 component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
 
@@ -110,6 +107,10 @@ Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), a
 waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3
 data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
 Lett.*  (accepted), arXiv:2209.02863
+
+0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
+O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp. Phys.* (accepted),
+arXiv:2210.05934
 
 0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
