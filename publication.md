@@ -68,8 +68,6 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
-0. 梁迪聪, 邵立晶 [摘译], [Rainer Weiss：引力波探测的50年](TBA), 《物理》, submitted
-
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](TBA), *《中国科学：物理学 力学 天文学》*, submitted
 
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
@@ -216,6 +214,8 @@ Testing general relativity with pulsars orbiting Sagittarius
 A$^\ast$](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_0278),
 in *Proceedings of the Fifteenth Marcel Grossmann Meeting* (World Scientific,
 Singapore, 2022), p. 1866
+
+0. 梁迪聪, 邵立晶 [摘译], [Rainer Weiss: 引力波探测的50年](TBA), *《物理》* 51 (2022) 853
 {: reversed="reversed"}
 
 ##### Other Papers
