@@ -75,6 +75,10 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 ##### Other Papers
 
+0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
+second part of Advanced LIGO's and Advanced Virgo's third observing
+run](https://arxiv.org/abs/2212.01477), arXiv:2212.01477
+
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
