@@ -17,7 +17,7 @@ Ref. 1: [[Stability analysis of a charged black hole with a nonlinear complex sc
 ## Rehearsal
 
 
-#### Hongbo Li: Constraints on the equation of state of neutron stars induced by Gravitational wave asteroseismology
+#### Hongbo Li: Constraints on the equation of state of neutron stars induced by gravitational wave asteroseismology
 
 
 #### Yong Gao: Probing neutron star structures with gravitational dynamics
