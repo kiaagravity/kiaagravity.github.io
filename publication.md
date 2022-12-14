@@ -27,10 +27,6 @@ bumblebee gravity model](https://arxiv.org/abs/2209.02209), arXiv:2209.02209
 magnetars: dynamical evolutions and modulations on polarized electromagnetic
 waves](https://arxiv.org/abs/2211.17087), *Mon. Not.  R. Astron. Soc.* (accepted), arXiv:2211.17087
 
-0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
-bumblebee gravity model](https://arxiv.org/abs/2207.14423), *Phys. Rev. D*
-(accepted), arXiv:2207.14423
-
 0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
 Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
 star mergers. II. Optimal search strategy for serendipitous observations and
@@ -139,6 +135,10 @@ tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
 baseline interferometry
 array](https://link.springer.com/article/10.1007/s11467-022-1191-0),
 *Front. Phys.* 17 (2022) 44601
+
+0. D. Liang, R. Xu, X. Lu, L. Shao, [Polarizations of gravitational waves in the
+bumblebee gravity model](https://arxiv.org/abs/2207.14423), *Phys. Rev. D* 106
+(2022) 124019
 
 0. Y. Dong, L. Shao, Z. Hu, X. Miao, Z. Wang, [Prospects for constraining the
 Yukawa gravity with pulsars around Sagittarius
