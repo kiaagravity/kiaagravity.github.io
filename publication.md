@@ -184,12 +184,12 @@ perturbations](https://arxiv.org/abs/2111.06561), *Phys. Rev. D* 105 (2022)
 stars in the Lennard-Jones model](https://arxiv.org/abs/2109.13234), *Mon. 
 Not. R. Astron. Soc.* 509 (2022) 2758
 
-0. Z. Wang, L. Shao, [Dark radiation as a probe for a phase transition in the
-early universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* 106 (2022) 103504
-
 0. M. Liu, C. Liu, Y.-M. Hu, L. Shao, Y. Kang, [Dark-siren cosmology with
 decihertz gravitational-wave detectors](https://arxiv.org/abs/2205.06991),
 *Phys. Dark Univ.* 38 (2022) 101136
+
+0. Z. Wang, L. Shao, [Dark radiation as a probe for a phase transition in the
+early universe](https://arxiv.org/abs/2204.03309), *Phys. Rev. D* 106 (2022) 103504
 
 0. Y.-F. Wang, S.M. Brown, L. Shao, W. Zhao, [Tests of gravitaitonal-wave
 birefringence with the open gravitaitonal-wave
@@ -204,6 +204,10 @@ gravity](https://arxiv.org/abs/2205.10863),
 tachyonic massive
 gravity](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.023501), *Phys. 
 Rev. D* 105 (2022) 023501
+
+0. J.-B. Bayle, B. Bonga, C. Caprini, D. Doneva, M. Muratore, A. Petiteau, E.
+Rossi, L. Shao, [Overview and progress on the Laser Interferometer Space Antenna
+mission](https://doi.org/10.1038/s41550-022-01847-0), *Nat. Astron.* 6 (2022) 1334
 
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
