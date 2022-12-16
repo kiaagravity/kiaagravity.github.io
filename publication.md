@@ -223,7 +223,7 @@ A$^\ast$](https://www.worldscientific.com/doi/abstract/10.1142/9789811258251_027
 in *Proceedings of the Fifteenth Marcel Grossmann Meeting* (World Scientific,
 Singapore, 2022), p. 1866
 
-0. 梁迪聪, 邵立晶 [摘译], [Rainer Weiss: 引力波探测的50年](TBA), *《物理》* 51 (2022) 853
+0. 梁迪聪, 邵立晶 [摘译], [Rainer Weiss: 引力波探测的50年](http://www.wuli.ac.cn/cn/article/id/5d047897-319b-4a29-96e7-9d0c74dfb340), *《物理》* 51 (2022) 853
 {: reversed="reversed"}
 
 ##### Other Papers
