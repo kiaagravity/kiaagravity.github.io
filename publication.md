@@ -21,7 +21,7 @@ gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
 arXiv:2210.04481
 
 0. R. Xu, D. Liang, L.  Shao, [Static spherical vacuum solutions in the
-bumblebee gravity model](https://arxiv.org/abs/2209.02209), arXiv:2209.02209 
+bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* (accepted), arXiv:2209.02209 
 
 0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
 magnetars: dynamical evolutions and modulations on polarized electromagnetic
