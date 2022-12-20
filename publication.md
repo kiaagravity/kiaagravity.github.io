@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. D. Liang, R. Xu, Z.-F. Mai, L.  Shao, [Probing vector hair of black holes
+with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346),
+arXiv:2212.09346
+
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/TBA), submitted
 
@@ -90,13 +94,12 @@ O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 
-0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
-using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634),
-arXiv:2111.03634
-
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
+using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted), arXiv:2111.03634
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
