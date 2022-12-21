@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discussion on Research Topics 12/23/2022"
-date:   2022-12-9
+date:   2022-12-23
 author: Hongbo Li
 categories: activities
 ---
