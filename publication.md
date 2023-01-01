@@ -104,11 +104,6 @@ using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Ph
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
 
-0. R. Abbott, *et al.*, [Model-based cross-correlation search for gravitational
-waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3
-data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
-Lett.*  (accepted), arXiv:2209.02863
-
 0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
 O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp. Phys.* (accepted),
 arXiv:2210.05934
@@ -235,6 +230,11 @@ Singapore, 2022), p. 1866
 
 0. K.G. Arun, *et al.*, [New horizons for fundamental physics with
 LISA](https://arxiv.org/abs/2205.01597), *Living Rev. Relativ.* 25 (2022) 4
+
+0. R. Abbott, *et al.*, [Model-based cross-correlation search for gravitational
+waves from the low-mass X-ray binary Scorpius X-1 in LIGO O3
+data](https://arxiv.org/abs/2209.02863), *Astrophys. J.
+Lett.*  941 (2022) L30
 
 0. R. Abbott, *et al.*, [All-sky search for continuous gravitational waves from
 isolated neutron stars using Advanced LIGO and Advanced Virgo O3
