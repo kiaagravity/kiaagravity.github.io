@@ -193,7 +193,7 @@ evolution of binary black holes <br>
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/Miao_Xueli_round.png" alt="MiaoXueli" style="width:100%; height:160px">
+      <img src="{{ site.baseurl }}/assets/Miao_Xueli_round.png" alt="MiaoXueli" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -206,7 +206,7 @@ evolution of binary black holes <br>
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/Zhao_Junjie_round.png" alt="ZhaoJunjie" style="width:100%; height:160px">
+      <img src="{{ site.baseurl }}/assets/Zhao_Junjie_round.png" alt="ZhaoJunjie" style="width:100%; height:150px">
       <div class="teamcontainer"  style="padding:1px; ">
         <center>
         <p></p>
