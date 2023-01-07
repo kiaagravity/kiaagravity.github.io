@@ -77,7 +77,7 @@ Shao](https://friendshao.github.io/)!
 </figure>
 
 <figure>                                                                        
-<img src="/assets/kiaagroup_2020_small.jpg" style="width:100%">                 
+<img src="/assets/kiaagroup_2020_small.jpeg" style="width:100%">                 
 <figcaption><font color="grey"><b>KIAA Group on October 7, 2020.</b></font></figcaption>
 </figure>
 
