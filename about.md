@@ -52,9 +52,14 @@ article](https://kiaagravity.github.io/assets/postdoc) and contact [Dr. Lijing
 Shao](https://friendshao.github.io/)!
 
 <figure>                                                                        
+<img src="/assets/ice_Jan1_2023.png" style="width:100%">                 
+<figcaption><font color="grey"><b>Ice skating on January 1, 2023.</b></font></figcaption>
+</figure>
+
+<!-- <figure>                                                                        
 <img src="/assets/group_meeting_Jun5_2022_small.png" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on June 5, 2022.</b></font></figcaption>
-</figure>
+</figure> -->
 
 <figure>                                                                        
 <img src="/assets/group_meeting_Dec12_2021_small.png" style="width:100%">                 
