@@ -193,12 +193,38 @@ evolution of binary black holes <br>
 
   <div class="column">
     <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/Gao_Yong.png" alt="GaoYong" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b>Yong Gao (高勇)</b></h5>
+        <p class="teamtitle"><small>AEI/Potsdam·博后</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Miao_Xueli.png" alt="MiaoXueli" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
         <h5><b>Xueli Miao (缪雪丽)</b></h5>
         <p class="teamtitle"><small>国家天文台·FAST Fellow</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/Xu_Rui.png" alt="XuRui" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b>Rui Xu (徐睿)</b></h5>
+        <p class="teamtitle"><small>大学·研究员</small></p>
         </center>
       </div>
     </div>
