@@ -23,7 +23,7 @@ permalink: /member/
 </style>
 
 <a href="https://friendshao.github.io/about/">
-<img src="{{ site.baseurl }}/assets/Shao_Lijing_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Shao_Lijing.jpg" title="Profile Picture" class="profile">
 </a>
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-1334-8853) &nbsp; 
 <big><b>Prof. Dr. Lijing Shao (邵立晶)</b></big><br>
@@ -35,7 +35,7 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Xu_Rui_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Xu_Rui.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-7157-3805) &nbsp; 
 <big><b>Dr. Rui Xu (徐睿)</b></big><br>
 <i><b>Boya Postdoctoral Fellow (2019-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -47,7 +47,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Liang_Dicong_floor1.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Liang_Dicong.jpeg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-5021-235X) &nbsp; 
 <big><b>Dr. Dicong Liang (梁迪聪)</b></big><br>
 <i><b>KIAA Postdoc (2021-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -57,7 +57,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Lyu_Zhenwei_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Lyu_Zhenwei.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-0151-3794) &nbsp; 
 <big><b>Dr. Zhenwei Lyu (吕振伟)</b></big><br>
 <i><b>Boya Postdoctoral Fellow (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -67,7 +67,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Wang_Haitian_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Wang_Haitian.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-7779-8239) &nbsp; 
 <big><b>Dr. Hai-Tian Wang (王海天)</b></big><br>
 <i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -77,7 +77,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Mai_Zhanfeng_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Mai_Zhanfeng.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0003-2724-0226) &nbsp; 
 <big><b>Dr. Zhan-Feng Mai (麦展风)</b></big><br>
 <i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -87,7 +87,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Yim_Garvin_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Yim_Garvin.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-8548-9535) &nbsp; 
 <big><b>Dr. Garvin Yim (嚴家榮)</b></big><br>
 <i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
@@ -97,7 +97,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Gao_Yong_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Gao_Yong.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0003-1390-5477) &nbsp; 
 <big><b>Yong Gao (高勇)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
@@ -107,7 +107,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Liu_Chang_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Liu_Chang.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-7649-6792) &nbsp; 
 <big><b>Chang Liu (刘畅)</b></big><br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
@@ -117,7 +117,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Li_Hongbo_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Li_Hongbo.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-4850-8351) &nbsp; 
 <big><b>Hongbo Li (李洪波)</b></big><br>
 <i><b>PhD Student (2020-now)</b>, Department of Astronomy, School of Physics, 
@@ -127,7 +127,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Kang_Yacheng_floor1.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Kang_Yacheng.jpeg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-7402-4927) &nbsp; 
 <big><b>Yacheng Kang (康亚城)</b></big><br>
 <i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, 
@@ -137,7 +137,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Hu_Zexin_floor1.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Hu_Zexin.jpeg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-3081-0659) &nbsp; 
 <big><b>Zexin Hu (胡泽昕)</b></big><br>
 <i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
@@ -146,7 +146,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Ji_Peixiang_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Ji_Peixiang.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
 <big><b>Peixiang Ji (姬佩祥)</b></big><br>
 <i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
@@ -155,7 +155,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Wang_Ziming_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Wang_Ziming.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-8742-8397) &nbsp; 
 <big><b>Ziming Wang (王子铭)</b></big><br>
 <i><b>Undergraduate Student (2019-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
@@ -164,7 +164,7 @@ evolution of binary black holes <br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/Dong_Yiming_floor1.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Dong_Yiming.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
 <big><b>Yiming Dong (董益铭)</b></big><br>
 <i><b>Undergraduate Student (2019-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
@@ -180,7 +180,7 @@ evolution of binary black holes <br>
 
   <!-- <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/Li_Shoulong_round.png" alt="LiShoulong" style="width:100%; height:160px">
+      <img src="{{ site.baseurl }}/assets/alumni/Li_Shoulong.png" alt="LiShoulong" style="width:100%; height:160px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -193,7 +193,7 @@ evolution of binary black holes <br>
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/Miao_Xueli_round.png" alt="MiaoXueli" style="width:100%; height:150px">
+      <img src="{{ site.baseurl }}/assets/alumni/Miao_Xueli.png" alt="MiaoXueli" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -206,7 +206,7 @@ evolution of binary black holes <br>
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/Zhao_Junjie_round.png" alt="ZhaoJunjie" style="width:100%; height:150px">
+      <img src="{{ site.baseurl }}/assets/alumni/Zhao_Junjie.png" alt="ZhaoJunjie" style="width:100%; height:150px">
       <div class="teamcontainer"  style="padding:1px; ">
         <center>
         <p></p>

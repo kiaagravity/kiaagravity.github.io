@@ -52,47 +52,47 @@ article](https://kiaagravity.github.io/assets/postdoc) and contact [Dr. Lijing
 Shao](https://friendshao.github.io/)!
 
 <figure>                                                                        
-<img src="/assets/ice_Jan1_2023.png" style="width:100%">                 
+<img src="/assets/group/ice_Jan1_2023.png" style="width:100%">                 
 <figcaption><font color="grey"><b>Ice skating on January 1, 2023.</b></font></figcaption>
 </figure>
 
 <!-- <figure>                                                                        
-<img src="/assets/group_meeting_Jun5_2022_small.png" style="width:100%">                 
+<img src="/assets/group/group_meeting_Jun5_2022_small.png" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on June 5, 2022.</b></font></figcaption>
 </figure> -->
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Dec12_2021_small.png" style="width:100%">                 
+<img src="/assets/group/group_meeting_Dec12_2021_small.png" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 12, 2021.</b></font></figcaption>
 </figure>
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Jun12_2021.jpg" style="width:100%">                 
+<img src="/assets/group/group_meeting_Jun12_2021.jpg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on June 12, 2021.</b></font></figcaption>
 </figure>
 
 <figure>                                                                        
-<img src="/assets/Group_meeting_Jan2_2021.jpg" style="width:100%">                 
+<img src="/assets/group/Group_meeting_Jan2_2021.jpg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on January 2, 2021.</b></font></figcaption>
 </figure>
 
 <figure>                                                                        
-<img src="/assets/kiaagroup_2020_small.jpeg" style="width:100%">                 
+<img src="/assets/group/kiaagroup_2020_small.jpeg" style="width:100%">                 
 <figcaption><font color="grey"><b>KIAA Group on October 7, 2020.</b></font></figcaption>
 </figure>
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Dec14_2019_small.jpg" style="width:100%">                 
+<img src="/assets/group/group_meeting_Dec14_2019_small.jpg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 14, 2019.</b></font></figcaption>
 </figure>
 
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Jun1_2019_small.png" style="width:100%">                 
+<img src="/assets/group/group_meeting_Jun1_2019_small.png" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on June 1, 2019.</b></font></figcaption>
 </figure>
 
 <figure>                                                                        
-<img src="/assets/group_meeting_Dec25_2018.jpeg" style="width:100%">                 
+<img src="/assets/group/group_meeting_Dec25_2018.jpeg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 25, 2018.</b></font></figcaption>
 </figure>
