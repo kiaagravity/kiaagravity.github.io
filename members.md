@@ -191,7 +191,7 @@ evolution of binary black holes <br>
     </div>
   </div> -->
 
-  <div class="column">
+  <!-- <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Gao_Yong.png" alt="GaoYong" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
@@ -202,7 +202,7 @@ evolution of binary black holes <br>
         </center>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="column">
     <div class="card">
@@ -217,7 +217,7 @@ evolution of binary black holes <br>
     </div>
   </div>
 
-  <div class="column">
+  <!-- <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Xu_Rui.png" alt="XuRui" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
@@ -228,7 +228,7 @@ evolution of binary black holes <br>
         </center>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="column">
     <div class="card">
