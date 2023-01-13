@@ -24,9 +24,6 @@ Telescope observations](https://arxiv.org/abs/TBA), submitted
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
 arXiv:2210.04481
 
-0. R. Xu, D. Liang, L.  Shao, [Static spherical vacuum solutions in the
-bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* (accepted), arXiv:2209.02209 
-
 0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
 Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
 star mergers. II. Optimal search strategy for serendipitous observations and
@@ -63,6 +60,9 @@ Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
+
+0. R. Xu, D. Liang, L.  Shao, [Static spherical vacuum solutions in the
+bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107 (2023) 024011
 
 0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
 magnetars: dynamical evolutions and modulations on polarized electromagnetic
