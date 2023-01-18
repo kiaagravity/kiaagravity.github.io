@@ -24,12 +24,6 @@ Telescope observations](https://arxiv.org/abs/TBA), submitted
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
 arXiv:2210.04481
 
-0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
-Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
-star mergers. II. Optimal search strategy for serendipitous observations and
-target-of-opportunity observations of gravitational-wave
-triggers](https://arxiv.org/abs/2110.10469), *Astrophys. J.* (accepted), arXiv:2110.10469
-
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, arXiv:2206.15187
@@ -67,6 +61,12 @@ bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107 (
 0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
 magnetars: dynamical evolutions and modulations on polarized electromagnetic
 waves](https://arxiv.org/abs/2211.17087), *Mon. Not.  R. Astron. Soc.* 519 (2023) 1080
+
+0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
+Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
+star mergers. II. Optimal search strategy for serendipitous observations and
+target-of-opportunity observations of gravitational-wave
+triggers](https://arxiv.org/abs/2110.10469), *Astrophys. J.* 942 (2023) 88
 
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428), *《中国科学：物理学 力学 天文学》*, accepted
 
