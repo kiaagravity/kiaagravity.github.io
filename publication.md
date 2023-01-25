@@ -12,10 +12,6 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
-0. D. Liang, R. Xu, Z.-F. Mai, L.  Shao, [Probing vector hair of black holes
-with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346),
-arXiv:2212.09346
-
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/TBA), submitted
 
@@ -54,6 +50,10 @@ Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
+
+0. D. Liang, R. Xu, Z.-F. Mai, L.  Shao, [Probing vector hair of black holes
+with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), *Phys.
+Rev. D* (accepted), arXiv:2212.09346
 
 0. R. Xu, D. Liang, L.  Shao, [Static spherical vacuum solutions in the
 bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107 (2023) 024011
