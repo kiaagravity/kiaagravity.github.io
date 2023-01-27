@@ -71,7 +71,7 @@ triggers](https://arxiv.org/abs/2110.10469), *Astrophys. J.* 942 (2023) 88
 0. X. Liu, Z. Cao, L. Shao, [Upgraded waveform model of eccentric binary black
 hole based on effective-one-body-numerical-relativity for spin-aligned binary
 black holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys.
-D* 142 (2023) 2350015
+D* 32 (2023) 2350015
 
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428), *《中国科学：物理学 力学 天文学》*, accepted
 
