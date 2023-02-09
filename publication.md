@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [The $g$-mode of neutron stars in
+pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
+
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/TBA), submitted
 
@@ -79,6 +82,9 @@ D* 32 (2023) 2350015
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
+KAGRA and GEO](https://arxiv.org/abs/2302.03676), arXiv:2302.03676
 
 0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
 second part of Advanced LIGO's and Advanced Virgo's third observing
