@@ -129,6 +129,10 @@ GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:211
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
+
+0. S. Jorstad, M. Wielgus, R. Lico, S. Issaoun, *et al.*, [The Event Horizon
+Telescope image of the quasar NRAO 530](https://arxiv.org/abs/2302.04622),
+*Astrophys. J.* 943 (2023) 170
 {: reversed="reversed"}
 
 ---
