@@ -22,14 +22,13 @@ permalink: /member/
   }
 </style>
 
-<a href="https://friendshao.github.io/about/">
 <img src="{{ site.baseurl }}/assets/members/Shao_Lijing.jpg" title="Profile Picture" class="profile">
-</a>
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-1334-8853) &nbsp; 
 <big><b>Prof. Dr. Lijing Shao (邵立晶)</b></big><br>
 <i><b>Assistant Professor (2018-now)</b>, Kavli Institute for Astronomy and Astrophysics,
   Peking University</i><br>
 <b>Email</b>: lshao@pku.edu.cn<br>
+<b>Homepage</b>: [https://friendshao.github.io/about/](https://friendshao.github.io/about/)<br>
 <b>Research Interests</b>: gravitational waves, pulsar astronomy, new physics
 beyond the standard model<br>
 
@@ -103,6 +102,7 @@ evolution of binary black holes <br>
 <i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: gaoyong.physics@pku.edu.cn <br>
+<b>Homepage</b>: [https://gravyong.github.io/](https://gravyong.github.io/)<br>
 <b>Research Interests</b>: gravitational waves, neutron stars <br>
 
 ---
@@ -133,6 +133,7 @@ evolution of binary black holes <br>
 <i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: yckang@stu.pku.edu.cn<br>
+<b>Homepage</b>: [https://astrokang.github.io/](https://astrokang.github.io/)<br>
 <b>Research Interests</b>: gravitational waves, exoplanets, multi-messenger astronomy, white dwarfs <br>
 
 ---
