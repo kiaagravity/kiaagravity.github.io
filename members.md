@@ -29,6 +29,7 @@ permalink: /member/
   Peking University</i><br>
 <b>Email</b>: lshao@pku.edu.cn<br>
 <b>Homepage</b>: [https://friendshao.github.io/about/](https://friendshao.github.io/about/)<br>
+<b>Homepage</b> (in Chinese): [http://scholar.pku.edu.cn/lshao](http://scholar.pku.edu.cn/lshao)<br>
 <b>Research Interests</b>: gravitational waves, pulsar astronomy, new physics
 beyond the standard model<br>
 
