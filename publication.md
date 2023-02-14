@@ -16,7 +16,7 @@ permalink: /publication/
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
-Telescope observations](https://arxiv.org/abs/TBA), submitted
+Telescope observations](https://arxiv.org/abs/2302.05671), arXiv:2302.05671
 
 0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
