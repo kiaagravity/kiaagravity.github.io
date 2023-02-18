@@ -15,9 +15,6 @@ permalink: /publication/
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [The $g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
-0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
-Telescope observations](https://arxiv.org/abs/2302.05671), arXiv:2302.05671
-
 0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
@@ -54,6 +51,10 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
+0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
+Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.*
+(accepted), arXiv:2302.05671
+
 0. D. Liang, R. Xu, Z.-F. Mai, L.  Shao, [Probing vector hair of black holes
 with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), *Phys.
 Rev. D* (accepted), arXiv:2212.09346
@@ -86,10 +87,6 @@ D* 32 (2023) 2350015
 0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
 KAGRA and GEO](https://arxiv.org/abs/2302.03676), arXiv:2302.03676
 
-0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
-second part of Advanced LIGO's and Advanced Virgo's third observing
-run](https://arxiv.org/abs/2212.01477), arXiv:2212.01477
-
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
@@ -109,15 +106,15 @@ run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
+0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
+second part of Advanced LIGO's and Advanced Virgo's third observing
+run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
+
 0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
 using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted), arXiv:2111.03634
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* (accepted), arXiv:2203.06016
-
-0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
-O3GK](https://arxiv.org/abs/2210.05934), *Prog.  Theor. Exp. Phys.* (accepted),
-arXiv:2210.05934
 
 0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
@@ -129,6 +126,9 @@ GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:211
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
+
+0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
+O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp. Phys.* 2023 (2023) 023F01
 
 0. S. Jorstad, M. Wielgus, R. Lico, S. Issaoun, *et al.*, [The Event Horizon
 Telescope image of the quasar NRAO 530](https://arxiv.org/abs/2302.04622),
