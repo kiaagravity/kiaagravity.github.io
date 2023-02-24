@@ -15,11 +15,6 @@ permalink: /publication/
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [The $g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
-0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
-[Search for anisotropic, birefringent spacetime-symmetry breaking in
-gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
-arXiv:2210.04481
-
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, arXiv:2206.15187
@@ -50,6 +45,11 @@ Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
+
+0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
+[Search for anisotropic, birefringent spacetime-symmetry breaking in
+gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
+*Phys. Rev. D* (accepted), arXiv:2210.04481
 
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.*
