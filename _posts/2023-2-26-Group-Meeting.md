@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Group Meeting 02/26/2023"
-date:   2022-02-26
+title:  "Group Meeting 2/26/2023"
+date:   2022-2-26
 author: Dicong
 categories: activities
 ---
