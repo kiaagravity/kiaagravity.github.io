@@ -225,7 +225,7 @@ evolution of binary black holes <br>
         <center>
         <p></p>
         <h5><b>Rui Xu (徐睿)</b></h5>
-        <p class="teamtitle"><small>大学·研究员</small></p>
+        <p class="teamtitle"><small>清华大学·博后</small></p>
         </center>
       </div>
     </div>
@@ -348,6 +348,8 @@ evolution of binary black holes <br>
 - 2019—now, **Rui Xu** (**徐睿**), Kavli Institute for Astronomy and Astrophysics, Peking University
   - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
     *Neutron Star Structure in Alternative Gravitational Theories* (2021)
+  - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
+    *Compact Objects in Alternative Theories of Gravity* (2023)
 
 - 2019—now, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
