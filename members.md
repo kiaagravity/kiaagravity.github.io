@@ -310,6 +310,10 @@ evolution of binary black holes <br>
 
 ## Former Members
 
+- 2018—now, **Yong Gao** (**高勇**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
+    *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (Peking University 2023)
+
 - 2020—now, **Ziming Wang** (**王子铭**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Testing Spacetime Symmetries with Gravitational Waves* (2022)
