@@ -8,7 +8,7 @@ categories: activities
 
 ## Report
 
-#### Jierui Hu: Probing gravitational wave polarizations with Einstein Telescope
+#### Jierui Hu: Probing gravitational wave polarizations with Einstein Telescope 
 
 
 Ref. 1: [[Generic searches for alternative gravitational wave polarizations with networks of interferometric detectors](https://arxiv.org/abs/2003.07375)]
