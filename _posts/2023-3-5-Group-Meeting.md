@@ -6,17 +6,16 @@ author: Dicong
 categories: activities
 ---
 
-## Talk
+## Report
 
-#### Jierui Hu: Brief Introduction to Fisher Information Matrix
-
-Ref. 1: [[Detection, measurement and gravitational radiation](https://arxiv.org/abs/gr-qc/9209010)]
-
-Ref. 2: [[Simultaneous bounds on the gravitational dipole radiation and varying gravitational constant from compact binary inspirals](https://arxiv.org/abs/2208.11913)]
+#### Jierui Hu: Probing gravitational wave polarizations with Einstein Telescope
 
 
-## Literature Reading
+Ref. 1: [[Generic searches for alternative gravitational wave polarizations with networks of interferometric detectors](https://arxiv.org/abs/2003.07375)]
 
-####  Hongyi Zhang: Introduction to energy-momentum squared gravity (EMSG)
+
+## Rehearsal
+
+####  Hongbo Li: Constraints on the equation of state of neutron stars induced by gravitational wave asteroseismology
  
-Ref. 1: [[Energy-momentum squared gravity](https://arxiv.org/abs/1607.06049)]
+####  Rui Xu: Compact Objects in Alternative Theories of Gravity
