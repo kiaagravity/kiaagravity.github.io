@@ -8,7 +8,7 @@ categories: activities
 
 ## Report
 
-#### Weisong Wang: Probing gravitational wave polarizations with Einstein Telescope 
+#### Weisong Wang: Spin precession of the black hole-pulsar system
 
 
 Ref. 1: [[General relativistic celestial mechanics of binary systems](https://www.semanticscholar.org/paper/General-relativistic-celestial-mechanics-of-binary-Damour-Deruelle/c9b3571d5b36e244bcd6e79710a0bf54688e2688)]
