@@ -34,18 +34,6 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/members/Xu_Rui.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-7157-3805) &nbsp; 
-<big><b>Dr. Rui Xu (徐睿)</b></big><br>
-<i><b>Boya Postdoctoral Fellow (2019-now)</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: xuru@pku.edu.cn  <br>
-<b>Research Interests</b>: experimental tests of Lorentz symmetry in gravity,
-alternatives to general relativity, structure of black hole spacetime,
-evolution of binary black holes <br>
-
----
-
 <img src="{{ site.baseurl }}/assets/members/Liang_Dicong.jpeg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-5021-235X) &nbsp; 
 <big><b>Dr. Dicong Liang (梁迪聪)</b></big><br>
@@ -218,7 +206,7 @@ evolution of binary black holes <br>
     </div>
   </div>
 
-  <!-- <div class="column">
+  <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Xu_Rui.png" alt="XuRui" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
@@ -229,7 +217,7 @@ evolution of binary black holes <br>
         </center>
       </div>
     </div>
-  </div> -->
+  </div>
 
   <div class="column">
     <div class="card">
@@ -253,7 +241,6 @@ evolution of binary black holes <br>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2019—now | **Rui Xu** | **徐睿** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2021—now | **Dicong Liang** | **梁迪聪** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Zhenwei Lyu** | **吕振伟** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -283,6 +270,7 @@ evolution of binary black holes <br>
 | 2020—now | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2018—now | **Junjie Zhao** | **赵俊杰** | Liyun Fellow | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
 | 2018—now | **Xueli Miao** | **缪雪丽** | FAST Fellow | [NAOC](http://www.bao.ac.cn/) | 
+| 2019—now | **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
 | 2018—now | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—now | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Hanlin Song** | **宋翰林** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
