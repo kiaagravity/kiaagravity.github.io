@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. D. Liang, L. Shao, [Improved bounds on the bosonic dark matter with pulsars
+in the Milky Way](https://arxiv.org/abs/2303.05107), arXiv:2303.05107
+
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [The $g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
