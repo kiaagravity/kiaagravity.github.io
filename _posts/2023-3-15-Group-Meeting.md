@@ -17,7 +17,9 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Peixiang, Ziming, Yacheng, Zexin, Di
 
 - Chang Liu: Annual Report (12min) : **science cases with space-based gravitational wave detectors & multiband detection**
 
+
 - Zhenwei Lyu: **Probe 2.6 solar mass object via precessing-induced quadrupole moment effects**
+
   Ref: Michael LaHaye, Huan Yang, Béatrice Bonga and Zhenwei Lyu [[Link](https://arxiv.org/abs/2212.04657)].
       
      
