@@ -49,11 +49,6 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
-0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
-[Search for anisotropic, birefringent spacetime-symmetry breaking in
-gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
-*Phys. Rev. D* (accepted), arXiv:2210.04481
-
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.*
 (accepted), arXiv:2302.05671
@@ -68,6 +63,11 @@ bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107 (
 0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
 magnetars: dynamical evolutions and modulations on polarized electromagnetic
 waves](https://arxiv.org/abs/2211.17087), *Mon. Not.  R. Astron. Soc.* 519 (2023) 1080
+
+0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
+[Search for anisotropic, birefringent spacetime-symmetry breaking in
+gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
+*Phys. Rev. D* 107 (2023) 064031
 
 0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
 Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
