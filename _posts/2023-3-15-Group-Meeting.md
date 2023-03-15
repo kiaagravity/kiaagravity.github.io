@@ -15,7 +15,7 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Peixiang, Ziming, Yacheng, Zexin, Di
 
 ### Agenda
 
-- Chang Liu: Rehersal of annual report (12min) : **science cases with space-based gravitational wave detectors & multiband detection**
+- Chang Liu: Rehersal of annual report (8 min) : **science cases with space-based gravitational wave detectors & multiband detection**
 
 
 - Zhenwei Lyu: **Probe 2.6 solar mass object via precessing-induced quadrupole moment effects**
