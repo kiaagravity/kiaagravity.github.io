@@ -50,8 +50,7 @@ first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
-Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.*
-(accepted), arXiv:2302.05671
+Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.* 945 (2023) 148
 
 0. D. Liang, R. Xu, Z.-F. Mai, L.  Shao, [Probing vector hair of black holes
 with extreme mass ratio inspirals](https://arxiv.org/abs/2212.09346), *Phys.
