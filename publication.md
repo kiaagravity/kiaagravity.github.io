@@ -108,6 +108,10 @@ run](https://arxiv.org/abs/2111.03606), arXiv:2111.03606
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
+0. B.S. Prather, *et al.*, [Comparison of polarized radiative transfer codes
+used by the EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys.
+J.* (accepted), arXiv:2303.12004
+
 0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
 second part of Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
