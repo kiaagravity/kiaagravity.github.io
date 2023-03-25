@@ -370,8 +370,8 @@ beyond the standard model<br>
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *The Forced Precession of Pulsars* (Peking University 2021) 
 
-- 2020—2021,
-  **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
+- 2020—2021 <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>,
+  **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University 
 
 - 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
