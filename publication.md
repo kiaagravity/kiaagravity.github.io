@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
+eccentricity and the moment of inertia for rotating neutron
+stars](https://arxiv.org/abs/2303.14130), arXiv:2303.14130
+
 0. D. Liang, L. Shao, [Improved bounds on the bosonic dark matter with pulsars
 in the Milky Way](https://arxiv.org/abs/2303.05107), arXiv:2303.05107
 
