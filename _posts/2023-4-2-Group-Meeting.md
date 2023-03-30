@@ -13,7 +13,7 @@ categories: activities
 
 Ref. 1: [[Understanding the gravitational-wave Hellings and Downs curve for pulsar timing arrays in terms of sound and electromagnetic waves](https://aapt.scitation.org/doi/10.1119/1.4916358)]
 
-Ref. 2: [[Pulsar timing array analysis for black hole backgrounds](https://iopscience.iop.org/article/10.1088/0264-9381/30/22/224005)]
+Ref. 2: [[Gravitational wave astronomy of single sources with a pulsar timing array](https://doi.org/10.1111/j.1365-2966.2011.18622.x)]
 
 
 #### Yiming Dong:  New limits on Local Lorentz Invariance Violation of Gravity in the Standard-Model Extension with Pulsars
