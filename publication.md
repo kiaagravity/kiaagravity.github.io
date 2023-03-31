@@ -124,9 +124,6 @@ J.* (accepted), arXiv:2303.12004
 second part of Advanced LIGO's and Advanced Virgo's third observing
 run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
 
-0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
-using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* (accepted), arXiv:2111.03634
-
 0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
 Theor. Exp. Phys.* (accepted), arXiv:2203.07011
@@ -140,6 +137,9 @@ arXiv:2112.06861
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
+
+0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
+using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* 13 (2023) 011048
 
 0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
 O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp. Phys.* 2023 (2023) 023F01
