@@ -26,6 +26,10 @@ pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, arXiv:2206.15187
 
+0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
+pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
+Tests*, in press
+
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
