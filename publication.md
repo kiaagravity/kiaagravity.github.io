@@ -101,9 +101,6 @@ KAGRA and GEO](https://arxiv.org/abs/2302.03676), arXiv:2302.03676
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
-component analysis](https://arxiv.org/abs/2206.05785), arXiv:2206.05785
-
 0. R. Abbott, *et al.*, [Search for gravitational waves associated with fast
 radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
 O3a](https://arxiv.org/abs/2203.12038), arXiv:2203.12038
@@ -140,6 +137,9 @@ Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
 
 0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
 using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* 13 (2023) 011048
+
+0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
+component analysis](https://arxiv.org/abs/2206.05785), *Class. Quantum Grav.* 40 (2023) 085015
 
 0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
 O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp. Phys.* 2023 (2023) 023F01
