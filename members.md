@@ -111,7 +111,7 @@ beyond the standard model<br>
 <i><b>PhD Student (2020-now)</b>, Department of Astronomy, School of Physics, 
   Peking University</i><br>
 <b>Email</b>: lihb2020@stu.pku.edu.cn <br>
-<b>Research Interests</b>: gravitational wave bursts <br>
+<b>Research Interests</b>: gravitational waves, neutron stars, equation of state <br>
 
 ---
 
