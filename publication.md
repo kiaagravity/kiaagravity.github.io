@@ -12,6 +12,15 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y.-H. I. Yin, B.-B. Zhang, H. Sun, J. Yang, Y. Kang, **L.  Shao**, Y.-H.
+Yang, B. Zhang, [GRB 211211A-like events and how gravitational waves may tell
+their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
+
+0. M. Yuan, W. Zhu, M. Kramer, B. Peng, J. Lu, R. Xu, **L. Shao**, H.-G. Wang,
+L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D. Li, C.
+Zhang, D. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
+[High magnetosphere altitude emissions from two pulsars](TBA), *Astrophys. J.* (accepted), arXiv:TBA
+
 0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
 eccentricity and the moment of inertia for rotating neutron
 stars](https://arxiv.org/abs/2303.14130), arXiv:2303.14130
