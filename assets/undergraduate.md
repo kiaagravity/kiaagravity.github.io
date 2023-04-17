@@ -91,6 +91,16 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
+0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
+parameter-estimation biases in overlapping gravitational-wave
+signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
+
+0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
+Y.-W. Yu, **Y. Kang (康亚城)**, L. Shao, [Kilonova and optical afterglow from
+binary neutron star mergers. II. Optimal search strategy for serendipitous
+observations and target-of-opportunity observations of gravitational-wave
+triggers](https://arxiv.org/abs/2110.10469), *Astrophys. J.* 942 (2023) 88
+
 0. **Y. Dong (董益铭)**, L. Shao, **Z. Hu (胡泽昕)**, X. Miao, **Z. Wang (王子铭)**,
 [Prospects for constraining the fifth force with pulsars around Sgr
 A$^\ast$](https://arxiv.org/abs/2210.16130), *J. Cosmol. Astropart. Phys.* 11 (2022) 051
