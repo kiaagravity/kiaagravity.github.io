@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
+parameter-estimation biases in overlapping gravitational-wave
+signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
+
 0. Y.-H. I. Yin, B.-B. Zhang, H. Sun, J. Yang, Y. Kang, L.  Shao, Y.-H.
 Yang, B. Zhang, [GRB 211211A-like events and how gravitational waves may tell
 their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
