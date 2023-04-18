@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [On the extended thermodynamics of
+bumblebee black holes](https://arxiv.org/abs/2304.08030), arXiv:2304.08030
+
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
