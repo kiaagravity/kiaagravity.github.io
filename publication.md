@@ -23,11 +23,6 @@ signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 Yang, B. Zhang, [GRB 211211A-like events and how gravitational waves may tell
 their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
 
-0. M. Yuan, W. Zhu, M. Kramer, B. Peng, J. Lu, R. Xu, L. Shao, H.-G. Wang,
-L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D. Li, C.
-Zhang, D. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
-[High magnetosphere altitude emissions from two pulsars](TBA), *Astrophys. J.* (accepted), arXiv:TBA
-
 0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
 eccentricity and the moment of inertia for rotating neutron
 stars](https://arxiv.org/abs/2303.14130), arXiv:2303.14130
@@ -73,6 +68,11 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
+0. M. Yuan, W. Zhu, M. Kramer, B. Peng, J. Lu, R. Xu, L. Shao, H.-G. Wang,
+L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D. Li, C.
+Zhang, D. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
+[High magnetosphere altitude emissions from two pulsars](TBA), *Astrophys. J.* (accepted), arXiv:TBA
+
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.* 945 (2023) 148
 
@@ -109,6 +109,10 @@ D* 32 (2023) 2350015
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
+third observing run of the LIGO-Virgo
+network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 
 0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
 KAGRA and GEO](https://arxiv.org/abs/2302.03676), arXiv:2302.03676
