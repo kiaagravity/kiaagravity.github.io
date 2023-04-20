@@ -91,6 +91,12 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
+0. **J. Hu (胡杰瑞)**, D. Liang, L. Shao, in prep.
+
+0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, in prep.
+
+0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, in prep.
+
 0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
