@@ -167,20 +167,7 @@ beyond the standard model<br>
 
 <div class="row">
 
-  <!-- <div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/Li_Shoulong.png" alt="LiShoulong" style="width:100%; height:160px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
-        <h5><b>Shou-Long Li (李守龙)</b></h5>
-        <p class="teamtitle"><small>湖南师大·讲师</small></p>
-        </center>
-      </div>
-    </div>
-  </div> -->
-
-  <!-- <div class="column">
+  <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Gao_Yong.png" alt="GaoYong" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
@@ -191,7 +178,7 @@ beyond the standard model<br>
         </center>
       </div>
     </div>
-  </div> -->
+  </div>
 
   <div class="column">
     <div class="card">
@@ -255,9 +242,9 @@ beyond the standard model<br>
 | 2020—now | **Ziming Wang** | **王子铭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Yiming Dong** | **董益铭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Huapeng Gu** | **顾华鹏** | Bachelor Thesis |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate Research | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
