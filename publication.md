@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
+small-radius white dwarfs made of heavy
+elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
+
 0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [On the extended thermodynamics of
 bumblebee black holes](https://arxiv.org/abs/2304.08030), arXiv:2304.08030
 
