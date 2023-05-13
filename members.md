@@ -286,6 +286,10 @@ beyond the standard model<br>
 
 ## Former Members
 
+- 2022—now, **Huapeng Gu** (**顾华鹏**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (Peking University 2023)
+
 - 2018—now, **Yong Gao** (**高勇**), Department of Astronomy, Peking University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
     *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (Peking University 2023)
@@ -293,10 +297,14 @@ beyond the standard model<br>
 - 2020—now, **Ziming Wang** (**王子铭**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Testing Spacetime Symmetries with Gravitational Waves* (2022)
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Anatomy of Parameter-estimation Biases in Overlapping Gravitational-wave Signals* (Peking University 2023) 
 
 - 2021—now, **Yiming Dong** (**董益铭**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *TBA* (Peking University 2023)
 
 - 2021—now, **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
