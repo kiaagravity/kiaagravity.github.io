@@ -101,6 +101,12 @@ layout: page
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 
+0. **Z. Wang (王子铭)**, L. Shao, C.  Liu, [New limits on Lorentz and CPT symmetry
+through 50 gravitational-wave
+events](https://doi.org/10.1142/9789811275388_0059), in
+*Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry* (World
+Scientific, Singapore, 2023), p. 247
+
 0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
 Y.-W. Yu, **Y. Kang (康亚城)**, L. Shao, [Kilonova and optical afterglow from
 binary neutron star mergers. II. Optimal search strategy for serendipitous
