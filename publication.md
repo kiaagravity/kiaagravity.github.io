@@ -49,23 +49,6 @@ Tests*, in press
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
-0. Z. Wang, L. Shao, C.  Liu, [New limits on the Lorentz/CPT symmetry through 50
-gravitational-wave events](https://arxiv.org/abs/TBA), in *Proceedings of the
-Ninth Meeting on CPT and Lorentz Symmetry*, in press
-
-0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
-[Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
-gravitational waves](https://arxiv.org/abs/TBA), in *Proceedings of the Ninth
-Meeting on CPT and Lorentz Symmetry*, in press
-
-0. L. Shao, [Gravity tests with radio pulsars in perturbative and
-nonperturbative regimes](https://arxiv.org/abs/2208.00142), in *Proceedings 
-of the Ninth Meeting on CPT and Lorentz Symmetry*, arXiv:2208.00142
-
-0. Y. Gao, R. Xu, L. Shao, [Precession of spheroids under Lorentz violation and
-observational consequences for neutron stars](https://arxiv.org/abs/TBA), in *Proceedings 
-of the Ninth Meeting on CPT and Lorentz Symmetry*, in press
-
 0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
 Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
 Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
@@ -108,6 +91,27 @@ triggers](https://arxiv.org/abs/2110.10469), *Astrophys. J.* 942 (2023) 88
 hole based on effective-one-body-numerical-relativity for spin-aligned binary
 black holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys.
 D* 32 (2023) 2350015
+
+0. L. Shao, [Gravity tests with radio pulsars in perturbative and
+nonperturbative regimes](https://arxiv.org/abs/2208.00142), in *Proceedings of
+the Ninth Meeting on CPT and Lorentz Symmetry* (World Scientific, Singapore,
+2023), p. 89
+
+0. Y. Gao, R. Xu, L. Shao, [Precession of neutron stars under Lorentz violation
+and observational consequences](https://doi.org/10.1142/9789811275388_0051), in
+*Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry* (World
+Scientific, Singapore, 2023), p. 223
+
+0. Z. Wang, L. Shao, C.  Liu, [New limits on Lorentz and CPT symmetry through 50
+gravitational-wave events](https://doi.org/10.1142/9789811275388_0059), in
+*Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry* (World
+Scientific, Singapore, 2023), p. 247
+
+0. K. O'Neal-Ault, L. Haegel, Q.G. Bailey, J. Tasson, M. Bloom, L. Shao,
+[Lorentz and CPT symmetry breaking via dispersion and birefringence effects of
+gravitational waves](https://doi.org/10.1142/9789811275388_0060), in
+*Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry* (World
+Scientific, Singapore, 2023), p. 250
 
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428), *《中国科学：物理学 力学 天文学》*, accepted
 
