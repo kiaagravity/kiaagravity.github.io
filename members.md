@@ -368,7 +368,7 @@ beyond the standard model<br>
 
 - 2020—2021, **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University 
   - <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
-    *NANOGrav Signal from First-order Confinement-deconfinement Phase Transition in Different QCD-matter Scenarios* (2021)
+    *NANOGrav Signal* (2021)
 
 - 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
