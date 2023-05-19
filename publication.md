@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, **L. Shao**, W. Wang, S. Xiong, R. Xu, S.
+Yi, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
+quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
+
 0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
 small-radius white dwarfs made of heavy
 elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
