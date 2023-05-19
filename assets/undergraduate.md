@@ -97,6 +97,8 @@ layout: page
 
 0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, in prep.
 
+0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, in prep.
+
 0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
