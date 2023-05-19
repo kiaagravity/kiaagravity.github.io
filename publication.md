@@ -12,7 +12,7 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
-0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, **L. Shao**, W. Wang, S. Xiong, R. Xu, S.
+0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.
 Yi, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 
@@ -145,7 +145,7 @@ book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
 0. R. Abbott, *et al.*, [Search for gravitational waves associated with fast
 radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
-O3a](https://arxiv.org/abs/2203.12038), *Astrophys.  J.* (accepted),
+O3a](https://arxiv.org/abs/2203.12038), *Astrophys. J.* (accepted),
 arXiv:2203.12038
 
 0. B.S. Prather, *et al.*, [Comparison of polarized radiative transfer codes
