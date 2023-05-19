@@ -15,6 +15,6 @@ Ref. 1: [[Estimating spinning binary parameters and testing alternative theories
 Ref. 2: [[Angular resolution of the LISA gravitational wave detector](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.57.7089)]
 
 
-#### Dicong Liang: Probing equation of state of neutron stars with gravitational waves
+#### Dicong Liang: Probing the equation of state of neutron stars with gravitational waves
 
 Ref. 1: [[Demonstrating the Feasibility of Probing the Neutron-Star Equation of State with Second-Generation Gravitational-Wave Detectors](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.071101)]
