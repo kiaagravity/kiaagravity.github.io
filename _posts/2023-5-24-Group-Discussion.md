@@ -18,7 +18,7 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Peixiang, Ziming, Yacheng, Zexin, Di
 
 - Ziming Wang: **Anatomy of parameter-estimation biases in overlapping gravitational-wave signals**
 
-  Ref: Ziming Wang et. al [[Link](https://arxiv.org/abs/2304.06734)]; 
+  Ref: Ziming Wang et al. [[Link](https://arxiv.org/abs/2304.06734)]; 
       
      
        
