@@ -18,7 +18,7 @@ categories: activities
 
 ## Talk
 
-#### Dicong Liang: Probing the equation of state of neutron stars with gravitational waves
+#### Hanlin Song: Subtracting Compact Binary Foreground in Next-Generation Ground Based Observatories
 
 Ref. 1: [[Subtracting Compact Binary Foregrounds to Search for Subdominant Gravitational-Wave Backgrounds in Next-Generation Ground-Based Observatories](https://arxiv.org/abs/2209.01310)]
 
