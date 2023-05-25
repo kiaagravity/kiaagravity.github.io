@@ -247,6 +247,7 @@ beyond the standard model<br>
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Bolin Li** | **李柏霖** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
@@ -266,7 +267,6 @@ beyond the standard model<br>
 | 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
