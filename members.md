@@ -425,17 +425,14 @@ Comments
 | 2021—2022 | **Haimeng Chen** | **陈海萌** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 | 2018—2020 | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—2022 | **Yucheng Yin** | **阴煜程** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-
 | 2021—2022 | **Xiaonan Liu** | **刘晓楠** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
 | 2021—2022 | **Ping He** | **何平** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2020—2021 | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—2021 | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2021 | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-
 | 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2021 | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—2020 | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-
 | 2021—2021 | **Yuxi Duan** | **段雨曦** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—2021 | **Shenyong Ye** | **叶沈镛** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 -->
