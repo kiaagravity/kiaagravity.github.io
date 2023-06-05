@@ -279,10 +279,6 @@ beyond the standard model<br>
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (Peking University 2023)
 
-- 2018—now, **Yong Gao** (**高勇**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
-    *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (Peking University 2023)
-
 - 2020—now, **Ziming Wang** (**王子铭**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Testing Spacetime Symmetries with Gravitational Waves* (2022)
@@ -332,9 +328,13 @@ beyond the standard model<br>
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
 
+- 2018—2023, **Yong Gao** (**高勇**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
+    *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (Peking University 2023)
+
 - 2018—2023, **Zihang Wang** (**王子航**), Department of Astronomy, Peking University
   - <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
-    *Axion Physics* (2023)
+    *Axion as a Dark Matter Candidate* (Peking University 2023)
 
 - 2021—2022, **Zhejian Zhang** (**张喆戬**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
@@ -361,7 +361,7 @@ beyond the standard model<br>
 
 - 2020—2021, **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University 
   - <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
-    *NANOGrav Signal* (2021)
+    *NANOGrav Signal from First-order Confinement-deconfinement Phase Transition* (2021)
 
 - 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
