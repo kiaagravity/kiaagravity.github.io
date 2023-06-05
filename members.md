@@ -84,17 +84,6 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/members/Gao_Yong.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0003-1390-5477) &nbsp; 
-<big><b>Yong Gao (高勇)</b></big><br>
-<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: gaoyong.physics@pku.edu.cn <br>
-<b>Homepage</b>: [https://gravyong.github.io](https://gravyong.github.io/)<br>
-<b>Research Interests</b>: gravitational waves, neutron stars <br>
-
----
-
 <img src="{{ site.baseurl }}/assets/members/Liu_Chang.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-7649-6792) &nbsp; 
 <big><b>Chang Liu (刘畅)</b></big><br>
@@ -147,7 +136,7 @@ beyond the standard model<br>
 <img src="{{ site.baseurl }}/assets/members/Wang_Ziming.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-8742-8397) &nbsp; 
 <big><b>Ziming Wang (王子铭)</b></big><br>
-<i><b>Undergraduate Student (2019-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
+<i><b>PhD Student (2023-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
 <b>Email</b>: 1900011622@pku.edu.cn<br>
 <b>Research Interests</b>: gravitational waves, tests of gravity theories<br>
 
@@ -156,7 +145,7 @@ beyond the standard model<br>
 <img src="{{ site.baseurl }}/assets/members/Dong_Yiming.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
 <big><b>Yiming Dong (董益铭)</b></big><br>
-<i><b>Undergraduate Student (2019-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
+<i><b>PhD Student (2023-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
 <b>Email</b>: 1900011629@pku.edu.cn<br>
 <b>Research Interests</b>: pulsars, Square Kilometre Array<br>
 
@@ -233,15 +222,13 @@ beyond the standard model<br>
 | 2022—now | **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Zhanfeng Mai** | **麦展风** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Garvin Yim** | **嚴家榮** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2018—now | **Yong Gao** | **高勇** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2018—now | **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Ziming Wang** | **王子铭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Yiming Dong** | **董益铭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—now | **Huapeng Gu** | **顾华鹏** | Bachelor Thesis |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -266,6 +253,7 @@ beyond the standard model<br>
 | 2022—now | **Hanlin Song** | **宋翰林** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| 2022—now | **Huapeng Gu** | **顾华鹏** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
