@@ -128,9 +128,6 @@ Scientific, Singapore, 2023), p. 250
 third observing run of the LIGO-Virgo
 network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 
-0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
-KAGRA and GEO](https://arxiv.org/abs/2302.03676), arXiv:2302.03676
-
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
@@ -138,6 +135,10 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
 book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
+KAGRA and GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.*
+(accepted), arXiv:2302.03676
 
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
 and Virgo during the second part of the third observing
