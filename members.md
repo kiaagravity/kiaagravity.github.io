@@ -230,6 +230,7 @@ beyond the standard model<br>
 | 2020—now | **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Rong Du** | **杜嵘** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -254,7 +255,6 @@ beyond the standard model<br>
 | 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2022—now | **Huapeng Gu** | **顾华鹏** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Rong Du** | **杜嵘** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
