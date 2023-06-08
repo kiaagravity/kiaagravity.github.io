@@ -59,13 +59,6 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
-0. M. Yuan, W. Zhu, M. Kramer, B. Peng, J. Lu, R. Xu, L. Shao, H.-G.  Wang,
-L. Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D.  Li, C.
-Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
-[High-altitude magnetospheric  emissions from two
-pulsars](https://doi.org/10.3847/1538-4357/accb9a), *Astrophys. J.* (accepted),
-arXiv:TBA
-
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.* 945 (2023) 148
 
@@ -90,6 +83,13 @@ Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
 star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469), *Astrophys. J.* 942 (2023) 88
+
+0. M. Yuan, W. Zhu, M. Kramer, B. Peng, J. Lu, R. Xu, L. Shao, H.-G.  Wang, L.
+Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D.  Li, C.
+Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
+[High-altitude magnetospheric  emissions from two
+pulsars](https://doi.org/10.3847/1538-4357/accb9a), *Astrophys. J.* 949 (2023)
+115
 
 0. X. Liu, Z. Cao, L. Shao, [Upgraded waveform model of eccentric binary black
 hole based on effective-one-body-numerical-relativity for spin-aligned binary
