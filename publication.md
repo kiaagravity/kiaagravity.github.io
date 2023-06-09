@@ -162,15 +162,15 @@ run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), 
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
 Theor. Exp. Phys.* (accepted), arXiv:2203.07011
 
-0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
-GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* (accepted), arXiv:2111.03604
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
+
+0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
+GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* 949 (2023) 76
 
 0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
 using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* 13 (2023) 011048
