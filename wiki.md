@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ## Group Meeting
 
-**Chair**: Dicong Liang (梁迪聪)
+**Chair**: Dr. Zhenwei Lyu (吕振伟)
 
 Group meeting provides a friendly environment to interact with group members or
 visiting scholars.  It also brings the opportunity to broaden views in science,
@@ -46,12 +46,12 @@ slides.
 
 ## Discussion on Research Topics
 
-**Chair**: Zhan-Feng Mai (麦展风)
+**Chair**: Dr. Zhan-Feng Mai (麦展风)
 
-We have weekly discussion on research topics every **Wednesdays 18:00—22:00** in
-the **Room 208 at KIAA**. The attendees are limited to graduates/postdocs who
-work on research projects in the group.  Speakers are encouraged to use
-blackboard only!
+We have weekly discussion on research topics every **Wednesdays 18:30—22:00** in
+the **Meeting Room in Auditorium**. The attendees are limited to
+graduates/postdocs who work on research projects in the group.  Speakers are
+encouraged to use blackboard only!
 
 <p></p>
 
