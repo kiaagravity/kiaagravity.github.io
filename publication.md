@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
+oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234),
+arXiv:2306.08234
+
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.
 Yi, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
