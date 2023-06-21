@@ -24,7 +24,7 @@ quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 small-radius white dwarfs made of heavy
 elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
 
-0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [On the extended thermodynamics of
+0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Extended thermodynamics of
 bumblebee black holes](https://arxiv.org/abs/2304.08030), arXiv:2304.08030
 
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
@@ -42,7 +42,7 @@ stars](https://arxiv.org/abs/2303.14130), arXiv:2303.14130
 0. D. Liang, L. Shao, [Improved bounds on the bosonic dark matter with pulsars
 in the Milky Way](https://arxiv.org/abs/2303.05107), arXiv:2303.05107
 
-0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [The $g$-mode of neutron stars in
+0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
@@ -56,12 +56,6 @@ Tests*, in press
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
-
-0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
-Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
-Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
-first workshop on Gravitational Wave Astrophysics for Early Career
-Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.* 945 (2023) 148
@@ -135,10 +129,6 @@ network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
-
-0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
-gravitational wave observatory: the science
-book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
 
 0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
 KAGRA and GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.*
@@ -819,6 +809,21 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 0. 邵立晶 [编译],
 [一“波”发现](http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml), *《物理》* 47
 (2018) 734
+{: reversed="reversed"}
+
+---
+
+### Unpublished
+
+0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
+gravitational wave observatory: the science
+book](https://arxiv.org/abs/2111.06990), arXiv:2111.06990
+
+0. J.-B. Bayle, B. Bonga, D. Doneva, T. Hinderer, A. Ghosh, N. Karnesis, M.
+Korobko, V. Korol, E.  Maggio, M. Muratore, A.I. Renzini, A. Ricciardone, S.
+Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
+first workshop on Gravitational Wave Astrophysics for Early Career
+Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 {: reversed="reversed"}
 
 ---
