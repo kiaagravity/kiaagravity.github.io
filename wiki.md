@@ -32,7 +32,7 @@ to learn different methods in solving problems, to strengthen the capability in
 scientifically sound presentations, even to develop close collaborations via
 inspiring discussions. 
 
-- Our group meetings take place in the <b>First Meeting Room at KIAA</b>. To
+- Our group meetings take place in the <b>Meeting Room in Auditorium</b>. To
 avoid conflicts with students' classes, the time is fixed to <b>Sundays
 9:00—12:00</b>.
 
@@ -48,7 +48,7 @@ slides.
 
 **Chair**: Dr. Zhan-Feng Mai (麦展风)
 
-We have weekly discussion on research topics every **Wednesdays 18:30—22:00** in
+We have weekly discussion on research topics every **Fridays 13:30—17:00** in
 the **Meeting Room in Auditorium**. The attendees are limited to
 graduates/postdocs who work on research projects in the group.  Speakers are
 encouraged to use blackboard only!
