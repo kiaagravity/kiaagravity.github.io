@@ -24,9 +24,6 @@ quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 small-radius white dwarfs made of heavy
 elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
 
-0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Extended thermodynamics of
-bumblebee black holes](https://arxiv.org/abs/2304.08030), arXiv:2304.08030
-
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
@@ -47,7 +44,7 @@ pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
-theory to Experimental Searches on All Scales*, arXiv:2206.15187
+theory to Experimental Searches on All Scales*, in press, arXiv:2206.15187
 
 0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
 pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
@@ -56,6 +53,10 @@ Tests*, in press
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Extended thermodynamics of the
+bumblebee black holes](https://arxiv.org/abs/2304.08030), *Phys. Rev. D*
+(accepted), arXiv:2304.08030
 
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.* 945 (2023) 148
