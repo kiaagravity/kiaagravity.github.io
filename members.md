@@ -255,6 +255,9 @@ beyond the standard model<br>
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2022—now | **Huapeng Gu** | **顾华鹏** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2023—now | **Yixuan Dang** | **党伊萱** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/) |
+| 2023—now | **Yuhao Dong** | **董玉豪** | Undergraduate |  [PHY-LZU](http://phy.lzu.edu.cn/) |
+| 2023—now | **Lirui Yang** | **杨力睿** | Undergraduate |  [Cambridge](https://www.phy.cam.ac.uk/) |
 
 <p></p>
 
