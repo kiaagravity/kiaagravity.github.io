@@ -54,10 +54,6 @@ Tests*, in press
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
-0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Extended thermodynamics of the
-bumblebee black holes](https://arxiv.org/abs/2304.08030), *Phys. Rev. D*
-(accepted), arXiv:2304.08030
-
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.* 945 (2023) 148
 
@@ -71,6 +67,10 @@ bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107 (
 0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
 magnetars: dynamical evolutions and modulations on polarized electromagnetic
 waves](https://arxiv.org/abs/2211.17087), *Mon. Not.  R. Astron. Soc.* 519 (2023) 1080
+
+0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Extended thermodynamics of the
+bumblebee black holes](https://arxiv.org/abs/2304.08030), *Phys. Rev. D*
+108 (2023) 024004
 
 0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
