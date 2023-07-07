@@ -42,6 +42,10 @@ in the Milky Way](https://arxiv.org/abs/2303.05107), arXiv:2303.05107
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
+0. F. Abbate, A. Noutsos, G.  Desvignes, R. Wharton, P. Torne, M. Kramer, R.P.
+Eatough, R. Karuppusamy, K.  Liu, L. Shao, J. Wongphecauxson, [Rotation measure
+variations in Galactic Centre pulsars](TBA), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:TBA
+
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, in press, arXiv:2206.15187
