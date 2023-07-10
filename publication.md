@@ -44,7 +44,8 @@ pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
 0. F. Abbate, A. Noutsos, G.  Desvignes, R. Wharton, P. Torne, M. Kramer, R.P.
 Eatough, R. Karuppusamy, K.  Liu, L. Shao, J. Wongphecauxson, [Rotation measure
-variations in Galactic Centre pulsars](TBA), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:TBA
+variations in Galactic Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon.
+Not. R. Astron. Soc.* (accepted), arXiv:2307.03230
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
