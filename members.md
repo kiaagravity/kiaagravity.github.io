@@ -258,6 +258,7 @@ beyond the standard model<br>
 | 2023—now | **Yixuan Dang** | **党伊萱** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/) |
 | 2023—now | **Yuhao Dong** | **董玉豪** | Undergraduate |  [PHY-LZU](http://phy.lzu.edu.cn/) |
 | 2023—now | **Lirui Yang** | **杨力睿** | Undergraduate |  [Cambridge](https://www.phy.cam.ac.uk/) |
+| 2023—now | **Ze Zhang** | **张泽** | Undergraduate |  [SA-HIT](http://sa.hit.edu.cn/) |
 
 <p></p>
 
