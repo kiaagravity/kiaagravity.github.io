@@ -136,6 +136,10 @@ network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
+0. J. Bregman, *et al.*, [Scientific objectives of the Hot Universe Baryon
+Surveyor (HUBS) mission](https://arxiv.org/abs/2307.05672), *Sci. China Phys.
+Mech. Astron.* (accepted), arXiv:2307.05672
+
 0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
 KAGRA and GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.*
 (accepted), arXiv:2302.03676
