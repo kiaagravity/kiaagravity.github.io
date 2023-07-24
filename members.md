@@ -279,36 +279,18 @@ beyond the standard model<br>
 ## Former Members
 
 | **NAME** | **DOCUMENT** |
-| **Zihe An** (**安子訸**)<br><small>COE-PKU</small> | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
-| **Jingyuan Deng** (**邓景元**)<br><small>DOA-PKU</small> |  <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
-| **Yiming Dong** (**董益铭**)<br><small>DOA-PKU</small> | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)<br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
+| **Zihe An** (**安子訸**)<br><small>Engineering, PKU</small> | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
+| **Jingyuan Deng** (**邓景元**)<br><small>Physics, PKU</small> |  <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
+| **Yiming Dong** (**董益铭**)<br><small>Physics, PKU</small> | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
+| **Yong Gao** (**高勇**)<br><small>Physics, PKU</small> | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (PKU'23) |
+| **Huapeng Gu** (**顾华鹏**)<br><small>Physics, PKU</small> | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (PKU'23) |
+| **Minghao Guo** (**郭明浩**)<br><small>Yuanpei, PKU</small> | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
+| **Zexin Hu** (**胡泽昕**)<br><small>Physics, PKU</small> |  <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
 | <br><small></small> |  |
 | <br><small></small> |  |
 | <br><small></small> |  |
 | <br><small></small> |  |
 | <br><small></small> |  |
-| <br><small></small> |  |
-| <br><small></small> |  |
-| <br><small></small> |  |
-| <br><small></small> |  |
-
-- **Yong Gao** (**高勇**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
-    *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (Peking University 2023)
-
-- **Huapeng Gu** (**顾华鹏**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (Peking University 2023)
-
-- **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *A Numerical Study of Scalar-tensor Gravity Theory* (Peking University 2021) 
-
-- **Zexin Hu** (**胡泽昕**), School of Physics, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Neutron Star Structures in Scalar-tensor Gravity* (2021)
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (Peking University 2022) 
 
 - **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
