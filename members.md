@@ -278,19 +278,19 @@ beyond the standard model<br>
 
 ## Former Members
 
-- **Zihe An** (**安子訸**), College of Engineering, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Fisher Matrix in Gravitational-wave Data Analysis* (2020)
-
-- **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *The Forced Precession of Pulsars* (Peking University 2021) 
-
-- **Yiming Dong** (**董益铭**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (Peking University 2023)
+| **NAME** | **DOCUMENT** |
+| **Zihe An** (**安子訸**)<br><small>COE-PKU</small> | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
+| **Jingyuan Deng** (**邓景元**)<br><small>DOA-PKU</small> |  <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
+| **Yiming Dong** (**董益铭**)<br><small>DOA-PKU</small> | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)<br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
+| <br><small></small> |  |
+| <br><small></small> |  |
+| <br><small></small> |  |
+| <br><small></small> |  |
+| <br><small></small> |  |
+| <br><small></small> |  |
+| <br><small></small> |  |
+| <br><small></small> |  |
+| <br><small></small> |  |
 
 - **Yong Gao** (**高勇**), Department of Astronomy, Peking University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
