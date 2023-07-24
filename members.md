@@ -278,139 +278,137 @@ beyond the standard model<br>
 
 ## Former Members
 
-- 2022—now, **Huapeng Gu** (**顾华鹏**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (Peking University 2023)
-
-- 2020—now, **Ziming Wang** (**王子铭**), Department of Astronomy, Peking University
+- **Zihe An** (**安子訸**), College of Engineering, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Testing Spacetime Symmetries with Gravitational Waves* (2022)
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Anatomy of Parameter-estimation Biases in Overlapping Gravitational-wave Signals* (Peking University 2023) 
+    *Fisher Matrix in Gravitational-wave Data Analysis* (2020)
 
-- 2021—now, **Yiming Dong** (**董益铭**), Department of Astronomy, Peking University
+- **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *The Forced Precession of Pulsars* (Peking University 2021) 
+
+- **Yiming Dong** (**董益铭**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (Peking University 2023)
 
-- 2021—now, **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai University 2022)
-    <!-- co-advisor: Liu Zhao -->
+- **Yong Gao** (**高勇**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
+    *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (Peking University 2023)
 
-- 2018—now, **Yacheng Kang** (**康亚城**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Exoplanets with Space-based Gravitational-wave Detectors* (2021)
+- **Huapeng Gu** (**顾华鹏**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (Peking University 2022) 
+    *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (Peking University 2023)
 
-- 2020—now, **Zexin Hu** (**胡泽昕**), School of Physics, Peking University
+- **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *A Numerical Study of Scalar-tensor Gravity Theory* (Peking University 2021) 
+
+- **Zexin Hu** (**胡泽昕**), School of Physics, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Neutron Star Structures in Scalar-tensor Gravity* (2021)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (Peking University 2022) 
 
-- 2018—now, **Junjie Zhao** (**赵俊杰**), Institute for Theoretical Physics, Peking University
-  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
-    *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* (Peking University 2021); 
-    co-advisor: Bo-Qiang Ma
-
-- 2018—now, **Xueli Miao** (**缪雪丽**), Institute for Theoretical Physics, Peking University
-  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
-    *Testing Gravity Theories with Binary Pulsar Systems* (Peking University 2021); 
-    co-advisor: Bo-Qiang Ma
-
-- 2019—now, **Rui Xu** (**徐睿**), Kavli Institute for Astronomy and Astrophysics, Peking University
-  - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
-    *Neutron Star Structure in Alternative Gravitational Theories* (2021)
-  - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
-    *Compact Objects in Alternative Theories of Gravity* (2023)
-
-- 2019—now, **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
+- **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
+    *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai University 2022)
+    <!-- co-advisor: Liu Zhao -->
 
-- 2018—2023, **Yong Gao** (**高勇**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
-    *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (Peking University 2023)
-
-- 2018—2023, **Zihang Wang** (**王子航**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
-    *Axion as a Dark Matter Candidate* (Peking University 2023)
-
-- 2021—2022, **Zhejian Zhang** (**张喆戬**), Department of Astronomy, Peking University
+- **Yacheng Kang** (**康亚城**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Testing Equivalence Principle with Pulsar Timing* (2022)
+    *Exoplanets with Space-based Gravitational-wave Detectors* (2021)
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (Peking University 2022) 
 
-- 2021—2022, **Haoyang Qi** (**祁昊洋**), School of Physics, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Constraining Ultralight Dark Matters with Pulsar Timing* (2022)
-
-- 2020—2022, **Sobhan Kazempour**, Faculty of Physics, Tabriz University
+- **Sobhan Kazempour**, Faculty of Physics, Tabriz University
   - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
     *Cosmological Aspects of Massive Gravity Theory* (Tabriz University 2022); 
     co-advisors: Amin Rezaei Akbarieh & Hossein Motavalli
 
-- 2018—2022, **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
+- **Chunjiang Li** (**李春江**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Track Down Radio Frequency Interference in FAST Data* (Peking University 2021);
+    co-advisor: Weiwei Zhu 
+
+- **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University 
+  - <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
+    *NANOGrav Signal from First-order Confinement-deconfinement Phase Transition* (2021)
+
+- **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Astrophysics from Space-based Gravitational Wave Detectors* (Peking University 2019)
+
+- **Xueli Miao** (**缪雪丽**), Institute for Theoretical Physics, Peking University
+  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
+    *Testing Gravity Theories with Binary Pulsar Systems* (Peking University 2021); 
+    co-advisor: Bo-Qiang Ma
+
+- **Haoyang Qi** (**祁昊洋**), School of Physics, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Constraining Ultralight Dark Matters with Pulsar Timing* (2022)
+
+- **Lingqian Qiu** (**邱令倩**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Research on Suitable Neural Network Models for Gravitational Wave Detection* (Peking University 2021) 
+
+- **Zhongpeng Sun** (**孙忠鹏**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> 
+    *Constraining Dark Matter Properties with Neutron Stars* (Peking University 2019)
+
+- **Yu Tao** (**陶昱**), School of Physics, Peking University
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> 
+    *Brief Studies on Gravitational Waveform of Numerical Relativity* (Peking University 2020)
+
+- **Huimei Wang** (**王惠美**), Department of Astronomy, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Bounding the Photon Mass with Fast Radio Bursts* (2020)
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *The Structure of Neutron Stars with Anisotropic Pressure* (Peking University 2021) 
 
-- 2020—2022, **Jingyuan Deng** (**邓景元**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *The Forced Precession of Pulsars* (Peking University 2021) 
-
-- 2020—2021, **Shou-Long Li** (**李守龙**), School of Physics and Electronics, Hunan Normal University 
-  - <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
-    *NANOGrav Signal from First-order Confinement-deconfinement Phase Transition* (2021)
-
-- 2019—2021, **Minghao Guo** (**郭明浩**), Yuanpei College, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *A Numerical Study of Scalar-tensor Gravity Theory* (Peking University 2021) 
-
-- 2020—2021, **Chunjiang Li** (**李春江**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Track Down Radio Frequency Interference in FAST Data* (Peking University 2021);
-    co-advisor: Weiwei Zhu 
-
-- 2020—2021, **Lingqian Qiu** (**邱令倩**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Research on Suitable Neural Network Models for Gravitational Wave Detection* (Peking University 2021) 
-
-- 2019—2020, **Zihe An** (**安子訸**), College of Engineering, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Fisher Matrix in Gravitational-wave Data Analysis* (2020)
-
-- 2019—2020, **Yichen Wang** (**王弋尘**), School of Physics, Peking University
+- **Yichen Wang** (**王弋尘**), School of Physics, Peking University
   - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
     *Constraining Dark-matter Particles with Neutron Stars* (2020)
 
-- 2019—2020, **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking University
+- **Zihang Wang** (**王子航**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span>
+    *Axion as a Dark Matter Candidate* (Peking University 2023)
+
+- **Ziming Wang** (**王子铭**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Testing Spacetime Symmetries with Gravitational Waves* (2022)
+  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
+    *Anatomy of Parameter-estimation Biases in Overlapping Gravitational-wave Signals* (Peking University 2023) 
+
+- **Heming Xia** (**夏鹤明**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
     *Deep Learning in Gravitational Wave Data Processing* (Peking University 2020) 
 
-- 2019—2020, **Yu Tao** (**陶昱**), School of Physics, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> 
-    *Brief Studies on Gravitational Waveform of Numerical Relativity* (Peking University 2020)
+- **Rui Xu** (**徐睿**), Kavli Institute for Astronomy and Astrophysics, Peking University
+  - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
+    *Neutron Star Structure in Alternative Gravitational Theories* (2021)
+  - <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span>
+    *Compact Objects in Alternative Theories of Gravity* (2023)
 
-- 2018—2019, **Wenlong Li** (**李汶隆**), Department of Astronomy, Peking University
+- **Zhejian Zhang** (**张喆戬**), Department of Astronomy, Peking University
+  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
+    *Testing Equivalence Principle with Pulsar Timing* (2022)
+
+- **Junjie Zhao** (**赵俊杰**), Institute for Theoretical Physics, Peking University
+  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
+    *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* (Peking University 2021); 
+    co-advisor: Bo-Qiang Ma
+
+- **Xinmiao Zhao** (**赵鑫淼**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Astrophysics from Space-based Gravitational Wave Detectors* (Peking University 2019)
+    *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (Peking University 2021) 
 
-- 2018—2019, **Zhongpeng Sun** (**孙忠鹏**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> 
-    *Constraining Dark Matter Properties with Neutron Stars* (Peking University 2019)
 
 <!--
 
 Comments
 
-| 2018—2023 | **Zihang Wang** | **王子航** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—2022 | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
-| 2021—2022 | **Haoyang Qi** | **祁昊洋** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2021—2022 | **Zhejian Zhang** | **张喆戬** | Joint Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—2022 | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—2022 | **Wenrui Li** | **李文睿** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—2022 | **Bingcheng Jin** | **金秉诚** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
