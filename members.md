@@ -278,29 +278,29 @@ beyond the standard model<br>
 
 ## Former Members
 
-| **An, Zihe** (**安子訸**); <small>Engineering, PKU</small> | 
+| **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
-| **Deng, Jingyuan** (**邓景元**); <small>Physics, PKU</small> |
+| **Deng, Jingyuan** (**邓景元**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
-| **Dong, Yiming** (**董益铭**); <small>Physics, PKU</small> |
+| **Dong, Yiming** (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
-| **Gao, Yong** (**高勇**); <small>Physics, PKU</small> |
+| **Gao, Yong** (**高勇**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (PKU'23) |
-| **Gu, Huapeng** (**顾华鹏**); <small>Physics, PKU</small> |
+| **Gu, Huapeng** (**顾华鹏**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (PKU'23) |
-| **Guo, Minghao** (**郭明浩**); <small>Yuanpei, PKU</small> |
+| **Guo, Minghao** (**郭明浩**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
-| **Hu, Zexin** (**胡泽昕**)<br><small>Physics, PKU</small> |
+| **Hu, Zexin** (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
-| **Ji, Peixiang** (**姬佩祥**)<br><small>Physics, PKU</small> |
+| **Ji, Peixiang** (**姬佩祥**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai'22) <!-- co-advisor: Liu Zhao --> |
-| **Kang, Yacheng** (**康亚城**)<br><small>Physics, PKU</small> |
+| **Kang, Yacheng** (**康亚城**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Exoplanets with Space-based Gravitational-wave Detectors* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (PKU'22)  |
-| **Kazempour, Sobhan**<br><small>Physics, TabrizU</small> |
+| **Kazempour, Sobhan** &#9830; <small>Faculty of Physics, University of Tabriz</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Cosmological Aspects of Massive Gravity Theory* (TabrizU'22)<br> co-advisors: Amin Rezaei Akbarieh & Hossein Motavalli |
-| ; <small></small> |
+| &#9830; <small></small> |
 | |
-| ; <small></small> |
+| &#9830; <small></small> |
 | |
 
 - **Chunjiang Li** (**李春江**), Department of Astronomy, Peking University
