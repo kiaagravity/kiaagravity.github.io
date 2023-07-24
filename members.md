@@ -297,7 +297,7 @@ beyond the standard model<br>
 | &#9830; **Kang, Yacheng** (**康亚城**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Exoplanets with Space-based Gravitational-wave Detectors* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (PKU'22)  |
 | &#9830; **Kazempour, Sobhan** &#9830; <small>Faculty of Physics, University of Tabriz</small> |
-| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Cosmological Aspects of Massive Gravity Theory* (TabrizU'22); co-advisors: Amin Rezaei Akbarieh & Hossein Motavalli |
+| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Cosmological Aspects of Massive Gravity Theory* (TabrizU'22); co-advisors: A.R. Akbarieh & H. Motavalli |
 | &#9830; **Li, Chunjiang** (**李春江**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Track Down Radio Frequency Interference in FAST Data* (PKU'21); co-advisor: Weiwei Zhu  |
 | &#9830; **Li, Shou-Long** (**李守龙**) &#9830; <small>School of Physics and Electronics, Hunan Normal University</small> |
@@ -305,11 +305,11 @@ beyond the standard model<br>
 | &#9830; **Li, Wenlong** (**李汶隆**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Astrophysics from Space-based Gravitational Wave Detectors* (PKU'19) |
 | &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Gravity Theories with Binary Pulsar Systems* (Peking University 2021); co-advisor: Bo-Qiang Ma |
+| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Gravity Theories with Binary Pulsar Systems* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; **Qi, Haoyang** (**祁昊洋**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Ultralight Dark Matters with Pulsar Timing* (2022) |
 | &#9830; **Qiu, Lingqian** (**邱令倩**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>, *Research on Suitable Neural Network Models for Gravitational Wave Detection* (PKU'21) |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Research on Suitable Neural Network Models for Gravitational Wave Detection* (PKU'21) |
 | &#9830; **Sun, Zhongpeng** (**孙忠鹏**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Constraining Dark Matter Properties with Neutron Stars* (PKU'19) |
 | &#9830; **Tao, Yu** (**陶昱**) &#9830; <small>School of Physics, Peking University</small> |
