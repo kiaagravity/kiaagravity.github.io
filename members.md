@@ -278,35 +278,30 @@ beyond the standard model<br>
 
 ## Former Members
 
-| **NAME** | **DOCUMENT** |
-| **Zihe An** (**安子訸**)<br><small>Engineering, PKU</small> | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
-| **Jingyuan Deng** (**邓景元**)<br><small>Physics, PKU</small> |  <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
-| **Yiming Dong** (**董益铭**)<br><small>Physics, PKU</small> | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
-| **Yong Gao** (**高勇**)<br><small>Physics, PKU</small> | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (PKU'23) |
-| **Huapeng Gu** (**顾华鹏**)<br><small>Physics, PKU</small> | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (PKU'23) |
-| **Minghao Guo** (**郭明浩**)<br><small>Yuanpei, PKU</small> | <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
-| **Zexin Hu** (**胡泽昕**)<br><small>Physics, PKU</small> |  <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
-| <br><small></small> |  |
-| <br><small></small> |  |
-| <br><small></small> |  |
-| <br><small></small> |  |
-| <br><small></small> |  |
-
-- **Peixiang Ji** (**姬佩祥**), School of Physics, Nankai University
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai University 2022)
-    <!-- co-advisor: Liu Zhao -->
-
-- **Yacheng Kang** (**康亚城**), Department of Astronomy, Peking University
-  - <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> 
-    *Exoplanets with Space-based Gravitational-wave Detectors* (2021)
-  - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
-    *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (Peking University 2022) 
-
-- **Sobhan Kazempour**, Faculty of Physics, Tabriz University
-  - <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span>
-    *Cosmological Aspects of Massive Gravity Theory* (Tabriz University 2022); 
-    co-advisors: Amin Rezaei Akbarieh & Hossein Motavalli
+| **An, Zihe** (**安子訸**); <small>Engineering, PKU</small> | 
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
+| **Deng, Jingyuan** (**邓景元**); <small>Physics, PKU</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
+| **Dong, Yiming** (**董益铭**); <small>Physics, PKU</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
+| **Gao, Yong** (**高勇**); <small>Physics, PKU</small> |
+| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (PKU'23) |
+| **Gu, Huapeng** (**顾华鹏**); <small>Physics, PKU</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (PKU'23) |
+| **Guo, Minghao** (**郭明浩**); <small>Yuanpei, PKU</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
+| **Hu, Zexin** (**胡泽昕**)<br><small>Physics, PKU</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
+| **Ji, Peixiang** (**姬佩祥**)<br><small>Physics, PKU</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai'22) <!-- co-advisor: Liu Zhao --> |
+| **Kang, Yacheng** (**康亚城**)<br><small>Physics, PKU</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Exoplanets with Space-based Gravitational-wave Detectors* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span> *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (PKU'22)  |
+| **Kazempour, Sobhan**<br><small>Physics, TabrizU</small> |
+| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Cosmological Aspects of Massive Gravity Theory* (TabrizU'22)<br> co-advisors: Amin Rezaei Akbarieh & Hossein Motavalli |
+| ; <small></small> |
+| |
+| ; <small></small> |
+| |
 
 - **Chunjiang Li** (**李春江**), Department of Astronomy, Peking University
   - <small><span style="background-color:#32CD32"><font color="white"><b>BT</b></font></span>
