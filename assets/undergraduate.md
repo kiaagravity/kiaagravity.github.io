@@ -91,13 +91,17 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
-0. **J. Hu (胡杰瑞)**, D. Liang, L. Shao, in prep.
+0. **J. Hu (胡杰瑞)**, D. Liang, L. Shao, [3G polarization test](TBA), arXiv:TBA
 
-0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, in prep.
+0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, [New limits on local Lorentz
+invariance violation of gravity in the Standard-Model Extension with
+pulsars](TBA), arXiv:TBA
 
-0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, in prep.
+0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, [Moments of inertia of axisymmetric
+neutron stars in the Standard-Model Extension](TBA), arXiv:TBA
 
-0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, in prep.
+0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities
+with modified black hole horizon](TBA), arXiv:TBA
 
 0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
