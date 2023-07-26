@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
+fields for scalar, electromagnetic, and gravitational waves with
+spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), arXiv:2307.13374
+
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234),
 arXiv:2306.08234
