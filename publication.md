@@ -36,11 +36,12 @@ signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 Yang, B. Zhang, [GRB 211211A-like events and how gravitational waves may tell
 their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
 
-0. D. Liang, L. Shao, [Improved bounds on the bosonic dark matter with pulsars
-in the Milky Way](https://arxiv.org/abs/2303.05107), arXiv:2303.05107
-
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
+
+0. D. Liang, L. Shao, [Improved bounds on the bosonic dark matter with pulsars
+in the Milky Way](https://arxiv.org/abs/2303.05107), *J.  Cosmol. Astropart.
+Phys.* (accepted),  arXiv:2303.05107
 
 0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
 eccentricity and the moment of inertia for rotating neutron
