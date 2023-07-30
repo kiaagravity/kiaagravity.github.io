@@ -145,10 +145,6 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 Surveyor (HUBS) mission](https://arxiv.org/abs/2307.05672), *Sci. China Phys.
 Mech. Astron.* (accepted), arXiv:2307.05672
 
-0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
-KAGRA and GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.*
-(accepted), arXiv:2302.03676
-
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* (accepted),
@@ -173,6 +169,10 @@ arXiv:2112.06861
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
+
+0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
+KAGRA and GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.* 267
+(2023) 29
 
 0. R. Abbott, *et al.*, [Constraints on the cosmic expansion history from
 GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* 949 (2023) 76
