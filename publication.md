@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
+from trapped magnetar ejecta and the connection to glitches and
+antiglitches](https://arxiv.org/abs/2308.01588), arXiv:2308.01588
+
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
 spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), arXiv:2307.13374
