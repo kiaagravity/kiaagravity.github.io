@@ -51,11 +51,6 @@ Phys.* (accepted),  arXiv:2303.05107
 eccentricity and the moment of inertia for rotating neutron
 stars](https://arxiv.org/abs/2303.14130), *Astrophys. J.* (accepted),  arXiv:2303.14130
 
-0. F. Abbate, A. Noutsos, G.  Desvignes, R. Wharton, P. Torne, M. Kramer, R.P.
-Eatough, R. Karuppusamy, K.  Liu, L. Shao, J. Wongphecauxson, [Rotation measure
-variations in Galactic Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon.
-Not. R. Astron. Soc.* (accepted), arXiv:2307.03230
-
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, in press, arXiv:2206.15187
@@ -103,6 +98,11 @@ Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
 [High-altitude magnetospheric  emissions from two
 pulsars](https://doi.org/10.3847/1538-4357/accb9a), *Astrophys. J.* 949 (2023)
 115
+
+0. F. Abbate, A. Noutsos, G.  Desvignes, R. Wharton, P. Torne, M. Kramer, R.P.
+Eatough, R. Karuppusamy, K.  Liu, L. Shao, J. Wongphecauxson, [Rotation measure
+variations in Galactic Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon.
+Not. R. Astron. Soc.* 524 (2023) 2966
 
 0. X. Liu, Z. Cao, L. Shao, [Upgraded waveform model of eccentric binary black
 hole based on effective-one-body-numerical-relativity for spin-aligned binary
