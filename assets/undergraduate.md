@@ -104,7 +104,8 @@ pulsars](TBA), arXiv:TBA
 neutron stars in the Standard-Model Extension](TBA), arXiv:TBA
 
 0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities
-with modified black hole horizon](TBA), arXiv:TBA
+of massive bosons around exotic compact
+objects](https://arxiv.org/abs/2308.03091), arXiv:2308.03091
 
 0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave

@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. L. Zhou, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities of massive
+bosons around exotic compact objects](https://arxiv.org/abs/2308.03091),
+arXiv:2308.03091
+
 0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
 from trapped magnetar ejecta and the connection to glitches and
 antiglitches](https://arxiv.org/abs/2308.01588), arXiv:2308.01588
