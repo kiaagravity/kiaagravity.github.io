@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Hu, L. Shao, F. Zhang, [Prospects for probing small-scale dark matter
+models with pulsars around Sagittarius A$^\ast$](TBA), submitted
+
 0. L. Zhou, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities of massive
 bosons around exotic compact objects](https://arxiv.org/abs/2308.03091),
 arXiv:2308.03091
@@ -140,6 +143,10 @@ Scientific, Singapore, 2023), p. 250
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. A.G. Abac, *et al.*, [Search for
+eccentric black hole coalescences during the third Observing Run of LIGO and
+Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
 0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
 third observing run of the LIGO-Virgo
