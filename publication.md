@@ -170,10 +170,6 @@ radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
 O3a](https://arxiv.org/abs/2203.12038), *Astrophys. J.* (accepted),
 arXiv:2203.12038
 
-0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
-second part of Advanced LIGO's and Advanced Virgo's third observing
-run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2212.01477
-
 0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
 Theor. Exp. Phys.* (accepted), arXiv:2203.07011
@@ -184,6 +180,10 @@ arXiv:2112.06861
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
+
+0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
+second part of Advanced LIGO's and Advanced Virgo's third observing
+run](https://arxiv.org/abs/2212.01477), *Mon. Not. R. Astron. Soc.* 524 (2023) 5984
 
 0. R. Abbott, *et al.*, [Open data from the third observing run of LIGO, Virgo,
 KAGRA and GEO](https://arxiv.org/abs/2302.03676), *Astrophys. J. Suppl.* 267
