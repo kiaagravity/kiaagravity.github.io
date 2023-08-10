@@ -50,10 +50,6 @@ their origin](https://arxiv.org/abs/2304.06581), arXiv:2304.06581
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
-0. D. Liang, L. Shao, [Improved bounds on the bosonic dark matter with pulsars
-in the Milky Way](https://arxiv.org/abs/2303.05107), *J.  Cosmol. Astropart.
-Phys.* (accepted),  arXiv:2303.05107
-
 0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
 eccentricity and the moment of inertia for rotating neutron
 stars](https://arxiv.org/abs/2303.14130), *Astrophys. J.* (accepted),  arXiv:2303.14130
@@ -69,6 +65,10 @@ Tests*, in press
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. D. Liang, L. Shao, [Improved bounds on the bosonic dark matter with pulsars
+in the Milky Way](https://arxiv.org/abs/2303.05107), *J.  Cosmol. Astropart.
+Phys.* 08 (2023) 016
 
 0. R. Xu, D. Liang, L.  Shao, [Bumblebee black holes in light of Event Horizon
 Telescope observations](https://arxiv.org/abs/2302.05671), *Astrophys. J.* 945 (2023) 148
