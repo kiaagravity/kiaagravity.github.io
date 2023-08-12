@@ -256,7 +256,6 @@ beyond the standard model<br>
 | 2022—now | **Huapeng Gu** | **顾华鹏** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Yixuan Dang** | **党伊萱** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/) |
-| 2023—now | **Yuhao Dong** | **董玉豪** | Undergraduate |  [PHY-LZU](http://phy.lzu.edu.cn/) |
 | 2023—now | **Lirui Yang** | **杨力睿** | Undergraduate |  [Cambridge](https://www.phy.cam.ac.uk/) |
 | 2023—now | **Ze Zhang** | **张泽** | Undergraduate |  [SA-HIT](http://sa.hit.edu.cn/) |
 
@@ -338,13 +337,14 @@ beyond the standard model<br>
 
 Comments
 
+| 2023—2023 | **Yuhao Dong** | **董玉豪** | Undergraduate |  [PHY-LZU](http://phy.lzu.edu.cn/) |
 | 2022—2022 | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
 | 2020—2022 | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—2022 | **Wenrui Li** | **李文睿** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—2022 | **Bingcheng Jin** | **金秉诚** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—2022 | **Zixiang Jia** | **郏梓翔** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2019—2022 | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
+| 2021—2023 | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
 | 2021—2021 | **Li Huang** | **黄力** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
 | 2021—2022 | **Haimeng Chen** | **陈海萌** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 | 2018—2020 | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
