@@ -162,7 +162,7 @@ beyond the standard model<br>
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b>[Yong Gao](https://gravyong.github.io/) (高勇)</b></h5>
+        <h5><b><a href="https://gravyong.github.io/">Yong Gao</a> (高勇)</b></h5>
         <p class="teamtitle"><small>AEI/Potsdam·博后</small></p>
         </center>
       </div>
@@ -175,7 +175,7 @@ beyond the standard model<br>
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b>[Xueli Miao](http://groups.bao.ac.cn/psr/en/people/202210/t20221027_719450.html) (缪雪丽)</b></h5>
+        <h5><b><a href="http://groups.bao.ac.cn/psr/en/people/202210/t20221027_719450.html">Xueli Miao</a> (缪雪丽)</b></h5>
         <p class="teamtitle"><small>国家天文台·FAST Fellow</small></p>
         </center>
       </div>
@@ -188,7 +188,7 @@ beyond the standard model<br>
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b>[Rui Xu](https://ryxxastroat.github.io/) (徐睿)</b></h5>
+        <h5><b><a href="https://ryxxastroat.github.io/">Rui Xu</a> (徐睿)</b></h5>
         <p class="teamtitle"><small>清华大学·博后</small></p>
         </center>
       </div>
