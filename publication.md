@@ -156,10 +156,6 @@ network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
-0. J. Bregman, *et al.*, [Scientific objectives of the Hot Universe Baryon
-Surveyor (HUBS) mission](https://arxiv.org/abs/2307.05672), *Sci. China Phys.
-Mech. Astron.* (accepted), arXiv:2307.05672
-
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* (accepted),
@@ -180,6 +176,10 @@ arXiv:2112.06861
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
+
+0. J. Bregman, *et al.*, [Scientific objectives of the Hot Universe Baryon
+Surveyor (HUBS) mission](https://arxiv.org/abs/2307.05672), *Sci. China Phys.
+Mech. Astron.* 66 (2023) 299513
 
 0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
 second part of Advanced LIGO's and Advanced Virgo's third observing
