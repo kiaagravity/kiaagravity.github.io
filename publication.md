@@ -46,14 +46,16 @@ signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
 
+0. X.L. Miao, W.W. Zhu, M. Kramer, P.C.C. Freire, L.  Shao, M. Yuan, L.Q.  Meng,
+Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.  Fonseca, J.M.  Yao, M.Y. Xue,
+J.R. Niu, H. Hu, C.M. Zhang, [Variability, polarimetry, and timing properties of
+single pulses from PSR J2222$-$0137 using FAST](https://arxiv.org/abs/TBA),
+*Mon.  Not. R. Astron. Soc.* (accepted), arXiv:TBA
+
 0. Y.-H. I. Yin, B.-B. Zhang, H. Sun, J. Yang, Y. Kang, L.  Shao, Y.-H.
 Yang, B. Zhang, [GRB 211211A-like events and how gravitational waves may tell
 their origin](https://arxiv.org/abs/2304.06581), *Astrophys. J.  Lett.*
 (accepted), arXiv:2304.06581
-
-0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
-eccentricity and the moment of inertia for rotating neutron
-stars](https://arxiv.org/abs/2303.14130), *Astrophys. J.* (accepted),  arXiv:2303.14130
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
@@ -66,6 +68,10 @@ Tests*, in press
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
+eccentricity and the moment of inertia for rotating neutron
+stars](https://arxiv.org/abs/2303.14130), *Astrophys. J.* 954 (2023) 16
 
 0. D. Liang, L. Shao, [Improved bounds on the bosonic dark matter with pulsars
 in the Milky Way](https://arxiv.org/abs/2303.05107), *J.  Cosmol. Astropart.
