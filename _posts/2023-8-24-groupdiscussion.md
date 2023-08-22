@@ -16,7 +16,7 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Peixiang, Ziming, Yacheng, Zexin, Di
 ### Agenda
 
 
-- Garvin Yim: **Null stream with pulsar timing arrays**
+- Dicong Liang: **Null stream with pulsar timing arrays**
 
 
 Xingjiang Zhu et al.[[Link](https://arxiv.org/abs/1502.06001)];
