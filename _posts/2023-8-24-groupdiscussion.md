@@ -20,7 +20,7 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Peixiang, Ziming, Yacheng, Zexin, Di
 
 
 Xingjiang Zhu et al.[[Link](https://arxiv.org/abs/1502.06001)];
-Janna Goldstein et al.[[Link]([Janna Goldstein](https://arxiv.org/abs/1712.03975))];
+Janna Goldstein et al.[[Link]((https://arxiv.org/abs/1712.03975))];
  
 
 
