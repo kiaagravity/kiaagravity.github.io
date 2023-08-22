@@ -44,13 +44,14 @@ parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
-pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), arXiv:2302.03856
+pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), *Phys. Rev. D*
+(accepted), arXiv:2302.03856
 
 0. X.L. Miao, W.W. Zhu, M. Kramer, P.C.C. Freire, L.  Shao, M. Yuan, L.Q.  Meng,
 Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.  Fonseca, J.M.  Yao, M.Y. Xue,
 J.R. Niu, H. Hu, C.M. Zhang, [Variability, polarimetry, and timing properties of
-single pulses from PSR J2222$-$0137 using FAST](https://arxiv.org/abs/TBA),
-*Mon.  Not. R. Astron. Soc.* (accepted), arXiv:TBA
+single pulses from PSR J2222$-$0137 using FAST](https://arxiv.org/abs/2308.10683),
+*Mon.  Not. R. Astron. Soc.* (accepted), arXiv:2308.10683
 
 0. Y.-H. I. Yin, B.-B. Zhang, H. Sun, J. Yang, Y. Kang, L.  Shao, Y.-H.
 Yang, B. Zhang, [GRB 211211A-like events and how gravitational waves may tell
