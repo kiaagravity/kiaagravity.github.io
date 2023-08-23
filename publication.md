@@ -206,6 +206,25 @@ using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Ph
 0. R. Abbott, *et al.*, [The first joint observation by KAGRA with GEO
 600](https://pos.sissa.it/444/1579), *PoS* (ICRC2023) 1579
 
+0. H. Abe, *et al.*, [Development of Gravity Field Calibrator for
+KAGRA](https://doi.org/10.22323/1.444.1550), *PoS* (ICRC2023) 1550
+
+0. H. Abe, *et al.*, [Calibration of the integrating sphere for O4 in KAGRA
+gravitational wave telescope](https://doi.org/10.22323/1.444.1553), *PoS*
+(ICRC2023) 1553
+
+0. H. Abe, *et al.*, [Status of KAGRA](https://doi.org/10.22323/1.444.1555),
+*PoS* (ICRC2023) 1555
+
+0. H. Abe, *et al.*, [Investigation of the environmental noise at KAGRA
+detector](https://doi.org/10.22323/1.444.1557), *PoS* (ICRC2023) 1557
+
+0. H. Abe, *et al.*, [Calibration of the gravitational wave telescope
+KAGRA](https://doi.org/10.22323/1.444.1549), *PoS* (ICRC2023) 1549
+
+0. H. Abe, *et al.*, [Detector characterization of KAGRA for the fourth
+observing run](https://doi.org/10.22323/1.444.1564), *PoS* (ICRC2023) 1564
+
 0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
 component analysis](https://arxiv.org/abs/2206.05785), *Class. Quantum Grav.* 40 (2023) 085015
 
