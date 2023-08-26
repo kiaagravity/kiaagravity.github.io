@@ -43,6 +43,10 @@ elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 
+0. Y. Gong, Z. Cao, J. Zhao, L. Shao, [Including higher harmonics in
+gravitational-wave parameter estimation and cosmological implications for
+LISA](TBA), *Phys. Rev. D* (accepted), arXiv:TBA
+
 0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
 pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), *Phys. Rev. D*
 (accepted), arXiv:2302.03856
