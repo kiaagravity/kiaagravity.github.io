@@ -168,6 +168,10 @@ network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Data transfer and
+management](https://arxiv.org/abs/TBA), *Prog. Theor. Exp.  Phys.* (accepted),
+arXiv:TBA
+
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* (accepted),
