@@ -173,9 +173,8 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 management](https://arxiv.org/abs/TBA), *Prog. Theor. Exp.  Phys.* (accepted),
 arXiv:TBA
 
-0. P. Torne, K. Liu, R.P.  Eatough, J. Wongphechauxsorn, *et al.*  (EHT
-Collaboration), [A search for pulsars around Sgr A$^\ast$ in the first Event
-Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
+0. P. Torne, K. Liu, *et al.*, [A search for pulsars around Sgr A$^\ast$ in the
+first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 *Astrophys. J.* (accepted), arXiv:2308.15381
 
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
