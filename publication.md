@@ -58,11 +58,6 @@ J.R. Niu, H. Hu, C.M. Zhang, [Variability, polarimetry, and timing properties of
 single pulses from PSR J2222$-$0137 using FAST](https://arxiv.org/abs/2308.10683),
 *Mon.  Not. R. Astron. Soc.* (accepted), arXiv:2308.10683
 
-0. Y.-H. I. Yin, B.-B. Zhang, H. Sun, J. Yang, Y. Kang, L.  Shao, Y.-H.
-Yang, B. Zhang, [GRB 211211A-like events and how gravitational waves may tell
-their origin](https://arxiv.org/abs/2304.06581), *Astrophys. J.  Lett.*
-(accepted), arXiv:2304.06581
-
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, in press, arXiv:2206.15187
@@ -111,6 +106,11 @@ Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
 star mergers. II. Optimal search strategy for serendipitous observations and
 target-of-opportunity observations of gravitational-wave
 triggers](https://arxiv.org/abs/2110.10469), *Astrophys. J.* 942 (2023) 88
+
+0. Y.-H. I. Yin, B.-B. Zhang, H. Sun, J. Yang, Y. Kang, L.  Shao, Y.-H.  Yang,
+B. Zhang, [GRB 211211A-like events and how gravitational waves may tell their
+origins](https://arxiv.org/abs/2304.06581), *Astrophys. J.  Lett.* 954 (2023)
+L17
 
 0. M. Yuan, W. Zhu, M. Kramer, B. Peng, J. Lu, R. Xu, L. Shao, H.-G.  Wang, L.
 Meng, J. Niu, R. Zhao, C. Miao, X. Miao, M. Xue, Y. Feng, P. Wang, D.  Li, C.
