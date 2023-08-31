@@ -8,7 +8,7 @@ permalink: /publication/
 
 ---
 
-### 2023
+### 2024
 
 ##### Short-author-list Papers
 
@@ -35,13 +35,43 @@ arXiv:2306.08234
 Yi, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 
-0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
-small-radius white dwarfs made of heavy
-elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
-
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
+
+0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
+pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
+Tests*, in press
+
+0. L. Shao, [Testing relativistic gravity with radio timing of neutron
+stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
+press
+{: reversed="reversed"}
+
+##### Other Papers
+
+0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
+Gravitational-Wave Candidates from the Third Gravitational-wave Observing
+Run](https://arxiv.org/abs/2308.13666), arXiv:2308.13666
+
+0. A.G. Abac, *et al.*, [Search for
+eccentric black hole coalescences during the third Observing Run of LIGO and
+Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
+third observing run of the LIGO-Virgo
+network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
+
+0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
+with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
+observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+{: reversed="reversed"}
+
+---
+
+### 2023
+
+##### Short-author-list Papers
 
 0. Y. Gong, Z. Cao, J. Zhao, L. Shao, [Including higher harmonics in
 gravitational-wave parameter estimation and cosmological implications for
@@ -61,14 +91,6 @@ single pulses from PSR J2222$-$0137 using FAST](https://arxiv.org/abs/2308.10683
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales*, in press, arXiv:2206.15187
-
-0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
-pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
-Tests*, in press
-
-0. L. Shao, [Testing relativistic gravity with radio timing of neutron
-stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
-press
 
 0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
 eccentricity and the moment of inertia for rotating neutron
@@ -156,22 +178,6 @@ Scientific, Singapore, 2023), p. 250
 {: reversed="reversed"}
 
 ##### Other Papers
-
-0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
-Gravitational-Wave Candidates from the Third Gravitational-wave Observing
-Run](https://arxiv.org/abs/2308.13666), arXiv:2308.13666
-
-0. A.G. Abac, *et al.*, [Search for
-eccentric black hole coalescences during the third Observing Run of LIGO and
-Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
-
-0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
-third observing run of the LIGO-Virgo
-network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
-
-0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
-with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
-observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: Data transfer and
 management](https://arxiv.org/abs/TBA), *Prog. Theor. Exp.  Phys.* (accepted),
@@ -891,6 +897,10 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 ---
 
 ### Unpublished
+
+0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
+small-radius white dwarfs made of heavy
+elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
 
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
