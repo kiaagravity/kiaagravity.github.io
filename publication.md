@@ -157,6 +157,10 @@ Scientific, Singapore, 2023), p. 250
 
 ##### Other Papers
 
+0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
+Gravitational-Wave Candidates from the Third Gravitational-wave Observing
+Run](https://arxiv.org/abs/2308.13666), arXiv:2308.13666
+
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
