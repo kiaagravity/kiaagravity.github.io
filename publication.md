@@ -180,8 +180,8 @@ Scientific, Singapore, 2023), p. 250
 ##### Other Papers
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: Data transfer and
-management](https://arxiv.org/abs/TBA), *Prog. Theor. Exp.  Phys.* (accepted),
-arXiv:TBA
+management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.*
+(accepted), arXiv:TBA
 
 0. P. Torne, K. Liu, *et al.*, [A search for pulsars around Sgr A$^\ast$ in the
 first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
