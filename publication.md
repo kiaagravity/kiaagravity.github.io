@@ -78,10 +78,6 @@ gravitational-wave parameter estimation and cosmological implications for
 LISA](http://arxiv.org/abs/2308.13690), *Phys. Rev. D* (accepted),
 arXiv:2308.13690
 
-0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
-pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), *Phys. Rev. D*
-(accepted), arXiv:2302.03856
-
 0. X.L. Miao, W.W. Zhu, M. Kramer, P.C.C. Freire, L.  Shao, M. Yuan, L.Q.  Meng,
 Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.  Fonseca, J.M.  Yao, M.Y. Xue,
 J.R. Niu, H. Hu, C.M. Zhang, [Variability, polarimetry, and timing properties of
@@ -113,6 +109,10 @@ bumblebee gravity model](https://arxiv.org/abs/2209.02209), *Phys. Rev. D* 107 (
 0. Y. Gao, L. Shao, G. Desvignes, D.I. Jones, M. Kramer, G. Yim, [Precession of
 magnetars: dynamical evolutions and modulations on polarized electromagnetic
 waves](https://arxiv.org/abs/2211.17087), *Mon. Not.  R. Astron. Soc.* 519 (2023) 1080
+
+0. H.-B. Li, Y. Gao, L. Shao, R.-X. Xu, [$g$-mode of neutron stars in
+pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), *Phys. Rev. D* 108
+(2023) 064005
 
 0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Extended thermodynamics of the
 bumblebee black holes](https://arxiv.org/abs/2304.08030), *Phys. Rev. D*
