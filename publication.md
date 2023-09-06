@@ -73,6 +73,10 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
 ##### Short-author-list Papers
 
+0. L. Shao, [Perceiving deci-Hertz gravitational waves over the
+Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
+Phys. Mech. Astron.* (accepted)
+
 0. Y. Gong, Z. Cao, J. Zhao, L. Shao, [Including higher harmonics in
 gravitational-wave parameter estimation and cosmological implications for
 LISA](http://arxiv.org/abs/2308.13690), *Phys. Rev. D* (accepted),
