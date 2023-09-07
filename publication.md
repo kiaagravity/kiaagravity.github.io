@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Dong, Z. Hu, R. Xu, L.  Shao, [Moment of Inertia for Axisymmetric Neutron
+Stars in the Standard-Model Extension](https://arxiv.org/abs/2309.02871),
+arXiv:2309.02871
+
 0. Z. Hu, L. Shao, F. Zhang, [Prospects for probing small-scale dark matter
 models with pulsars around Sagittarius A$^\ast$](TBA), submitted
 

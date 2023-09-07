@@ -101,8 +101,9 @@ the third-generation ground-based detector network](TBA), arXiv:TBA
 invariance violation of gravity in the Standard-Model Extension with
 pulsars](TBA), arXiv:TBA
 
-0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, [Moments of inertia of axisymmetric
-neutron stars in the Standard-Model Extension](TBA), arXiv:TBA
+0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, [Moment of Inertia for Axisymmetric
+Neutron Stars in the Standard-Model
+Extension](https://arxiv.org/abs/2309.02871), arXiv:2309.02871
 
 0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities
 of massive bosons around exotic compact
