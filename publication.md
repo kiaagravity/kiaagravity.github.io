@@ -571,13 +571,6 @@ mass](https://arxiv.org/abs/2009.06817), *Astron. Nachr.* 342 (2021) 300
 0. Y. Gao, L. Shao, [Precession of triaxially deformed neutron
 stars](https://arxiv.org/abs/2011.04472), *Astron. Nachr.* 342 (2021) 364
 
-0. B. Altschul, J. Díaz, J.P. Harding, T. Katori, B. Keating, F. Kislat, A.
-Kostelecký, H. Krawczynski, R. Lehnert, P. Mészáros, M. Mewes, D.F.  Phillips,
-M. Schreck, L. Shao, J. Tasson, R. Walsworth, [Probes of Lorentz and CPT
-symmetry with particles and radiation of astrophysical
-origin](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF0-208.pdf),
-Letter of Interest for Snowmass2021
-
 0. 李洪波, 邵立晶, 徐仁新,
 [核心坍缩型超新星致引力波暴](http://dx.chinadoi.cn/10.3969/j.issn.1000-8349.2021.04.05), *《天文学进展》* 39 (2021) 511
 
@@ -685,8 +678,31 @@ science](https://arxiv.org/abs/2008.02921), *Prog. Theor. Exp. Phys.* 2021 (2021
 and signal recycling mirrors of the KAGRA gravitational wave
 detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922), *Class. Quantum Grav.* 38 (2021) 065011
 
+0. B. Altschul, J. Díaz, J.P. Harding, T. Katori, B. Keating, F. Kislat, A.
+Kostelecký, H. Krawczynski, R. Lehnert, P. Mészáros, M. Mewes, D.F.  Phillips,
+M. Schreck, L. Shao, J. Tasson, R. Walsworth, [Probes of Lorentz and CPT
+symmetry with particles and radiation of astrophysical
+origin](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF0-208.pdf),
+Letter of Interest for Snowmass2021
+
 0. K. Jani, *et al.*, [A deci-Hz Gravitational-Wave Lunar Observatory for
 Cosmology](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF6_CF5_Karan_Jani-239.pdf),
+Letter of Interest for Snowmass2021
+
+0. P. Laguna, G. Lovelace, H. Witek, *et al.*, [Numerical relativity for
+next-generation gravitational-wave probes of fundamental
+physics](https://www.snowmass21.org/docs/files/summaries/CompF/SNOWMASS21-CompF2_CompF7-CF7_CF0-080.pdf),
+Letter of Interest for Snowmass2021
+
+0. E. Berti, V. Cardoso, B. Sathyaprakash, N. Yunes, *et al.*, [Fundamental
+physics with gravitational wave
+detectors](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF3-TF9_TF10_Emanuele_Berti-044.pdf),
+Letter of Interest for Snowmass2021
+
+0. S. Mukherjee, A. Palmese, T. Baker, T.D.P. Edwards, Z. Haiman, R. Caldwell,
+*et al.*, [Multi-messenger Probes of Cosmology and Fundamental Physics using
+Gravitational
+Waves](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF6-TF9_TF0_SnowMass_2021_Multi_Messenger_Cosmology-143.pdf),
 Letter of Interest for Snowmass2021
 {: reversed="reversed"}
 
