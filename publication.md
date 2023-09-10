@@ -684,6 +684,10 @@ science](https://arxiv.org/abs/2008.02921), *Prog. Theor. Exp. Phys.* 2021 (2021
 0. T. Akutsu, *et al.*, [Vibration isolation systems for the beam splitter
 and signal recycling mirrors of the KAGRA gravitational wave
 detector](https://iopscience.iop.org/article/10.1088/1361-6382/abd922), *Class. Quantum Grav.* 38 (2021) 065011
+
+0. K. Jani, *et al.*, [A deci-Hz Gravitational-Wave Lunar Observatory for
+Cosmology](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF6_CF5_Karan_Jani-239.pdf),
+Letter of Interest for Snowmass2021
 {: reversed="reversed"}
 
 ---
