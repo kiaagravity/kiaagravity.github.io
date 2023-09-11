@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Group Meeting 9/17/2023"
@@ -9,6 +8,7 @@ categories: activities
 
 
 ## Talks
+
 
 #### Yixuan Dang: How overlapping signals might mislead tests of GR
 
