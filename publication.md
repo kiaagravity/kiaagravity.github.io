@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
+oscillations during magnetar giant flares in the strangeon star
+model](https://arxiv.org/abs/2309.09847), arXiv:2309.09847
+
 0. Y. Dong, Z. Hu, R. Xu, L.  Shao, [Moment of Inertia for Axisymmetric Neutron
 Stars in the Standard-Model Extension](https://arxiv.org/abs/2309.02871),
 arXiv:2309.02871
