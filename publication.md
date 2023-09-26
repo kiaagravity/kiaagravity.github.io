@@ -85,11 +85,6 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
 Phys. Mech. Astron.* (accepted)
 
-0. Y. Gong, Z. Cao, J. Zhao, L. Shao, [Including higher harmonics in
-gravitational-wave parameter estimation and cosmological implications for
-LISA](http://arxiv.org/abs/2308.13690), *Phys. Rev. D* (accepted),
-arXiv:2308.13690
-
 0. X.L. Miao, W.W. Zhu, M. Kramer, P.C.C. Freire, L.  Shao, M. Yuan, L.Q.  Meng,
 Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.  Fonseca, J.M.  Yao, M.Y. Xue,
 J.R. Niu, H. Hu, C.M. Zhang, [Variability, polarimetry, and timing properties of
@@ -129,6 +124,10 @@ pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), *Phys. Rev. D* 108
 0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Extended thermodynamics of the
 bumblebee black holes](https://arxiv.org/abs/2304.08030), *Phys. Rev. D*
 108 (2023) 024004
+
+0. Y. Gong, Z. Cao, J. Zhao, L. Shao, [Including higher harmonics in
+gravitational-wave parameter estimation and cosmological implications for
+LISA](http://arxiv.org/abs/2308.13690), *Phys. Rev. D* 108 (2023) 064046
 
 0. L. Haegel, K. O'Neal-Ault, Q.G. Bailey, J.D. Tasson, M. Bloom, L. Shao,
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
