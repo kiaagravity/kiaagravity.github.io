@@ -112,7 +112,7 @@ beyond the standard model<br>
   Peking University</i><br>
 <b>Email</b>: yckang@stu.pku.edu.cn<br>
 <b>Homepage</b>: [https://astrokang.github.io](https://astrokang.github.io/)<br>
-<b>Research Interests</b>: gravitational waves, exoplanets, multi-messenger astronomy, white dwarfs <br>
+<b>Research Interests</b>: compact stars, gravitational waves, high-energy astrophysics, multi-messenger astronomy <br>
 
 ---
 
