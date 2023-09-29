@@ -12,9 +12,9 @@ categories: activities
 
 ####  Hongyi Zhang: Introduction of matched filtering and MCMC in GWs
 
-Ref. 1: [Gravitational Waves. Vol. 1: Theory and Experiments]([https://arxiv.org/abs/2102.08257](https://academic.oup.com/book/41655?login=true))
+Ref. 1: [Gravitational Waves. Vol. 1: Theory and Experiments](https://academic.oup.com/book/41655?login=true)
 
-Ref. 2: [An introduction to Bayesian inference in gravitational-wave astronomy: parameter estimation, model selection, and hierarchical models]([9390907899](https://arxiv.org/abs/1809.02293))
+Ref. 2: [An introduction to Bayesian inference in gravitational-wave astronomy: parameter estimation, model selection, and hierarchical models](https://arxiv.org/abs/1809.02293)
 
 
 #### Yirui Yang: Some preliminary studies on tidal deformation of neutron stars
