@@ -203,11 +203,6 @@ and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* (accepted),
 arXiv:2111.03606
 
-0. R. Abbott, *et al.*, [Search for gravitational waves associated with fast
-radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
-O3a](https://arxiv.org/abs/2203.12038), *Astrophys. J.* (accepted),
-arXiv:2203.12038
-
 0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
 observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
 Theor. Exp. Phys.* (accepted), arXiv:2203.07011
@@ -222,6 +217,10 @@ Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
 0. J. Bregman, *et al.*, [Scientific objectives of the Hot Universe Baryon
 Surveyor (HUBS) mission](https://arxiv.org/abs/2307.05672), *Sci. China Phys.
 Mech. Astron.* 66 (2023) 299513
+
+0. R. Abbott, *et al.*, [Search for gravitational waves associated with fast
+radio bursts detected by CHIME/FRB during the LIGO-Virgo observing run
+O3a](https://arxiv.org/abs/2203.12038), *Astrophys. J.* 955 (2023) 155
 
 0. R. Abbott, *et al.*, [Search for subsolar-mass black hole binaries in the
 second part of Advanced LIGO's and Advanced Virgo's third observing
