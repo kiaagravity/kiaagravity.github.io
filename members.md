@@ -233,7 +233,6 @@ beyond the standard model<br>
 | 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research & Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—now | **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Kun Gao** | **高焜** | Bachelor Thesis |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -248,7 +247,6 @@ beyond the standard model<br>
 ## Friends & Visitors
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2020—now | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2018—now | **Junjie Zhao** | **赵俊杰** | Liyun Fellow | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
 | 2018—now | **Xueli Miao** | **缪雪丽** | FAST Fellow | [NAOC](http://www.bao.ac.cn/) | 
 | 2019—now | **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
@@ -260,6 +258,7 @@ beyond the standard model<br>
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Zhuhai Li** | **李竹海** | Undergraduate |  [DoA-BNU](https://astro.bnu.edu.cn/zw/index.html) |
+| 2023—now | **Yichen Pan** | **潘奕晨** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 
 <p></p>
@@ -340,6 +339,7 @@ beyond the standard model<br>
 
 Comments
 
+| 2020—2023 | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2023—2023 | **Yixuan Dang** | **党伊萱** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/) |  暑研
 | 2023—2023 | **Lirui Yang** | **杨力睿** | Undergraduate |  [Cambridge](https://www.phy.cam.ac.uk/) |  暑研
 | 2023—2023 | **Guanqi Wang** | **王冠淇** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
