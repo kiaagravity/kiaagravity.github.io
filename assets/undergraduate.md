@@ -91,15 +91,17 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
-0. **H.-P. Gu (顾华鹏)**, H.-T. Wang, L. Shao, [Constraints on the black hole charge
-from GWTC-3 and the Einstein Telescope](TBA), arXiv:TBA
-
-0. **J. Hu (胡杰瑞)**, D. Liang, L. Shao, [Probing nontensorial polarizations with
-the third-generation ground-based detector network](TBA), arXiv:TBA
-
 0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, [New limits on local Lorentz
 invariance violation of gravity in the Standard-Model Extension with
 pulsars](TBA), arXiv:TBA
+
+0. **H.-P. Gu (顾华鹏)**, H.-T. Wang, L. Shao, [Constraints on charged black holes
+from merger-ringdown signals in GWTC-3 and prospects for the Einstein
+Telescope](TBA), arXiv:TBA
+
+0. **J. Hu (胡杰瑞)**, D. Liang, L. Shao, [Probing nontensorial gravitational waves
+with a next-generation ground-based detector
+network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
 
 0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, [Moment of Inertia for Axisymmetric
 Neutron Stars in the Standard-Model
