@@ -12,6 +12,15 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
+next-generation ground-based detector
+network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
+
+0. Y. Kang, C. Liu, J.-P. Zhu, Y.  Gao, L. Shao, B. Zhang, H. Sun, Y.-H. I.
+Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers with
+decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
+arXiv:2309.16991
+
 0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
 oscillations during magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), arXiv:2309.09847
