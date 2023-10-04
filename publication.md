@@ -98,7 +98,8 @@ single pulses from PSR J2222$-$0137 using FAST](https://arxiv.org/abs/2308.10683
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
-theory to Experimental Searches on All Scales*, in press, arXiv:2206.15187
+theory to Experimental Searches on All Scales* (Springer Cham, 2023), p. 385
+[*Lect. Notes Phys.* 1017 (2023) 385]
 
 0. L. Shao, [Perceiving deci-Hertz gravitational waves over the
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
