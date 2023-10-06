@@ -261,6 +261,7 @@ beyond the standard model<br>
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Yichen Pan** | **潘奕晨** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2023—now | **Zeyu Li** | **李泽宇** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 
 <p></p>
