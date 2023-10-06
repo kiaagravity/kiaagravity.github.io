@@ -63,13 +63,11 @@ Tests*, in press
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 {: reversed="reversed"}
 
 ##### Other Papers
-
-0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
-Gravitational-Wave Candidates from the Third Gravitational-wave Observing
-Run](https://arxiv.org/abs/2308.13666), arXiv:2308.13666
 
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
@@ -194,11 +192,13 @@ gravitational waves](https://doi.org/10.1142/9789811275388_0060), in
 Scientific, Singapore, 2023), p. 250
 
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428), *《中国科学：物理学 力学 天文学》* 53 (2023) 100014
-
-0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
+Gravitational-Wave Candidates from the Third Gravitational-wave Observing
+Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted), arXiv:2308.13666
 
 0. T. Akutsu, *et al.*, [Overview of KAGRA: Data transfer and
 management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.*
