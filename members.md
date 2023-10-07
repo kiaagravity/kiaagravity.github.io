@@ -237,6 +237,8 @@ beyond the standard model<br>
 | 2023—now | **Zijing Li** | **李子敬** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Zhuhai Li** | **李竹海** | Bachelor Thesis |  [DoA-BNU](https://astro.bnu.edu.cn/zw/index.html) |
 | 2023—now | **Chenghui Zhao** | **赵乘辉** | Bachelor Thesis |  [DoA-NJU](https://astronomy.nju.edu.cn/) |
+| 2023—now | **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2023—now | **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -260,7 +262,6 @@ beyond the standard model<br>
 | 2022—now | **Huapeng Gu** | **顾华鹏** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—now | **Yichen Pan** | **潘奕晨** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Zeyu Li** | **李泽宇** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 
