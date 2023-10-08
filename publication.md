@@ -48,8 +48,8 @@ spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), arXiv:2307.13374
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234),
 arXiv:2306.08234
 
-0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.
-Yi, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
+0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
+G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
