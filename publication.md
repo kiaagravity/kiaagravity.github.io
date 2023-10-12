@@ -88,12 +88,6 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 
 ##### Short-author-list Papers
 
-0. X.L. Miao, W.W. Zhu, M. Kramer, P.C.C. Freire, L.  Shao, M. Yuan, L.Q.  Meng,
-Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.  Fonseca, J.M.  Yao, M.Y. Xue,
-J.R. Niu, H. Hu, C.M. Zhang, [Variability, polarimetry, and timing properties of
-single pulses from PSR J2222$-$0137 using FAST](https://arxiv.org/abs/2308.10683),
-*Mon.  Not. R. Astron. Soc.* (accepted), arXiv:2308.10683
-
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
 theory to Experimental Searches on All Scales* (Springer Cham, 2023), p. 385
@@ -141,6 +135,11 @@ LISA](http://arxiv.org/abs/2308.13690), *Phys. Rev. D* 108 (2023) 064046
 [Search for anisotropic, birefringent spacetime-symmetry breaking in
 gravitational wave propagation from GWTC-3](https://arxiv.org/abs/2210.04481),
 *Phys. Rev. D* 107 (2023) 064031
+
+0. X.L. Miao, W.W. Zhu, M. Kramer, P.C.C. Freire, L.  Shao, M. Yuan, L.Q.  Meng,
+Z.W. Wu, C.C. Miao, Y.J. Guo, D.J. Champion, E.  Fonseca, J.M.  Yao, M.Y. Xue,
+J.R. Niu, H. Hu, C.M. Zhang, [Variability, polarimetry, and timing properties of
+single pulses from PSR J2222$-$0137 using FAST](https://arxiv.org/abs/2308.10683), *Mon.  Not. R. Astron. Soc.* 526 (2023) 2156
 
 0. J.-P. Zhu, S. Wu, Y.-P. Yang, C. Liu, B. Zhang, H.-R. Song, H. Gao, Z. Cao,
 Y.-W.  Yu, Y. Kang, L. Shao, [Kilonova and optical afterglow from binary neutron
