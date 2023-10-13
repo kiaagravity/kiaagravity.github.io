@@ -202,10 +202,6 @@ Scientific, Singapore, 2023), p. 250
 Gravitational-Wave Candidates from the Third Gravitational-wave Observing
 Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted), arXiv:2308.13666
 
-0. T. Akutsu, *et al.*, [Overview of KAGRA: Data transfer and
-management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.*
-(accepted), arXiv:TBA
-
 0. P. Torne, K. Liu, *et al.*, [A search for pulsars around Sgr A$^\ast$ in the
 first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 *Astrophys. J.* (accepted), arXiv:2308.15381
@@ -214,10 +210,6 @@ first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* (accepted),
 arXiv:2111.03606
-
-0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
-observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
-Theor. Exp. Phys.* (accepted), arXiv:2203.07011
 
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
@@ -272,6 +264,13 @@ observing run](https://doi.org/10.22323/1.444.1564), *PoS* (ICRC2023) 1564
 
 0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
 component analysis](https://arxiv.org/abs/2206.05785), *Class. Quantum Grav.* 40 (2023) 085015
+
+0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
+observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
+Theor. Exp. Phys.* 2023 (2023) 10A101
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Data transfer and
+management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.* 2023 (2023) 10A102
 
 0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
 O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp. Phys.* 2023 (2023) 023F01
