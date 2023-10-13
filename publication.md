@@ -69,6 +69,9 @@ press
 
 ##### Other Papers
 
+0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
+Workshop Summary](https://arxiv.org/abs/2310.08183), arXiv:2310.08183
+
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
