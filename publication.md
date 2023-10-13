@@ -240,6 +240,28 @@ GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* 949 (2023) 76
 0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
 using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* 13 (2023) 011048
 
+0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
+component analysis](https://arxiv.org/abs/2206.05785), *Class. Quantum Grav.* 40 (2023) 085015
+
+0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
+observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
+Theor. Exp. Phys.* 2023 (2023) 10A101
+
+0. T. Akutsu, *et al.*, [Overview of KAGRA: Data transfer and
+management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.* 2023 (2023) 10A102
+
+0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
+O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp. Phys.* 2023 (2023) 023F01
+
+0. B.S. Prather, *et al.*, [Comparison of polarized radiative transfer codes
+used by the EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys.
+J.* 950 (2023) 35
+
+0. S. Jorstad, M. Wielgus, R. Lico, S. Issaoun, *et al.*, [The Event Horizon
+Telescope image of the quasar NRAO 530](https://arxiv.org/abs/2302.04622),
+*Astrophys. J.* 943 (2023) 170
+{: reversed="reversed"}
+
 <!-- 
 0. R. Abbott, *et al.*, [The first joint observation by KAGRA with GEO
 600](https://pos.sissa.it/444/1579), *PoS* (ICRC2023) 1579
@@ -263,28 +285,6 @@ KAGRA](https://doi.org/10.22323/1.444.1549), *PoS* (ICRC2023) 1549
 0. H. Abe, *et al.*, [Detector characterization of KAGRA for the fourth
 observing run](https://doi.org/10.22323/1.444.1564), *PoS* (ICRC2023) 1564 
 -->
-
-0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
-component analysis](https://arxiv.org/abs/2206.05785), *Class. Quantum Grav.* 40 (2023) 085015
-
-0. H. Abe, *et al.*, [Performance of the KAGRA detector during the first joint
-observation with GEO 600 (O3GK)](https://arxiv.org/abs/2203.07011), *Prog.
-Theor. Exp. Phys.* 2023 (2023) 10A101
-
-0. T. Akutsu, *et al.*, [Overview of KAGRA: Data transfer and
-management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.* 2023 (2023) 10A102
-
-0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
-O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp. Phys.* 2023 (2023) 023F01
-
-0. B.S. Prather, *et al.*, [Comparison of polarized radiative transfer codes
-used by the EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys.
-J.* 950 (2023) 35
-
-0. S. Jorstad, M. Wielgus, R. Lico, S. Issaoun, *et al.*, [The Event Horizon
-Telescope image of the quasar NRAO 530](https://arxiv.org/abs/2302.04622),
-*Astrophys. J.* 943 (2023) 170
-{: reversed="reversed"}
 
 ---
 
