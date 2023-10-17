@@ -25,10 +25,6 @@ Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers wi
 decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
 arXiv:2309.16991
 
-0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
-oscillations during magnetar giant flares in the strangeon star
-model](https://arxiv.org/abs/2309.09847), arXiv:2309.09847
-
 0. Y. Dong, Z. Hu, R. Xu, L.  Shao, [Moment of Inertia for Axisymmetric Neutron
 Stars in the Standard-Model Extension](https://arxiv.org/abs/2309.02871),
 arXiv:2309.02871
@@ -94,6 +90,10 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 ### 2023
 
 ##### Short-author-list Papers
+
+0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
+oscillations during magnetar giant flares in the strangeon star
+model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* (accepted), arXiv:2309.09847
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
