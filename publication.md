@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
+merger-ringdown signals in GWTC-3 and prospects for the Einstein
+Telescope](https://arxiv.org/abs/2310.10447), arXiv:2310.10447
+
 0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
 next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249

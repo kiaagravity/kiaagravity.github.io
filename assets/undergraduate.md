@@ -97,7 +97,7 @@ pulsars](TBA), arXiv:TBA
 
 0. **H.-P. Gu (顾华鹏)**, H.-T. Wang, L. Shao, [Constraints on charged black holes
 from merger-ringdown signals in GWTC-3 and prospects for the Einstein
-Telescope](TBA), arXiv:TBA
+Telescope](https://arxiv.org/abs/2310.10447), arXiv:2310.10447
 
 0. **J. Hu (胡杰瑞)**, D. Liang, L. Shao, [Probing nontensorial gravitational waves
 with a next-generation ground-based detector
