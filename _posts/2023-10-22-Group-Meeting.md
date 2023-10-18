@@ -7,7 +7,7 @@ categories: activities
 ---
 
 
-## ## Rehearsals of undergraduate researches
+## Rehearsals of undergraduate researches
 
 Lihang Zhou: Superradiant instabilities of massive bosons around exotic compact objects
 
