@@ -170,6 +170,32 @@ beyond the standard model<br>
     </div>
   </div>
 
+<!-- <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="LiHongbo" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="TBA">Hongbo Li</a> (李洪波)</b></h5>
+        <p class="teamtitle"><small>北大·博后</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/Liu_Chang.png" alt="LiuChang" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="TBA">Chang Liu</a> (刘畅)</b></h5>
+        <p class="teamtitle"><small>TBA·TBA</small></p>
+        </center>
+      </div>
+    </div>
+  </div> -->
+
   <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Miao_Xueli.png" alt="MiaoXueli" style="width:100%; height:150px">
