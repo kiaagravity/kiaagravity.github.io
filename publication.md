@@ -40,10 +40,6 @@ arXiv:2308.03091
 from trapped magnetar ejecta and the connection to glitches and
 antiglitches](https://arxiv.org/abs/2308.01588), arXiv:2308.01588
 
-0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
-fields for scalar, electromagnetic, and gravitational waves with
-spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), arXiv:2307.13374
-
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234),
 arXiv:2306.08234
@@ -69,6 +65,9 @@ press
 
 ##### Other Papers
 
+0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
+Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
+
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), arXiv:2310.08183
 
@@ -90,6 +89,10 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 ### 2023
 
 ##### Short-author-list Papers
+
+0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
+fields for scalar, electromagnetic, and gravitational waves with
+spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
 
 0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
 oscillations during magnetar giant flares in the strangeon star
