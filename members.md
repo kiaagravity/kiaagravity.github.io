@@ -256,8 +256,8 @@ beyond the standard model<br>
 | 2021—now | **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2021—now | **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—now | **Lihang Zhou** | **周立杭** | Undergraduate Research & Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Jierui Hu** | **胡杰瑞** | Undergraduate Research & Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Lihang Zhou** | **周立杭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Jierui Hu** | **胡杰瑞** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—now | **Rong Du** | **杜嵘** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Kun Gao** | **高焜** | Bachelor Thesis |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2023—now | **Zijing Li** | **李子敬** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -267,7 +267,6 @@ beyond the standard model<br>
 | 2023—now | **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Yiming Xu** | **徐一鸣** | Bachelor Thesis |  [SESS-PKU](https://sess.pku.edu.cn/) |
 | 2023—now | **Jianyuan Luo** | **罗荐元** | Bachelor Thesis |  [PHY-WHU](https://physics.whu.edu.cn/) |
-| 2021—now | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -283,7 +282,6 @@ beyond the standard model<br>
 | 2018—now | **Junjie Zhao** | **赵俊杰** | Liyun Fellow | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
 | 2018—now | **Xueli Miao** | **缪雪丽** | FAST Fellow | [NAOC](http://www.bao.ac.cn/) | 
 | 2019—now | **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
-| 2019—now | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Hanlin Song** | **宋翰林** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
@@ -371,6 +369,8 @@ beyond the standard model<br>
 
 Comments
 
+| 2019—2023 | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—2023 | **Weisong Wang** | **王伟松** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2020—2023 | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
 | 2023—2023 | **Yixuan Dang** | **党伊萱** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/) |  暑研
 | 2023—2023 | **Lirui Yang** | **杨力睿** | Undergraduate |  [Cambridge](https://www.phy.cam.ac.uk/) |  暑研
