@@ -321,6 +321,8 @@ beyond the standard model<br>
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (PKU'23) |
 | &#9830; **Guo, Minghao** (**郭明浩**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
+| &#9830; **Hu, Jierui** (**胡杰瑞**) &#9830; <small>School of Physics, Peking University</small> | 
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Studying gravitational-wave polarizations* (2023) |
 | &#9830; **Hu, Zexin** (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
 | &#9830; **Ji, Peixiang** (**姬佩祥**) &#9830; <small>School of Physics, Peking University</small> |
@@ -347,6 +349,8 @@ beyond the standard model<br>
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Brief Studies on Gravitational Waveform of Numerical Relativity* (PKU'20) |
 | &#9830; **Wang, Huimei** (**王惠美**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Bounding the Photon Mass with Fast Radio Bursts* (2020)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Structure of Neutron Stars with Anisotropic Pressure* (PKU'21) |
+| &#9830; **Wang, Weisong** (**王伟松**) &#9830; <small>School of Physics, Peking University</small> | 
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spin dynamics of black hole - pulsar systems* (2023) |
 | &#9830; **Wang, Yichen** (**王弋尘**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Dark-matter Particles with Neutron Stars* (2020) |
 | &#9830; **Wang, Zihang** (**王子航**) &#9830; <small>School of Physics, Peking University</small> |
@@ -363,6 +367,8 @@ beyond the standard model<br>
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; **Zhao, Xinmiao** (**赵鑫淼**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (PKU'21) |
+| &#9830; **Zhou, Lihang** (**周立杭**) &#9830; <small>School of Physics, Peking University</small> | 
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Superradiant instabilities of massive bosons* (2023) |
 
 
 <!--
