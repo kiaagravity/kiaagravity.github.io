@@ -10,7 +10,7 @@ categories: activities
 
 #### Ziming Wang: Introduction to Parameter Estimation and Fisher Matrix II
 
-Ref. 1: [[Statistical inference](http://home.ustc.edu.cn/~zt001062/MaStmaterials/George%20Casella&Roger%20L.Berger--Statistical%20Inference.pdf)]
+Ref. 1: [[Statistical inference](http://webhome.auburn.edu/~carpedm/courses/a/documents/Pages%20from%20casella_berger_statistical_inference1.pdf)]
 
 Ref. 2: [[Detection, measurement and gravitational radiation](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.46.5236)]
 
