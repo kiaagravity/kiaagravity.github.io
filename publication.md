@@ -25,10 +25,6 @@ Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers wi
 decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
 arXiv:2309.16991
 
-0. Y. Dong, Z. Hu, R. Xu, L.  Shao, [Moment of Inertia for Axisymmetric Neutron
-Stars in the Standard-Model Extension](https://arxiv.org/abs/2309.02871),
-arXiv:2309.02871
-
 0. Z. Hu, L. Shao, F. Zhang, [Prospects for probing small-scale dark matter
 models with pulsars around Sagittarius A$^\ast$](TBA), submitted
 
@@ -89,6 +85,10 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 ### 2023
 
 ##### Short-author-list Papers
+
+0. Y. Dong, Z. Hu, R. Xu, L.  Shao, [Moment of Inertia for Axisymmetric Neutron
+Stars in the Standard-Model Extension](https://arxiv.org/abs/2309.02871), *Phys.
+Rev. D* (accepted), arXiv:2309.02871
 
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
