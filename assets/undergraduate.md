@@ -103,13 +103,13 @@ Telescope](https://arxiv.org/abs/2310.10447), arXiv:2310.10447
 with a next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
 
-0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities
-of massive bosons around exotic compact
-objects](https://arxiv.org/abs/2308.03091), arXiv:2308.03091
-
 0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
+
+0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities
+of massive bosons around exotic compact
+objects](https://arxiv.org/abs/2308.03091), *Phys. Rev. D* (accepted), arXiv:2308.03091
 
 0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, [Moment of Inertia for Axisymmetric
 Neutron Stars in the Standard-Model
