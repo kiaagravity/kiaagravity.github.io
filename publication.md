@@ -28,17 +28,9 @@ arXiv:2309.16991
 0. Z. Hu, L. Shao, F. Zhang, [Prospects for probing small-scale dark matter
 models with pulsars around Sagittarius A$^\ast$](TBA), submitted
 
-0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
-from trapped magnetar ejecta and the connection to glitches and
-antiglitches](https://arxiv.org/abs/2308.01588), arXiv:2308.01588
-
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234),
 arXiv:2306.08234
-
-0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
-G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
-quake?](https://arxiv.org/abs/2305.10682), arXiv:2305.10682
 
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
@@ -81,6 +73,14 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 ### 2023
 
 ##### Short-author-list Papers
+
+0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
+from trapped magnetar ejecta and the connection to glitches and
+antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2308.01588
+
+0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
+G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
+quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
 
 0. L. Zhou, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities of massive
 bosons around exotic compact objects](https://arxiv.org/abs/2308.03091), *Phys.
