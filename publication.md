@@ -12,6 +12,11 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
+oscillations during magnetar giant flares in the strangeon star
+model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
+(2024) 855
+
 0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
 merger-ringdown signals in GWTC-3 and prospects for the Einstein
 Telescope](https://arxiv.org/abs/2310.10447), arXiv:2310.10447
@@ -93,10 +98,6 @@ Rev. D* (accepted), arXiv:2309.02871
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
 spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
-
-0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
-oscillations during magnetar giant flares in the strangeon star
-model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* (accepted), arXiv:2309.09847
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), in *Modified and Quantum Gravity: From
