@@ -18,6 +18,6 @@ Ref. 2: [Black-hole normal modes: A WKB approach. I. Foundations and application
 Ref. 3: [Quasinormal modes of black holes and black branes](https://arxiv.org/abs/0905.2975)
 
 
-### Rong Du: 
+### Rong Du: Investigating the systematic error of gravitational-wave cosmology
 
 Ref. 1: [The Hitchhiker's Guide to the Galaxy Catalog Approach for Dark Siren Gravitational-wave Cosmology](https://iopscience.iop.org/article/10.3847/1538-3881/acca78)
