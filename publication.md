@@ -248,6 +248,10 @@ GWTC-3](https://arxiv.org/abs/2111.03604), *Astrophys. J.* 949 (2023) 76
 0. R. Abbott, *et al.*, [The population of merging compact binaries inferred
 using gravitational waves through GWTC-3](https://arxiv.org/abs/2111.03634), *Phys. Rev. X* 13 (2023) 011048
 
+0. K. Akiyama, *et al.*, [First M87 Event Horizon Telescope Results. IX.
+Detection of Near-horizon Circular
+Polarization](https://iopscience.iop.org/article/10.3847/2041-8213/acff70), *Astrophys. J. Lett.* 957 (2023) L20
+
 0. H. Abe, *et al.*, [Noise subtraction from KAGRA O3GK data using independent
 component analysis](https://arxiv.org/abs/2206.05785), *Class. Quantum Grav.* 40 (2023) 085015
 
