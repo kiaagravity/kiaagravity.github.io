@@ -190,7 +190,7 @@ beyond the standard model<br>
         <center>
         <p></p>
         <h5><b><a href="TBA">Chang Liu</a> (刘畅)</b></h5>
-        <p class="teamtitle"><small>TBA·TBA</small></p>
+        <p class="teamtitle"><small>Company</small></p>
         </center>
       </div>
     </div>

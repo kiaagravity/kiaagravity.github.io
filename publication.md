@@ -87,10 +87,6 @@ antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* (ac
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
 
-0. L. Zhou, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities of massive
-bosons around exotic compact objects](https://arxiv.org/abs/2308.03091), *Phys.
-Rev. D* (accepted), arXiv:2308.03091
-
 0. Y. Dong, Z. Hu, R. Xu, L.  Shao, [Moment of Inertia for Axisymmetric Neutron
 Stars in the Standard-Model Extension](https://arxiv.org/abs/2309.02871), *Phys.
 Rev. D* (accepted), arXiv:2309.02871
@@ -107,6 +103,10 @@ Scales* (Springer Cham, 2023), p. 385
 0. L. Shao, [Perceiving deci-Hertz gravitational waves over the
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
 Phys. Mech. Astron.* 66 (2023) 119531
+
+0. L. Zhou, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities of massive
+bosons around exotic compact objects](https://arxiv.org/abs/2308.03091), *Phys.
+Rev. D* 108 (2023) 103025
 
 0. Y. Gao, L. Shao, J. Steinhoff, [A tight universal relation between the shape
 eccentricity and the moment of inertia for rotating neutron

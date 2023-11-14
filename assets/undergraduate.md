@@ -107,14 +107,14 @@ network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 
-0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities
-of massive bosons around exotic compact
-objects](https://arxiv.org/abs/2308.03091), *Phys. Rev. D* (accepted), arXiv:2308.03091
-
 0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, [Moment of Inertia for Axisymmetric
 Neutron Stars in the Standard-Model
 Extension](https://arxiv.org/abs/2309.02871), *Phys. Rev. D* (accepted),
 arXiv:2309.02871
+
+0. **L. Zhou (周立杭)**, R. Brito, Z.-F. Mai, L. Shao, [Superradiant instabilities
+of massive bosons around exotic compact
+objects](https://arxiv.org/abs/2308.03091), *Phys. Rev. D* 108 (2023) 103025
 
 0. **Z. Wang (王子铭)**, L. Shao, C.  Liu, [New limits on Lorentz and CPT symmetry
 through 50 gravitational-wave
