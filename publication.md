@@ -12,11 +12,6 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
-0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
-oscillations during magnetar giant flares in the strangeon star
-model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
-(2024) 855
-
 0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
 merger-ringdown signals in GWTC-3 and prospects for the Einstein
 Telescope](https://arxiv.org/abs/2310.10447), arXiv:2310.10447
@@ -50,6 +45,23 @@ stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
+
+0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
+from trapped magnetar ejecta and the connection to glitches and
+antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2308.01588
+
+0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
+G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
+quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
+
+0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
+fields for scalar, electromagnetic, and gravitational waves with
+spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
+
+0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
+oscillations during magnetar giant flares in the strangeon star
+model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
+(2024) 855
 {: reversed="reversed"}
 
 ##### Other Papers
@@ -71,6 +83,23 @@ network](https://arxiv.org/abs/2304.08393), arXiv:2304.08393
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
 observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+
+0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
+Gravitational-Wave Candidates from the Third Gravitational-wave Observing
+Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted), arXiv:2308.13666
+
+0. P. Torne, K. Liu, *et al.*, [A search for pulsars around Sgr A$^\ast$ in the
+first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
+*Astrophys. J.* (accepted), arXiv:2308.15381
+
+0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
+and Virgo during the second part of the third observing
+run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* (accepted),
+arXiv:2111.03606
+
+0. R. Abbott, *et al.*, [Tests of general relativity with
+GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
+arXiv:2112.06861
 {: reversed="reversed"}
 
 ---
@@ -78,18 +107,6 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 ### 2023
 
 ##### Short-author-list Papers
-
-0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
-from trapped magnetar ejecta and the connection to glitches and
-antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2308.01588
-
-0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
-G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
-quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
-
-0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
-fields for scalar, electromagnetic, and gravitational waves with
-spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), *Lect. Notes Phys.* 1017 (2023) 385,
@@ -205,23 +222,6 @@ Scientific, Singapore, 2023), p. 250
 {: reversed="reversed"}
 
 ##### Other Papers
-
-0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
-Gravitational-Wave Candidates from the Third Gravitational-wave Observing
-Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted), arXiv:2308.13666
-
-0. P. Torne, K. Liu, *et al.*, [A search for pulsars around Sgr A$^\ast$ in the
-first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
-*Astrophys. J.* (accepted), arXiv:2308.15381
-
-0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
-and Virgo during the second part of the third observing
-run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* (accepted),
-arXiv:2111.03606
-
-0. R. Abbott, *et al.*, [Tests of general relativity with
-GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
-arXiv:2112.06861
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
