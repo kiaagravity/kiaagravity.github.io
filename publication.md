@@ -46,10 +46,6 @@ press
 
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 
-0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
-from trapped magnetar ejecta and the connection to glitches and
-antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* (accepted), arXiv:2308.01588
-
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
@@ -57,6 +53,10 @@ quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted),
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
 spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
+
+0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
+from trapped magnetar ejecta and the connection to glitches and
+antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527 (2024) 2379
 
 0. H.-B. Li, Y. Kang, Z. Hu, L.  Shao, C.-J. Xia, R.-X. Xu, [Quasi-periodic
 oscillations during magnetar giant flares in the strangeon star
