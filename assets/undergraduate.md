@@ -91,6 +91,10 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
+0. **Y. Dang (党伊萱)**,  **Z. Wang (王子铭)**, D. Liang, L. Shao, [Impact of
+overlapping signals on parameterized post-Newtonian coefficients in tests of
+gravity](TBA), arXiv:TBA
+
 0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, [New limits on local Lorentz
 invariance violation of gravity in the Standard-Model Extension with
 pulsars](TBA), arXiv:TBA
