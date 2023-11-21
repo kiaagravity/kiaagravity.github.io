@@ -97,7 +97,7 @@ gravity](TBA), arXiv:TBA
 
 0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, [New limits on local Lorentz
 invariance violation of gravity in the Standard-Model Extension with
-pulsars](TBA), arXiv:TBA
+pulsars](http://arxiv.org/abs/2311.11038), arXiv:2311.11038
 
 0. **H.-P. Gu (顾华鹏)**, H.-T. Wang, L. Shao, [Constraints on charged black holes
 from merger-ringdown signals in GWTC-3 and prospects for the Einstein

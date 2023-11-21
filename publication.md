@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
+violation of gravity in the Standard-Model Extension with
+pulsars](http://arxiv.org/abs/2311.11038), arXiv:2311.11038
+
 0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
 merger-ringdown signals in GWTC-3 and prospects for the Einstein
 Telescope](https://arxiv.org/abs/2310.10447), arXiv:2310.10447
