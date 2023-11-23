@@ -50,6 +50,10 @@ press
 
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 
+0. H.-T. Wang, L.  Shao, [Effect of noise estimation in time-domain ringdown
+analysis: A case study with GW150914](http://arxiv.org/abs/2311.13300), *Phys.
+Rev. D* (accepted), arXiv:2311.13300
+
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
