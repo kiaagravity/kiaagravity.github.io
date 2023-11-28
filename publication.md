@@ -48,7 +48,10 @@ Tests*, in press
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
-0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
+0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
+small-radius white dwarfs made of heavy
+elements](https://arxiv.org/abs/2305.05847), *Front. Astron. Space Sci.*
+(accepted), arXiv:2305.05847
 
 0. H.-T. Wang, L.  Shao, [Effect of noise estimation in time-domain ringdown
 analysis: A case study with GW150914](http://arxiv.org/abs/2311.13300), *Phys.
@@ -70,6 +73,8 @@ antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527
 oscillations during magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 {: reversed="reversed"}
 
 ##### Other Papers
@@ -965,10 +970,6 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 ---
 
 ### Unpublished
-
-0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
-small-radius white dwarfs made of heavy
-elements](https://arxiv.org/abs/2305.05847), arXiv:2305.05847
 
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
