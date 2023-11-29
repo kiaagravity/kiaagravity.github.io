@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
+parameterized post-Newtonian coefficients in tests of
+gravity](http://arxiv.org/abs/2311.16184), arXiv:2311.16184
+
 0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
 violation of gravity in the Standard-Model Extension with
 pulsars](http://arxiv.org/abs/2311.11038), arXiv:2311.11038

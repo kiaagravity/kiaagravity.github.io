@@ -93,7 +93,7 @@ layout: page
 
 0. **Y. Dang (党伊萱)**,  **Z. Wang (王子铭)**, D. Liang, L. Shao, [Impact of
 overlapping signals on parameterized post-Newtonian coefficients in tests of
-gravity](TBA), arXiv:TBA
+gravity](http://arxiv.org/abs/2311.16184), arXiv:2311.16184
 
 0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, [New limits on local Lorentz
 invariance violation of gravity in the Standard-Model Extension with
