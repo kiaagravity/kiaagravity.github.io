@@ -105,10 +105,6 @@ observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
 Gravitational-Wave Candidates from the Third Gravitational-wave Observing
 Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted), arXiv:2308.13666
 
-0. P. Torne, K. Liu, *et al.*, [A search for pulsars around Sgr A$^\ast$ in the
-first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
-*Astrophys. J.* (accepted), arXiv:2308.15381
-
 0. R. Abbott, *et al.*, [GWTC-3: Compact binary coalescences observed by LIGO
 and Virgo during the second part of the third observing
 run](https://arxiv.org/abs/2111.03606), *Phys. Rev. X* (accepted),
@@ -281,6 +277,10 @@ management](https://doi.org/10.1093/ptep/ptad112), *Prog. Theor. Exp.  Phys.* 20
 
 0. T. Akutsu, *et al.*, [Input optics systems of the KAGRA detector during
 O3GK](https://arxiv.org/abs/2210.05934), *Prog. Theor. Exp. Phys.* 2023 (2023) 023F01
+
+0. P. Torne, K. Liu, *et al.*, [A search for pulsars around Sgr A$^\ast$ in the
+first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
+*Astrophys. J.* 959 (2023) 14
 
 0. B.S. Prather, *et al.*, [Comparison of polarized radiative transfer codes
 used by the EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys.
