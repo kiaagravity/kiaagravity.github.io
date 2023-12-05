@@ -33,9 +33,6 @@ Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers wi
 decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
 arXiv:2309.16991
 
-0. Z. Hu, L. Shao, F. Zhang, [Prospects for probing small-scale dark matter
-models with pulsars around Sagittarius A$^\ast$](TBA), submitted
-
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234),
 arXiv:2306.08234
@@ -51,6 +48,11 @@ Tests*, in press
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Z. Hu, L. Shao, F. Zhang, [Prospects for probing small-scale dark matter
+models with pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/2312.01889), *Phys. Rev. D* (accepted),
+arXiv:2312.01889
 
 0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
 small-radius white dwarfs made of heavy
@@ -77,6 +79,10 @@ antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527
 oscillations during magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. 路瑞鹏, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光, 邵立晶, 王平, 汪卫华, 王维扬, 
+夏铖君, 胥恒, 徐仁新, 徐世庆, 岳汉, 赵里,
+郑小平, 周恩平, 邹远川, [从地震到星震](TBA), submitted
 
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](TBA), *科学出版社*, 待出版
 {: reversed="reversed"}
