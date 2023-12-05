@@ -12,6 +12,21 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
+black hole of the same mass?](https://arxiv.org/abs/2312.01406),
+arXiv:2312.01406
+
+0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
+Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
+Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
+Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
+Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
+Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, L. Shao, A.
+Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
+Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
+Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
+arXiv:2312.02130
+
 0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
 parameterized post-Newtonian coefficients in tests of
 gravity](http://arxiv.org/abs/2311.16184), arXiv:2311.16184
