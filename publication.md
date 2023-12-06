@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
+Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486),
+arXiv:2312.02486
+
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
