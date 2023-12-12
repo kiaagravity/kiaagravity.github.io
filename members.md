@@ -268,6 +268,7 @@ beyond the standard model<br>
 | 2023—now | **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Yiming Xu** | **徐一鸣** | Bachelor Thesis |  [SESS-PKU](https://sess.pku.edu.cn/) |
 | 2023—now | **Jianyuan Luo** | **罗荐元** | Bachelor Thesis |  [PHY-WHU](https://physics.whu.edu.cn/) |
+| 2023—now | **Yuxin Guo** | **郭雨欣** | Bachelor Thesis |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
