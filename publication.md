@@ -78,10 +78,6 @@ small-radius white dwarfs made of heavy
 elements](https://arxiv.org/abs/2305.05847), *Front. Astron. Space Sci.*
 (accepted), arXiv:2305.05847
 
-0. H.-T. Wang, L.  Shao, [Effect of noise estimation in time-domain ringdown
-analysis: A case study with GW150914](http://arxiv.org/abs/2311.13300), *Phys.
-Rev. D* (accepted), arXiv:2311.13300
-
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
@@ -188,6 +184,10 @@ pseudo-Newtonian gravity](https://arxiv.org/abs/2302.03856), *Phys. Rev. D* 108
 0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Extended thermodynamics of the
 bumblebee black holes](https://arxiv.org/abs/2304.08030), *Phys. Rev. D*
 108 (2023) 024004
+
+0. H.-T. Wang, L.  Shao, [Effect of noise estimation in time-domain ringdown
+analysis: A case study with GW150914](http://arxiv.org/abs/2311.13300), *Phys.
+Rev. D* 108 (2023) 123018
 
 0. Y. Gong, Z. Cao, J. Zhao, L. Shao, [Including higher harmonics in
 gravitational-wave parameter estimation and cosmological implications for
