@@ -15,7 +15,7 @@ categories: activities
 Ref. 1: [Quantum Transfiguration of Kruskal Black Holes](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.241301)
 
 
-seven rehearsals: 胡杰瑞 周立杭 杜嵘 潘奕晨 李沛航 @A高焜 @Verdoux 李子敬
+seven rehearsals: 胡杰瑞, 周立杭, 杜嵘, 潘奕晨, 李沛航, 高焜, 李子敬
 
 
 ####  Lihang Zhou: Black hole strong lensing and forward ray tracing
