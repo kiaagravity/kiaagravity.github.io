@@ -325,7 +325,7 @@ beyond the standard model<br>
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Studying gravitational-wave polarizations* (2023) |
 | &#9830; **Hu, Zexin** (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
-| &#9830; **Ji, Peixiang** (**姬佩祥**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; **Ji, Peixiang** (**姬佩祥**) &#9830; <small> Nankai University &#8614; School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai'22) <!-- co-advisor: Liu Zhao --> |
 | &#9830; **Kang, Yacheng** (**康亚城**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Exoplanets with Space-based Gravitational-wave Detectors* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (PKU'22)  |
