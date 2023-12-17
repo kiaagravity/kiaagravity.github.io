@@ -52,7 +52,7 @@ article](https://kiaagravity.github.io/assets/postdoc) and contact [Dr. Lijing
 Shao](https://friendshao.github.io/)!
 
 <figure>   
-<img src="/assets/group/Group_meeting_Dec17_2023.jpeg" style="width:100%">                 
+<img src="/assets/group/Group_meeting_Dec17_2023.jpg" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 17, 2023.</b></font></figcaption>
 </figure>
 
