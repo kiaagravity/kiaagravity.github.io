@@ -68,11 +68,6 @@ Tests*, in press
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
-0. Z. Hu, L. Shao, F. Zhang, [Prospects for probing small-scale dark matter
-models with pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2312.01889), *Phys. Rev. D* (accepted),
-arXiv:2312.01889
-
 0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
 small-radius white dwarfs made of heavy
 elements](https://arxiv.org/abs/2305.05847), *Front. Astron. Space Sci.*
@@ -146,6 +141,10 @@ Scales* (Springer Cham, 2023), p. 385
 0. L. Shao, [Perceiving deci-Hertz gravitational waves over the
 Moon](http://engine.scichina.com/doi/10.1007/s11433-023-2215-4), *Sci. China
 Phys. Mech. Astron.* 66 (2023) 119531
+
+0. Z. Hu, L. Shao, F. Zhang, [Prospects for probing small-scale dark matter
+models with pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/2312.01889), *Phys. Rev. D*  108 (2023) 123034
 
 0. Y. Dong, Z. Hu, R. Xu, L.  Shao, [Moment of Inertia for Axisymmetric Neutron
 Stars in the Standard-Model Extension](https://arxiv.org/abs/2309.02871), *Phys.
