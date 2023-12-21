@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Group Meeting 12/24/2023"
