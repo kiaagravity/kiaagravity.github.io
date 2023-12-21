@@ -8,7 +8,9 @@ categories: activities
 
 
 
-## Two talks
+## Two talks and two rehearsals:
+
+#### two rehearsals: Hongbo Li, Chang Liu
 
 ####  Lihang Zhou: Black hole strong lensing and forward ray tracing
 
