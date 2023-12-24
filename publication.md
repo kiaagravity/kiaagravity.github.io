@@ -52,21 +52,21 @@ Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers wi
 decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
 arXiv:2309.16991
 
-0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
-oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234),
-arXiv:2306.08234
-
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
 
 0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
 pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
-Tests*, in press
+Tests* (in press), arXiv:2303.17185
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
+oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
+Rev. D* (accepted), arXiv:2306.08234
 
 0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
 small-radius white dwarfs made of heavy
