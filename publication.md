@@ -68,11 +68,6 @@ press
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
 Rev. D* (accepted), arXiv:2306.08234
 
-0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
-small-radius white dwarfs made of heavy
-elements](https://arxiv.org/abs/2305.05847), *Front. Astron. Space Sci.*
-(accepted), arXiv:2305.05847
-
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
@@ -229,6 +224,11 @@ Not. R. Astron. Soc.* 524 (2023) 2966
 hole based on effective-one-body-numerical-relativity for spin-aligned binary
 black holes](https://dx.doi.org/10.1142/S0218271823500153), *Int. J. Mod.  Phys.
 D* 32 (2023) 2350015
+
+0. C.-J. Xia, Y.-F. Huang, H.-B. Li, L. Shao, R.-X. Xu, [Ultra low-mass and
+small-radius white dwarfs made of heavy
+elements](https://arxiv.org/abs/2305.05847), *Front. Astron. Space Sci.* 10
+(2023) 1334642
 
 0. L. Shao, [Gravity tests with radio pulsars in perturbative and
 nonperturbative regimes](https://arxiv.org/abs/2208.00142), in *Proceedings of
