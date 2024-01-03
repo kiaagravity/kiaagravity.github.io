@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H. Song, D. Liang, Z. Wang, L.  Shao, [Compact Binary Foreground Subtraction
+for Detecting the Stochastic Gravitational-wave Background in Ground-based
+Detectors](https://arxiv.org/abs/2401.00984), arXiv:2401.00984
+
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486),
 arXiv:2312.02486
