@@ -315,25 +315,25 @@ beyond the standard model<br>
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
 | &#9830; **Dong, Yiming** (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
-| &#9830; **Gao, Yong** (**高勇**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Gao, Yong**](https://gravyong.github.io/) (**高勇**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (PKU'23) |
 | &#9830; **Gu, Huapeng** (**顾华鹏**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (PKU'23) |
-| &#9830; **Guo, Minghao** (**郭明浩**) &#9830; <small>Yuanpei College, Peking University</small> |
+| &#9830; [**Guo, Minghao**](https://mh-guo.github.io/) (**郭明浩**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
 | &#9830; **Hu, Jierui** (**胡杰瑞**) &#9830; <small>School of Physics, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Studying gravitational-wave polarizations* (2023) |
-| &#9830; **Hu, Zexin** (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
 | &#9830; **Ji, Peixiang** (**姬佩祥**) &#9830; <small> Nankai University &#8614; School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai'22) <!-- co-advisor: Liu Zhao --> |
-| &#9830; **Kang, Yacheng** (**康亚城**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Kang, Yacheng**](https://astrokang.github.io/) (**康亚城**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Exoplanets with Space-based Gravitational-wave Detectors* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (PKU'22)  |
 | &#9830; **Kazempour, Sobhan** &#9830; <small>Faculty of Physics, University of Tabriz</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Cosmological Aspects of Massive Gravity Theory* (TabrizU'22); co-advisors: A.R. Akbarieh & H. Motavalli |
 | &#9830; **Li, Chunjiang** (**李春江**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Track Down Radio Frequency Interference in FAST Data* (PKU'21); co-advisor: Weiwei Zhu  |
-| &#9830; **Li, Shou-Long** (**李守龙**) &#9830; <small>School of Physics and Electronics, Hunan Normal University</small> |
+| &#9830; [**Li, Shou-Long**](http://wdy.hunnu.edu.cn/info/1035/3435.htm) (**李守龙**) &#9830; <small>School of Physics and Electronics, Hunan Normal University</small> |
 | <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *NANOGrav Signal from First-order Confinement-deconfinement Phase Transition* (2021) |
 | &#9830; **Li, Wenlong** (**李汶隆**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Astrophysics from Space-based Gravitational Wave Detectors* (PKU'19) |
@@ -343,7 +343,7 @@ beyond the standard model<br>
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Ultralight Dark Matters with Pulsar Timing* (2022) |
 | &#9830; **Qiu, Lingqian** (**邱令倩**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Research on Suitable Neural Network Models for Gravitational Wave Detection* (PKU'21) |
-| &#9830; **Sun, Zhongpeng** (**孙忠鹏**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Sun, Zhongpeng**](https://chemistry.harvard.edu/people/zhongpeng-sun) (**孙忠鹏**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraining Dark Matter Properties with Neutron Stars* (PKU'19) |
 | &#9830; **Tao, Yu** (**陶昱**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Brief Studies on Gravitational Waveform of Numerical Relativity* (PKU'20) |
@@ -355,17 +355,17 @@ beyond the standard model<br>
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Dark-matter Particles with Neutron Stars* (2020) |
 | &#9830; **Wang, Zihang** (**王子航**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *Axion as a Dark Matter Candidate* (2023) |
-| &#9830; **Wang, Ziming** (**王子铭**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Wang, Ziming**](https://orcid.org/0000-0002-8742-8397) (**王子铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Testing Spacetime Symmetries with Gravitational Waves* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Anatomy of Parameter-estimation Biases in Overlapping Gravitational-wave Signals* (PKU'23) |
-| &#9830; **Xia, Heming** (**夏鹤明**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Xia, Heming**](https://hemingkx.github.io/) (**夏鹤明**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Deep Learning in Gravitational Wave Data Processing* (PKU'20) |
-| &#9830; **Xu, Rui** (**徐睿**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
+| &#9830; [**Xu, Rui**](https://ryxxastroat.github.io/) (**徐睿**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Neutron Star Structure in Alternative Gravitational Theories* (2021)</small><br><small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Compact Objects in Alternative Theories of Gravity* (2023) |
 | &#9830; **Zhang, Zhejian** (**张喆戬**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Testing Equivalence Principle with Pulsar Timing* (2022) |
-| &#9830; **Zhao, Junjie** (**赵俊杰**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Zhao, Junjie**](https://github.com/BenjaminDbb) (**赵俊杰**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* (PKU'21); co-advisor: Bo-Qiang Ma |
-| &#9830; **Zhao, Xinmiao** (**赵鑫淼**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Zhao, Xinmiao**](https://github.com/XinmiaoZhao) (**赵鑫淼**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (PKU'21) |
 | &#9830; **Zhou, Lihang** (**周立杭**) &#9830; <small>School of Physics, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Superradiant instabilities of massive bosons* (2023) |
