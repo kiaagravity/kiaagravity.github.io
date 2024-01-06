@@ -240,7 +240,7 @@ beyond the standard model<br>
 
 ---
 
-## Members
+## Members <small><small>(30 ppl.)</small></small>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -307,7 +307,7 @@ beyond the standard model<br>
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members
+## Former Members <small><small>(30 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -329,7 +329,7 @@ beyond the standard model<br>
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai'22) <!-- co-advisor: Liu Zhao --> |
 | &#9830; [**Kang, Yacheng**](https://astrokang.github.io/) (**康亚城**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Exoplanets with Space-based Gravitational-wave Detectors* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (PKU'22)  |
-| &#9830; **Kazempour, Sobhan** &#9830; <small>Faculty of Physics, University of Tabriz</small> |
+| &#9830; [**Kazempour, Sobhan**](https://www.researchgate.net/profile/Sobhan-Kazempour) &#9830; <small>Faculty of Physics, University of Tabriz</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Cosmological Aspects of Massive Gravity Theory* (TabrizU'22); co-advisors: A.R. Akbarieh & H. Motavalli |
 | &#9830; **Li, Chunjiang** (**李春江**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Track Down Radio Frequency Interference in FAST Data* (PKU'21); co-advisor: Weiwei Zhu  |
