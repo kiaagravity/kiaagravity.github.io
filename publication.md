@@ -43,10 +43,6 @@ gravity](http://arxiv.org/abs/2311.16184), arXiv:2311.16184
 violation of gravity in the Standard-Model Extension with
 pulsars](http://arxiv.org/abs/2311.11038), arXiv:2311.11038
 
-0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
-merger-ringdown signals in GWTC-3 and prospects for the Einstein
-Telescope](https://arxiv.org/abs/2310.10447), arXiv:2310.10447
-
 0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
 next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
@@ -67,6 +63,10 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
+merger-ringdown signals in GWTC-3 and prospects for the Einstein
+Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* (accepted), arXiv:2310.10447
 
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
