@@ -76,10 +76,6 @@ Rev. D* (accepted), arXiv:2306.08234
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
 
-0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
-fields for scalar, electromagnetic, and gravitational waves with
-spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* (accepted), arXiv:2307.13374
-
 0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
 from trapped magnetar ejecta and the connection to glitches and
 antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527 (2024) 2379
@@ -88,6 +84,10 @@ antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527
 oscillations during magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
+fields for scalar, electromagnetic, and gravitational waves with
+spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* 461 (2024) 169582
 
 0. 路瑞鹏, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光, 邵立晶, 王平, 汪卫华, 王维扬, 
 夏铖君, 胥恒, 徐仁新, 徐世庆, 岳汉, 赵里,
