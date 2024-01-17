@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Dynamic instability analysis for
+bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757),
+arXiv:2401.07757
+
 0. H. Song, D. Liang, Z. Wang, L.  Shao, [Compact Binary Foreground Subtraction
 for Detecting the Stochastic Gravitational-wave Background in Ground-based
 Detectors](https://arxiv.org/abs/2401.00984), arXiv:2401.00984
