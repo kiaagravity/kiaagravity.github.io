@@ -56,10 +56,6 @@ Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers wi
 decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
 arXiv:2309.16991
 
-0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
-parameter-estimation biases in overlapping gravitational-wave
-signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
-
 0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
 pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
 Tests* (in press), arXiv:2303.17185
@@ -67,6 +63,11 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
+parameter-estimation biases in overlapping gravitational-wave
+signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* (accepted),
+arXiv:2304.06734
 
 0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
 merger-ringdown signals in GWTC-3 and prospects for the Einstein
