@@ -64,6 +64,11 @@ Tests* (in press), arXiv:2303.17185
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
+0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
+Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
+freely precessing magnetar following an X-ray
+outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), *Nat. Astron.* (accepted)
+
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* (accepted),
@@ -228,7 +233,7 @@ Zhang, D.J. Champion, E. Fonseca, H. Hu, J. Yao, P.C.C. Freire, Y. Guo,
 pulsars](https://doi.org/10.3847/1538-4357/accb9a), *Astrophys. J.* 949 (2023)
 115
 
-0. F. Abbate, A. Noutsos, G.  Desvignes, R. Wharton, P. Torne, M. Kramer, R.P.
+0. F. Abbate, A. Noutsos, G. Desvignes, R. Wharton, P. Torne, M. Kramer, R.P.
 Eatough, R. Karuppusamy, K.  Liu, L. Shao, J. Wongphecauxson, [Rotation measure
 variations in Galactic Centre pulsars](https://arxiv.org/abs/2307.03230), *Mon.
 Not. R. Astron. Soc.* 524 (2023) 2966
