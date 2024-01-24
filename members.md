@@ -83,7 +83,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://orcid.org/0000-0003-2724-0226">Dr. Zhan-Feng Mai</a> (麦展风)</b></h5>
+          <h5><b><a href="https://zhanfengmai.github.io/">Dr. Zhan-Feng Mai</a> (麦展风)</b></h5>
           <p class="teamtitle"><small>KIAA Postdoc</small></p>
           </center>
         </div>
@@ -235,62 +235,6 @@ permalink: /member/
       </div>
     </div>
   </div>
-
-<!-- 
-
-<div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="LiHongbo" style="width:100%; height:150px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
-        <h5><b><a href="TBA">Hongbo Li</a> (李洪波)</b></h5>
-        <p class="teamtitle"><small>北大·博后</small></p>
-        </center>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/Liang_Dicong.png" alt="LiangDicong" style="width:100%; height:150px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
-        <h5><b><a href="https://www.smu.edu.cn/">Dicong Liang</a> (梁迪聪)</b></h5>
-        <p class="teamtitle"><small>南方医科大学·讲师</small></p>
-        </center>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/Liu_Chang.png" alt="LiuChang" style="width:100%; height:150px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
-        <h5><b><a href="TBA">Chang Liu</a> (刘畅)</b></h5>
-        <p class="teamtitle"><small>Company</small></p>
-        </center>
-      </div>
-    </div>
-  </div> 
-  
-  <div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/Mai_Zhanfeng.png" alt="MaiZhanfeng" style="width:100%; height:150px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
-        <h5><b><a href="TBA">Zhan-Feng Mai</a> (麦展风)</b></h5>
-        <p class="teamtitle"><small>广西大学·副教授</small></p>
-        </center>
-      </div>
-    </div>
-  </div>
-
-  -->
 
   <div class="column">
     <div class="card">
