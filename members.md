@@ -105,7 +105,7 @@ beyond the standard model<br>
 
 ---
 
-<img src="{{ site.baseurl }}/assets/members/Song_Hanlin.jpg" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/members/Song_Hanlin.png" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0009-0000-2543-8568) &nbsp; 
 <big><b>Hanlin Song (宋翰林)</b></big><br>
 <i><b>PhD Student (2021-now)</b>, Institute of Theoretical Physics, School of Physics, 
