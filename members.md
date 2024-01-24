@@ -26,7 +26,7 @@ permalink: /member/
 
   <div class="column2">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/members/Shao_Lijing.png" alt="" style="width:100%; height:200px">
+      <img src="{{ site.baseurl }}/assets/members/Shao_Lijing.png" alt="" style="width:100%; height:210px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -39,7 +39,7 @@ permalink: /member/
 
   <div class="column2">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/members/Liang_Dicong.png" alt="" style="width:100%; height:200px">
+      <img src="{{ site.baseurl }}/assets/members/Liang_Dicong.png" alt="" style="width:100%; height:210px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -52,7 +52,7 @@ permalink: /member/
 
   <div class="column2">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/members/Lyu_Zhenwei.png" alt="" style="width:100%; height:200px">
+      <img src="{{ site.baseurl }}/assets/members/Lyu_Zhenwei.png" alt="" style="width:100%; height:210px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -65,7 +65,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Wang_Haitian.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Wang_Haitian.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -79,7 +79,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Mai_Zhanfeng.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Mai_Zhanfeng.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -93,7 +93,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Yim_Garvin.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Yim_Garvin.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -107,7 +107,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Liu_Chang.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Liu_Chang.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -121,7 +121,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Li_Hongbo.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Li_Hongbo.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -135,7 +135,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Song_Hanlin.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Song_Hanlin.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -149,7 +149,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Kang_Yacheng.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Kang_Yacheng.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -163,7 +163,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Hu_Zexin.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Hu_Zexin.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -176,7 +176,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Ji_Peixiang.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Ji_Peixiang.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -189,7 +189,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Wang_Ziming.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Wang_Ziming.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -203,7 +203,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Dong_Yiming.png" alt="" style="width:100%; height:200px">
+        <img src="{{ site.baseurl }}/assets/members/Dong_Yiming.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
