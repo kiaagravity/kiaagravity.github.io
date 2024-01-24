@@ -26,12 +26,38 @@ permalink: /member/
 
   <div class="column2">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/Gao_Yong.png" alt="GaoYong" style="width:100%; height:150px">
+      <img src="{{ site.baseurl }}/assets/members/Shao_Lijing.png" alt="" style="width:100%; height:200px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="https://gravyong.github.io/">Yong Gao</a> (高勇)</b></h5>
-        <p class="teamtitle"><small>AEI/Potsdam·博后</small></p>
+        <h5><b><a href="https://friendshao.github.io/about/">Lijing Shao</a> (邵立晶)</b></h5>
+        <p class="teamtitle"><small>Assistant Professor</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column2">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/members/Liang_Dicong.png" alt="" style="width:100%; height:200px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b>Dr. Dicong Liang (梁迪聪)</b></h5>
+        <p class="teamtitle"><small>KIAA Postdoc</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column2">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/members/Lyu_Zhenwei.png" alt="" style="width:100%; height:200px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="https://gwlyu.github.io/">Dr. Zhenwei Lyu</a> (吕振伟)</b></h5>
+        <p class="teamtitle"><small>Boya Postdoctoral Fellow</small></p>
         </center>
       </div>
     </div>
