@@ -22,6 +22,23 @@ permalink: /member/
   }
 </style>
 
+<div class="row">
+
+  <div class="column2">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/Gao_Yong.png" alt="GaoYong" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="https://gravyong.github.io/">Yong Gao</a> (高勇)</b></h5>
+        <p class="teamtitle"><small>AEI/Potsdam·博后</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+</div>
+
 <img src="{{ site.baseurl }}/assets/members/Shao_Lijing.jpg" title="Profile Picture" class="profile">
 [<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-1334-8853) &nbsp; 
 <big><b>Prof. Dr. Lijing Shao (邵立晶)</b></big><br>
