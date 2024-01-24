@@ -69,7 +69,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://github.com/whaitian">Dr. Hai-Tian Wang</a> (王海天)</b></h5>
+          <h5><b><a href="https://whaitian.github.io/">Dr. Hai-Tian Wang</a> (王海天)</b></h5>
           <p class="teamtitle"><small>KIAA Postdoc</small></p>
           </center>
         </div>
