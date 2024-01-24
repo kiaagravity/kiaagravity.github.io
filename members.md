@@ -30,7 +30,7 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="https://friendshao.github.io/about/">Lijing Shao</a> (邵立晶)</b></h5>
+        <h5><b><a href="https://friendshao.github.io/about/">Prof. Dr. Lijing Shao</a> (邵立晶)</b></h5>
         <p class="teamtitle"><small>Assistant Professor</small></p>
         </center>
       </div>
@@ -43,7 +43,7 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b>Dr. Dicong Liang (梁迪聪)</b></h5>
+        <h5><b><a href="https://orcid.org/0000-0001-5021-235X">Dr. Dicong Liang</a> (梁迪聪)</b></h5>
         <p class="teamtitle"><small>KIAA Postdoc</small></p>
         </center>
       </div>
@@ -63,145 +63,158 @@ permalink: /member/
     </div>
   </div>
 
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Wang_Haitian.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://github.com/whaitian">Dr. Hai-Tian Wang</a> (王海天)</b></h5>
+          <p class="teamtitle"><small>KIAA Postdoc</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Mai_Zhanfeng.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0003-2724-0226">Dr. Zhan-Feng Mai</a> (麦展风)</b></h5>
+          <p class="teamtitle"><small>KIAA Postdoc</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Yim_Garvin.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0001-8548-9535">Dr. Garvin Yim</a> (嚴家榮)</b></h5>
+          <p class="teamtitle"><small>KIAA Postdoc</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Liu_Chang.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0001-7649-6792">Chang Liu</a> (刘畅)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Li_Hongbo.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Hongbo Li</a> (李洪波)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Song_Hanlin.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0009-0000-2543-8568">Hanlin Song</a> (宋翰林)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Kang_Yacheng.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://astrokang.github.io">Yacheng Kang</a> (康亚城)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Hu_Zexin.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0002-3081-0659">Zexin Hu</a> (胡泽昕)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Ji_Peixiang.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="TBA">Peixiang Ji</a> (姬佩祥)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Wang_Ziming.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0002-8742-8397">Ziming Wang</a> (王子铭)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Dong_Yiming.png" alt="" style="width:100%; height:200px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0001-5371-4697">Yiming Dong</a> (董益铭)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
 </div>
-
-<img src="{{ site.baseurl }}/assets/members/Shao_Lijing.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-1334-8853) &nbsp; 
-<big><b>Prof. Dr. Lijing Shao (邵立晶)</b></big><br>
-<i><b>Assistant Professor (2018-now)</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: lshao@pku.edu.cn<br>
-<b>Homepage</b>: [https://friendshao.github.io](https://friendshao.github.io/about/) and [http://scholar.pku.edu.cn](http://scholar.pku.edu.cn/lshao)<br> 
-<b>Research Interests</b>: gravitational waves, pulsar astronomy, new physics
-beyond the standard model<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Liang_Dicong.jpeg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-5021-235X) &nbsp; 
-<big><b>Dr. Dicong Liang (梁迪聪)</b></big><br>
-<i><b>KIAA Postdoc (2021-now)</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: dcliang@pku.edu.cn<br>
-<b>Research Interests</b>: gravitational waves<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Lyu_Zhenwei.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-0151-3794) &nbsp; 
-<big><b>Dr. Zhenwei Lyu (吕振伟)</b></big><br>
-<i><b>Boya Postdoctoral Fellow (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: zwlyu@pku.edu.cn<br>
-<b>Homepage</b>: [https://gwlyu.github.io/](https://gwlyu.github.io/)<br> 
-<b>Research Interests</b>: gravitational waves<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Wang_Haitian.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-7779-8239) &nbsp; 
-<big><b>Dr. Hai-Tian Wang (王海天)</b></big><br>
-<i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: wanght@pku.edu.cn<br>
-<b>Research Interests</b>: gravitational-wave data analysis<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Mai_Zhanfeng.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0003-2724-0226) &nbsp; 
-<big><b>Dr. Zhan-Feng Mai (麦展风)</b></big><br>
-<i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: zf_mai1102@pku.edu.cn<br>
-<b>Research Interests</b>: black holes, gravitational waves<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Yim_Garvin.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-8548-9535) &nbsp; 
-<big><b>Dr. Garvin Yim (嚴家榮)</b></big><br>
-<i><b>KIAA Postdoc (2022-now)</b>, Kavli Institute for Astronomy and Astrophysics,
-  Peking University</i><br>
-<b>Email</b>: g.yim@pku.edu.cn<br>
-<b>Research Interests</b>: neutron stars, gravitational waves<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Liu_Chang.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-7649-6792) &nbsp; 
-<big><b>Chang Liu (刘畅)</b></big><br>
-<i><b>PhD Student (2018-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: leslielc@pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, cosmology, pulsar astronomy <br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Li_Hongbo.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-4850-8351) &nbsp; 
-<big><b>Hongbo Li (李洪波)</b></big><br>
-<i><b>PhD Student (2020-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: lihb2020@stu.pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves, neutron stars, equation of state <br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Song_Hanlin.png" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0009-0000-2543-8568) &nbsp; 
-<big><b>Hanlin Song (宋翰林)</b></big><br>
-<i><b>PhD Student (2021-now)</b>, Institute of Theoretical Physics, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: hanlin@stu.pku.edu.cn <br>
-<b>Research Interests</b>: gravitational waves <br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Kang_Yacheng.jpeg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0001-7402-4927) &nbsp; 
-<big><b>Yacheng Kang (康亚城)</b></big><br>
-<i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, 
-  Peking University</i><br>
-<b>Email</b>: yckang@stu.pku.edu.cn<br>
-<b>Homepage</b>: [https://astrokang.github.io](https://astrokang.github.io/)<br>
-<b>Research Interests</b>: compact stars, gravitational waves, high-energy astrophysics, multi-messenger astronomy <br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Hu_Zexin.jpeg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-3081-0659) &nbsp; 
-<big><b>Zexin Hu (胡泽昕)</b></big><br>
-<i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
-<b>Email</b>: 1800011323@pku.edu.cn<br>
-<b>Research Interests</b>: pulsars, gravitation<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Ji_Peixiang.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
-<big><b>Peixiang Ji (姬佩祥)</b></big><br>
-<i><b>PhD Student (2022-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
-<b>Email</b>: 2201110290@stu.pku.edu.cn<br>
-<b>Research Interests</b>: gravitational waves, cosmology<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Wang_Ziming.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](https://orcid.org/0000-0002-8742-8397) &nbsp; 
-<big><b>Ziming Wang (王子铭)</b></big><br>
-<i><b>PhD Student (2023-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
-<b>Email</b>: 1900011622@pku.edu.cn<br>
-<b>Research Interests</b>: gravitational waves, tests of gravity theories<br>
-
----
-
-<img src="{{ site.baseurl }}/assets/members/Dong_Yiming.jpg" title="Profile Picture" class="profile">
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;float:left;">](TBA) &nbsp; 
-<big><b>Yiming Dong (董益铭)</b></big><br>
-<i><b>PhD Student (2023-now)</b>, Department of Astronomy, School of Physics, Peking University</i><br>
-<b>Email</b>: 1900011629@pku.edu.cn<br>
-<b>Research Interests</b>: pulsars, Square Kilometre Array<br>
 
 ---
 
