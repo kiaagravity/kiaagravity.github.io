@@ -64,6 +64,10 @@ Tests* (in press), arXiv:2303.17185
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
+0. H.-T. Wang, L.  Shao, [Comparison between time-domain and frequency-domain
+Bayesian inferences to inspiral-merger-ringdown gravitational-wave
+signals](http://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
+
 0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
 Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
 freely precessing magnetar following an X-ray
