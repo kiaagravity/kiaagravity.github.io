@@ -31,7 +31,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="https://friendshao.github.io/about/">Prof. Dr. Lijing Shao</a> (邵立晶)</b></h5>
-        <p class="teamtitle"><small>Assistant Professor</small></p>
+        <p class="teamtitle"><small>Associate Professor with Tenure</small></p>
         </center>
       </div>
     </div>
@@ -297,7 +297,7 @@ permalink: /member/
 ## Members <small><small>(29 ppl.)</small></small>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2018—now | **Lijing Shao** | **邵立晶** | Assistant Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2018—now | **Lijing Shao** | **邵立晶** | Associate Professor with Tenure | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Zhenwei Lyu** | **吕振伟** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Zhanfeng Mai** | **麦展风** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
