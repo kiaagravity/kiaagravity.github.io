@@ -103,6 +103,8 @@ model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 fields for scalar, electromagnetic, and gravitational waves with
 spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* 461 (2024) 169582
 
+0. 梁迪聪, 邵立晶, [脉冲星计时阵列与纳赫兹引力波探测](TBA), submitted
+
 0. 路瑞鹏, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光, 邵立晶, 王平, 汪卫华, 王维扬, 
 夏铖君, 胥恒, 徐仁新, 徐世庆, 岳汉, 赵里,
 郑小平, 周恩平, 邹远川, [从地震到星震](TBA), submitted
