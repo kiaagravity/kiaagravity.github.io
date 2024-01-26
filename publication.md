@@ -66,7 +66,7 @@ press
 
 0. H.-T. Wang, L.  Shao, [Comparison between time-domain and frequency-domain
 Bayesian inferences to inspiral-merger-ringdown gravitational-wave
-signals](http://arxiv.org/abs/TBA), *Phys. Rev. D* (accepted), arXiv:TBA
+signals](http://arxiv.org/abs/2401.13997), *Phys. Rev. D* (accepted), arXiv:2401.13997
 
 0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
 Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
