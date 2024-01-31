@@ -105,11 +105,11 @@ network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
 
 0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
-signals](https://arxiv.org/abs/2304.06734), arXiv:2304.06734
+signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* (accepted), arXiv:2304.06734
 
 0. **H.-P. Gu (顾华鹏)**, H.-T. Wang, L. Shao, [Constraints on charged black holes
 from merger-ringdown signals in GWTC-3 and prospects for the Einstein
-Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* (accepted), arXiv:2310.10447
+Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* 109 (2024) 024058
 
 0. **Y. Dong (董益铭)**, Z. Hu, R. Xu, L. Shao, [Moment of Inertia for Axisymmetric
 Neutron Stars in the Standard-Model
