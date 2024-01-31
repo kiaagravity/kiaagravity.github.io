@@ -130,7 +130,7 @@ Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
-observing run](https://arxiv.org/abs/2210.10931), arXiv:2210.10931
+observing run](https://arxiv.org/abs/2210.10931), *Astrophys. J.* (accepted), arXiv:2210.10931
 
 0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
 third observing run of the LIGO-Virgo
