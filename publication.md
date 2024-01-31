@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H. Yan, X. Chen, J. Zhang, M. Wang, F. Zhang, L.
+Shao, [Towards a Consistent Calculation of the Lunar Response to Gravitational
+Waves](http://arxiv.org/abs/TBA), arXiv:TBA
+
 0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Dynamic instability analysis for
 bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757),
 arXiv:2401.07757
@@ -51,11 +55,6 @@ pulsars](http://arxiv.org/abs/2311.11038), arXiv:2311.11038
 next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
 
-0. Y. Kang, C. Liu, J.-P. Zhu, Y.  Gao, L. Shao, B. Zhang, H. Sun, Y.-H. I.
-Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers with
-decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991),
-arXiv:2309.16991
-
 0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
 pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
 Tests* (in press), arXiv:2303.17185
@@ -63,6 +62,11 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Y. Kang, C. Liu, J.-P. Zhu, Y.  Gao, L. Shao, B. Zhang, H. Sun, Y.-H. I.
+Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers with
+decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991), *Mon.  Not. R. Astron. Soc.* (accepted),
+arXiv:2309.16991
 
 0. H.-T. Wang, L.  Shao, [Comparison between time-domain and frequency-domain
 Bayesian inferences to inspiral-merger-ringdown gravitational-wave
