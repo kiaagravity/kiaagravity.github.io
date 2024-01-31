@@ -78,10 +78,6 @@ parameter-estimation biases in overlapping gravitational-wave
 signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* (accepted),
 arXiv:2304.06734
 
-0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
-merger-ringdown signals in GWTC-3 and prospects for the Einstein
-Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* (accepted), arXiv:2310.10447
-
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
 Rev. D* (accepted), arXiv:2306.08234
@@ -89,6 +85,10 @@ Rev. D* (accepted), arXiv:2306.08234
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* (accepted), arXiv:2305.10682
+
+0. H.-P. Gu, H.-T. Wang, L. Shao, [Constraints on charged black holes from
+merger-ringdown signals in GWTC-3 and prospects for the Einstein
+Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* 109 (2024) 024058
 
 0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
 from trapped magnetar ejecta and the connection to glitches and
