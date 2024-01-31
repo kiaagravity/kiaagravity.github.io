@@ -342,7 +342,6 @@ permalink: /member/
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2022—now | **Huapeng Gu** | **顾华鹏** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—now | **Tong Chen** | **陈彤** | Undergraduate |  [PHY-IMU](https://wlxy.imu.edu.cn/) |
 
 
 <p></p>
@@ -431,6 +430,7 @@ permalink: /member/
 
 Comments
 
+| 2023—2023 | **Tong Chen** | **陈彤** | Undergraduate |  [PHY-IMU](https://wlxy.imu.edu.cn/) |
 | 2023—2023 | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—2023 | **Zeyu Li** | **李泽宇** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—2023 | **Weisong Wang** | **王伟松** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
