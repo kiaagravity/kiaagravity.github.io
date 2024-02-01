@@ -148,6 +148,8 @@ arXiv:2112.06861
 0. K. Akiyama, *et al.*, [The persistent shadow of the supermassive black hole
 of M 87. I. Observations, calibration, imaging, and
 analysis](https://doi.org/10.1051/0004-6361/202347932), *Astron. & Astrophys.* 681 (2024) A79
+
+0. G.F. Paraschos, *et al.*, [Ordered magnetic fields around the 3C 84 central black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682 (2024) L3
 {: reversed="reversed"}
 
 ---
