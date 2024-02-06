@@ -105,7 +105,7 @@ network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
 
 0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
-signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* (accepted), arXiv:2304.06734
+signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* 41 (2024) 055011
 
 0. **H.-P. Gu (顾华鹏)**, H.-T. Wang, L. Shao, [Constraints on charged black holes
 from merger-ringdown signals in GWTC-3 and prospects for the Einstein
