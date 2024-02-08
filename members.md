@@ -331,7 +331,7 @@ permalink: /member/
 
 ---
 
-## Associates <small><small>(regularly seen in group meetings)</small></small>
+## Associates <small><small>—— regularly seen in group meetings</small></small>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Junjie Zhao** | **赵俊杰** | Liyun Fellow | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
