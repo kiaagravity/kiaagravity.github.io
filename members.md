@@ -244,7 +244,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="https://orcid.org/0000-0001-5021-235X">Dicong Liang</a> (梁迪聪)</b></h5>
-        <p class="teamtitle"><small>南方医科大学·讲师</small></p>
+        <p class="teamtitle"><small>南方医科大学·助理教授</small></p>
         </center>
       </div>
     </div>
