@@ -63,10 +63,6 @@ Tests* (in press), arXiv:2303.17185
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
-0. H.-T. Wang, L.  Shao, [Comparison between time-domain and frequency-domain
-Bayesian inferences to inspiral-merger-ringdown gravitational-wave
-signals](http://arxiv.org/abs/2401.13997), *Phys. Rev. D* (accepted), arXiv:2401.13997
-
 0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
 Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
 freely precessing magnetar following an X-ray
@@ -76,9 +72,14 @@ outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), *Nat. Astron.* (accept
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
 Rev. D* (accepted), arXiv:2306.08234
 
+0. H.-T. Wang, L.  Shao, [Comparison between time-domain and frequency-domain
+Bayesian inferences to inspiral-merger-ringdown gravitational-wave
+signals](http://arxiv.org/abs/2401.13997), *Phys. Rev. D* 109 (2024) 043027
+
 0. Y. Kang, C. Liu, J.-P. Zhu, Y.  Gao, L. Shao, B. Zhang, H. Sun, Y.-H. I.
 Yin, B.-B. Zhang, [Prospects for detecting neutron star–white dwarf mergers with
-decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991), *Mon.  Not. R. Astron. Soc.* 528 (2024) 5309
+decihertz gravitational-wave observatories](https://arxiv.org/abs/2309.16991), *Mon. 
+Not. R. Astron. Soc.* 528 (2024) 5309
 
 0. Z. Wang, D. Liang, J. Zhao, C.  Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
