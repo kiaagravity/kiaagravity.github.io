@@ -16,7 +16,7 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Hanlin, Peixiang, Ziming, Yacheng, Z
 ### Agenda
 
 
-- Xueli Miao: **Gaussian random fields and statistical isotropy**
+- Zexin Hu: **Gaussian random fields and statistical isotropy**
 
   Ref: Amir Hajian, Tarun Souradeep [[Link](https://arxiv.org/abs/astro-ph/0501001)];
   
