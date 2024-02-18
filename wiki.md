@@ -46,9 +46,9 @@ slides.
 
 ## Discussion on Research Topics
 
-**Chair**: Dr. Zhan-Feng Mai (麦展风)
+**Chair**: Hanlin Song (宋翰林)
 
-We have weekly discussion on research topics every **Fridays 14:00—17:00** in
+We have weekly discussion on research topics every **Wednesdays 14:00—17:00** in
 the **Meeting Room in Auditorium**. The attendees are limited to
 graduates/postdocs who work on research projects in the group.  Speakers are
 encouraged to use blackboard only!
