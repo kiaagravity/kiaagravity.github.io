@@ -15,7 +15,7 @@ categories: activities
 Ref. 1: [Black-hole spectroscopy: quasinormal modes, ringdown stability and the pseudospectrum](https://arxiv.org/abs/2308.16227)
 
 
-#### Hongyi Yang: Exploration for possible degeneracy between different effects on GW phase
+#### Hongyi Zhang: Exploration for possible degeneracy between different effects on GW phase
 
 Ref. 1:[Constraints on Nonlinear Tides due to p–g Mode Coupling from the Neutron Star Merger GW170817](https://iopscience.iop.org/article/10.3847/1538-4357/ab64e8)
 
