@@ -43,10 +43,6 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
-0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
-parameterized post-Newtonian coefficients in tests of
-gravity](http://arxiv.org/abs/2311.16184), arXiv:2311.16184
-
 0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
 violation of gravity in the Standard-Model Extension with
 pulsars](http://arxiv.org/abs/2311.11038), arXiv:2311.11038
@@ -62,6 +58,10 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
+parameterized post-Newtonian coefficients in tests of
+gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* (accepted), arXiv:2311.16184
 
 0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
 Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
