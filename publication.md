@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Lyu, L. Shao, [Measuring Mass Transfer Rates in Coalescing Neutron
+Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
+Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
+
 0. H. Yan, X. Chen, J. Zhang, M. Wang, F. Zhang, L.
 Shao, [Towards a Consistent Calculation of the Lunar Response to Gravitational
 Waves](http://arxiv.org/abs/TBA), arXiv:TBA
@@ -106,7 +110,8 @@ spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* 4
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* 24 (2024) 025019
 
-0. 梁迪聪, 邵立晶, [脉冲星计时阵列与纳赫兹引力波探测](TBA), submitted
+0. 梁迪聪, 邵立晶, [脉冲星计时阵列与纳赫兹引力波探测](https://doi.org/10.1360/TB-2024-0104), 《科学通报》
+(已接收)
 
 0. 路瑞鹏, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光, 邵立晶, 王平, 汪卫华, 王维扬, 
 夏铖君, 胥恒, 徐仁新, 徐世庆, 岳汉, 赵里,
