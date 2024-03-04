@@ -342,7 +342,7 @@ permalink: /member/
 | 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2022—now | **Huapeng Gu** | **顾华鹏** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2024—now | **Wenshuai Liu** | **刘文帅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2024—now | **Kaiyao Chu** | **楚开尧** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
