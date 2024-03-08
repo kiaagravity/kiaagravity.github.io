@@ -250,6 +250,19 @@ permalink: /member/
     </div>
   </div>
 
+  <!-- <div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/alumni/Liu_Chang.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0001-7649-6792">Chang Liu</a> (刘畅)</b></h5>
+          <p class="teamtitle"><small>SiCARRIER·工程师</small></p>
+          </center>
+        </div>
+      </div>
+    </div> -->
+
   <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Miao_Xueli.png" alt="MiaoXueli" style="width:100%; height:150px">
