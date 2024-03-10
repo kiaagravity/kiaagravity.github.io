@@ -122,6 +122,9 @@ quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* 24 (2024) 0
 
 ##### Other Papers
 
+0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
+the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
+
 0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
 
