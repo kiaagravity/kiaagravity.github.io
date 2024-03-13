@@ -28,10 +28,6 @@ arXiv:2401.07757
 for Detecting the Stochastic Gravitational-wave Background in Ground-based
 Detectors](https://arxiv.org/abs/2401.00984), arXiv:2401.00984
 
-0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
-Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486),
-arXiv:2312.02486
-
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
@@ -62,6 +58,10 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
+Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
+Astropart. Phys.* (accepted), arXiv:2312.02486
 
 0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
 parameterized post-Newtonian coefficients in tests of
