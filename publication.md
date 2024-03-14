@@ -16,10 +16,6 @@ permalink: /publication/
 Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
-0. H. Yan, X. Chen, J. Zhang, M. Wang, F. Zhang, L.
-Shao, [Towards a Consistent Calculation of the Lunar Response to Gravitational
-Waves](http://arxiv.org/abs/TBA), arXiv:TBA
-
 0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Dynamic instability analysis for
 bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757),
 arXiv:2401.07757
@@ -43,10 +39,6 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
-0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
-violation of gravity in the Standard-Model Extension with
-pulsars](http://arxiv.org/abs/2311.11038), arXiv:2311.11038
-
 0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
 next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
@@ -58,6 +50,14 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
+violation of gravity in the Standard-Model Extension with
+pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* (accepted), arXiv:2311.11038
+
+0. H. Yan, X. Chen, J. Zhang, F. Zhang, M. Wang,  L.  Shao, [Towards a
+Consistent Calculation of the Lunar Response to Gravitational
+Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* (accepted), arXiv:2403.08681
 
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
