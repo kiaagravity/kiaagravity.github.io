@@ -72,10 +72,6 @@ Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
 freely precessing magnetar following an X-ray
 outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), *Nat. Astron.* (accepted)
 
-0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
-oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
-Rev. D* (accepted), arXiv:2306.08234
-
 0. H.-T. Wang, L.  Shao, [Comparison between time-domain and frequency-domain
 Bayesian inferences to inspiral-merger-ringdown gravitational-wave
 signals](http://arxiv.org/abs/2401.13997), *Phys. Rev. D* 109 (2024) 043027
@@ -105,6 +101,10 @@ model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
 spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* 461 (2024) 169582
+
+0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
+oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
+Rev. D* 109 (2024) 063020
 
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
