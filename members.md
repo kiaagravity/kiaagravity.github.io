@@ -237,22 +237,35 @@ permalink: /member/
     </div>
   </div>
 
-    <div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/Liang_Dicong.png" alt="" style="width:100%; height:150px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
-        <h5><b><a href="https://orcid.org/0000-0001-5021-235X">Dicong Liang</a> (梁迪聪)</b></h5>
-        <p class="teamtitle"><small>南方医科大学·讲师</small></p>
-        </center>
+<div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Li_Hongbo.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Hongbo Li</a> (李洪波)</b></h5>
+          <p class="teamtitle"><small>北京大学·博后</small></p>
+          </center>
+        </div>
       </div>
     </div>
+
+  <div class="column">
+  <div class="card">
+    <img src="{{ site.baseurl }}/assets/alumni/Liang_Dicong.png" alt="" style="width:100%; height:150px">
+    <div class="teamcontainer" style="padding:1px; ">
+      <center>
+      <p></p>
+      <h5><b><a href="https://orcid.org/0000-0001-5021-235X">Dicong Liang</a> (梁迪聪)</b></h5>
+      <p class="teamtitle"><small>南方医科大学·讲师</small></p>
+      </center>
+    </div>
+  </div>
   </div>
 
-  <!-- <div class="column">
+  <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/alumni/Liu_Chang.png" alt="" style="width:100%; height:150px">
+        <img src="{{ site.baseurl }}/assets/members/Liu_Chang.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -261,7 +274,7 @@ permalink: /member/
           </center>
         </div>
       </div>
-    </div> -->
+    </div>
 
   <div class="column">
     <div class="card">
