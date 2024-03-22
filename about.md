@@ -40,6 +40,7 @@ all levels**. Those who are good at either mathematics or computer science are
 especially encouraged. Students from other universities/institutions are also
 welcome. 
 
+- [博士后](/assets/postdoc)
 - [博士研究生](/assets/phd)
 - [本科生科研](/assets/undergraduate)
 - [本科生毕业设计](/assets/bachelor)
