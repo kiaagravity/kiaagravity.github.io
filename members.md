@@ -84,7 +84,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://orcid.org/0000-0001-8548-9535">Dr. Garvin Yim</a> (嚴家榮)</b></h5>
+          <h5><b><a href="https://garvinyim.wixsite.com/home">Dr. Garvin Yim</a> (嚴家榮)</b></h5>
           <p class="teamtitle"><small>KIAA Postdoc</small></p>
           </center>
         </div>
