@@ -39,10 +39,6 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
-0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
-next-generation ground-based detector
-network](https://arxiv.org/abs/2310.01249), arXiv:2310.01249
-
 0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
 pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
 Tests* (in press), arXiv:2303.17185
@@ -50,6 +46,11 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
+next-generation ground-based detector
+network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* (accepted),
+arXiv:2310.01249
 
 0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
 violation of gravity in the Standard-Model Extension with
