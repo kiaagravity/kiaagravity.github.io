@@ -391,7 +391,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members <small><small>(31 ppl.)</small></small>
+## Former Members <small><small>(33 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -417,12 +417,16 @@ permalink: /member/
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Cosmological Aspects of Massive Gravity Theory* (TabrizU'22); co-advisors: A.R. Akbarieh & H. Motavalli |
 | &#9830; **Li, Chunjiang** (**李春江**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Track Down Radio Frequency Interference in FAST Data* (PKU'21); co-advisor: Weiwei Zhu  |
+| &#9830; [**Li, Hong-Bo**](https://orcid.org/0000-0002-4850-8351) (**李洪波**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *The Asteroseismology of Compact Star* (PKU'24); co-advisor: Ren-Xin Xu |
 | &#9830; [**Li, Shou-Long**](http://wdy.hunnu.edu.cn/info/1035/3435.htm) (**李守龙**) &#9830; <small>School of Physics and Electronics, Hunan Normal University</small> |
 | <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *NANOGrav Signal from First-order Confinement-deconfinement Phase Transition* (2021) |
 | &#9830; **Li, Wenlong** (**李汶隆**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Astrophysics from Space-based Gravitational Wave Detectors* (PKU'19) |
 | &#9830; [**Liang, Dicong**](https://orcid.org/0000-0001-5021-235X) (**梁迪聪**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravtitational Waves in Modified Gravity Theories* (2024)</small> |
+| &#9830; [**Liu, Chang**](https://orcid.org/0000-0001-7649-6792) (**刘畅**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Science Cases with Space-based Gravitational-wave Detectors* (PKU'24) |
 | &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Gravity Theories with Binary Pulsar Systems* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; **Qi, Haoyang** (**祁昊洋**) &#9830; <small>School of Physics, Peking University</small> |
