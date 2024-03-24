@@ -360,14 +360,11 @@ permalink: /member/
 ## Associates <small><small>— regularly seen in group meetings</small></small>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2018—now | **Junjie Zhao** | **赵俊杰** | Liyun Fellow | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
-| 2018—now | **Xueli Miao** | **缪雪丽** | FAST Fellow | [NAOC](http://www.bao.ac.cn/) | 
 | 2019—now | **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
 | 2021—now | **Dicong Liang** | **梁迪聪** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2018—now | **Yong Gao** | **高勇** | Postdoc | [AEI-Potsdam](http://www.aei.mpg.de/) |
 | 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| 2022—now | **Huapeng Gu** | **顾华鹏** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2024—now | **Wenshuai Liu** | **刘文帅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -465,6 +462,9 @@ permalink: /member/
 
 Comments
 
+| 2022—2023 | **Huapeng Gu** | **顾华鹏** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2018—2023 | **Junjie Zhao** | **赵俊杰** | Liyun Fellow | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
+| 2018—2023 | **Xueli Miao** | **缪雪丽** | FAST Fellow | [NAOC](http://www.bao.ac.cn/) | 
 | 2023—2023 | **Tong Chen** | **陈彤** | Undergraduate |  [PHY-IMU](https://wlxy.imu.edu.cn/) |
 | 2023—2023 | **Zeyu Li** | **李泽宇** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2021—2023 | **Weisong Wang** | **王伟松** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
