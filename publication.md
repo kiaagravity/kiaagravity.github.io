@@ -47,6 +47,9 @@ Tests* (in press), arXiv:2303.17185
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
+0. H.-B. Li, Y. Gao, L.  Shao, R.-X. Xu, [Asteroseismology of compact
+stars](http://arxiv.org/abs/TBA), *Universe* (accepted), arXiv:TBA
+
 0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
 next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* (accepted),
