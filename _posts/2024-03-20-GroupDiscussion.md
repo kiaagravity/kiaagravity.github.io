@@ -14,9 +14,7 @@ Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Hanlin, Peixiang, Ziming, Yacheng, Z
 
 ### Agenda
 
-- Dicong Liang: Testing General Relativity with Gravitational Wave Background from Compact Binary Coalescence
-    
-    Ref: Callister et.al [[Link](https://arxiv.org/abs/2312.12532)]; Joseph D. Romano, Neil J. Cornish [[Link](https://arxiv.org/abs/1608.06889)];
+- Yacheng Kang: ANG Observation 
     
 
 ### Time
