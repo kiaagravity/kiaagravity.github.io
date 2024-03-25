@@ -47,6 +47,12 @@ Tests* (in press), arXiv:2303.17185
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
+0. L. Meng, W. Zhu, M. Kramer, X.  Miao, G. Desvignes, L. Shao, H. Hu, P.C.C.
+Freire, Y. Zhang, M. Xue, Z.  Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.
+Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic Spin Precession in the Compact
+Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/TBA),
+*Astrophys. J.* (accepted), arXiv:TBA
+
 0. H.-B. Li, Y. Gao, L.  Shao, R.-X. Xu, [Asteroseismology of compact
 stars](http://arxiv.org/abs/TBA), *Universe* (accepted), arXiv:TBA
 
