@@ -53,10 +53,6 @@ Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic Spin Precession in the Compact
 Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
 *Astrophys. J.* (accepted), arXiv:2403.17828
 
-0. H.-B. Li, Y. Gao, L.  Shao, R.-X. Xu, [Asteroseismology of compact
-stars](https://doi.org/10.3390/universe10040157), *Universe* (accepted),
-arXiv:TBA
-
 0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
 next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* (accepted),
@@ -108,6 +104,9 @@ antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527
 oscillations during magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. H.-B. Li, Y. Gao, L.  Shao, R.-X. Xu, [Asteroseismology of compact
+stars](https://doi.org/10.3390/universe10040157), *Universe* 10 (2024) 157
 
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
