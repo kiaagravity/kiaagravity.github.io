@@ -54,7 +54,8 @@ Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
 *Astrophys. J.* (accepted), arXiv:2403.17828
 
 0. H.-B. Li, Y. Gao, L.  Shao, R.-X. Xu, [Asteroseismology of compact
-stars](http://arxiv.org/abs/TBA), *Universe* (accepted), arXiv:TBA
+stars](https://doi.org/10.3390/universe10040157), *Universe* (accepted),
+arXiv:TBA
 
 0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
 next-generation ground-based detector
@@ -161,6 +162,16 @@ Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted), arXiv:2308.1
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
+
+0. K. Akiyama, *et al.*, [First Sagittarius A* Event Horizon Telescope Results.
+VIII. Physical Interpretation of the Polarized
+Ring](https://iopscience.iop.org/article/10.3847/2041-8213/ad2df1), *Astrophys.
+J. Lett.* 964 (2024) L26
+
+0. K. Akiyama, *et al.*, [First Sagittarius A* Event Horizon Telescope Results.
+VII. Polarization of the
+Ring](https://iopscience.iop.org/article/10.3847/2041-8213/ad2df0), *Astrophys.
+J. Lett.* 964 (2024) L25
 
 0. K. Akiyama, *et al.*, [The persistent shadow of the supermassive black hole
 of M 87. I. Observations, calibration, imaging, and
