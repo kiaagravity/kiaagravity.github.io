@@ -62,22 +62,18 @@ arXiv:2310.01249
 violation of gravity in the Standard-Model Extension with
 pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* (accepted), arXiv:2311.11038
 
-0. H. Yan, X. Chen, J. Zhang, F. Zhang, M. Wang,  L.  Shao, [Towards a
-Consistent Calculation of the Lunar Response to Gravitational
-Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* (accepted), arXiv:2403.08681
-
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
 Astropart. Phys.* (accepted), arXiv:2312.02486
-
-0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
-parameterized post-Newtonian coefficients in tests of
-gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* (accepted), arXiv:2311.16184
 
 0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
 Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
 freely precessing magnetar following an X-ray
 outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), *Nat. Astron.* (accepted)
+
+0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
+parameterized post-Newtonian coefficients in tests of
+gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* 964 (2024) 194
 
 0. H.-T. Wang, L.  Shao, [Comparison between time-domain and frequency-domain
 Bayesian inferences to inspiral-merger-ringdown gravitational-wave
@@ -119,6 +115,10 @@ Rev. D* 109 (2024) 063020
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* 24 (2024) 025019
+
+0. H. Yan, X. Chen, J. Zhang, F. Zhang, M. Wang,  L.  Shao, [Towards a
+Consistent Calculation of the Lunar Response to Gravitational
+Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
 0. 梁迪聪, 邵立晶, [脉冲星计时阵列与纳赫兹引力波探测](https://doi.org/10.1360/TB-2024-0104), 《科学通报》
 (已接收)
