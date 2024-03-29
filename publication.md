@@ -154,10 +154,6 @@ third observing run of the LIGO-Virgo
 network](https://arxiv.org/abs/2304.08393), *Astrophys. J.* (accepted),
 arXiv:2304.08393
 
-0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
-Gravitational-Wave Candidates from the Third Gravitational-wave Observing
-Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* (accepted), arXiv:2308.13666
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -176,7 +172,12 @@ J. Lett.* 964 (2024) L25
 of M 87. I. Observations, calibration, imaging, and
 analysis](https://doi.org/10.1051/0004-6361/202347932), *Astron. & Astrophys.* 681 (2024) A79
 
-0. G.F. Paraschos, *et al.*, [Ordered magnetic fields around the 3C 84 central black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682 (2024) L3
+0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
+Gravitational-Wave Candidates from the Third Gravitational-wave Observing
+Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* 964 (2024) 149
+
+0. G.F. Paraschos, *et al.*, [Ordered magnetic fields around the 3C 84 central
+black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682 (2024) L3
 {: reversed="reversed"}
 
 ---
