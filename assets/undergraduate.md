@@ -101,7 +101,7 @@ network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* (accepted), arXiv:231
 
 0. **Y. Dang (党伊萱)**,  **Z. Wang (王子铭)**, D. Liang, L. Shao, [Impact of
 overlapping signals on parameterized post-Newtonian coefficients in tests of
-gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* (accepted), arXiv:2311.16184
+gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* 964 (2024) 194
 
 0. **Z. Wang (王子铭)**, D. Liang, J. Zhao, C. Liu, L. Shao, [Anatomy of
 parameter-estimation biases in overlapping gravitational-wave
