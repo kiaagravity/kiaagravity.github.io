@@ -276,6 +276,19 @@ permalink: /member/
       </div>
     </div>
 
+<div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Mai_Zhanfeng.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://zhanfengmai.github.io/">Zhan-Feng Mai</a> (麦展风)</b></h5>
+          <p class="teamtitle"><small>广西大学·助理教授</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
   <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Miao_Xueli.png" alt="MiaoXueli" style="width:100%; height:150px">
