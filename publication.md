@@ -16,10 +16,6 @@ permalink: /publication/
 Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
-0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Dynamic instability analysis for
-bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757),
-arXiv:2401.07757
-
 0. H. Song, D. Liang, Z. Wang, L.  Shao, [Compact Binary Foreground Subtraction
 for Detecting the Stochastic Gravitational-wave Background in Ground-based
 Detectors](https://arxiv.org/abs/2401.00984), arXiv:2401.00984
@@ -46,6 +42,10 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Dynamic instability analysis for
+bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757), *Phys.
+Rev. D* (accepted), arXiv:2401.07757
 
 0. L. Meng, W. Zhu, M. Kramer, X.  Miao, G. Desvignes, L. Shao, H. Hu, P.C.C.
 Freire, Y. Zhang, M. Xue, Z.  Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.
