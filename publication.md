@@ -66,11 +66,6 @@ pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* (accepted), arXiv:2311
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
 Astropart. Phys.* (accepted), arXiv:2312.02486
 
-0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
-Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
-freely precessing magnetar following an X-ray
-outburst](http://dx.doi.org/10.21203/rs.3.rs-2281053/v1), *Nat. Astron.* (accepted)
-
 0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
 parameterized post-Newtonian coefficients in tests of
 gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* 964 (2024) 194
@@ -104,6 +99,11 @@ model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 0. H.-B. Li, Y. Gao, L.  Shao, R.-X. Xu, [Asteroseismology of compact
 stars](https://doi.org/10.3390/universe10040157), *Universe* 10 (2024) 157
 
+0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
+Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
+freely precessing magnetar following an X-ray
+outburst](https://doi.org/10.1038/s41550-024-02226-7), *Nat. Astron.* TBA (2024) TBA
+
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
 spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* 461 (2024) 169582
@@ -131,6 +131,10 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 {: reversed="reversed"}
 
 ##### Other Papers
+
+0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
+of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
+Star](https://arxiv.org/abs/2404.04248), arXiv:2404.04248
 
 0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
 the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
