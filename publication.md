@@ -53,18 +53,17 @@ Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic Spin Precession in the Compact
 Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
 *Astrophys. J.* (accepted), arXiv:2403.17828
 
-0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
-next-generation ground-based detector
-network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* (accepted),
-arXiv:2310.01249
-
-0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
-violation of gravity in the Standard-Model Extension with
-pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* (accepted), arXiv:2311.11038
-
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
 Astropart. Phys.* (accepted), arXiv:2312.02486
+
+0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
+next-generation ground-based detector
+network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* 109 (2024) 084023
+
+0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
+violation of gravity in the Standard-Model Extension with
+pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* 109 (2024) 084024
 
 0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
 parameterized post-Newtonian coefficients in tests of

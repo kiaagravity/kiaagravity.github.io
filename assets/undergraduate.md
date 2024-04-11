@@ -93,11 +93,11 @@ layout: page
 
 0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, [New limits on local Lorentz
 invariance violation of gravity in the Standard-Model Extension with
-pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* (accepted), arXiv:2311.11038
+pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* 109 (2024) 084024
 
 0. **J. Hu (胡杰瑞)**, D. Liang, L. Shao, [Probing nontensorial gravitational waves
 with a next-generation ground-based detector
-network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* (accepted), arXiv:2310.01249
+network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* 109 (2024) 084023
 
 0. **Y. Dang (党伊萱)**,  **Z. Wang (王子铭)**, D. Liang, L. Shao, [Impact of
 overlapping signals on parameterized post-Newtonian coefficients in tests of
