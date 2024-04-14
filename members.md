@@ -232,6 +232,60 @@ permalink: /member/
 
 ---
 
+## Members <small><small>(29 ppl.)</small></small>
+
+| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
+| 2018—now | **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2022—now | **Zhenwei Lyu** | **吕振伟** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2022—now | **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2022—now | **Zhanfeng Mai** | **麦展风** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2022—now | **Garvin Yim** | **嚴家榮** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2022—now | **Hanlin Song** | **宋翰林** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| 2018—now | **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2020—now | **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2022—now | **Lihang Zhou** | **周立杭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2021—now | **Jierui Hu** | **胡杰瑞** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2021—now | **Rong Du** | **杜嵘** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2023—now | **Kun Gao** | **高焜** | Bachelor Thesis |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| 2023—now | **Zijing Li** | **李子敬** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2023—now | **Zhuhai Li** | **李竹海** | Bachelor Thesis |  [DoA-BNU](https://astro.bnu.edu.cn/zw/index.html) |
+| 2023—now | **Chenghui Zhao** | **赵乘辉** | Bachelor Thesis |  [DoA-NJU](https://astronomy.nju.edu.cn/) |
+| 2023—now | **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2023—now | **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2023—now | **Yiming Xu** | **徐一鸣** | Bachelor Thesis |  [SESS-PKU](https://sess.pku.edu.cn/) |
+| 2023—now | **Jianyuan Luo** | **罗荐元** | Bachelor Thesis |  [PHY-WHU](https://physics.whu.edu.cn/) |
+| 2023—now | **Yuxin Guo** | **郭雨欣** | Bachelor Thesis |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
+| 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2023—now | **Bolin Li** | **李柏霖** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+
+<p></p>
+
+---
+
+## Associates <small><small>— regularly seen in group meetings</small></small>
+
+| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
+| 2019—now | **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
+| 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2024—now | **Wenshuai Liu** | **刘文帅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2024—now | **Kaiyao Chu** | **楚开尧** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2024—now | **Yilun Zhang** | **张逸伦** | Undergraduate |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
+
+
+<p></p>
+
+---
+
 <big><big><big><b>Alumnae and Alumni</b></big></big></big><br>
 
 
@@ -342,61 +396,6 @@ permalink: /member/
   </div>
 
 </div>
-
-
----
-
-## Members <small><small>(29 ppl.)</small></small>
-
-| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2018—now | **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2022—now | **Zhenwei Lyu** | **吕振伟** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2022—now | **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2022—now | **Zhanfeng Mai** | **麦展风** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2022—now | **Garvin Yim** | **嚴家榮** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—now | **Hanlin Song** | **宋翰林** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| 2018—now | **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—now | **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—now | **Lihang Zhou** | **周立杭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—now | **Jierui Hu** | **胡杰瑞** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2021—now | **Rong Du** | **杜嵘** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2023—now | **Kun Gao** | **高焜** | Bachelor Thesis |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| 2023—now | **Zijing Li** | **李子敬** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—now | **Zhuhai Li** | **李竹海** | Bachelor Thesis |  [DoA-BNU](https://astro.bnu.edu.cn/zw/index.html) |
-| 2023—now | **Chenghui Zhao** | **赵乘辉** | Bachelor Thesis |  [DoA-NJU](https://astronomy.nju.edu.cn/) |
-| 2023—now | **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—now | **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—now | **Yiming Xu** | **徐一鸣** | Bachelor Thesis |  [SESS-PKU](https://sess.pku.edu.cn/) |
-| 2023—now | **Jianyuan Luo** | **罗荐元** | Bachelor Thesis |  [PHY-WHU](https://physics.whu.edu.cn/) |
-| 2023—now | **Yuxin Guo** | **郭雨欣** | Bachelor Thesis |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
-| 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2023—now | **Bolin Li** | **李柏霖** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-
-<p></p>
-
----
-
-## Associates <small><small>— regularly seen in group meetings</small></small>
-
-| **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
-| 2019—now | **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
-| 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2024—now | **Wenshuai Liu** | **刘文帅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2024—now | **Kaiyao Chu** | **楚开尧** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2024—now | **Yilun Zhang** | **张逸伦** | Undergraduate |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
-
-
-<p></p>
 
 ---
 
