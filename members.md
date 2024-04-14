@@ -412,7 +412,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members <small><small>(33 ppl.)</small></small>
+## Former Members <small><small>(34 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -448,6 +448,8 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravtitational Waves in Modified Gravity Theories* (2024)</small> |
 | &#9830; [**Liu, Chang**](https://orcid.org/0000-0001-7649-6792) (**刘畅**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Science Cases with Space-based Gravitational-wave Detectors* (PKU'24) |
+| &#9830; [**Mai, Zhan-Feng**](https://zhanfengmai.github.io/) (**麦展风**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
+| <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Stability Analysis for Bumblebee Black Holes* (2024)</small> |
 | &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Gravity Theories with Binary Pulsar Systems* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; **Qi, Haoyang** (**祁昊洋**) &#9830; <small>School of Physics, Peking University</small> |
