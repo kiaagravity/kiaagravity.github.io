@@ -215,6 +215,19 @@ permalink: /member/
       </div>
     </div>
 
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="TBA">Zhuhai Li</a> (李竹海)</b></h5>
+          <p class="teamtitle"><small>Incoming PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
 </div>
 
 ---
