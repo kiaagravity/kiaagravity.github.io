@@ -8,7 +8,7 @@ categories: activities
 
 ### Attendees
 
-Garvin, Haitian, Zhenwei, Zhanfeng, Yiming, Hanlin, Peixiang, Ziming, Yacheng, Zexin, Ze, Yong, Rui, Chang, Junjie, Xueli, Hongbo, Lijing
+Garvin, Haitian, Zhenwei, Zhanfeng, Rui, Chang, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Yiming, Ziming, Ze, Zhuhai, and Lijing
 
 ---
 
