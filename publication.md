@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. J.-P. Zhu, R.-C. Hu, Y. Kang, B. Zhang, H. Tong, L. Shao, Y. Qin, [Formation
+of GW230529 from Isolated Binary Evolution and Its Electromagnetic
+Counterparts](https://arxiv.org/abs/2404.10596), arXiv:2404.10596
+
 0. Z. Lyu, L. Shao, [Measuring Mass Transfer Rates in Coalescing Neutron
 Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
