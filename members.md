@@ -278,6 +278,8 @@ permalink: /member/
 | 2024—now | **Wenshuai Liu** | **刘文帅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2024—now | **Kaiyao Chu** | **楚开尧** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2024—now | **Yilun Zhang** | **张逸伦** | Undergraduate |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| 2024—now | **Jinghao Zhang** | **张景灏** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2024—now | **Jinwen Deng** | **邓锦文** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
