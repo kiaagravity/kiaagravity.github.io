@@ -92,6 +92,19 @@ permalink: /member/
     </div>
 
 
+<div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="TBA">Wenfan Feng</a> (冯文凡)</b></h5>
+          <p class="teamtitle"><small>Incoming Boya Fellow</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
   <div class="column2">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Liu_Chang.png" alt="" style="width:100%; height:210px">
@@ -232,7 +245,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(29 ppl.)</small></small>
+## Members <small><small>(30 ppl.)</small></small>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -240,6 +253,7 @@ permalink: /member/
 | 2022—now | **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Zhanfeng Mai** | **麦展风** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | 2022—now | **Garvin Yim** | **嚴家榮** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| 2024—now | **Wenfan Feng** | **冯文凡** | Incoming Boya Fellow | [HUST](https://astro.hust.edu.cn/) |
 | 2018—now | **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2020—now | **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2022—now | **Hanlin Song** | **宋翰林** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
