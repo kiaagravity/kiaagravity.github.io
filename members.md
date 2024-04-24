@@ -245,7 +245,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(30 ppl.)</small></small>
+## Members <small><small>(35 ppl.)</small></small>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -278,6 +278,12 @@ permalink: /member/
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | 2023—now | **Bolin Li** | **李柏霖** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2024—now | **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2024—now | **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| 2024—now | **Yilun Zhang** | **张逸伦** | Undergraduate Research |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| 2024—now | **Jinwen Deng** | **邓锦文** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+
 
 <p></p>
 
@@ -288,12 +294,7 @@ permalink: /member/
 | 2022—now | **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2023—now | **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | 2023—now | **Zhihao Zheng** | **郑智豪** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| 2023—now | **Yibo Yang** | **杨奕博** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2024—now | **Wenshuai Liu** | **刘文帅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2024—now | **Kaiyao Chu** | **楚开尧** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2024—now | **Yilun Zhang** | **张逸伦** | Undergraduate |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | 2024—now | **Jinghao Zhang** | **张景灏** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2024—now | **Jinwen Deng** | **邓锦文** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
