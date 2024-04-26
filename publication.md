@@ -12,6 +12,11 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
+nontensorial gravitational-wave polarizations from individual supermassive black
+hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680),
+arXiv:2404.16680
+
 0. J.-P. Zhu, R.-C. Hu, Y. Kang, B. Zhang, H. Tong, L. Shao, Y. Qin, [Formation
 of GW230529 from Isolated Binary Evolution and Its Electromagnetic
 Counterparts](https://arxiv.org/abs/2404.10596), arXiv:2404.10596
