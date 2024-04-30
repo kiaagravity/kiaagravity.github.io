@@ -52,12 +52,6 @@ Tests* (in press), arXiv:2303.17185
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
-0. L. Meng, W. Zhu, M. Kramer, X.  Miao, G. Desvignes, L. Shao, H. Hu, P.C.C.
-Freire, Y. Zhang, M. Xue, Z.  Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.
-Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic Spin Precession in the Compact
-Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
-*Astrophys. J.* (accepted), arXiv:2403.17828
-
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
 Astropart. Phys.* (accepted), arXiv:2312.02486
@@ -115,6 +109,12 @@ outburst](https://doi.org/10.1038/s41550-024-02226-7), *Nat. Astron.* TBA (2024)
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
 spacetime-symmetry breaking](https://arxiv.org/abs/2307.13374), *Annals Phys.* 461 (2024) 169582
+
+0. L. Meng, W. Zhu, M. Kramer, X.  Miao, G. Desvignes, L. Shao, H. Hu, P.C.C.
+Freire, Y. Zhang, M. Xue, Z.  Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.
+Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic Spin Precession in the Compact
+Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
+*Astrophys. J.* 966 (2024) 46
 
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
