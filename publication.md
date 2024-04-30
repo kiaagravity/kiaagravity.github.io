@@ -52,10 +52,6 @@ Tests* (in press), arXiv:2303.17185
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
-0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Dynamic instability analysis for
-bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757), *Phys.
-Rev. D* (accepted), arXiv:2401.07757
-
 0. L. Meng, W. Zhu, M. Kramer, X.  Miao, G. Desvignes, L. Shao, H. Hu, P.C.C.
 Freire, Y. Zhang, M. Xue, Z.  Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.
 Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic Spin Precession in the Compact
@@ -65,6 +61,10 @@ Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
 Astropart. Phys.* (accepted), arXiv:2312.02486
+
+0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Dynamic instability analysis for
+bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757), *Phys.
+Rev. D* 109 (2024) 084076
 
 0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
 next-generation ground-based detector
