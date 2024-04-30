@@ -54,7 +54,7 @@ press
 
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
-Astropart. Phys.* (accepted), arXiv:2312.02486
+Astropart. Phys.* 04 (2024) 087
 
 0. Z.-F. Mai, R. Xu, D. Liang, L. Shao, [Dynamic instability analysis for
 bumblebee black holes: the odd parity](http://arxiv.org/abs/2401.07757), *Phys.
