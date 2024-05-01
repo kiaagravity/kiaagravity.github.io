@@ -157,10 +157,6 @@ Workshop Summary](https://arxiv.org/abs/2310.08183), arXiv:2310.08183
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
 
-0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
-with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
-observing run](https://arxiv.org/abs/2210.10931), *Astrophys. J.* (accepted), arXiv:2210.10931
-
 0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
 third observing run of the LIGO-Virgo
 network](https://arxiv.org/abs/2304.08393), *Astrophys. J.* (accepted),
@@ -169,6 +165,10 @@ arXiv:2304.08393
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
+
+0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
+with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
+observing run](https://arxiv.org/abs/2210.10931), *Astrophys. J.* 966 (2024) 137
 
 0. K. Akiyama, *et al.*, [First Sagittarius A* Event Horizon Telescope Results.
 VIII. Physical Interpretation of the Polarized
