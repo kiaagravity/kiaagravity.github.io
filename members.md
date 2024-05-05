@@ -245,7 +245,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(33 ppl.)</small></small>
+## Members <small><small>(32 ppl.)</small></small>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -270,7 +270,6 @@ permalink: /member/
 | 2023—now | **Chenghui Zhao** | **赵乘辉** | Bachelor Thesis |  [DoA-NJU](https://astronomy.nju.edu.cn/) |
 | 2023—now | **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—now | **Yiming Xu** | **徐一鸣** | Bachelor Thesis |  [SESS-PKU](https://sess.pku.edu.cn/) |
 | 2023—now | **Yuxin Guo** | **郭雨欣** | Bachelor Thesis |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -424,7 +423,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members <small><small>(36 ppl.)</small></small>
+## Former Members <small><small>(37 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -490,6 +489,8 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Deep Learning in Gravitational Wave Data Processing* (PKU'20) |
 | &#9830; [**Xu, Rui**](https://ryxxastroat.github.io/) (**徐睿**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Neutron Star Structure in Alternative Gravitational Theories* (2021)</small><br><small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Compact Objects in Alternative Theories of Gravity* (2023) |
+| &#9830; **Xu, Yiming** (**徐一鸣**) &#9830; <small>School of Earth and Space Sciences, Peking University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Classification of Gravitational Wave Detector Glitches with Machine Learning* (PKU'24) |
 | &#9830; **Zhang, Zhejian** (**张喆戬**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Testing Equivalence Principle with Pulsar Timing* (2022) |
 | &#9830; [**Zhao, Junjie**](https://github.com/BenjaminDbb) (**赵俊杰**) &#9830; <small>School of Physics, Peking University</small> |
