@@ -245,7 +245,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(35 ppl.)</small></small>
+## Members <small><small>(34 ppl.)</small></small>
 
 | **TIME** | **NAME** | | **STATUS** | **AFFILIATION** |
 | 2018—now | **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -272,7 +272,6 @@ permalink: /member/
 | 2023—now | **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2023—now | **Yiming Xu** | **徐一鸣** | Bachelor Thesis |  [SESS-PKU](https://sess.pku.edu.cn/) |
-| 2023—now | **Jianyuan Luo** | **罗荐元** | Bachelor Thesis |  [PHY-WHU](https://physics.whu.edu.cn/) |
 | 2023—now | **Yuxin Guo** | **郭雨欣** | Bachelor Thesis |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
 | 2022—now | **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | 2022—now | **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -425,7 +424,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members <small><small>(34 ppl.)</small></small>
+## Former Members <small><small>(35 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -461,6 +460,8 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravtitational Waves in Modified Gravity Theories* (2024)</small> |
 | &#9830; [**Liu, Chang**](https://orcid.org/0000-0001-7649-6792) (**刘畅**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Science Cases with Space-based Gravitational-wave Detectors* (PKU'24); co-advisor: Nicola Tamanini |
+| &#9830; **Luo, Jianyuan** (**罗荐元**) &#9830; <small>School of Physics and Technology, Wuhan University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraining Fermionic Dark Matter with Neutron Stars* (WHU'24) |
 | &#9830; [**Mai, Zhan-Feng**](https://zhanfengmai.github.io/) (**麦展风**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Stability Analysis for Bumblebee Black Holes* (2024)</small> |
 | &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
