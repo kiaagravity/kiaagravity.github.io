@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Discussion on Research Topics 4/24/2024"
-date:   2024-4-24
+title:  "Discussion on Research Topics 5/08/2024"
+date:   2024-5-08
 author: Hanlin Song
 categories: activities
 ---
