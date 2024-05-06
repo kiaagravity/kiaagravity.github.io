@@ -12,6 +12,12 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
+Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
+M. Kramer, K. Liu, D. Perrodin, S.A.  Sanidas, G. Theureau, [Constraints on
+conformal ultralight dark matter couplings from the European Pulsar Timing
+Array](https://arxiv.org/abs/2405.01633), arXiv:2405.01633
+
 0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
 nontensorial gravitational-wave polarizations from individual supermassive black
 hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680),
