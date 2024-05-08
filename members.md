@@ -494,7 +494,7 @@ permalink: /member/
 | &#9830; **Zhang, Zhejian** (**张喆戬**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Testing Equivalence Principle with Pulsar Timing* (2022) |
 | &#9830; **Zhao, Chenghui** (**赵乘辉**) &#9830; <small>School of Astronomy and Space Science, Nanjing University</small> |
-| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Compact Star Seismology and Equation of State* (NJU'24); co-advisor: Jianhua He |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *White Dwarf Seismology and Equation of State* (NJU'24); co-advisor: Jianhua He |
 | &#9830; [**Zhao, Junjie**](https://github.com/BenjaminDbb) (**赵俊杰**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; [**Zhao, Xinmiao**](https://github.com/XinmiaoZhao) (**赵鑫淼**) &#9830; <small>School of Physics, Peking University</small> |
