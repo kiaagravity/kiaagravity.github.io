@@ -15,6 +15,6 @@ Ref. 1: [Pulsating White Dwarf Stars and Precision Asteroseismology](https://www
 Ref. 2: [Oscillations and tidal deformations of crystallized white dwarfs](https://academic.oup.com/mnras/article/521/1/926/7067266)
 
 
-#### Jinbo Yang: Bumblebee引力的带电虫洞
+#### Jinbo Yang: Charged wormholes in Bumblebee gravity
 
 Ref. 1: [Static spherical vacuum solutions in the bumblebee gravity model](https://inspirehep.net/literature/2147163)
