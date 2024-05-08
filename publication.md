@@ -156,9 +156,6 @@ the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
 0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
 
-0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
-Workshop Summary](https://arxiv.org/abs/2310.08183), arXiv:2310.08183
-
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
@@ -171,6 +168,10 @@ arXiv:2304.08393
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
+
+0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
+Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
+024701
 
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
