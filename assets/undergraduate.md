@@ -91,6 +91,9 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
+0. **Y. Yang (杨一秋)**, Z.-F. Mai, L. Shao, R. Yang, [Spectral Instability of
+Black Hole Quasinormal Modes](http://arxiv.org/abs/TBA), arXiv:TBA
+
 0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, [New limits on local Lorentz
 invariance violation of gravity in the Standard-Model Extension with
 pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* 109 (2024) 084024
