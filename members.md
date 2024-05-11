@@ -245,7 +245,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(33 ppl.)</small></small>
+## Members <small><small>(32 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9787; **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -270,7 +270,6 @@ permalink: /member/
 | &#9787; **Kun Gao** | **高焜** | Bachelor Thesis |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9787; **Zijing Li** | **李子敬** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9787; **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9787; **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9787; **Yuxin Guo** | **郭雨欣** | Bachelor Thesis |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
 | &#9787; **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9787; **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -451,6 +450,8 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Track Down Radio Frequency Interference in FAST Data* (PKU'21); co-advisor: Weiwei Zhu  |
 | &#9830; [**Li, Hong-Bo**](https://orcid.org/0000-0002-4850-8351) (**李洪波**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *The Asteroseismology of Compact Star* (PKU'24); co-advisor: Ren-Xin Xu |
+| &#9830; **Li, Peihang** (**李沛航**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Smart Manufacturing in Radio Astronomy* (PKU'24); co-advisor: Weiwei Zhu |
 | &#9830; [**Li, Shou-Long**](http://wdy.hunnu.edu.cn/info/1035/3435.htm) (**李守龙**) &#9830; <small>School of Physics and Electronics, Hunan Normal University</small> |
 | <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *NANOGrav Signal from First-order Confinement-deconfinement Phase Transition* (2021) |
 | &#9830; **Li, Wenlong** (**李汶隆**) &#9830; <small>School of Physics, Peking University</small> |
