@@ -245,7 +245,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(32 ppl.)</small></small>
+## Members <small><small>(29 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9787; **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -267,10 +267,7 @@ permalink: /member/
 | &#9787; **Lihang Zhou** | **周立杭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9787; **Jierui Hu** | **胡杰瑞** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9787; **Rong Du** | **杜嵘** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9787; **Kun Gao** | **高焜** | Bachelor Thesis |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| &#9787; **Zijing Li** | **李子敬** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9787; **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9787; **Yuxin Guo** | **郭雨欣** | Bachelor Thesis |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
 | &#9787; **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9787; **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9787; **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -422,7 +419,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members <small><small>(38 ppl.)</small></small>
+## Former Members <small><small>(42 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -430,12 +427,16 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
 | &#9830; **Dong, Yiming** (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
+| &#9830; **Gao, Kun** (**高焜**) &#9830; <small>Yuanpei College, Peking University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Timing Signals of Vector Ultra-Light Dark Matter in Binary Pulsar Systems* (PKU'24) |
 | &#9830; [**Gao, Yong**](https://gravyong.github.io/) (**高勇**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (PKU'23) |
 | &#9830; **Gu, Huapeng** (**顾华鹏**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (PKU'23) |
 | &#9830; [**Guo, Minghao**](https://mh-guo.github.io/) (**郭明浩**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
+| &#9830; **Guo, Yuxin** (**郭雨欣**) &#9830; <small>School of Space and Environment, Beihang University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Estimating Black Hole Merger Parameters Based on Numerical Relativity Waveforms* (PKU'24); co-advisor: Yan Liu |
 | &#9830; **Hu, Jierui** (**胡杰瑞**) &#9830; <small>School of Physics, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Studying gravitational-wave polarizations* (2023) |
 | &#9830; [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
@@ -449,7 +450,7 @@ permalink: /member/
 | &#9830; **Li, Chunjiang** (**李春江**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Track Down Radio Frequency Interference in FAST Data* (PKU'21); co-advisor: Weiwei Zhu  |
 | &#9830; [**Li, Hong-Bo**](https://orcid.org/0000-0002-4850-8351) (**李洪波**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *The Asteroseismology of Compact Star* (PKU'24); co-advisor: Ren-Xin Xu |
+| <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *The Asteroseismology of Compact Stars* (PKU'24); co-advisor: Ren-Xin Xu |
 | &#9830; **Li, Peihang** (**李沛航**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Smart Manufacturing in Radio Astronomy* (PKU'24); co-advisor: Weiwei Zhu |
 | &#9830; [**Li, Shou-Long**](http://wdy.hunnu.edu.cn/info/1035/3435.htm) (**李守龙**) &#9830; <small>School of Physics and Electronics, Hunan Normal University</small> |
@@ -458,6 +459,8 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Astrophysics from Space-based Gravitational Wave Detectors* (PKU'19) |
 | &#9830; **Li, Zhuhai** (**李竹海**) &#9830; <small>Department of Astronomy, Beijing Normal University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Neutron Star Structures in the Bumblebee Theory* (BNU'24) |
+| &#9830; **Li, Zijing** (**李子敬**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Possible Observational Phenomenology from Quantum Gravity in Astrophysics* (PKU'24) |
 | &#9830; [**Liang, Dicong**](https://orcid.org/0000-0001-5021-235X) (**梁迪聪**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravtitational Waves in Modified Gravity Theories* (2024)</small> |
 | &#9830; [**Liu, Chang**](https://orcid.org/0000-0001-7649-6792) (**刘畅**) &#9830; <small>School of Physics, Peking University</small> |
