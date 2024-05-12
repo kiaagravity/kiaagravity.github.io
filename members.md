@@ -406,7 +406,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="https://gravity.bnu.edu.cn/member2/325.html">Junjie Zhao</a> (赵俊杰)</b></h5>
-        <p class="teamtitle"><small>HNAS·助理研究员</small></p>
+        <p class="teamtitle"><small>河南省科学院·助理研究员</small></p>
         </center>
       </div>
     </div>
