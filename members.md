@@ -445,7 +445,7 @@ permalink: /member/
 | &#9830; [**Guo, Minghao**](https://mh-guo.github.io/) (**郭明浩**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
 | &#9830; **Guo, Yuxin** (**郭雨欣**) &#9830; <small>School of Space and Environment, Beihang University</small> |
-| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Estimating Black Hole Merger Parameters Based on Numerical Relativity Waveforms* (PKU'24); co-advisor: Yan Liu |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Estimating Black Hole Merger Parameters Based on Numerical Relativity Waveforms* (BUAA'24); co-advisor: Yan Liu |
 | &#9830; **Hu, Jierui** (**胡杰瑞**) &#9830; <small>School of Physics, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Studying gravitational-wave polarizations* (2023) |
 | &#9830; [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
