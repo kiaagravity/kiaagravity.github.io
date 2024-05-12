@@ -245,7 +245,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(28 ppl.)</small></small>
+## Members <small><small>(37 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -264,9 +264,18 @@ permalink: /member/
 | &#9794;  **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zhuhai Li** | **李竹海** | Incoming PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ze Zhang** | **张泽** | Incoming PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Lihang Zhou** | **周立杭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Jierui Hu** | **胡杰瑞** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Rong Du** | **杜嵘** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Kun Gao** | **高焜** | Bachelor Thesis |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| &#9794;  **Zijing Li** | **李子敬** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794;  **Zhuhai Li** | **李竹海** | Bachelor Thesis |  [DoA-BNU](https://astro.bnu.edu.cn/zw/index.html) |
+| &#9794;  **Chenghui Zhao** | **赵乘辉** | Bachelor Thesis |  [DoA-NJU](https://astronomy.nju.edu.cn/) |
 | &#9794;  **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794;  **Peihang Li** | **李沛航** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9792;  **Yiming Xu** | **徐一鸣** | Bachelor Thesis |  [SESS-PKU](https://sess.pku.edu.cn/) |
+| &#9792;  **Jianyuan Luo** | **罗荐元** | Bachelor Thesis |  [PHY-WHU](https://physics.whu.edu.cn/) |
+| &#9792;  **Yuxin Guo** | **郭雨欣** | Bachelor Thesis |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
 | &#9794;  **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
