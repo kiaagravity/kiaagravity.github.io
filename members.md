@@ -245,7 +245,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(29 ppl.)</small></small>
+## Members <small><small>(28 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9787; **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -264,7 +264,6 @@ permalink: /member/
 | &#9787; **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9787; **Zhuhai Li** | **李竹海** | Incoming PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9787; **Ze Zhang** | **张泽** | Incoming PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9787; **Lihang Zhou** | **周立杭** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9787; **Jierui Hu** | **胡杰瑞** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9787; **Rong Du** | **杜嵘** | Bachelor Thesis | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9787; **Yichen Pan** | **潘奕晨** | Bachelor Thesis |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
@@ -397,7 +396,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="https://gravity.bnu.edu.cn/member2/325.html">Junjie Zhao</a> (赵俊杰)</b></h5>
-        <p class="teamtitle"><small>河南省科学院·助理研究员</small></p>
+        <p class="teamtitle"><small>HNAS·助理研究员</small></p>
         </center>
       </div>
     </div>
@@ -504,7 +503,7 @@ permalink: /member/
 | &#9830; [**Zhao, Xinmiao**](https://github.com/XinmiaoZhao) (**赵鑫淼**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (PKU'21) |
 | &#9830; **Zhou, Lihang** (**周立杭**) &#9830; <small>School of Physics, Peking University</small> | 
-| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Superradiant instabilities of massive bosons* (2023) |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Superradiant instabilities of massive bosons* (2023)<br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Forward Ray Tracing Method for Kerr Black Hole Strong Lensing* (PKU'24) |
 
 
 <!--
