@@ -428,7 +428,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members <small><small>(42 ppl.)</small></small>
+## Former Members <small><small>(43 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
