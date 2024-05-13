@@ -436,6 +436,8 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
 | &#9830; **Dong, Yiming** (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
+| &#9830; **Du, Rong** (**杜嵘**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Analyzing the Systematic Bias of Measuring Cosmological Parameters with Gravitational-Wave Sirens* (PKU'24) |
 | &#9830; **Gao, Kun** (**高焜**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Timing Signals of Vector Ultra-Light Dark Matter in Binary Pulsar Systems* (PKU'24) |
 | &#9830; [**Gao, Yong**](https://gravyong.github.io/) (**高勇**) &#9830; <small>School of Physics, Peking University</small> |
