@@ -449,7 +449,7 @@ permalink: /member/
 | &#9830; **Guo, Yuxin** (**郭雨欣**) &#9830; <small>School of Space and Environment, Beihang University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Estimating Black Hole Merger Parameters Based on Numerical Relativity Waveforms* (BUAA'24); co-advisor: Yan Liu |
 | &#9830; **Hu, Jierui** (**胡杰瑞**) &#9830; <small>School of Physics, Peking University</small> | 
-| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Studying gravitational-wave polarizations* (2023) |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Studying gravitational-wave polarizations* (2023)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Testing Lorentz Symmetry with Pulsar Timing Arrays* (PKU'24) |
 | &#9830; [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
 | &#9830; **Ji, Peixiang** (**姬佩祥**) &#9830; <small> Nankai University &#8614; School of Physics, Peking University</small> |
