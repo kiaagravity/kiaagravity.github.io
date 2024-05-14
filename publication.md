@@ -31,10 +31,6 @@ Counterparts](https://arxiv.org/abs/2404.10596), arXiv:2404.10596
 Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
-0. H. Song, D. Liang, Z. Wang, L.  Shao, [Compact Binary Foreground Subtraction
-for Detecting the Stochastic Gravitational-wave Background in Ground-based
-Detectors](https://arxiv.org/abs/2401.00984), arXiv:2401.00984
-
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
@@ -57,6 +53,11 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
+
+0. H. Song, D. Liang, Z. Wang, L.  Shao,  [The Impact of Spin in Compact Binary
+Foreground Subtraction for Estimating the Residual Stochastic Gravitational-wave
+Background in Ground-based Detectors](https://arxiv.org/abs/2401.00984), *Phys.
+Rev. D*, (accepted), arXiv:2401.00984
 
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
