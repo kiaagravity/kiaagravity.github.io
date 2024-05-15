@@ -7,7 +7,7 @@ categories: activities
 ---
 
 
-## Seven rehearsals (6mins talk + questions):
+## Seven rehearsals (6 mins talk + questions):
 
 Rong Du, Lihang Zhou, Jierui Hu, Zijing Li, Peihang Li, Yichen Pan, Kun Gao
 
