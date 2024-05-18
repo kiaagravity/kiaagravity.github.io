@@ -483,7 +483,7 @@ permalink: /member/
 | &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Gravity Theories with Binary Pulsar Systems* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; **Pan, Yichen** (**潘奕晨**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Application of Artificial Intelligence Technology in Search for Pulsar and FRB Signals* (PKU'24); co-advisor: Weiwei Zhu |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Application of Artificial Intelligence Technology in Search for Pulsar and FRB Signals* (PKU'24); co-advisor: W. Zhu |
 | &#9830; **Qi, Haoyang** (**祁昊洋**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Ultralight Dark Matters with Pulsar Timing* (2022) |
 | &#9830; **Qiu, Lingqian** (**邱令倩**) &#9830; <small>School of Physics, Peking University</small> |
