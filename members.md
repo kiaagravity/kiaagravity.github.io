@@ -428,7 +428,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members <small><small>(43 ppl.)</small></small>
+## Former Members <small><small>(44 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -483,7 +483,7 @@ permalink: /member/
 | &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Gravity Theories with Binary Pulsar Systems* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; **Pan, Yichen** (**潘奕晨**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Application of Artificial Intelligence Technology in the Search for Pulsar and FRB Signals* (PKU'24); co-advisor: Weiwei Zhu |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Application of Artificial Intelligence Technology in Search for Pulsar and FRB Signals* (PKU'24); co-advisor: Weiwei Zhu |
 | &#9830; **Qi, Haoyang** (**祁昊洋**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Ultralight Dark Matters with Pulsar Timing* (2022) |
 | &#9830; **Qiu, Lingqian** (**邱令倩**) &#9830; <small>School of Physics, Peking University</small> |
