@@ -482,6 +482,8 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Stability Analysis for Bumblebee Black Holes* (2024)</small> |
 | &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Gravity Theories with Binary Pulsar Systems* (PKU'21); co-advisor: Bo-Qiang Ma |
+| &#9830; **Pan, Yichen** (**潘奕晨**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Application of Artificial Intelligence Technology in the Search for Pulsar and FRB Signals* (PKU'24); co-advisor: Weiwei Zhu |
 | &#9830; **Qi, Haoyang** (**祁昊洋**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Ultralight Dark Matters with Pulsar Timing* (2022) |
 | &#9830; **Qiu, Lingqian** (**邱令倩**) &#9830; <small>School of Physics, Peking University</small> |
