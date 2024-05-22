@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
+stochastic gravitational wave background using the future lunar
+seismometers](https://arxiv.org/abs/2405.12640), arXiv:2405.12640
+
 0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
 Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
 M. Kramer, K. Liu, D. Perrodin, S.A.  Sanidas, G. Theureau, [Constraints on
