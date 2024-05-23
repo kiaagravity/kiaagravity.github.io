@@ -115,7 +115,8 @@ stars](https://doi.org/10.3390/universe10040157), *Universe* 10 (2024) 157
 0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
 Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
 freely precessing magnetar following an X-ray
-outburst](https://doi.org/10.1038/s41550-024-02226-7), *Nat. Astron.* TBA (2024) TBA
+outburst](https://doi.org/10.1038/s41550-024-02226-7), *Nat. Astron.* 8 (2024)
+617
 
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
