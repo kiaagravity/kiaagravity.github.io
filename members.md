@@ -66,20 +66,6 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Mai_Zhanfeng.png" alt="" style="width:100%; height:210px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://zhanfengmai.github.io/">Dr. Zhan-Feng Mai</a> (麦展风)</b></h5>
-          <p class="teamtitle"><small>KIAA Postdoc</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-
-
-  <div class="column2">
-      <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Yim_Garvin.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
@@ -245,13 +231,12 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(37 ppl.)</small></small>
+## Members <small><small>(36 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Zhenwei Lyu** | **吕振伟** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9794;  **Zhanfeng Mai** | **麦展风** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Garvin Yim** | **嚴家榮** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Incoming Boya Fellow | [HUST](https://astro.hust.edu.cn/) |
 | &#9792;  **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -294,6 +279,7 @@ permalink: /member/
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794; **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
 | &#9794; **Dicong Liang** | **梁迪聪** | Lecturer | [SMU](https://www.smu.edu.cn/) |
+| &#9794; **Zhan-Feng Mai** | **麦展风** | Assistant Professor | [GXU](https://astro.gxu.edu.cn/) |
 | &#9792; **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate | [YP-PKU](https://yuanpei.pku.edu.cn/) |
