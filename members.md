@@ -93,7 +93,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Li_Hongbo.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
