@@ -360,7 +360,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="http://groups.bao.ac.cn/psr/en/people/202210/t20221027_719450.html">Xueli Miao</a> (缪雪丽)</b></h5>
-        <p class="teamtitle"><small>国家天文台·FAST Fellow</small></p>
+        <p class="teamtitle"><small>NAOC/MPIfR·FAST Fellow</small></p>
         </center>
       </div>
     </div>
