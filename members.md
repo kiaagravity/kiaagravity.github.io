@@ -84,7 +84,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://inspirehep.net/authors/2592240">Wenfan Feng</a> (冯文凡)</b></h5>
+          <h5><b><a href="https://inspirehep.net/authors/2592240">Dr. Wenfan Feng</a> (冯文凡)</b></h5>
           <p class="teamtitle"><small>Incoming Boya Fellow</small></p>
           </center>
         </div>
@@ -97,7 +97,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Hongbo Li</a> (李洪波)</b></h5>
+          <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Dr. Hongbo Li</a> (李洪波)</b></h5>
           <p class="teamtitle"><small>Visiting KIAA Postdoc</small></p>
           </center>
         </div>
