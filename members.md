@@ -93,26 +93,12 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Liu_Chang.png" alt="" style="width:100%; height:210px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://orcid.org/0000-0001-7649-6792">Chang Liu</a> (刘畅)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-
-
-  <div class="column2">
-      <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Li_Hongbo.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Hongbo Li</a> (李洪波)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>Visiting KIAA Postdoc</small></p>
           </center>
         </div>
       </div>
@@ -126,7 +112,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0009-0000-2543-8568">Hanlin Song</a> (宋翰林)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>Joint PhD Student</small></p>
           </center>
         </div>
       </div>
@@ -231,7 +217,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(24 ppl.)</small></small>
+## Members <small><small>(23 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -239,8 +225,7 @@ permalink: /member/
 | &#9794;  **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Garvin Yim** | **嚴家榮** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Incoming Boya Fellow | [HUST](https://astro.hust.edu.cn/) |
-| &#9792;  **Chang Liu** | **刘畅** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Hongbo Li** | **李洪波** | Joint PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Hongbo Li** | **李洪波** | Visiting KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Hanlin Song** | **宋翰林** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -304,7 +289,7 @@ permalink: /member/
 
 <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Li_Hongbo.png" alt="" style="width:100%; height:150px">
+        <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -330,7 +315,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Liu_Chang.png" alt="" style="width:100%; height:150px">
+        <img src="{{ site.baseurl }}/assets/alumni/Liu_Chang.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -340,6 +325,20 @@ permalink: /member/
         </div>
       </div>
     </div>
+
+  <!-- <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/Lyu_Zhenwei.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="https://gwlyu.github.io/">Zhenwei Lyu</a> (吕振伟)</b></h5>
+        <p class="teamtitle"><small>大连理工大学·助理教授</small></p>
+        </center>
+      </div>
+    </div>
+  </div> -->
+
 
 <div class="column">
       <div class="card">
@@ -367,6 +366,19 @@ permalink: /member/
     </div>
   </div>
 
+  <!-- <div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/alumni/Wang_Haitian.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://whaitian.github.io/">Hai-Tian Wang</a> (王海天)</b></h5>
+          <p class="teamtitle"><small>大连理工大学·副教授</small></p>
+          </center>
+        </div>
+      </div>
+    </div> -->
+
   <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Xu_Rui.png" alt="XuRui" style="width:100%; height:150px">
@@ -379,6 +391,19 @@ permalink: /member/
       </div>
     </div>
   </div>
+
+<!-- <div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/alumni/Yim_Garvin.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://garvinyim.wixsite.com/home">Garvin Yim</a> (嚴家榮)</b></h5>
+          <p class="teamtitle"><small>Data Scientist</small></p>
+          </center>
+        </div>
+      </div>
+    </div> -->
 
   <div class="column">
     <div class="card">
@@ -499,49 +524,6 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (PKU'21) |
 | &#9830; **Zhou, Lihang** (**周立杭**) &#9830; <small>School of Physics, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Superradiant instabilities of massive bosons* (2023)<br><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Forward Ray Tracing Method for Kerr Black Hole Strong Lensing* (PKU'24) |
-
-
-<!--
-
-Comments
-
-| 2021—2024 | **Dicong Liang** | **梁迪聪** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| 2018—2023 | **Yong Gao** | **高勇** | Postdoc | [AEI-Potsdam](http://www.aei.mpg.de/) |
-| 2022—2023 | **Huapeng Gu** | **顾华鹏** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2018—2023 | **Junjie Zhao** | **赵俊杰** | Liyun Fellow | [BNU](https://astro.bnu.edu.cn/zw/index.html) |
-| 2018—2023 | **Xueli Miao** | **缪雪丽** | FAST Fellow | [NAOC](http://www.bao.ac.cn/) | 
-| 2023—2023 | **Tong Chen** | **陈彤** | Undergraduate |  [PHY-IMU](https://wlxy.imu.edu.cn/) |
-| 2023—2023 | **Zeyu Li** | **李泽宇** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2021—2023 | **Weisong Wang** | **王伟松** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2019—2023 | **Xinmiao Zhao** | **赵鑫淼** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—2023 | **Zhi Xiao** | **肖智** | Associate Professor | [NCEPU](https://slx.ncepu.edu.cn/szdw/dsjs/sssds/3ad20fb1d83b4e23954569005e776340.htm) |
-| 2023—2023 | **Yixuan Dang** | **党伊萱** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/) |  暑研
-| 2023—2023 | **Lirui Yang** | **杨力睿** | Undergraduate |  [Cambridge](https://www.phy.cam.ac.uk/) |  暑研
-| 2023—2023 | **Guanqi Wang** | **王冠淇** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—2023 | **Gaoxing Song** | **宋高兴** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2023—2023 | **Yuhao Dong** | **董玉豪** | Undergraduate |  [PHY-LZU](http://phy.lzu.edu.cn/) |  暑研
-| 2022—2022 | **Junqi Jia** | **贾骏琪** | Undergraduate | [SESS-PKU](https://sess.pku.edu.cn/) |
-| 2020—2022 | **Muxin Liu** | **刘牧鑫** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—2022 | **Wenrui Li** | **李文睿** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2021—2022 | **Bingcheng Jin** | **金秉诚** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2022—2022 | **Zixiang Jia** | **郏梓翔** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—2022 | **Jiayin Shen** | **申佳音** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—2023 | **Alexander Batrakov** | | PhD Student | [MPIfR.DE](https://www.mpifr-bonn.mpg.de/research/fundamental) |
-| 2021—2021 | **Li Huang** | **黄力** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
-| 2021—2022 | **Haimeng Chen** | **陈海萌** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
-| 2018—2020 | **Zhongfu Zhang** | **张中府** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2022—2022 | **Yucheng Yin** | **阴煜程** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—2022 | **Xiaonan Liu** | **刘晓楠** | Postdoc | [UCAS](http://www.ucas.ac.cn/) |
-| 2021—2022 | **Ping He** | **何平** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| 2020—2021 | **Yangfan Shi** | **施杨帆** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2020—2021 | **Hulin Li** | **李胡林** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—2021 | **Yiren Lin** | **林伊人** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—2020 | **Yunhe Wang** | **王云鹤** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2019—2021 | **Yuchang Chen** | **陈宇畅** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2020—2020 | **Yutong Li** | **李玉童** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| 2021—2021 | **Yuxi Duan** | **段雨曦** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| 2021—2021 | **Shenyong Ye** | **叶沈镛** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
--->
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
