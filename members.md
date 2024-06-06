@@ -474,7 +474,7 @@ permalink: /member/
 | <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *NANOGrav Signal from First-order Confinement-deconfinement Phase Transition* (2021) |
 | &#9830; **Li, Wenlong** (**李汶隆**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Astrophysics from Space-based Gravitational Wave Detectors* (PKU'19) |
-| &#9830; **Li, Zhuhai** (**李竹海**) &#9830; <small>Department of Astronomy, Beijing Normal University</small> |
+| &#9830; **Li, Zhuhai** (**李竹海**) &#9830; <small>Beijing Normal University &#8614; School of Physics, Peking University </small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Neutron Star Structures in the Bumblebee Theory* (BNU'24) |
 | &#9830; **Li, Zijing** (**李子敬**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Possible Observational Phenomenology from Quantum Gravity in Astrophysics* (PKU'24) |
