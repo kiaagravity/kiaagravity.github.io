@@ -48,7 +48,7 @@ Otherwise it is suggested to talk in Chinese, but use English in slides.
 
 **Chair**: Peixiang Ji (姬佩祥)
 
-- We have weekly discussion on research topics every **Wednesdays 14:00—15:00** in
+- We have weekly discussion on research topics every **Wednesdays 19:00—20:30** in
 the **Meeting Room in Auditorium**. The attendees are limited to
 graduates/postdocs who work on research projects in the group.
 
