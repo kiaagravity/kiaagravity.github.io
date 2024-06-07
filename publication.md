@@ -62,10 +62,10 @@ Tests* (in press), arXiv:2303.17185
 stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
 press
 
-0. H. Song, D. Liang, Z. Wang, L.  Shao,  [The Impact of Spin in Compact Binary
-Foreground Subtraction for Estimating the Residual Stochastic Gravitational-wave
-Background in Ground-based Detectors](https://arxiv.org/abs/2401.00984), *Phys.
-Rev. D*, (accepted), arXiv:2401.00984
+0. H. Song, D. Liang, Z. Wang, L.  Shao, [Impact of spin in compact binary
+foreground subtraction for estimating the residual stochastic gravitational-wave
+background in ground-based detectors](https://arxiv.org/abs/2401.00984), *Phys.
+Rev. D* 109 (2024) 123014
 
 0. Z. Hu, L. Shao, R. Xu, D. Liang, Z.-F. Mai, [Probing the vector charge of
 Sagittarius A* with pulsar timing](http://arxiv.org/abs/2312.02486), *J. Cosmol.
