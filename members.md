@@ -335,7 +335,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="https://gwlyu.github.io/">Zhenwei Lyu</a> (吕振伟)</b></h5>
-        <p class="teamtitle"><small>大连理工大学·助理教授</small></p>
+        <p class="teamtitle"><small>Unknown</small></p>
         </center>
       </div>
     </div>
@@ -375,7 +375,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://whaitian.github.io/">Hai-Tian Wang</a> (王海天)</b></h5>
-          <p class="teamtitle"><small>大连理工大学·副教授</small></p>
+          <p class="teamtitle"><small>Unknown</small></p>
           </center>
         </div>
       </div>
@@ -401,7 +401,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://garvinyim.wixsite.com/home">Garvin Yim</a> (嚴家榮)</b></h5>
-          <p class="teamtitle"><small>Data Scientist</small></p>
+          <p class="teamtitle"><small>Unknown</small></p>
           </center>
         </div>
       </div>
