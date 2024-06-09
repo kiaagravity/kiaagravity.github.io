@@ -80,7 +80,7 @@ permalink: /member/
 
 <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -189,7 +189,7 @@ permalink: /member/
   
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Zhang_Ze.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -202,7 +202,7 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Li_Zhuhai.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
