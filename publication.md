@@ -172,9 +172,6 @@ Star](https://arxiv.org/abs/2404.04248), arXiv:2404.04248
 0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
 the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
 
-0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
-Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
-
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
@@ -1095,6 +1092,9 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 ---
 
 ### Unpublished
+
+0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
+Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
 
 0. V. Kalogera, B.S. Sathyaprakash, *et al.*, [The next generation global
 gravitational wave observatory: the science
