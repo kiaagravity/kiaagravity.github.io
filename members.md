@@ -152,7 +152,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="TBA">Peixiang Ji</a> (姬佩祥)</b></h5>
+          <h5><b><a href="https://orcid.org/0009-0007-1101-5020">Peixiang Ji</a> (姬佩祥)</b></h5>
           <p class="teamtitle"><small>PhD Student</small></p>
           </center>
         </div>
@@ -362,7 +362,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="http://groups.bao.ac.cn/psr/en/people/202210/t20221027_719450.html">Xueli Miao</a> (缪雪丽)</b></h5>
-        <p class="teamtitle"><small>NAOC/MPIfR·FAST Fellow</small></p>
+        <p class="teamtitle"><small>NAOC/MPIfR·博后</small></p>
         </center>
       </div>
     </div>
