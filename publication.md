@@ -149,6 +149,8 @@ quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* 24 (2024) 0
 Consistent Calculation of the Lunar Response to Gravitational
 Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
+0. 高勇, G. Desvignes, 邵立晶, [一颗自由进动的磁星](TBA), 《科学通报》 (已接收)
+
 0. 梁迪聪, 邵立晶, [脉冲星计时阵列与纳赫兹引力波探测](https://doi.org/10.1360/TB-2024-0104), 《科学通报》
 (已接收)
 
