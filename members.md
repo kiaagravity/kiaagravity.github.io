@@ -85,7 +85,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://inspirehep.net/authors/2592240">Dr. Wenfan Feng</a> (冯文凡)</b></h5>
-          <p class="teamtitle"><small>Incoming Boya Fellow</small></p>
+          <p class="teamtitle"><small>Boya Postdoctoral Fellow</small></p>
           </center>
         </div>
       </div>
@@ -224,7 +224,7 @@ permalink: /member/
 | &#9794;  **Zhenwei Lyu** | **吕振伟** | Boya Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Haitian Wang** | **王海天** | KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Garvin Yim** | **嚴家榮** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9794;  **Wenfan Feng** | **冯文凡** | Incoming Boya Fellow | [HUST](https://astro.hust.edu.cn/) |
+| &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Hongbo Li** | **李洪波** | Visiting KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Hanlin Song** | **宋翰林** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
