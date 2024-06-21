@@ -243,9 +243,9 @@ permalink: /member/
 | &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yilun Zhang** | **张逸伦** | Undergraduate Research |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate Research | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
 
 <p></p>
@@ -259,10 +259,7 @@ permalink: /member/
 | &#9792; **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [Astro-UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
-| &#9794;  **Lihang Zhou** | **周立杭** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Jierui Hu** | **胡杰瑞** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Rong Du** | **杜嵘** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Kun Gao** | **高焜** | Undergraduate |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9794;  **Chenghui Zhao** | **赵乘辉** | Undergraduate |  [DoA-NJU](https://astronomy.nju.edu.cn/) |
 | &#9792;  **Jianyuan Luo** | **罗荐元** | Undergraduate |  [PHY-WHU](https://physics.whu.edu.cn/) |
 | &#9792;  **Yuxin Guo** | **郭雨欣** | Undergraduate |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
@@ -329,7 +326,7 @@ permalink: /member/
       </div>
     </div>
 
-  <!-- <div class="column">
+  <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Lyu_Zhenwei.png" alt="" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
@@ -340,7 +337,7 @@ permalink: /member/
         </center>
       </div>
     </div>
-  </div> -->
+  </div>
 
 
 <div class="column">
@@ -369,7 +366,7 @@ permalink: /member/
     </div>
   </div>
 
-  <!-- <div class="column">
+  <div class="column">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/alumni/Wang_Haitian.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
@@ -380,7 +377,7 @@ permalink: /member/
           </center>
         </div>
       </div>
-    </div> -->
+    </div>
 
   <div class="column">
     <div class="card">
@@ -395,7 +392,7 @@ permalink: /member/
     </div>
   </div>
 
-<!-- <div class="column">
+<div class="column">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/alumni/Yim_Garvin.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
@@ -406,7 +403,7 @@ permalink: /member/
           </center>
         </div>
       </div>
-    </div> -->
+    </div>
 
   <div class="column">
     <div class="card">
