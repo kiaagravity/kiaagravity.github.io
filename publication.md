@@ -56,7 +56,7 @@ arXiv:2312.02130
 
 0. P. Ji, L. Shao, [Scalar Dark Energy Models and Scalar-Tensor Gravity:
 Theoretical Explanations for the Accelerated Expansion of Present
-Universe](http://arxiv.org/abs/2406.04954), *Commun. Theor. Phys.* (submitted),
+Universe](http://arxiv.org/abs/2406.04954), *Commun. Theor. Phys.* (accepted),
 arXiv:2406.04954
 
 0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
