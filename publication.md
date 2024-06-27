@@ -20,12 +20,6 @@ arXiv:2406.00283
 stochastic gravitational wave background using the future lunar
 seismometers](https://arxiv.org/abs/2405.12640), arXiv:2405.12640
 
-0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
-Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
-M. Kramer, K. Liu, D. Perrodin, S.A.  Sanidas, G. Theureau, [Constraints on
-conformal ultralight dark matter couplings from the European Pulsar Timing
-Array](https://arxiv.org/abs/2405.01633), arXiv:2405.01633
-
 0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
 nontensorial gravitational-wave polarizations from individual supermassive black
 hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680),
@@ -53,6 +47,12 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
+Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
+M. Kramer, K. Liu, D. Perrodin, S.A.  Sanidas, G. Theureau, [Constraints on
+conformal ultralight dark matter couplings from the European Pulsar Timing
+Array](https://arxiv.org/abs/2405.01633), *Phys. Rev. D* (accepted), arXiv:2405.01633
 
 0. P. Ji, L. Shao, [Scalar Dark Energy Models and Scalar-Tensor Gravity:
 Theoretical Explanations for the Accelerated Expansion of Present
@@ -167,16 +167,16 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752),
 arXiv:2405.10752
 
-0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
-of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
-Star](https://arxiv.org/abs/2404.04248), arXiv:2404.04248
-
 0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
 the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
 
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
+of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
+Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* (accepted), arXiv:2404.04248
 
 0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
 third observing run of the LIGO-Virgo
