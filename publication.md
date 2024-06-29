@@ -12,10 +12,6 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
-0. G. Yim, L. Shao, R.-X. Xu, [High priority targets for transient
-gravitational waves from glitching pulsars](https://arxiv.org/abs/2406.00283),
-arXiv:2406.00283
-
 0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
 stochastic gravitational wave background using the future lunar
 seismometers](https://arxiv.org/abs/2405.12640), arXiv:2405.12640
@@ -47,6 +43,10 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. G. Yim, L. Shao, R.-X. Xu, [High priority targets for transient gravitational
+waves from glitching pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R.
+Astron. Soc.* (accepted), arXiv:2406.00283
 
 0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
 Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
