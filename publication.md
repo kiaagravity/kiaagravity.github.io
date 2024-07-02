@@ -164,7 +164,7 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 ##### Other Papers
 
 0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission from
-GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752),
+GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted),
 arXiv:2405.10752
 
 0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
