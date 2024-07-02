@@ -333,8 +333,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="https://gwlyu.github.io/">Zhenwei Lyu</a> (吕振伟)</b></h5>
-        <p class="teamtitle"><small>Unknown</small></p>
-        <!-- <p class="teamtitle"><small>大连理工大学·助理教授</small></p> -->
+        <p class="teamtitle"><small>大连理工大学·助理教授</small></p>
         </center>
       </div>
     </div>
