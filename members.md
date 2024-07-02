@@ -194,7 +194,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="TBA">Ze Zhang</a> (张泽)</b></h5>
-          <p class="teamtitle"><small>Incoming PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student</small></p>
           </center>
         </div>
       </div>
@@ -207,7 +207,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="TBA">Zhuhai Li</a> (李竹海)</b></h5>
-          <p class="teamtitle"><small>Incoming PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student</small></p>
           </center>
         </div>
       </div>
@@ -232,8 +232,8 @@ permalink: /member/
 | &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Zhuhai Li** | **李竹海** | Incoming PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Ze Zhang** | **张泽** | Incoming PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Zhuhai Li** | **李竹海** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiqiu Yang** | **杨一秋** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Yukun Liu** | **刘宇堃** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Hongyi Zhang** | **章弘毅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -258,11 +258,11 @@ permalink: /member/
 | &#9794; **Zhan-Feng Mai** | **麦展风** | Assistant Professor | [GXU](https://astro.gxu.edu.cn/) |
 | &#9792; **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-NJU](https://astronomy.nju.edu.cn/) |
+| &#9792;  **Jianyuan Luo** | **罗荐元** | PhD Student |  [PHY-WHU](https://physics.whu.edu.cn/) |
+| &#9792;  **Yuxin Guo** | **郭雨欣** | PhD Student |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [Astro-UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
-| &#9794;  **Rong Du** | **杜嵘** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Chenghui Zhao** | **赵乘辉** | Undergraduate |  [DoA-NJU](https://astronomy.nju.edu.cn/) |
-| &#9792;  **Jianyuan Luo** | **罗荐元** | Undergraduate |  [PHY-WHU](https://physics.whu.edu.cn/) |
-| &#9792;  **Yuxin Guo** | **郭雨欣** | Undergraduate |  [SSE-BUAA](https://sse.buaa.edu.cn/) |
+| &#9794;  **Rong Du** | **杜嵘** | Research Assistant | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794; **Ziyuan Nie** | **聂子源** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/research/theme/astronomy-and-astrophysics) |
 
 <p></p>
