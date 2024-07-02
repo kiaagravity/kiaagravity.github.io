@@ -163,16 +163,16 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
 ##### Other Papers
 
-0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission from
-GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted),
-arXiv:2405.10752
-
 0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
 the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
 
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission from
+GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted),
+arXiv:2405.10752
 
 0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
 of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
