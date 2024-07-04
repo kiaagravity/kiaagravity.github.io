@@ -64,8 +64,8 @@ pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
 Tests* (in press), arXiv:2303.17185
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
-stars](TBA), in *Pulsar Astronomy: State-of-the-Art of Chinese Instruments*, in
-press
+stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
+Facilities*, in press
 
 0. H. Song, D. Liang, Z. Wang, L.  Shao, [Impact of spin in compact binary
 foreground subtraction for estimating the residual stochastic gravitational-wave
