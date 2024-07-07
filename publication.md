@@ -5,10 +5,9 @@ permalink: /publication/
 ---
 
 **Papers that are affiliated with PKU-KIAA**
-
 ---
 
-### 2024
+### 2025
 
 ##### Short-author-list Papers
 
@@ -66,6 +65,42 @@ Tests* (in press), arXiv:2303.17185
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
+
+0. 高勇, G. Desvignes, 邵立晶, [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 (已接收)
+{: reversed="reversed"}
+
+##### Other Papers
+
+0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
+the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
+
+0. A.G. Abac, *et al.*, [Search for
+eccentric black hole coalescences during the third Observing Run of LIGO and
+Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission from
+GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted),
+arXiv:2405.10752
+
+0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
+of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
+Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* (accepted), arXiv:2404.04248
+
+0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
+third observing run of the LIGO-Virgo
+network](https://arxiv.org/abs/2304.08393), *Astrophys. J.* (accepted),
+arXiv:2304.08393
+
+0. R. Abbott, *et al.*, [Tests of general relativity with
+GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
+arXiv:2112.06861
+{: reversed="reversed"}
+
+---
+
+### 2024
+
+##### Short-author-list Papers
 
 0. H. Song, D. Liang, Z. Wang, L.  Shao, [Impact of spin in compact binary
 foreground subtraction for estimating the residual stochastic gravitational-wave
@@ -149,8 +184,6 @@ quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* 24 (2024) 0
 Consistent Calculation of the Lunar Response to Gravitational
 Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
-0. 高勇, G. Desvignes, 邵立晶, [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 (已接收)
-
 0. 邵立晶, 徐睿, [致密双星旋近的引力波简介](https://www.ecsponline.com/goods.php?id=225405), 
 收编于《引力波物理》, 科学出版社 (2024), p. 21 
 
@@ -163,30 +196,6 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 {: reversed="reversed"}
 
 ##### Other Papers
-
-0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
-the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
-
-0. A.G. Abac, *et al.*, [Search for
-eccentric black hole coalescences during the third Observing Run of LIGO and
-Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
-
-0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission from
-GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted),
-arXiv:2405.10752
-
-0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
-of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
-Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* (accepted), arXiv:2404.04248
-
-0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
-third observing run of the LIGO-Virgo
-network](https://arxiv.org/abs/2304.08393), *Astrophys. J.* (accepted),
-arXiv:2304.08393
-
-0. R. Abbott, *et al.*, [Tests of general relativity with
-GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
-arXiv:2112.06861
 
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
