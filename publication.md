@@ -5,15 +5,12 @@ permalink: /publication/
 ---
 
 **Papers that are affiliated with PKU-KIAA**
+
 ---
 
 ### 2025
 
 ##### Short-author-list Papers
-
-0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
-stochastic gravitational wave background using the future lunar
-seismometers](https://arxiv.org/abs/2405.12640), arXiv:2405.12640
 
 0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
 nontensorial gravitational-wave polarizations from individual supermassive black
@@ -42,6 +39,11 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
+stochastic gravitational wave background using the future lunar
+seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D* (accepted),
+arXiv:2405.12640
 
 0. G. Yim, L. Shao, R.-X. Xu, [High priority targets for transient gravitational
 waves from glitching pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R.
