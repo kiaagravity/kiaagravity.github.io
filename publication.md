@@ -73,12 +73,13 @@ Facilities*, in press
 
 ##### Other Papers
 
-0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
-the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), arXiv:2403.03004
-
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), arXiv:2308.03822
+
+0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
+the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D*
+(accepted), arXiv:2403.03004
 
 0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission from
 GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted),
