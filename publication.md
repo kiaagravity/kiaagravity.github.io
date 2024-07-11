@@ -60,10 +60,6 @@ Theoretical Explanations for the Accelerated Expansion of Present
 Universe](http://arxiv.org/abs/2406.04954), *Commun. Theor. Phys.* (accepted),
 arXiv:2406.04954
 
-0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
-pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
-Tests* (in press), arXiv:2303.17185
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
@@ -158,6 +154,10 @@ model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 
 0. H.-B. Li, Y. Gao, L.  Shao, R.-X. Xu, [Asteroseismology of compact
 stars](https://doi.org/10.3390/universe10040157), *Universe* 10 (2024) 157
+
+0. Z. Hu, X. Miao, L. Shao, [Tests of classical gravity with radio
+pulsars](https://arxiv.org/abs/2303.17185), in *Recent Progress on Gravity
+Tests* (Springer Series in Astrophysics and Cosmology, Singapore 2024), p. 61
 
 0. G. Desvignes, P. Weltevrede, Y. Gao, D.I. Jones, M. Kramer, M. Caleb, R.
 Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
