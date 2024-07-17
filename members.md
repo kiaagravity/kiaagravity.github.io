@@ -213,7 +213,7 @@ permalink: /member/
       </div>
     </div>
   
-  <div class="column2">
+  <!-- <div class="column2">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
@@ -224,7 +224,7 @@ permalink: /member/
           </center>
         </div>
       </div>
-    </div>
+    </div> -->
 
 </div>
 
