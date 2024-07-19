@@ -360,7 +360,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://zhanfengmai.github.io/">Zhan-Feng Mai</a> (麦展风)</b></h5>
+          <h5><b><a href="https://zhanfengmai.github.io/">Zhanfeng Mai</a> (麦展风)</b></h5>
           <p class="teamtitle"><small>广西大学·助理教授</small></p>
           </center>
         </div>
@@ -386,7 +386,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://whaitian.github.io/">Hai-Tian Wang</a> (王海天)</b></h5>
+          <h5><b><a href="https://whaitian.github.io/">Haitian Wang</a> (王海天)</b></h5>
           <p class="teamtitle"><small>Unknown</small></p>
           <!-- <p class="teamtitle"><small>大连理工大学·副教授</small></p> -->
           </center>
