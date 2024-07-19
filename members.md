@@ -275,7 +275,7 @@ permalink: /member/
 | &#9792;  **Jianyuan Luo** | **罗荐元** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9792;  **Yuxin Guo** | **郭雨欣** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
-| &#9794;  **Rong Du** | **杜嵘** | Research Assistant | [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Rong Du** | **杜嵘** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794; **Ziyuan Nie** | **聂子源** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/research/theme/astronomy-and-astrophysics) |
 | &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
