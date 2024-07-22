@@ -69,6 +69,10 @@ Facilities*, in press
 
 ##### Other Papers
 
+0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
+   GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
+observing run](https://arxiv.org/abs/2407.12867), arXiv:2407.12867
+
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
 Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308.03822
