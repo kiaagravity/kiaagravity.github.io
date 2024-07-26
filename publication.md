@@ -81,10 +81,6 @@ Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308
 the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D*
 (accepted), arXiv:2403.03004
 
-0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission from
-GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* (accepted),
-arXiv:2405.10752
-
 0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
 of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
 Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* (accepted), arXiv:2404.04248
@@ -225,6 +221,9 @@ J. Lett.* 964 (2024) L25
 0. K. Akiyama, *et al.*, [The persistent shadow of the supermassive black hole
 of M 87. I. Observations, calibration, imaging, and
 analysis](https://doi.org/10.1051/0004-6361/202347932), *Astron. & Astrophys.* 681 (2024) A79
+
+0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission
+from GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* 970 (2024) L20
 
 0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
 Gravitational-Wave Candidates from the Third Gravitational-wave Observing
