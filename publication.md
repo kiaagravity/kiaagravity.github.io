@@ -17,10 +17,6 @@ nontensorial gravitational-wave polarizations from individual supermassive black
 hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680),
 arXiv:2404.16680
 
-0. J.-P. Zhu, R.-C. Hu, Y. Kang, B. Zhang, H. Tong, L. Shao, Y. Qin, [Formation
-of GW230529 from Isolated Binary Evolution and Its Electromagnetic
-Counterparts](https://arxiv.org/abs/2404.10596), arXiv:2404.10596
-
 0. Z. Lyu, L. Shao, [Measuring Mass Transfer Rates in Coalescing Neutron
 Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
@@ -39,6 +35,11 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. J.-P. Zhu, R.-C. Hu, Y. Kang, B. Zhang, H. Tong, L. Shao, Y. Qin, [Formation
+of GW230529 from Isolated Binary Evolution and Its Electromagnetic
+Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted),
+arXiv:2404.10596
 
 0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
 stochastic gravitational wave background using the future lunar
