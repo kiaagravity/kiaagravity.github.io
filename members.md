@@ -371,7 +371,7 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="http://groups.bao.ac.cn/psr/en/people/202210/t20221027_719450.html">Xueli Miao</a> (缪雪丽)</b></h5>
+        <h5><b><a href="https://inspirehep.net/authors/1869200">Xueli Miao</a> (缪雪丽)</b></h5>
         <p class="teamtitle"><small>NAOC/MPIfR·博后</small></p>
         </center>
       </div>
@@ -424,7 +424,7 @@ permalink: /member/
       <div class="teamcontainer"  style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="https://gravity.bnu.edu.cn/member2/325.html">Junjie Zhao</a> (赵俊杰)</b></h5>
+        <h5><b><a href="https://inspirehep.net/authors/1746231">Junjie Zhao</a> (赵俊杰)</b></h5>
         <p class="teamtitle"><small>河南省科学院·助理研究员</small></p>
         </center>
       </div>
