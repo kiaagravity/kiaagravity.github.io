@@ -447,7 +447,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar</b></font></span>
 </small>
 
-## Former Members <small><small>(44 ppl.)</small></small>
+## Former Members <small><small>(47 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -497,6 +497,8 @@ permalink: /member/
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Science Cases with Space-based Gravitational-wave Detectors* (PKU'24); co-advisor: Nicola Tamanini |
 | &#9830; **Luo, Jianyuan** (**罗荐元**) &#9830; <small>School of Physics and Technology, Wuhan University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraining Fermionic Dark Matter with Neutron Stars* (WHU'24); co-advisor: Bei You |
+| &#9830; [**Lyu, Zhenwei**](https://gwlyu.github.io/) (**吕振伟**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
+| <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Unveiling Physical Insights from Gravitational Waves* (2024)</small> |
 | &#9830; [**Mai, Zhan-Feng**](https://zhanfengmai.github.io/) (**麦展风**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Stability Analysis for Bumblebee Black Holes* (2024)</small> |
 | &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
@@ -511,6 +513,8 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraining Dark Matter Properties with Neutron Stars* (PKU'19) |
 | &#9830; **Tao, Yu** (**陶昱**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Brief Studies on Gravitational Waveform of Numerical Relativity* (PKU'20) |
+| &#9830; [**Wang, Hai-Tian**](https://whaitian.github.io/) (**王海天**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
+| <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravitational Wave Data Analysis on the Ringdown Signal* (2024)</small> |
 | &#9830; **Wang, Huimei** (**王惠美**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Bounding the Photon Mass with Fast Radio Bursts* (2020)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Structure of Neutron Stars with Anisotropic Pressure* (PKU'21) |
 | &#9830; **Wang, Weisong** (**王伟松**) &#9830; <small>School of Physics, Peking University</small> | 
@@ -527,6 +531,8 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Neutron Star Structure in Alternative Gravitational Theories* (2021)</small><br><small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Compact Objects in Alternative Theories of Gravity* (2023) |
 | &#9830; **Xu, Yiming** (**徐一鸣**) &#9830; <small>School of Earth and Space Sciences, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Classification of Gravitational Wave Detector Glitches with Machine Learning* (PKU'24) |
+| &#9830; [**Yim, Garvin**](https://garvinyim.wixsite.com/home) (**嚴家榮**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
+| <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravitational Waves from Pulsar Glitches and Antiglitches* (2024); co-advisor: Renxin Xu</small> |
 | &#9830; **Zhang, Zhejian** (**张喆戬**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Testing Equivalence Principle with Pulsar Timing* (2022) |
 | &#9830; **Zhao, Chenghui** (**赵乘辉**) &#9830; <small>School of Astronomy and Space Science, Nanjing University</small> |
