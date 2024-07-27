@@ -82,10 +82,6 @@ Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308
 the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D*
 (accepted), arXiv:2403.03004
 
-0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
-of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
-Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* (accepted), arXiv:2404.04248
-
 0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
 third observing run of the LIGO-Virgo
 network](https://arxiv.org/abs/2304.08393), *Astrophys. J.* (accepted),
@@ -204,6 +200,10 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
 024701
+
+0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
+of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
+Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* 970 (2024) L34
 
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
