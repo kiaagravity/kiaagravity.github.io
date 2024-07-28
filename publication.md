@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
+instability of black holes: relating the frequency domain to the time
+domain](http://arxiv.org/abs/TBA), arXiv:TBA
+
 0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
 nontensorial gravitational-wave polarizations from individual supermassive black
 hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680),
