@@ -14,7 +14,7 @@ permalink: /publication/
 
 0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time
-domain](http://arxiv.org/abs/TBA), arXiv:TBA
+domain](http://arxiv.org/abs/2407.20131), arXiv:2407.20131
 
 0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
 nontensorial gravitational-wave polarizations from individual supermassive black
