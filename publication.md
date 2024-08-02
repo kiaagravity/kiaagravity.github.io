@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
+Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), arXiv:2408.00245
+
 0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time
 domain](http://arxiv.org/abs/2407.20131), arXiv:2407.20131
