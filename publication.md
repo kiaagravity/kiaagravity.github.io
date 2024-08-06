@@ -89,11 +89,6 @@ Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308
 the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D*
 (accepted), arXiv:2403.03004
 
-0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
-third observing run of the LIGO-Virgo
-network](https://arxiv.org/abs/2304.08393), *Astrophys. J.* (accepted),
-arXiv:2304.08393
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -211,6 +206,10 @@ Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
 0. A.G. Abac, *et al.*, [Observation of Gravitational Waves from the Coalescence
 of a 2.5-4.5 $M_\odot$ Compact Object and a Neutron
 Star](https://arxiv.org/abs/2404.04248), *Astrophys. J. Lett.* 970 (2024) L34
+
+0. R. Abbott, *et al.*, [Search for gravitational-lensing signatures in the full
+third observing run of the LIGO-Virgo
+network](https://arxiv.org/abs/2304.08393), *Astrophys. J.* 970 (2024) 191
 
 0. R. Abbott, *et al.*, [Search for gravitational-wave transients associated
 with magnetar bursts in Advanced LIGO and Advanced Virgo data from the third
