@@ -189,7 +189,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(23 ppl.)</small></small>
+## Members <small><small>(19 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -211,11 +211,6 @@ permalink: /member/
 | &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yilun Zhang** | **张逸伦** | Undergraduate Research |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate Research | [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-
 
 <p></p>
 
@@ -230,8 +225,12 @@ permalink: /member/
 | &#9792;  **Yuxin Guo** | **郭雨欣** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
 | &#9794;  **Rong Du** | **杜嵘** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794; **Ziyuan Nie** | **聂子源** | Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/research/theme/astronomy-and-astrophysics) |
+| &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate  | [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794; **Ziyuan Nie** | **聂子源** | Visiting Undergraduate |  [Oxford](https://www.physics.ox.ac.uk/research/theme/astronomy-and-astrophysics) |
 
 <p></p>
 
