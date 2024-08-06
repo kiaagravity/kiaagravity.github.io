@@ -48,11 +48,6 @@ of GW230529 from Isolated Binary Evolution and Its Electromagnetic
 Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted),
 arXiv:2404.10596
 
-0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
-stochastic gravitational wave background using the future lunar
-seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D* (accepted),
-arXiv:2405.12640
-
 0. G. Yim, L. Shao, R.-X. Xu, [High priority targets for transient gravitational
 waves from glitching pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R.
 Astron. Soc.* (accepted), arXiv:2406.00283
@@ -173,6 +168,10 @@ Freire, Y. Zhang, M. Xue, Z.  Fang, D.J. Champion, M. Yuan, C. Miao, J. Niu, Q.
 Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic Spin Precession in the Compact
 Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
 *Astrophys. J.* 966 (2024) 46
+
+0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
+stochastic gravitational wave background using the future lunar
+seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D* 110 (2024) 043009
 
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
