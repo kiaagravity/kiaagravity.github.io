@@ -48,10 +48,6 @@ of GW230529 from Isolated Binary Evolution and Its Electromagnetic
 Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted),
 arXiv:2404.10596
 
-0. G. Yim, L. Shao, R.-X. Xu, [High priority targets for transient gravitational
-waves from glitching pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R.
-Astron. Soc.* (accepted), arXiv:2406.00283
-
 0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
 Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
 M. Kramer, K. Liu, D. Perrodin, S.A.  Sanidas, G. Theureau, [Constraints on
@@ -137,6 +133,10 @@ signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* 41 (2024) 055
 merger-ringdown signals in GWTC-3 and prospects for the Einstein
 Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* 109 (2024) 024058
 
+0. G. Yim, L. Shao, R.-X. Xu, [High priority targets for transient gravitational
+waves from glitching pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R.
+Astron. Soc.* 532 (2024) 3893
+
 0. G. Yim, Y. Gao, Y. Kang, L. Shao, R.-X. Xu, [Continuous gravitational waves
 from trapped magnetar ejecta and the connection to glitches and
 antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527 (2024) 2379
@@ -169,10 +169,6 @@ Fu, J. Yao, Y. Guo, C. Zhang, [The Relativistic Spin Precession in the Compact
 Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
 *Astrophys. J.* 966 (2024) 46
 
-0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
-stochastic gravitational wave background using the future lunar
-seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D* 110 (2024) 043009
-
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
 Rev. D* 109 (2024) 063020
@@ -180,6 +176,10 @@ Rev. D* 109 (2024) 063020
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
 quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* 24 (2024) 025019
+
+0. H. Yan, X. Chen, J. Zhang, F. Zhang, L. Shao, M.  Wang, [Constraining the
+stochastic gravitational wave background using the future lunar
+seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D* 110 (2024) 043009
 
 0. H. Yan, X. Chen, J. Zhang, F. Zhang, M. Wang,  L.  Shao, [Towards a
 Consistent Calculation of the Lunar Response to Gravitational
