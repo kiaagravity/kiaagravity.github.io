@@ -37,47 +37,6 @@ permalink: /member/
     </div>
   </div>
 
-  <div class="column2">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/Lyu_Zhenwei.png" alt="" style="width:100%; height:210px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
-        <h5><b><a href="https://gwlyu.github.io/">Dr. Zhenwei Lyu</a> (吕振伟)</b></h5>
-        <p class="teamtitle"><small>Boya Postdoctoral Fellow</small></p>
-        </center>
-      </div>
-    </div>
-  </div>
-
-  <div class="column2">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/alumni/Wang_Haitian.png" alt="" style="width:100%; height:210px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://whaitian.github.io/">Dr. Hai-Tian Wang</a> (王海天)</b></h5>
-          <p class="teamtitle"><small>KIAA Postdoc</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-
-
-  <div class="column2">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/alumni/Yim_Garvin.png" alt="" style="width:100%; height:210px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://garvinyim.wixsite.com/home">Dr. Garvin Yim</a> (嚴家榮)</b></h5>
-          <p class="teamtitle"><small>KIAA Postdoc</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-
-
 <div class="column2">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:210px">
