@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
+X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), arXiv:2408.04425
+
 0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
 Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), arXiv:2408.00245
 
