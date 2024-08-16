@@ -46,6 +46,10 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
+0. H.-T. Wang, G. Yim, X.  Chen, L. Shao, [Gravitational wave ringdown analysis
+using the ${\cal F}$-statistic](https://arxiv.org/abs/TBA), 
+*Astrophys. J.* (accepted), arXiv:TBA 
+
 0. J.-P. Zhu, R.-C. Hu, Y. Kang, B. Zhang, H. Tong, L. Shao, Y. Qin, [Formation
 of GW230529 from Isolated Binary Evolution and Its Electromagnetic
 Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted),
