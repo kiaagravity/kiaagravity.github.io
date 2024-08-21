@@ -61,11 +61,6 @@ M. Kramer, K. Liu, D. Perrodin, S.A.  Sanidas, G. Theureau, [Constraints on
 conformal ultralight dark matter couplings from the European Pulsar Timing
 Array](https://arxiv.org/abs/2405.01633), *Phys. Rev. D* (accepted), arXiv:2405.01633
 
-0. P. Ji, L. Shao, [Scalar Dark Energy Models and Scalar-Tensor Gravity:
-Theoretical Explanations for the Accelerated Expansion of Present
-Universe](http://arxiv.org/abs/2406.04954), *Commun. Theor. Phys.* (accepted),
-arXiv:2406.04954
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
@@ -152,6 +147,10 @@ antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527
 oscillations during magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. P. Ji, L. Shao, [Scalar Dark Energy Models and Scalar-Tensor Gravity:
+Theoretical Explanations for the Accelerated Expansion of Present
+Universe](http://arxiv.org/abs/2406.04954), *Commun. Theor. Phys.* 76 (2024) 107401
 
 0. H.-B. Li, Y. Gao, L.  Shao, R.-X. Xu, [Asteroseismology of compact
 stars](https://doi.org/10.3390/universe10040157), *Universe* 10 (2024) 157
