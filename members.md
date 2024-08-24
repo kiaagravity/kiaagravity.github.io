@@ -217,7 +217,7 @@ permalink: /member/
 ## Associates <small><small>— regularly seen in group meetings</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
-| &#9794;  **Rui Xu** | **徐睿** | Visiting Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
+| &#9794;  **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
 | &#9792; **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
