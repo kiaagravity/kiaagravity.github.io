@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<figure>   
+<img src="postdoc.jpeg" style="width:100%">                 
+</figure>
+
 <big><big><big> **博士后**
 
 0. 博士后是份工作，属于教职工，<font color="blue"><b>不是学生</b></font>，主要任务是工作，而不仅仅是学习；切记，切记！

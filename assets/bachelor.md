@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<figure>   
+<img src="bachelor.jpg" style="width:100%">                 
+</figure>
+
 <big><big><big> **本科生毕业论文**
 
 0. 本科生毕业论文是门课程，6个学分
