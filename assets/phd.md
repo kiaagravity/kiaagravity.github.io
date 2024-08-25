@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<figure>   
+<img src="phd.jpeg" style="width:100%">                 
+</figure>
+
 <big><big><big> **博士研究生**
 
 0. 无论是否有硕士学位，都有机会报考或保送北京大学天文学系的博士研究生，一般来说
