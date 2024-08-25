@@ -4,6 +4,10 @@ layout: page
 
 <big><big><big> **本科生科研**
 
+<figure>   
+<img src="undergrad.jpg" style="width:100%">                 
+</figure>
+
 >> <font color="red"><b>有些人做得很好，有些人做得不太好；这都很正常。</b></font>
 
 0. 本科生科研是为了**学有余力**、并且**对科研【很】感兴趣**的本科生提前接触、了解、实践科研活动而设立的，并**不是**必修课
