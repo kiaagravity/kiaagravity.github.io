@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<figure>   
+<img src="QA.jpg" style="width:100%">                 
+</figure>
+
 <big><big><big> **常见问题汇集**
 
 收集了一些常用的问题，以便同学们能够更快地找到答案。
