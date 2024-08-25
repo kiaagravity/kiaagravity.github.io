@@ -16,7 +16,7 @@ Rui, Wenfan, Hongbo, Jiangchuan, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 
 - Zexin: Red noise in the pulsar-supermassive black hole system
     
-    Ref.: [Pulsar timing analysis in the presence of correlated noise](https://doi.org/10.1111/j.1365-2966.2011.19505.x)
+    Ref: [Pulsar timing analysis in the presence of correlated noise](https://doi.org/10.1111/j.1365-2966.2011.19505.x)
   
     
 ### Time
