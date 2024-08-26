@@ -260,7 +260,8 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Hongbo Li</a> (李洪波)</b></h5>
+          <!-- <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Hongbo Li</a> (李洪波)</b></h5> -->
+          <h5><b><a href="https://kiaa.pku.edu.cn/info/1014/9374.htm">Hongbo Li</a> (李洪波)</b></h5>
           <p class="teamtitle"><small>北京大学·博后</small></p>
           </center>
         </div>
@@ -273,7 +274,8 @@ permalink: /member/
     <div class="teamcontainer" style="padding:1px; ">
       <center>
       <p></p>
-      <h5><b><a href="https://orcid.org/0000-0001-5021-235X">Dicong Liang</a> (梁迪聪)</b></h5>
+      <!-- <h5><b><a href="https://orcid.org/0000-0001-5021-235X">Dicong Liang</a> (梁迪聪)</b></h5> -->
+      <h5><b><a href="https://portal.smu.edu.cn/swyxgcxy/info/1020/11787.htm">Dicong Liang</a> (梁迪聪)</b></h5>
       <p class="teamtitle"><small>南方医科大学·讲师</small></p>
       </center>
     </div>
@@ -326,7 +328,8 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="https://inspirehep.net/authors/1869200">Xueli Miao</a> (缪雪丽)</b></h5>
+        <!-- <h5><b><a href="https://inspirehep.net/authors/1869200">Xueli Miao</a> (缪雪丽)</b></h5> -->
+        <h5><b><a href="https://www.mpifr-bonn.mpg.de/person/136271/144762">Xueli Miao</a> (缪雪丽)</b></h5>
         <p class="teamtitle"><small>NAOC/MPIfR·博后</small></p>
         </center>
       </div>
