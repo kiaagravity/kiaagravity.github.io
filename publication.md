@@ -237,6 +237,10 @@ analysis](https://doi.org/10.1051/0004-6361/202347932), *Astron. & Astrophys.* 6
 0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission
 from GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* 970 (2024) L20
 
+0. A.W. Raymond, *et al.*, [First Very Long Baseline Interferometry Detections
+at 870 $\mu$m](https://doi.org/10.3847/1538-3881/ad5bdb), *Astron. J.* 168
+(2024) 130
+
 0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
 Gravitational-Wave Candidates from the Third Gravitational-wave Observing
 Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* 964 (2024) 149
