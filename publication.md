@@ -55,12 +55,6 @@ of GW230529 from Isolated Binary Evolution and Its Electromagnetic
 Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted),
 arXiv:2404.10596
 
-0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
-Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
-M. Kramer, K. Liu, D. Perrodin, S.A.  Sanidas, G. Theureau, [Constraints on
-conformal ultralight dark matter couplings from the European Pulsar Timing
-Array](https://arxiv.org/abs/2405.01633), *Phys. Rev. D* (accepted), arXiv:2405.01633
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
@@ -160,6 +154,12 @@ Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
 freely precessing magnetar following an X-ray
 outburst](https://doi.org/10.1038/s41550-024-02226-7), *Nat. Astron.* 8 (2024)
 617
+
+0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
+Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
+M. Kramer, K. Liu, D. Perrodin, S.A.  Sanidas, G. Theureau, [Constraints on
+conformal ultralight dark matter couplings from the European Pulsar Timing
+Array](https://arxiv.org/abs/2405.01633), *Phys. Rev. D* 110 (2024) 043033
 
 0. Q.G. Bailey, A.S. Gard, N.A. Nilsson, R. Xu, L. Shao, [Classical radiation
 fields for scalar, electromagnetic, and gravitational waves with
