@@ -47,7 +47,7 @@ Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
 0. H.-T. Wang, G. Yim, X.  Chen, L. Shao, [Gravitational wave ringdown analysis
-using the ${\cal F}$-statistic](https://arxiv.org/abs/TBA), 
+using the $F$-statistic](https://arxiv.org/abs/TBA), 
 *Astrophys. J.* (accepted), arXiv:TBA 
 
 0. J.-P. Zhu, R.-C. Hu, Y. Kang, B. Zhang, H. Tong, L. Shao, Y. Qin, [Formation
