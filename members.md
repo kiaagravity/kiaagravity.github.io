@@ -189,13 +189,12 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(20 ppl.)</small></small>
+## Members <small><small>(19 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Hongbo Li** | **李洪波** | Visiting KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9794;  **Haoran Di** | **邸浩然** | Visiting Scholar | [SCI-ECUT](https://lxy.ecut.edu.cn/0c/18/c3214a68632/page.htm) |
 | &#9794;  **Hanlin Song** | **宋翰林** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -219,6 +218,7 @@ permalink: /member/
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
+| &#9794;  **Haoran Di** | **邸浩然** | Lecturer | [SCI-ECUT](https://lxy.ecut.edu.cn/0c/18/c3214a68632/page.htm) |
 | &#9792; **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
