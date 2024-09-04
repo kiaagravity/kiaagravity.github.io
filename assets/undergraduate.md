@@ -96,8 +96,8 @@ layout: page
 
 0. **C. Zhao (赵乘辉)**, H.-B. Li, L. Shao, [白矮星的震荡模式和物态研究](TBA), 《天文学进展》, in prep.
 
-0. P. Ji, Z. Li, R. Xu, Z. Hu, **L. Yang (杨力睿)**, L. Shao, [Static spherical
-solutions of neutron star in bumblebee theory of gravity](TBA), in prep.
+0. P. Ji, **L. Yang (杨力睿)**, **Z. Li (李竹海)**, R. Xu, Z. Hu, L. Shao, [Neutron
+stars in the bumblebee theory of gravity](TBA), in prep.
 
 0. **Y. Liu (刘宇堃)**, H.-B. Li, Y. Gao, L. Shao, Z. Hu, [Effects from Dark Matter
 Halos on X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425),
