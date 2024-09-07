@@ -58,8 +58,6 @@ arXiv:2404.10596
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
-
-0. 高勇, G. Desvignes, 邵立晶, [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 (已接收)
 {: reversed="reversed"}
 
 ##### Other Papers
@@ -196,6 +194,8 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 0. 路瑞鹏, 高勇, 胡岩, 来小禹, 李洪波, 卢吉光, 邵立晶, 王平, 汪卫华, 王维扬, 夏铖君, 胥恒, 徐仁新, 徐世庆, 岳汉, 赵里,
 郑小平, 周恩平, 邹远川, [从地震到星震](https://doi.org/10.1360/SSPMA-2023-0424), 《中国科学：物理学 力学
 天文学》 54 (2024) 289501
+
+0. 高勇, G. Desvignes, 邵立晶, [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 69 (2024) 367
 {: reversed="reversed"}
 
 ##### Other Papers
