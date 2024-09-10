@@ -13,7 +13,7 @@ permalink: /publication/
 ##### Short-author-list Papers
 
 0. P. Ji, Z. Li, L. Yang,  R. Xu, Z.  Hu, L. Shao, [Neutron stars in the
-bumblebee theory of gravity](http://arxiv.org/abs/TBA), arXiv:TBA
+bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXiv:2409.04805
 
 0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
 X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), arXiv:2408.04425
