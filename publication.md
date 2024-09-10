@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H. Di, L. Shao, Z. Yi, S.-B. Kong, [A novel standard candle: collapsing axion
+stars](https://arxiv.org/abs/2409.05120), arXiv:2409.05120
+
 0. P. Ji, Z. Li, L. Yang,  R. Xu, Z.  Hu, L. Shao, [Neutron stars in the
 bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXiv:2409.04805
 
