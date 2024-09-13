@@ -456,7 +456,7 @@ permalink: /member/
 | &#9830; [**Liu, Chang**](https://orcid.org/0000-0001-7649-6792) (**刘畅**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Science Cases with Space-based Gravitational-wave Detectors* (PKU'24); co-advisor: Nicola Tamanini |
 | &#9830; **Liu, Yukun** (**刘宇堃**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *TBA* (2024) |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Effects from Dark Matter Halos on X-ray Pulsar Pulse Profiles* (2024) |
 | &#9830; **Luo, Jianyuan** (**罗荐元**) &#9830; <small>School of Physics and Technology, Wuhan University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraining Fermionic Dark Matter with Neutron Stars* (WHU'24); co-advisor: Bei You |
 | &#9830; [**Lyu, Zhenwei**](https://gwlyu.github.io/) (**吕振伟**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
@@ -494,11 +494,11 @@ permalink: /member/
 | &#9830; **Xu, Yiming** (**徐一鸣**) &#9830; <small>School of Earth and Space Sciences, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Classification of Gravitational Wave Detector Glitches with Machine Learning* (PKU'24) |
 | &#9830; **Yang, Yiqiu** (**杨一秋**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *TBA* (2024) |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spectral Instability of Black Holes* (2024) |
 | &#9830; [**Yim, Garvin**](https://garvinyim.wixsite.com/home) (**嚴家榮**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravitational Waves from Pulsar Glitches and Antiglitches* (2024); co-advisor: Renxin Xu</small> |
 | &#9830; **Zhang, Hongyi** (**章弘毅**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *TBA* (2024) |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Possible Degeneracy between Different Effects on GW Phase* (2024) |
 | &#9830; **Zhang, Zhejian** (**张喆戬**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Testing Equivalence Principle with Pulsar Timing* (2022) |
 | &#9830; **Zhao, Chenghui** (**赵乘辉**) &#9830; <small>School of Astronomy and Space Science, Nanjing University</small> |
