@@ -68,9 +68,14 @@ Facilities*, in press
 
 ##### Other Papers
 
-0. G. Raman, *et al.* (Swift / LIGO / Virgo / KAGRA Collaboration), [Swift-BAT
-   GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA
-observing run](https://arxiv.org/abs/2407.12867), arXiv:2407.12867
+0. J.C. Algaba, *et al.*, [Broadband Multi-wavelength Properties of M87 during
+the 2018 EHT Campaign including a Very High Energy Flaring
+Episode](https://arxiv.org/abs/2404.17623), Astron. & Astrophys. (accepted),
+arXiv:2404.17623
+
+0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
+in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867),
+arXiv:2407.12867
 
 0. A.G. Abac, *et al.*, [Search for
 eccentric black hole coalescences during the third Observing Run of LIGO and
