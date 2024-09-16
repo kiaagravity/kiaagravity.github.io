@@ -24,10 +24,6 @@ X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), arXiv:2408.04425
 0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
 Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), arXiv:2408.00245
 
-0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
-instability of black holes: relating the frequency domain to the time
-domain](http://arxiv.org/abs/2407.20131), arXiv:2407.20131
-
 0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
 nontensorial gravitational-wave polarizations from individual supermassive black
 hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680),
@@ -51,6 +47,10 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
+instability of black holes: relating the frequency domain to the time
+domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* (accepted), arXiv:2407.20131
 
 0. H.-T. Wang, G. Yim, X.  Chen, L. Shao, [Gravitational wave ringdown analysis
 using the $F$-statistic](https://arxiv.org/abs/2409.00970), 

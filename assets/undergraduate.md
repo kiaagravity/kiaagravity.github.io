@@ -105,7 +105,7 @@ arXiv:2408.04425
 
 0. **Y. Yang (杨一秋)**, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time
-domain](http://arxiv.org/abs/2407.20131), arXiv:2407.20131
+domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* (accepted), arXiv:2407.20131
 
 0. **Y. Dong (董益铭)**, **Z. Wang (王子铭)**, L. Shao, [New limits on local Lorentz
 invariance violation of gravity in the Standard-Model Extension with
