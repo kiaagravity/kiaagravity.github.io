@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. Z. Wang, Y. Gao, D. Liang, J.  Zhao, L. Shao, [Vetting quark-star models with
+gravitational waves in the hierarchical Bayesian
+framework](https://arxiv.org/abs/2409.11103), arXiv:2409.11103
+
 0. H. Di, L. Shao, Z. Yi, S.-B. Kong, [A novel standard candle: collapsing axion
 stars](https://arxiv.org/abs/2409.05120), arXiv:2409.05120
 
