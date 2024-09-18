@@ -22,9 +22,6 @@ stars](https://arxiv.org/abs/2409.05120), arXiv:2409.05120
 0. P. Ji, Z. Li, L. Yang,  R. Xu, Z.  Hu, L. Shao, [Neutron stars in the
 bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXiv:2409.04805
 
-0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
-X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), arXiv:2408.04425
-
 0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
 Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), arXiv:2408.00245
 
@@ -51,6 +48,9 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
+X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* (accepted), arXiv:2408.04425
 
 0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time
