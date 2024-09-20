@@ -25,11 +25,6 @@ bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXiv:2409.04805
 0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
 Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), arXiv:2408.00245
 
-0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
-nontensorial gravitational-wave polarizations from individual supermassive black
-hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680),
-arXiv:2404.16680
-
 0. Z. Lyu, L. Shao, [Measuring Mass Transfer Rates in Coalescing Neutron
 Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
@@ -48,6 +43,10 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
+nontensorial gravitational-wave polarizations from individual supermassive black
+hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680), *Phys. Rev. D* (accepted), arXiv:2404.16680
 
 0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
 X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* (accepted), arXiv:2408.04425
