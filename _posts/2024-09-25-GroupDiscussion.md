@@ -8,15 +8,17 @@ categories: activities
 
 ### Attendees
 
-Rui, Wenfan, Hongbo, Jiangchuan, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yiming, Ze, Zhuhai, Lijing
+Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yiming, Ze, Zhuhai, Jiangchuan, Lijing
 
 ---
 
 ### Agenda
 
-- Zexin: Red noise in the pulsar-supermassive black hole system
+- Arxiv sharing: Lijing, Ziming, Peixiang, Hongbo, Zhuhai
+
+- Wenfan: Effects of eccentricity on triaxial nonaligned waveforms from neutron stars in tight binaries
     
-    Ref: [Pulsar timing analysis in the presence of correlated noise](https://doi.org/10.1111/j.1365-2966.2011.19505.x)
+    Ref: [Effects of spin-orbit coupling on gravitational waveforms from a triaxial nonaligned neutron star in a binary system]([https://doi.org/10.1111/j.1365-2966.2011.19505.x](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.063035))
   
     
 ### Time
