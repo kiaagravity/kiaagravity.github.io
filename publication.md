@@ -80,10 +80,6 @@ arXiv:2404.17623
 in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867),
 arXiv:2407.12867
 
-0. A.G. Abac, *et al.*, [Search for
-eccentric black hole coalescences during the third Observing Run of LIGO and
-Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* (accepted), arXiv:2308.03822
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -217,6 +213,9 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
 024701
+
+0. A.G. Abac, *et al.*, [Search for eccentric black hole coalescences during the
+third Observing Run of LIGO and Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* 973 (2024) 132
 
 0. A.G. Abac, *et al.*, [Ultralight vector dark matter search using data from
 the KAGRA O3GK run](https://arxiv.org/abs/2403.03004), *Phys. Rev. D* 110 (2024)
