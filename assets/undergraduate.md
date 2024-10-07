@@ -101,7 +101,7 @@ stars in the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXi
 
 0. **Y. Liu (刘宇堃)**, H.-B. Li, Y. Gao, L. Shao, Z. Hu, [Effects from Dark Matter
 Halos on X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), *Phys.
-Rev. D* TBA (2024) TBA
+Rev. D* 110 (2024) 083018
 
 0. **Y. Yang (杨一秋)**, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time

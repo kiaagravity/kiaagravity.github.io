@@ -87,9 +87,6 @@ arXiv:2112.06861
 
 ##### Short-author-list Papers
 
-0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
-X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* TBA (2024) TBA
-
 0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time
 domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* TBA (2024) TBA
@@ -148,6 +145,10 @@ antiglitches](https://arxiv.org/abs/2308.01588), *Mon. Not. R. Astron. Soc.* 527
 oscillations during magnetar giant flares in the strangeon star
 model](https://arxiv.org/abs/2309.09847), *Mon.  Not. R. Astron. Soc.* 527
 (2024) 855
+
+0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
+X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* 110
+(2024) 083018
 
 0. P. Ji, L. Shao, [Scalar Dark Energy Models and Scalar-Tensor Gravity:
 Theoretical Explanations for the Accelerated Expansion of Present
