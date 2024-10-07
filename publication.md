@@ -48,13 +48,6 @@ arXiv:2312.02130
 nontensorial gravitational-wave polarizations from individual supermassive black
 hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680), *Phys. Rev. D* (accepted), arXiv:2404.16680
 
-0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
-X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* (accepted), arXiv:2408.04425
-
-0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
-instability of black holes: relating the frequency domain to the time
-domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* (accepted), arXiv:2407.20131
-
 0. H.-T. Wang, G. Yim, X.  Chen, L. Shao, [Gravitational wave ringdown analysis
 using the $F$-statistic](https://arxiv.org/abs/2409.00970), 
 *Astrophys. J.* (accepted), arXiv:2409.00970
@@ -71,14 +64,17 @@ Facilities*, in press
 
 ##### Other Papers
 
-0. J.C. Algaba, *et al.*, [Broadband Multi-wavelength Properties of M87 during
-the 2018 EHT Campaign including a Very High Energy Flaring
-Episode](https://arxiv.org/abs/2404.17623), Astron. & Astrophys. (accepted),
-arXiv:2404.17623
+0. K. Akiyama, *et al.*, [Mid-Range Science Objectives for the Event Horizon
+Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
 0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
 in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867),
 arXiv:2407.12867
+
+0. J.C. Algaba, *et al.*, [Broadband Multi-wavelength Properties of M87 during
+the 2018 EHT Campaign including a Very High Energy Flaring
+Episode](https://arxiv.org/abs/2404.17623), Astron. & Astrophys. (accepted),
+arXiv:2404.17623
 
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
@@ -90,6 +86,13 @@ arXiv:2112.06861
 ### 2024
 
 ##### Short-author-list Papers
+
+0. Y. Liu, H.-B. Li, Y. Gao, L.  Shao, Z. Hu, [Effects from Dark Matter Halos on
+X-ray Pulsar Pulse Profiles](http://arxiv.org/abs/2408.04425), *Phys. Rev. D* TBA (2024) TBA
+
+0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
+instability of black holes: relating the frequency domain to the time
+domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* TBA (2024) TBA
 
 0. H. Song, D. Liang, Z. Wang, L.  Shao, [Impact of spin in compact binary
 foreground subtraction for estimating the residual stochastic gravitational-wave
