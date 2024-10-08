@@ -16,8 +16,13 @@ Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 
 - Arxiv sharing: Zexin, Wenfan, Ze, Jiangchuan, Yacheng
 
-- Lirui: 
-  
+- Lirui: Spherically Symmetric Solutions in Aether Scalar Tensor Theory
+
+  Ref 1: [Aether scalar tensor theory: Linear stability on Minkowski space](https://doi.org/10.1103/PhysRevD.106.104041)
+
+  Ref 2: [Neutron Stars in Aether Scalar-Tensor Theory](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.084019)
+
+  Ref 3: [New Relativistic Theory for Modified Newtonian Dynamics](https://doi.org/10.1103/PhysRevLett.127.161302)
     
 ### Time
 
