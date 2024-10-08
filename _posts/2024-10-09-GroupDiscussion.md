@@ -14,13 +14,9 @@ Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 
 ### Agenda
 
-- Arxiv sharing: Zexin, Wenfan, Ze, Jiangchuan, Peixiang
-
-- ??: ???
-    
-    Ref: [???](???)
+- Arxiv sharing: Zexin, Wenfan, Ze, Jiangchuan, Yacheng
   
     
 ### Time
 
-19:00 pm -- 22:00 pm
+19:00 pm -- 20:30 pm
