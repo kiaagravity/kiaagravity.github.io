@@ -8,15 +8,17 @@ categories: activities
 
 ### Attendees
 
-Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yiming, Ze, Zhuhai, Jiangchuan, Haoran, Lijing
+Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yiming, Ze, Zhuhai, Jiangchuan, Lirui, Haoran, Lijing
 
 ---
 
 ### Agenda
 
 - Arxiv sharing: Zexin, Wenfan, Ze, Jiangchuan, Yacheng
+
+- Lirui: 
   
     
 ### Time
 
-19:00 pm -- 20:30 pm
+19:00 pm -- 22:00 pm
