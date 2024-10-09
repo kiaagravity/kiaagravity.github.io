@@ -89,7 +89,7 @@ arXiv:2112.06861
 
 0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time
-domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* TBA (2024) TBA
+domain](http://arxiv.org/abs/2407.20131), *Phys. Rev. D* 110 (2024) 084018
 
 0. H. Song, D. Liang, Z. Wang, L.  Shao, [Impact of spin in compact binary
 foreground subtraction for estimating the residual stochastic gravitational-wave
