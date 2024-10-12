@@ -221,6 +221,7 @@ permalink: /member/
 | &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9792;  **Yuxin Guo** | **郭雨欣** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9792;  **Yan Luo** | **骆彦** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
 | &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate  | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -228,6 +229,7 @@ permalink: /member/
 | &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Zhiheng Zheng** | **郑志恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794;  **Zhirui Xie** | **谢祉锐** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
