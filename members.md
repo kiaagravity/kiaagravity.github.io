@@ -189,7 +189,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(16 ppl.)</small></small>
+## Members <small><small>(20 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -208,6 +208,10 @@ permalink: /member/
 | &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yilun Zhang** | **张逸伦** | Undergraduate Research |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate  | [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
 
 <p></p>
 
@@ -220,10 +224,6 @@ permalink: /member/
 | &#9794;  **Yukun Liu** | **刘宇堃** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Bolin Li** | **李柏霖** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate  | [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate  |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Zhiheng Zheng** | **郑志恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Zhirui Xie** | **谢祉锐** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
