@@ -14,7 +14,7 @@ Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 
 ### Agenda
 
-- Arxiv sharing: 
+- Arxiv sharing: Yiming, Ziming, Jiangchuan, Wenfan, Hongbo
 
 - Jiangchuan: Probing Ultralight Dark Matter with the Spin and Orbit of Pulsars
 
