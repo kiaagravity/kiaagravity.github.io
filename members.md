@@ -441,7 +441,7 @@ permalink: /member/
 | &#9830; [**Kazempour, Sobhan**](https://www.researchgate.net/profile/Sobhan-Kazempour) &#9830; <small>Faculty of Physics, University of Tabriz</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Cosmological Aspects of Massive Gravity Theory* (TabrizU'22); co-advisors: A.R. Akbarieh & H. Motavalli |
 | &#9830; **Li, Bolin** (**李柏霖**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *TBA* (2024) |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Variance in Pulsar Timing Arrays* (2024) |
 | &#9830; **Li, Chunjiang** (**李春江**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Track Down Radio Frequency Interference in FAST Data* (PKU'21); co-advisor: Weiwei Zhu  |
 | &#9830; [**Li, Hong-Bo**](https://orcid.org/0000-0002-4850-8351) (**李洪波**) &#9830; <small>School of Physics, Peking University</small> |
