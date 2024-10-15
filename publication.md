@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
+continuous gravitational waveforms from triaxially-deformed precessing neutron
+stars in tight binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
+
 0. Z. Wang, Y. Gao, D. Liang, J.  Zhao, L. Shao, [Vetting quark-star models with
 gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2409.11103), arXiv:2409.11103
