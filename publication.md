@@ -48,10 +48,6 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
-0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
-nontensorial gravitational-wave polarizations from individual supermassive black
-hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680), *Phys. Rev. D* (accepted), arXiv:2404.16680
-
 0. H.-T. Wang, G. Yim, X.  Chen, L. Shao, [Gravitational wave ringdown analysis
 using the $F$-statistic](https://arxiv.org/abs/2409.00970), 
 *Astrophys. J.* (accepted), arXiv:2409.00970
@@ -111,6 +107,10 @@ Rev. D* 109 (2024) 084076
 0. J. Hu, D. Liang, L. Shao, [Probing nontensorial gravitational waves with a
 next-generation ground-based detector
 network](https://arxiv.org/abs/2310.01249), *Phys. Rev. D* 109 (2024) 084023
+
+0. D. Liang, S. Chen, C.  Zhang, L. Shao, [Unveiling the existence of
+nontensorial gravitational-wave polarizations from individual supermassive black
+hole binaries with pulsar timing arrays](https://arxiv.org/abs/2404.16680), *Phys. Rev. D* 110 (2024) 084040
 
 0. Y. Dong, Z. Wang, L. Shao, [New limits on the local Lorentz invariance
 violation of gravity in the Standard-Model Extension with
