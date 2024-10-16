@@ -52,11 +52,6 @@ arXiv:2312.02130
 using the $F$-statistic](https://arxiv.org/abs/2409.00970), 
 *Astrophys. J.* (accepted), arXiv:2409.00970
 
-0. J.-P. Zhu, R.-C. Hu, Y. Kang, B. Zhang, H. Tong, L. Shao, Y. Qin, [Formation
-of GW230529 from Isolated Binary Evolution and Its Electromagnetic
-Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* (accepted),
-arXiv:2404.10596
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
@@ -190,6 +185,10 @@ Double Neutron Star System PSR J1946+2052](http://arxiv.org/abs/2403.17828),
 0. C. Zhang, Y. Luo, H.-B. Li, L. Shao, R. Xu, [Radial and non-radial
 oscillations of inverted hybrid stars](https://arxiv.org/abs/2306.08234), *Phys.
 Rev. D* 109 (2024) 063020
+
+0. J.-P. Zhu, R.-C. Hu, Y. Kang, B. Zhang, H. Tong, L. Shao, Y. Qin, [Formation
+of GW230529 from Isolated Binary Evolution and Its Electromagnetic
+Counterparts](https://arxiv.org/abs/2404.10596), *Astrophys. J.* 974 (2024) 211
 
 0. E. Zhou, Y. Gao, Y. Zhou, X. Lai, L. Shao, W. Wang, S. Xiong, R. Xu, S.  Yi,
 G. Yim, H. Yue, Z. Zhang, [The precursor of GRB211211A: a tide-induced giant
