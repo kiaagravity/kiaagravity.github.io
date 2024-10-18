@@ -321,7 +321,8 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://zhanfengmai.github.io/">Zhanfeng Mai</a> (麦展风)</b></h5>
+          <!-- <h5><b><a href="https://zhanfengmai.github.io/">Zhanfeng Mai</a> (麦展风)</b></h5> -->
+          <h5><b><a href="https://prof.gxu.edu.cn/teacherDetails/e245e8b5-dc01-4e9d-828f-1d4bc00858f4">Zhanfeng Mai</a> (麦展风)</b></h5>
           <p class="teamtitle"><small>广西大学·助理教授</small></p>
           </center>
         </div>
