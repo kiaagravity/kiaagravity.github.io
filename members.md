@@ -307,7 +307,7 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="https://gwlyu.github.io/">Zhenwei Lyu</a> (吕振伟)</b></h5>
+        <h5><b><a href="https://faculty.dlut.edu.cn/lyu/zh_CN/index.htm">Zhenwei Lyu</a> (吕振伟)</b></h5>
         <p class="teamtitle"><small>大连理工大学·助理教授</small></p>
         </center>
       </div>
@@ -348,7 +348,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://whaitian.github.io/">Haitian Wang</a> (王海天)</b></h5>
+          <h5><b><a href="https://faculty.dlut.edu.cn/wanghaitian/zh_CN/index.htm">Haitian Wang</a> (王海天)</b></h5>
           <p class="teamtitle"><small>大连理工大学·副教授</small></p>
           </center>
         </div>
@@ -387,7 +387,7 @@ permalink: /member/
       <div class="teamcontainer"  style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="https://inspirehep.net/authors/1746231">Junjie Zhao</a> (赵俊杰)</b></h5>
+        <h5><b><a href="https://www.hnskxy.com/igwa/info/1033/1020.htm">Junjie Zhao</a> (赵俊杰)</b></h5>
         <p class="teamtitle"><small>河南省科学院·助理研究员</small></p>
         </center>
       </div>
