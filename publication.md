@@ -59,6 +59,10 @@ Facilities*, in press
 
 ##### Other Papers
 
+0. A.G. Abac, *et al.*, [A search using GEO600 for gravitational waves
+coincident with fast radio bursts from SGR
+1935+2154](https://arxiv.org/abs/2410.09151), arXiv:2410.09151
+
 0. K. Akiyama, *et al.*, [Mid-Range Science Objectives for the Event Horizon
 Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
