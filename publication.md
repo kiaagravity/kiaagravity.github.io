@@ -48,10 +48,6 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
-0. H.-T. Wang, G. Yim, X.  Chen, L. Shao, [Gravitational wave ringdown analysis
-using the $F$-statistic](https://arxiv.org/abs/2409.00970), 
-*Astrophys. J.* (accepted), arXiv:2409.00970
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
@@ -118,6 +114,10 @@ pulsars](http://arxiv.org/abs/2311.11038), *Phys. Rev. D* 109 (2024) 084024
 0. Y. Dang, Z. Wang, D. Liang, L. Shao, [Impact of overlapping signals on
 parameterized post-Newtonian coefficients in tests of
 gravity](http://arxiv.org/abs/2311.16184), *Astrophys. J.* 964 (2024) 194
+
+0. H.-T. Wang, G. Yim, X.  Chen, L. Shao, [Gravitational wave ringdown analysis
+using the $F$-statistic](https://arxiv.org/abs/2409.00970),  *Astrophys. J.* 974
+(2024) 230
 
 0. H.-T. Wang, L.  Shao, [Comparison between time-domain and frequency-domain
 Bayesian inferences to inspiral-merger-ringdown gravitational-wave
