@@ -15,7 +15,11 @@ Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 ### Agenda
 
 - Arxiv sharing: Hanlin, Ze, Yiming, Wenfan, Zhuhai
+
+- Hanlin: Detect Intermediate-mass black hole binaries with Lunar Gravitational-wave detectors
+
+  Ref 1: [Intermediate-mass black hole binary parameter estimation with next-generation ground-based detector networks]([https://doi.org/10.1103/PhysRevD.106.035032])
     
 ### Time
 
-19:00 pm -- 20:30 pm
+19:00 pm -- 22:00 pm
