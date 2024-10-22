@@ -18,7 +18,7 @@ Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 
 - Hanlin: Detect Intermediate-mass black hole binaries with Lunar Gravitational-wave detectors
 
-  Ref 1: [Intermediate-mass black hole binary parameter estimation with next-generation ground-based detector networks](https://doi.org/10.1103/PhysRevD.106.035032)
+  Ref 1: [Intermediate-mass black hole binary parameter estimation with next-generation ground-based detector networks](https://arxiv.org/abs/2406.01687)
     
 ### Time
 
