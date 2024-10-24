@@ -55,6 +55,8 @@ Facilities*, in press
 
 ##### Other Papers
 
+0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN 2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
+
 0. A.G. Abac, *et al.*, [A search using GEO600 for gravitational waves
 coincident with fast radio bursts from SGR
 1935+2154](https://arxiv.org/abs/2410.09151), arXiv:2410.09151
