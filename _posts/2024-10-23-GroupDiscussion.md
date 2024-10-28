@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discussion on Research Topics 10/16/2024"
+title:  "Discussion on Research Topics 10/23/2024"
 date:   2024-10-23
 author: Peixiang Ji
 categories: activities
