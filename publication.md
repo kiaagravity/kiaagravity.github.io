@@ -16,9 +16,6 @@ permalink: /publication/
 continuous gravitational waveforms from triaxially-deformed precessing neutron
 stars in tight binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
 
-0. H. Di, L. Shao, Z. Yi, S.-B. Kong, [A novel standard candle: collapsing axion
-stars](https://arxiv.org/abs/2409.05120), arXiv:2409.05120
-
 0. P. Ji, Z. Li, L. Yang,  R. Xu, Z.  Hu, L. Shao, [Neutron stars in the
 bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), arXiv:2409.04805
 
@@ -43,6 +40,9 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. H. Di, L. Shao, Z. Yi, S.-B. Kong, [A novel standard candle: collapsing axion
+stars](https://arxiv.org/abs/2409.05120), *Phys. Rev. D* (accepted), arXiv:2409.05120
 
 0. Z. Wang, Y. Gao, D. Liang, J.  Zhao, L. Shao, [Vetting quark-star models with
 gravitational waves in the hierarchical Bayesian
