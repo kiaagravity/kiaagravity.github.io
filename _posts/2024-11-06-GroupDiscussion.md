@@ -8,17 +8,17 @@ categories: activities
 
 ### Attendees
 
-Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yiming, Ze, Zhuhai, Jiangchuan, Haoran, Lijing
+Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yiming, Ze, Zhuhai, Chenghui, Jiangchuan, Haoran, Lijing
 
 ---
 
 ### Agenda
 
-- Arxiv sharing: 
+- Arxiv sharing: Peixiang, Yacheng, Ze, Yiming, Jiangchuan
 
-- Ziming: 
+- Ziming: Ignorance priors and transformation groups
 
-  Ref 1: []()
+  Ref 1: [Ignorance priors and transformation groups]
     
 ### Time
 
