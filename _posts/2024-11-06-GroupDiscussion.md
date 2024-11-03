@@ -18,7 +18,7 @@ Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 
 - Ziming: Ignorance priors and transformation groups
 
-  Ref 1: [Ignorance priors and transformation groups]
+  Ref 1: Probability theory: the logic of science
     
 ### Time
 
