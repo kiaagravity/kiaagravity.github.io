@@ -172,6 +172,19 @@ permalink: /member/
       </div>
     </div>
   
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Zhao_Chenghui.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="TBA">Chenghui Zhao</a> (赵乘辉)</b></h5>
+          <p class="teamtitle"><small>PhD Student</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
   <!-- <div class="column2">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
@@ -189,7 +202,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(20 ppl.)</small></small>
+## Members <small><small>(21 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -203,6 +216,7 @@ permalink: /member/
 | &#9794;  **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zhuhai Li** | **李竹海** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiqiu Yang** | **杨一秋** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Yibo Yang** | **杨奕博** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
