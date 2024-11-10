@@ -232,12 +232,7 @@ permalink: /member/
 ## Associates <small><small>— regularly seen in group meetings</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
-| &#9794;  **Haoran Di** | **邸浩然** | Lecturer | [SCI-ECUT](https://lxy.ecut.edu.cn/0c/18/c3214a68632/page.htm) |
-| &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
-| &#9794;  **Yukun Liu** | **刘宇堃** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794;  **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Bolin Li** | **李柏霖** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Zhiheng Zheng** | **郑志恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Zhirui Xie** | **谢祉锐** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -245,7 +240,10 @@ permalink: /member/
 <p></p>
 
 <!-- 
-| &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Haoran Di** | **邸浩然** | Lecturer | [SCI-ECUT](https://lxy.ecut.edu.cn/0c/18/c3214a68632/page.htm) |
+| &#9794;  **Yukun Liu** | **刘宇堃** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794;  **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Bolin Li** | **李柏霖** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9792;  **Yuxin Guo** | **郭雨欣** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9792;  **Yan Luo** | **骆彦** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
