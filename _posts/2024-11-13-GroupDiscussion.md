@@ -18,9 +18,9 @@ Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 
 - Ze: Some new recycled pulsars discovered with GBT and FAST in NGC6517
 
-  Ref 1: Six New Recycled Globular Cluster Pulsars Discovered with the Green Bank Telescope
+  Ref 1: [Six New Recycled Globular Cluster Pulsars Discovered with the Green Bank Telescope](https://iopscience.iop.org/article/10.1088/0004-637X/734/2/89)
   
-  Ref 2: FAST Discovery of Eight Isolated Millisecond Pulsars in NGC 6517
+  Ref 2: [FAST Discovery of Eight Isolated Millisecond Pulsars in NGC 6517](https://iopscience.iop.org/article/10.3847/2041-8213/ad534e)
     
 ### Time
 
