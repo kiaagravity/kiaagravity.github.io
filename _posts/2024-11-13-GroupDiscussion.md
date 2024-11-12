@@ -16,9 +16,11 @@ Xueli, Zhanfeng, Wenfan, Hongbo, Hanlin, Peixiang, Yacheng, Zexin, Ziming, Yimin
 
 - Arxiv sharing: Hongbo, Zhuhai, Wenfan, Yacheng, Jiangchuan
 
-- Peixiang: Fluid Perturbation
+- Ze: Some new recycled pulsars discovered with GBT and FAST in NGC6517
 
-  Ref 1: 
+  Ref 1: Six New Recycled Globular Cluster Pulsars Discovered with the Green Bank Telescope
+  
+  Ref 2: FAST Discovery of Eight Isolated Millisecond Pulsars in NGC 6517
     
 ### Time
 
