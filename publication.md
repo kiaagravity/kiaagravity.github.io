@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
+thermal mountains on accreting neutron stars: effect of the nuclear pasta
+phase](https://arxiv.org/abs/2411.11075), arXiv:2411.11075
+
 0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
 continuous gravitational waveforms from triaxially-deformed precessing neutron
 stars in tight binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
