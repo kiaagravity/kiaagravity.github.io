@@ -152,7 +152,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="TBA">Ze Zhang</a> (张泽)</b></h5>
+          <h5><b><a href="https://orcid.org/0009-0007-1438-8113">Ze Zhang</a> (张泽)</b></h5>
           <p class="teamtitle"><small>PhD Student</small></p>
           </center>
         </div>
@@ -165,7 +165,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="TBA">Zhuhai Li</a> (李竹海)</b></h5>
+          <h5><b><a href="https://orcid.org/0009-0004-7187-0115">Zhuhai Li</a> (李竹海)</b></h5>
           <p class="teamtitle"><small>PhD Student</small></p>
           </center>
         </div>
@@ -178,7 +178,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="TBA">Chenghui Zhao</a> (赵乘辉)</b></h5>
+          <h5><b><a href="https://orcid.org/">Chenghui Zhao</a> (赵乘辉)</b></h5>
           <p class="teamtitle"><small>PhD Student</small></p>
           </center>
         </div>
