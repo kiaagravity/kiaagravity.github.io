@@ -93,6 +93,7 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
+0. **J. Luo (罗荐元)**, D. Liang, L. Shao, [](TBA), in prep.
 
 0. **C. Zhao (赵乘辉)**, H.-B. Li, L. Shao, [白矮星的震荡模式和物态研究](TBA), 《天文学进展》, in prep.
 

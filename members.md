@@ -217,7 +217,7 @@ permalink: /member/
 | &#9794;  **Zhuhai Li** | **李竹海** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Yiqiu Yang** | **杨一秋** | Bachelor Thesis | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794;  **Yiqiu Yang** | **杨一秋** | Bachelor Dissertation | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Yibo Yang** | **杨奕博** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |

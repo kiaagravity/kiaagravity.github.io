@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
+signal of GW150914 using the $F$-statistic
+method](http://www.arxiv.org/abs/2411.13333), arXiv:2411.13333
+
 0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
 thermal mountains on accreting neutron stars: effect of the nuclear pasta
 phase](https://arxiv.org/abs/2411.11075), arXiv:2411.11075
