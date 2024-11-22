@@ -49,9 +49,6 @@ Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (acc
 0. P. Ji, Z. Li, L. Yang,  R. Xu, Z.  Hu, L. Shao, [Neutron stars in the
 bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys. Rev. D* (accepted), arXiv:2409.04805
 
-0. H. Di, L. Shao, Z. Yi, S.-B. Kong, [A novel standard candle: collapsing axion
-stars](https://arxiv.org/abs/2409.05120), *Phys. Rev. D* (accepted), arXiv:2409.05120
-
 0. Z. Wang, Y. Gao, D. Liang, J.  Zhao, L. Shao, [Vetting quark-star models with
 gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2409.11103), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2409.11103
@@ -181,6 +178,9 @@ Karuppusamy, L. Levin, K. Liu, A.G. Lyne, L. Shao, B. Stappers, J. Pétri, [A
 freely precessing magnetar following an X-ray
 outburst](https://doi.org/10.1038/s41550-024-02226-7), *Nat. Astron.* 8 (2024)
 617
+
+0. H. Di, L. Shao, Z. Yi, S.-B. Kong, [A novel standard candle: collapsing axion
+stars](https://arxiv.org/abs/2409.05120), *Phys. Rev. D* 110 (2024) 103031
 
 0. C. Smarra, A. Kuntz, E. Barausse, B. Goncharov, D.L. Nacir, D. Blas, L.
 Shao, J. Antoniadis, D.J. Champion, I. Cognard, L. Guillemot, H. Hu, M. Keith,
