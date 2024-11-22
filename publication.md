@@ -60,6 +60,10 @@ Facilities*, in press
 
 ##### Other Papers
 
+0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
+1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.*
+(accepted)
+
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
 
@@ -77,7 +81,7 @@ arXiv:2410.09151
 
 0. J.C. Algaba, *et al.*, [Broadband Multi-wavelength Properties of M87 during
 the 2018 EHT Campaign including a Very High Energy Flaring
-Episode](https://arxiv.org/abs/2404.17623), Astron. & Astrophys. (accepted),
+Episode](https://arxiv.org/abs/2404.17623), *Astron. & Astrophys.* (accepted),
 arXiv:2404.17623
 
 0. R. Abbott, *et al.*, [Tests of general relativity with
