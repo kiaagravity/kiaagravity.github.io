@@ -46,23 +46,12 @@ arXiv:2312.02130
 0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
 Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted), arXiv:2408.00245
 
-0. P. Ji, Z. Li, L. Yang,  R. Xu, Z.  Hu, L. Shao, [Neutron stars in the
-bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys. Rev. D* (accepted), arXiv:2409.04805
-
-0. Z. Wang, Y. Gao, D. Liang, J.  Zhao, L. Shao, [Vetting quark-star models with
-gravitational waves in the hierarchical Bayesian
-framework](https://arxiv.org/abs/2409.11103), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2409.11103
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
 {: reversed="reversed"}
 
 ##### Other Papers
-
-0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
-1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.*
-(accepted)
 
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
@@ -79,6 +68,10 @@ coincident with fast radio bursts from SGR
 1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* (accepted),
 arXiv:2410.09151
 
+0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
+1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.*
+(accepted)
+
 0. J.C. Algaba, *et al.*, [Broadband Multi-wavelength Properties of M87 during
 the 2018 EHT Campaign including a Very High Energy Flaring
 Episode](https://arxiv.org/abs/2404.17623), *Astron. & Astrophys.* (accepted),
@@ -94,6 +87,13 @@ arXiv:2112.06861
 ### 2024
 
 ##### Short-author-list Papers
+
+0. Z. Wang, Y. Gao, D. Liang, J.  Zhao, L. Shao, [Vetting quark-star models with
+gravitational waves in the hierarchical Bayesian
+framework](https://arxiv.org/abs/2409.11103), *J. Cosmol. Astropart. Phys.* 11 (2024) 038
+
+0. P. Ji, Z. Li, L. Yang,  R. Xu, Z.  Hu, L. Shao, [Neutron stars in the
+bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys. Rev. D* 110 (2024) 104057
 
 0. Y. Yang, Z.-F. Mai,  R.-Q. Yang, L. Shao, E. Berti, [Spectral
 instability of black holes: relating the frequency domain to the time
