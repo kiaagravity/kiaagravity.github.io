@@ -232,7 +232,6 @@ permalink: /member/
 ## Associates <small><small>— regularly seen in group meetings</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
-| &#9794;  **Zu Yan** | **宴祖** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
 | &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
