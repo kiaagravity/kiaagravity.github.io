@@ -60,7 +60,7 @@ Facilities*, in press
 Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
 0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
-in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867),
+in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted),
 arXiv:2407.12867
 
 0. A.G. Abac, *et al.*, [A search using GEO600 for gravitational waves
@@ -69,8 +69,7 @@ coincident with fast radio bursts from SGR
 arXiv:2410.09151
 
 0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
-1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.*
-(accepted)
+1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* (accepted)
 
 0. J.C. Algaba, *et al.*, [Broadband Multi-wavelength Properties of M87 during
 the 2018 EHT Campaign including a Very High Energy Flaring
