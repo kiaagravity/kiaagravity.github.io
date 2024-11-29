@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Group Meeting 12/01/2024"
-date:   2024-11-24
+date:   2024-12-01
 author: Hanlin Song
 categories: activities
 ---
