@@ -10,7 +10,7 @@ permalink: /publication/
 
 ### 2025
 
-##### Short-author-list Papers
+##### Regular Papers
 
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
@@ -55,7 +55,7 @@ stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
 {: reversed="reversed"}
 
-##### Other Papers
+##### Collaboration Papers
 
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
@@ -89,7 +89,7 @@ arXiv:2112.06861
 
 ### 2024
 
-##### Short-author-list Papers
+##### Regular Papers
 
 0. Z. Wang, Y. Gao, D. Liang, J.  Zhao, L. Shao, [Vetting quark-star models with
 gravitational waves in the hierarchical Bayesian
@@ -238,7 +238,7 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 0. 高勇, G. Desvignes, 邵立晶, [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), 《科学通报》 69 (2024) 367
 {: reversed="reversed"}
 
-##### Other Papers
+##### Collaboration Papers
 
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
@@ -296,7 +296,7 @@ black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.*
 
 ### 2023
 
-##### Short-author-list Papers
+##### Regular Papers
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), *Lect. Notes Phys.* 1017 (2023) 385,
@@ -424,7 +424,7 @@ Scientific, Singapore, 2023), p. 250
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428), *《中国科学：物理学 力学 天文学》* 53 (2023) 100014
 {: reversed="reversed"}
 
-##### Other Papers
+##### Collaboration Papers
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
@@ -519,7 +519,7 @@ observing run](https://doi.org/10.22323/1.444.1564), *PoS* (ICRC2023) 1564
 
 ### 2022
 
-##### Short-author-list Papers
+##### Regular Papers
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
@@ -619,7 +619,7 @@ Singapore, 2022), p. 1866
 0. 梁迪聪, 邵立晶 [摘译], [Rainer Weiss: 引力波探测的50年](http://www.wuli.ac.cn/cn/article/id/5d047897-319b-4a29-96e7-9d0c74dfb340), *《物理》* 51 (2022) 853
 {: reversed="reversed"}
 
-##### Other Papers
+##### Collaboration Papers
 
 0. A.E. Broderick, *et al.*, [The photon ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
 
@@ -739,7 +739,7 @@ the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 
 ### 2021
 
-##### Short-author-list Papers
+##### Regular Papers
 
 0. L. Shao, [General relativity withstands double pulsar's
 scrutiny](https://physics.aps.org/articles/v14/173), *Physics* 14 (2021) 173
@@ -821,7 +821,7 @@ stars](https://arxiv.org/abs/2011.04472), *Astron. Nachr.* 342 (2021) 364
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008), *《天文学报》* 62 (2021) 54
 {: reversed="reversed"}
 
-##### Other Papers
+##### Collaboration Papers
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* 
@@ -954,7 +954,7 @@ Letter of Interest for Snowmass2021
 
 ### 2020
 
-##### Short-author-list Papers
+##### Regular Papers
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog
@@ -1017,7 +1017,7 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), *《科学通报》* 65 (2020) 4013
 {: reversed="reversed"}
 
-##### Other Papers
+##### Collaboration Papers
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
@@ -1060,7 +1060,7 @@ LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
 
 ### 2019
 
-##### Short-author-list Papers
+##### Regular Papers
 
 0. L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence
 principle in the standard-model extension with binary
@@ -1102,7 +1102,7 @@ in a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.*
 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), *《物理》* 48 (2019) 567
 {: reversed="reversed"}
 
-##### Other Papers
+##### Collaboration Papers
 
 0. J. Liu, *et al.*, [A wide star−black-hole binary system from
 radial-velocity measurements](https://arxiv.org/abs/1911.11989), *Nature*
