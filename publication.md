@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Short-author-list Papers
 
+0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
+stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
+arXiv:2411.18647
+
 0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
 signal of GW150914 using the $F$-statistic
 method](http://www.arxiv.org/abs/2411.13333), arXiv:2411.13333
