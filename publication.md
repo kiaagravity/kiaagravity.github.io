@@ -47,9 +47,6 @@ Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
 
-0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
-Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* (accepted), arXiv:2408.00245
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
 Facilities*, in press
@@ -90,6 +87,9 @@ arXiv:2112.06861
 ### 2024
 
 ##### Regular Papers
+
+0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
+Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* 133 (2024) 231402
 
 0. Z. Wang, Y. Gao, D. Liang, J.  Zhao, L. Shao, [Vetting quark-star models with
 gravitational waves in the hierarchical Bayesian
