@@ -72,11 +72,6 @@ arXiv:2410.09151
 0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
 1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* (accepted)
 
-0. J.C. Algaba, *et al.*, [Broadband Multi-wavelength Properties of M87 during
-the 2018 EHT Campaign including a Very High Energy Flaring
-Episode](https://arxiv.org/abs/2404.17623), *Astron. & Astrophys.* (accepted),
-arXiv:2404.17623
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -279,6 +274,10 @@ analysis](https://doi.org/10.1051/0004-6361/202347932), *Astron. & Astrophys.* 6
 
 0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission
 from GW230529 using Swift-BAT and Fermi-GBM](https://arxiv.org/abs/2405.10752), *Astrophys. J. Lett.* 970 (2024) L20
+
+0. J.C. Algaba, *et al.*, [Broadband Multi-wavelength Properties of M87 during
+the 2018 EHT Campaign including a Very High Energy Flaring
+Episode](https://arxiv.org/abs/2404.17623), *Astron. & Astrophys.* 692 (2024) A140
 
 0. A.W. Raymond, *et al.*, [First Very Long Baseline Interferometry Detections
 at 870 $\mu$m](https://doi.org/10.3847/1538-3881/ad5bdb), *Astron. J.* 168
