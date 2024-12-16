@@ -54,6 +54,9 @@ Facilities*, in press
 
 ##### Collaboration Papers
 
+0. A.S. Abdalla, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
+Summary of the Second Workshop](TBA), arXiv:TBA
+
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
 
