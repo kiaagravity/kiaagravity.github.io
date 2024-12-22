@@ -73,9 +73,6 @@ coincident with fast radio bursts from SGR
 1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* (accepted),
 arXiv:2410.09151
 
-0. A.-K. Baczko, *et al.* (EHT Collaboration), [The putative center in NGC
-1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* (accepted)
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -286,6 +283,10 @@ Episode](https://arxiv.org/abs/2404.17623), *Astron. & Astrophys.* 692 (2024) A1
 0. A.W. Raymond, *et al.*, [First Very Long Baseline Interferometry Detections
 at 870 $\mu$m](https://doi.org/10.3847/1538-3881/ad5bdb), *Astron. J.* 168
 (2024) 130
+
+0. A.-K. Baczko, *et al.*, [The putative center in NGC
+1052](https://doi.org/10.1051/0004-6361/202450898 ), *Astron. & Astrophys.* 692
+(2024) A205
 
 0. C. Fletcher, *et al.*, [A Joint Fermi-GBM and Swift-BAT Analysis of
 Gravitational-Wave Candidates from the Third Gravitational-wave Observing
