@@ -68,11 +68,6 @@ Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted),
 arXiv:2407.12867
 
-0. A.G. Abac, *et al.*, [A search using GEO600 for gravitational waves
-coincident with fast radio bursts from SGR
-1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* (accepted),
-arXiv:2410.09151
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -239,6 +234,10 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
 024701
+
+0. A.G. Abac, *et al.*, [A search using GEO600 for gravitational waves
+coincident with fast radio bursts from SGR
+1935+2154](https://arxiv.org/abs/2410.09151), *Astrophys. J.* 977 (2024) 255
 
 0. A.G. Abac, *et al.*, [Search for eccentric black hole coalescences during the
 third Observing Run of LIGO and Virgo](https://arxiv.org/abs/2308.03822), *Astrophys. J.* 973 (2024) 132
