@@ -61,9 +61,6 @@ arXiv:2412.14960
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
 
-0. K. Akiyama, *et al.*, [Mid-Range Science Objectives for the Event Horizon
-Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
-
 0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
 in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted),
 arXiv:2407.12867
@@ -1172,6 +1169,9 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 ---
 
 ### Unpublished
+
+0. K. Akiyama, *et al.*, [Mid-Range Science Objectives for the Event Horizon
+Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
 
 0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
