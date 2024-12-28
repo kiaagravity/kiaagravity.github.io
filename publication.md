@@ -140,7 +140,7 @@ signals](https://arxiv.org/abs/2304.06734), *Class. Quantum Grav.* 41 (2024) 055
 merger-ringdown signals in GWTC-3 and prospects for the Einstein
 Telescope](https://arxiv.org/abs/2310.10447), *Phys. Rev. D* 109 (2024) 024058
 
-0. G. Yim, L. Shao, R.-X. Xu, [High priority targets for transient gravitational
+0. G. Yim, L. Shao, R.-X. Xu, [High-priority targets for transient gravitational
 waves from glitching pulsars](https://arxiv.org/abs/2406.00283), *Mon. Not. R.
 Astron. Soc.* 532 (2024) 3893
 
@@ -209,7 +209,7 @@ quake?](https://arxiv.org/abs/2305.10682), *Res. Astron. Astrophys.* 24 (2024) 0
 stochastic gravitational wave background using the future lunar
 seismometers](https://arxiv.org/abs/2405.12640), *Phys. Rev. D* 110 (2024) 043009
 
-0. H. Yan, X. Chen, J. Zhang, F. Zhang, M. Wang,  L.  Shao, [Towards a
+0. H. Yan, X. Chen, J. Zhang, F. Zhang, M. Wang,  L.  Shao, [Toward a
 Consistent Calculation of the Lunar Response to Gravitational
 Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
