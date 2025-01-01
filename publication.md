@@ -12,6 +12,11 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. L. Shao, [Testing relativistic gravity with radio timing of neutron
+stars](https://doi.org/10.1142/9789819800643_0019), in
+*Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
+Scientific Publishing, 2025), p. 375
+
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
@@ -46,10 +51,6 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
-
-0. L. Shao, [Testing relativistic gravity with radio timing of neutron
-stars](TBA), in *Pulsar Astronomy: Unveiling Compact Stars with China's New
-Facilities*, in press
 {: reversed="reversed"}
 
 ##### Collaboration Papers
