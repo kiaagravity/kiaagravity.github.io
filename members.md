@@ -233,6 +233,7 @@ permalink: /member/
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
+| &#9794;  **Lirui Yang** | **杨力睿** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 | &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
@@ -249,7 +250,6 @@ permalink: /member/
 | &#9794;  **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
 | &#9792; **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9792;  **Jianyuan Luo** | **罗荐元** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Rong Du** | **杜嵘** | Undergraduate | [DoA-PKU](http://astro.pku.edu.cn/) |
  -->
 
 ---
