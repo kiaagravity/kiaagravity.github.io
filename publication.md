@@ -12,11 +12,6 @@ permalink: /publication/
 
 ##### Regular Papers
 
-0. L. Shao, [Testing relativistic gravity with radio timing of neutron
-stars](https://doi.org/10.1142/9789819800643_0019), in
-*Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
-Scientific Publishing, 2025), p. 375
-
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
@@ -28,10 +23,6 @@ method](http://www.arxiv.org/abs/2411.13333), arXiv:2411.13333
 0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
 thermal mountains on accreting neutron stars: effect of the nuclear pasta
 phase](https://arxiv.org/abs/2411.11075), arXiv:2411.11075
-
-0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
-continuous gravitational waveforms from triaxially-deformed precessing neutron
-stars in tight binaries](https://arxiv.org/abs/2410.09540), arXiv:2410.09540
 
 0. Z. Lyu, L. Shao, [Measuring Mass Transfer Rates in Coalescing Neutron
 Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
@@ -51,6 +42,15 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. L. Shao, [Testing relativistic gravity with radio timing of neutron
+stars](https://doi.org/10.1142/9789819800643_0019), in
+*Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
+Scientific Publishing, 2025), p. 375
+
+0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
+continuous gravitational waveforms from triaxially-deformed precessing neutron
+stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* (accepted), arXiv:2410.09540
 {: reversed="reversed"}
 
 ##### Collaboration Papers
