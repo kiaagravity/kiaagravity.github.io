@@ -55,6 +55,10 @@ arXiv:2312.02130
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Search for continuous gravitational waves from known
+pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2501.01495), arXiv:2501.01495
+
 0. A.S. Abdalla, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Summary of the Second Workshop](https://arxiv.org/abs/2412.14960),
 arXiv:2412.14960
