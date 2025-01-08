@@ -226,6 +226,7 @@ permalink: /member/
 | &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
@@ -234,7 +235,6 @@ permalink: /member/
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
 | &#9794;  **Lirui Yang** | **杨力睿** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
-| &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
