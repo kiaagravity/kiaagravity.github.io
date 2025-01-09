@@ -202,7 +202,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(21 ppl.)</small></small>
+## Members <small><small>(22 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
