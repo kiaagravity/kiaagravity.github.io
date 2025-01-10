@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
+gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218),
+arXiv:2501.05218
+
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
