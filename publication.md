@@ -70,6 +70,10 @@ arXiv:2412.14960
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
 
+0. J. Röder, *et al.*, [A multi-frequency study of sub-parsec jets with the
+Event Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. &
+Astrophys.* (accepted), arXiv:2501.05518
+
 0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
 in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted),
 arXiv:2407.12867
