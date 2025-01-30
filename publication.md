@@ -47,14 +47,14 @@ arXiv:2312.02130
 thermal mountains on accreting neutron stars: effect of the nuclear pasta
 phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* (accepted), arXiv:2411.11075
 
-0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
-continuous gravitational waveforms from triaxially-deformed precessing neutron
-stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* (accepted), arXiv:2410.09540
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
 Scientific Publishing, 2025), p. 375
+
+0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
+continuous gravitational waveforms from triaxially-deformed precessing neutron
+stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (2025) 023053
 {: reversed="reversed"}
 
 ##### Collaboration Papers
