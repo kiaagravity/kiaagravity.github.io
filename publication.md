@@ -284,7 +284,7 @@ Ring](https://iopscience.iop.org/article/10.3847/2041-8213/ad2df0), *Astrophys.
 J. Lett.* 964 (2024) L25
 
 0. K. Akiyama, *et al.*, [The persistent shadow of the supermassive black hole
-of M 87. I. Observations, calibration, imaging, and
+of M87. I. Observations, calibration, imaging, and
 analysis](https://doi.org/10.1051/0004-6361/202347932), *Astron. & Astrophys.* 681 (2024) A79
 
 0. S. Ronchini, *et al.*, [Constraining possible $\gamma$-ray burst emission
