@@ -81,6 +81,11 @@ arXiv:2407.12867
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
+
+0. K. Akiyama, *et al.*, [The persistent shadow of the supermassive black hole
+of M 87. I. Model comparisons and theoretical
+interpretations](https://doi.org/10.1051/0004-6361/202451296), *Astron. &
+Astrophys.* 693 (2025) A265
 {: reversed="reversed"}
 
 ---
