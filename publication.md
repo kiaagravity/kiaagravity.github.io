@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
+for gravitational-wave ringdown analysis with multiple
+modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
+
 0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
 gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218),
 arXiv:2501.05218
