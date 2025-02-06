@@ -67,10 +67,6 @@ stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (
 
 ##### Collaboration Papers
 
-0. A.G. Abac, *et al.*, [Search for continuous gravitational waves from known
-pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing
-run](https://arxiv.org/abs/2501.01495), arXiv:2501.01495
-
 0. A.S. Abdalla, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Summary of the Second Workshop](https://arxiv.org/abs/2412.14960),
 arXiv:2412.14960
@@ -78,13 +74,17 @@ arXiv:2412.14960
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
 
+0. A.G. Abac, *et al.*, [Search for continuous gravitational waves from known
+pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2501.01495), *Astrophys. J.* (accepted),
+arXiv:2501.01495
+
 0. J. Röder, *et al.*, [A multi-frequency study of sub-parsec jets with the
 Event Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. &
 Astrophys.* (accepted), arXiv:2501.05518
 
 0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
-in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted),
-arXiv:2407.12867
+in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.* (accepted), arXiv:2407.12867
 
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
