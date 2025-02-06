@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
+intermediate-mass black hole binaries with the Lunar Gravitational-wave
+Antenna](http://arxiv.org/abs/2502.02995), arXiv:2502.02995
+
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
