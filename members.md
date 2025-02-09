@@ -71,7 +71,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0009-0000-2543-8568">Hanlin Song</a> (宋翰林)</b></h5>
-          <p class="teamtitle"><small>Joint PhD Student</small></p>
+          <p class="teamtitle"><small>Visiting PhD Student</small></p>
           </center>
         </div>
       </div>
@@ -208,7 +208,7 @@ permalink: /member/
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Hongbo Li** | **李洪波** | Visiting KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9794;  **Hanlin Song** | **宋翰林** | Joint PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| &#9794;  **Hanlin Song** | **宋翰林** | Visiting PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student <small>(visiting Rome)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student <small>(visiting Tübingen)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -401,7 +401,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="https://www.hnskxy.com/igwa/info/1033/1020.htm">Junjie Zhao</a> (赵俊杰)</b></h5>
-        <p class="teamtitle"><small>河南省科学院·助理研究员</small></p>
+        <p class="teamtitle"><small>河南省科学院·副研究员</small></p>
         </center>
       </div>
     </div>
