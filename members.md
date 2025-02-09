@@ -420,7 +420,7 @@ permalink: /member/
 &nbsp;
 <span style="background-color:#2F4F4F"><font color="white"><b>Postdoctoral Report</b></font></span>
 &nbsp;
-<span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar >6月</b></font></span>
+<span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar >6个月</b></font></span>
 </small>
 
 ## Former Members <small><small>(52 ppl.)</small></small>
