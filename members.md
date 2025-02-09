@@ -423,7 +423,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar >6月</b></font></span>
 </small>
 
-## Former Members <small><small>(51 ppl.)</small></small>
+## Former Members <small><small>(52 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -489,6 +489,8 @@ permalink: /member/
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Ultralight Dark Matters with Pulsar Timing* (2022) |
 | &#9830; **Qiu, Lingqian** (**邱令倩**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Research on Suitable Neural Network Models for Gravitational Wave Detection* (PKU'21) |
+| &#9830; [**Song, Hanlin**](https://orcid.org/0009-0000-2543-8568) (**宋翰林**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *Stochastic Gravitational Waves and Lunar-based Detections* (2025) |
 | &#9830; [**Sun, Zhongpeng**](https://chemistry.harvard.edu/people/zhongpeng-sun) (**孙忠鹏**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraining Dark Matter Properties with Neutron Stars* (PKU'19) |
 | &#9830; **Tao, Yu** (**陶昱**) &#9830; <small>School of Physics, Peking University</small> |
