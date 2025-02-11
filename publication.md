@@ -49,7 +49,7 @@ arXiv:2312.02130
 
 0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
-Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (accepted),
+Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (submitted),
 arXiv:2502.02995
 
 0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
