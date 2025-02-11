@@ -12,10 +12,6 @@ permalink: /publication/
 
 ##### Regular Papers
 
-0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
-intermediate-mass black hole binaries with the Lunar Gravitational-wave
-Antenna](http://arxiv.org/abs/2502.02995), arXiv:2502.02995
-
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
@@ -50,6 +46,11 @@ Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
 Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 arXiv:2312.02130
+
+0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
+intermediate-mass black hole binaries with the Lunar Gravitational-wave
+Antenna](http://arxiv.org/abs/2502.02995), *npj Space Exploration* (accepted),
+arXiv:2502.02995
 
 0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
 thermal mountains on accreting neutron stars: effect of the nuclear pasta
