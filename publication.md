@@ -52,14 +52,14 @@ intermediate-mass black hole binaries with the Lunar Gravitational-wave
 Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (submitted),
 arXiv:2502.02995
 
-0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
-thermal mountains on accreting neutron stars: effect of the nuclear pasta
-phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* (accepted), arXiv:2411.11075
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
 Scientific Publishing, 2025), p. 375
+
+0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
+thermal mountains on accreting neutron stars: effect of the nuclear pasta
+phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* 980 (2025) 144
 
 0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
 continuous gravitational waveforms from triaxially-deformed precessing neutron
