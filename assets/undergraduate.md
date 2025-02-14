@@ -71,7 +71,7 @@ layout: page
   - 如果做得**太**不用心（特别是科研态度有问题），导师**有权**审核不通过，或不同意参与答辩
   - 本科生科研的成绩会由第三方评委会评审决定，与导师无关，哇哈哈哈哈哈哈哈哈
 
-0. 记住：你是在<font color="blue">**为自己的科研前景**</font>做本研，不是为导师！
+0. 记住：你是在<font color="blue"><b>为自己的科研前景</b></font>做本研，不是为导师！
 
 >> <font color="red"><b>Welcome to research! Let's make (astro)physics better & ENJOY!</b></font>
 
