@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ## Group Meeting
 
-**Chair**: Hanlin Song (宋翰林)
+**Chair**: Ziming Wang (王子铭)
 
 Group meeting provides a friendly environment to interact with group members or
 visiting scholars.  It also brings the opportunity to broaden views in science,
@@ -32,9 +32,9 @@ to learn different methods in solving problems, to strengthen the capability in
 scientifically sound presentations, even to develop close collaborations via
 inspiring discussions. 
 
-- Our group meetings take place in the <b>First Meeting Room</b> at PKU-KIAA. To
-avoid conflicts with students' classes, the time is fixed to <b>Sundays
-9:00—11:30</b>.
+- Our group meetings take place in the <b>Meeting Room in Auditorium</b> at
+PKU-KIAA. To avoid conflicts with students' classes, the time is fixed to
+<b>Sundays 9:00—11:30</b>.
 
 - In each group meeting, one or two science talks will be presented. It is
 suggested to speak English whenever there are foreigners in the audience.
@@ -48,9 +48,9 @@ Otherwise it is suggested to talk in Chinese, but use English in slides.
 
 **Chair**: Peixiang Ji (姬佩祥)
 
-- We have weekly discussion on research topics every **Wednesdays 19:00—20:30** in
-the **Meeting Room in Auditorium**. The attendees are limited to
-graduates/postdocs who work on research projects in the group.
+- We have weekly discussion on research topics every **Tuesdays 19:00—20:30** in
+**K208**. The attendees are limited to graduates/postdocs who work on research
+projects in the group.
 
 - Group discussion composes of a roundtable and arXiv readings. Occasionally, we
 will have one science talk. Speakers are encouraged to use blackboard only!
