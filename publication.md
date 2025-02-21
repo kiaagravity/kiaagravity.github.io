@@ -24,10 +24,6 @@ arXiv:2501.05218
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
 
-0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
-signal of GW150914 using the $F$-statistic
-method](http://www.arxiv.org/abs/2411.13333), arXiv:2411.13333
-
 0. Z. Lyu, L. Shao, [Measuring Mass Transfer Rates in Coalescing Neutron
 Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
 Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
@@ -51,6 +47,10 @@ arXiv:2312.02130
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
 Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (submitted),
 arXiv:2502.02995
+
+0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
+signal of GW150914 using the $F$-statistic
+method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* (accepted), arXiv:2411.13333
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
