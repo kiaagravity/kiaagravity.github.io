@@ -9,7 +9,7 @@ categories: activities
 ## Two talks:
 
 
-#### Yibo Yang: Pobing Dark Matter Using Pulsars near SMBHs
+#### Yibo Yang: Probing Dark Matter Using Pulsars near SMBHs
 Ref. 1: [Prospects for probing small-scale dark matter models with pulsars around Sagittarius A*](https://doi.org/10.48550/arXiv.2312.01889)
 
 Ref. 2: [Circularization versus eccentrification in intermediate mass ratio inspirals inside dark matter spikes](https://doi.org/10.1103/PhysRevD.105.063029)
