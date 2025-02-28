@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
+TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
+
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
