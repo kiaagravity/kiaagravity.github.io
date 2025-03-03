@@ -14,7 +14,7 @@ Wenfan, Hongbo, Peixiang, Yacheng, Zexin, Lirui, Ziming, Yiming, Ze, Zhuhai, Che
 
 ### Agenda
 
-- Arxiv sharing: Yacheng, Zexin, Peixiang, Chenghui, Zhuhai
+- Arxiv sharing: Zexin, Peixiang, Chenghui, Zhuhai, Ziming
 
 ### Time
 
