@@ -43,8 +43,7 @@ Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
 Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, L. Shao, A.
 Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
 Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
-Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
-arXiv:2312.02130
+Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130), *Living Rev. Relativ.* (accepted), arXiv:2312.02130
 
 0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
