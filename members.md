@@ -202,11 +202,12 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(21 ppl.)</small></small>
+## Members <small><small>(22 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| &#9792;  **Han Wang** | **王晗** | Incoming KIAA Postdoc |  [TianQin](https://tianqin.sysu.edu.cn/) |
 | &#9794;  **Hongbo Li** | **李洪波** | Visiting KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student <small>(visiting Rome)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student <small>(visiting Tübingen)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
