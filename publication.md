@@ -54,10 +54,6 @@ intermediate-mass black hole binaries with the Lunar Gravitational-wave
 Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (submitted),
 arXiv:2502.02995
 
-0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
-signal of GW150914 using the $F$-statistic
-method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* (accepted), arXiv:2411.13333
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
@@ -70,6 +66,10 @@ phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* 980 (2025) 144
 0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
 continuous gravitational waveforms from triaxially-deformed precessing neutron
 stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (2025) 023053
+
+0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
+signal of GW150914 using the $F$-statistic
+method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
 {: reversed="reversed"}
 
 ##### Collaboration Papers
