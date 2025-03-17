@@ -239,6 +239,7 @@ permalink: /member/
 | &#9792;  **Ruijing Tang** | **唐睿婧** | Undergraduate |  [BJTU](https://www.bjtu.edu.cn/) |
 | &#9794;  **Yukai Fang** | **方煜凯** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Yifan Liu** | **刘一凡** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794;  **Yanhao Jin** | **金延昊** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
