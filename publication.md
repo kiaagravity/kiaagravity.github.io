@@ -74,6 +74,9 @@ method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
 
 ##### Collaboration Papers
 
+0. A. Abac, *et al.*, [The Science of the Einstein
+Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
+
 0. A.S. Abdalla, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Summary of the Second Workshop](https://arxiv.org/abs/2412.14960),
 arXiv:2412.14960
