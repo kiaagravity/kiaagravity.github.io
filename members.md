@@ -52,6 +52,19 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://humphreywang.github.io/">Han Wang</a> (王晗)</b></h5>
+          <p class="teamtitle"><small>Incoming Joint KIAA Postdoc</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+  <div class="column2">
+      <div class="card">
         <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
@@ -62,21 +75,6 @@ permalink: /member/
         </div>
       </div>
     </div>
-
-
-  <div class="column2">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Song_Hanlin.png" alt="" style="width:100%; height:210px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://orcid.org/0009-0000-2543-8568">Hanlin Song</a> (宋翰林)</b></h5>
-          <p class="teamtitle"><small>Visiting PhD Student</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-
 
   <div class="column2">
       <div class="card">
@@ -233,7 +231,7 @@ permalink: /member/
 ## Associates <small><small>— regularly seen in group meetings</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
-| &#9794;  **Hanlin Song** | **宋翰林** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
+| &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
 | &#9794;  **Lirui Yang** | **杨力睿** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 | &#9792;  **Ruijing Tang** | **唐睿婧** | Undergraduate |  [BJTU](https://www.bjtu.edu.cn/) |
