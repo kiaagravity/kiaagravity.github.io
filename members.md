@@ -52,12 +52,12 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://humphreywang.github.io/">Han Wang</a> (王晗)</b></h5>
-          <p class="teamtitle"><small>Incoming Joint KIAA Postdoc</small></p>
+          <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Dr. Hongbo Li</a> (李洪波)</b></h5>
+          <p class="teamtitle"><small>Visiting KIAA Postdoc</small></p>
           </center>
         </div>
       </div>
@@ -65,12 +65,12 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Dr. Hongbo Li</a> (李洪波)</b></h5>
-          <p class="teamtitle"><small>Visiting KIAA Postdoc</small></p>
+          <h5><b><a href="https://humphreywang.github.io/">Han Wang</a> (王晗)</b></h5>
+          <p class="teamtitle"><small>Incoming Joint KIAA Postdoc</small></p>
           </center>
         </div>
       </div>
@@ -205,8 +205,8 @@ permalink: /member/
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9792;  **Han Wang** | **王晗** | Incoming Joint KIAA Postdoc |  [TianQin](https://tianqin.sysu.edu.cn/) |
 | &#9794;  **Hongbo Li** | **李洪波** | Visiting KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| &#9792;  **Han Wang** | **王晗** | Incoming Joint KIAA Postdoc |  [TianQin](https://tianqin.sysu.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student <small>(visiting Rome)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student <small>(visiting Tübingen)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
