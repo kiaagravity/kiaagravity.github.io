@@ -82,7 +82,7 @@ Summary of the Second Workshop](https://arxiv.org/abs/2412.14960),
 arXiv:2412.14960
 
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
-2023ixf](https://arxiv.org/abs/2410.16565), arXiv:2410.16565
+2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* (accepted), arXiv:2410.16565
 
 0. A.G. Abac, *et al.*, [Search for continuous gravitational waves from known
 pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing
