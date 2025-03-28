@@ -89,10 +89,6 @@ pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2501.01495), *Astrophys. J.* (accepted),
 arXiv:2501.01495
 
-0. J. Röder, *et al.*, [A multi-frequency study of sub-parsec jets with the
-Event Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. &
-Astrophys.* (accepted), arXiv:2501.05518
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -101,6 +97,10 @@ arXiv:2112.06861
 of M87. II. Model comparisons and theoretical
 interpretations](https://doi.org/10.1051/0004-6361/202451296), *Astron. &
 Astrophys.* 693 (2025) A265
+
+0. J. Röder, *et al.*, [A multifrequency study of sub-parsec jets with the Event
+Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695
+(2025) A233
 
 0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
 in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.*  980 (2025) 207
