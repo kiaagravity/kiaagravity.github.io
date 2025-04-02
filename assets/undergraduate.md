@@ -93,9 +93,14 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
+0. **W. Liu (刘文帅)**, Y. Dong, Z. Wang, L. Shao, [Eﬀicient Data Products for
+Gravitational-Wave Posteriors via Neural Density Estimation](TBA), in prep.
+
+0. **杨奕博**, et al., [](TBA), in prep.
+
 0. **J. Luo (罗荐元)**, D. Liang, L. Shao, [](TBA), in prep.
 
-0. **C. Zhao (赵乘辉)**, H.-B. Li, L. Shao, [白矮星的震荡模式和物态研究](TBA), 《天文学进展》, in prep.
+0. **赵乘辉**, 李洪波, 邵立晶, [白矮星的震荡模式和物态研究](TBA), 《天文学进展》, in prep.
 
 0. P. Ji, **Z. Li (李竹海)**, **L. Yang (杨力睿)**,  R. Xu, Z. Hu, L. Shao, [Neutron
 stars in the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys.  Rev. D* 110 (2024) 104057
