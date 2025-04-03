@@ -211,7 +211,7 @@ permalink: /member/
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student <small>(visiting Tübingen)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Yiming Dong** | **董益铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Yiming Dong** | **董益铭** | PhD Student <small>(visiting Alibaba)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zhuhai Li** | **李竹海** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
