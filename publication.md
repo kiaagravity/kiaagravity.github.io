@@ -70,6 +70,10 @@ stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (
 0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
 signal of GW150914 using the $F$-statistic
 method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
+
+0. 邵立晶, 《探知无界：天文学中的基础物理》, 北京大学出版社 (2025)
+
+0. 姬佩祥, 梁迪聪, 邵立晶, 以天为则：从弱场到强场的引力检验, 《现代物理知识》, in press
 {: reversed="reversed"}
 
 ##### Collaboration Papers
