@@ -99,7 +99,7 @@ interpretations](https://doi.org/10.1051/0004-6361/202451296), *Astron. &
 Astrophys.* 693 (2025) A265
 
 0. A.S. Abdalla, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
-Summary of the Second Workshop](https://arxiv.org/abs/2412.14960), *EPJ Quantum Technol.* 12 (2025) 42
+Summary of the Second Workshop](https://arxiv.org/abs/2412.14960), *EPJ Quant. Technol.* 12 (2025) 42
 
 0. J. Röder, *et al.*, [A multifrequency study of sub-parsec jets with the Event
 Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695
