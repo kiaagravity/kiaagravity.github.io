@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
+The FLRW solution and the CMB temperature
+anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
+
 0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
 [Shared Properties of Merger-driven Long-duration Gamma-Ray Bursts](TBA),
 arXiv:TBA
