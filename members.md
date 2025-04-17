@@ -159,19 +159,6 @@ permalink: /member/
 
   <div class="column2">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Li_Zhuhai.png" alt="" style="width:100%; height:210px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://orcid.org/0009-0004-7187-0115">Zhuhai Li</a> (李竹海)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-  
-  <div class="column2">
-      <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Zhao_Chenghui.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
@@ -200,7 +187,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(23 ppl.)</small></small>
+## Members <small><small>(22 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -212,7 +199,6 @@ permalink: /member/
 | &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiming Dong** | **董益铭** | PhD Student <small>(visiting Alibaba)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Zhuhai Li** | **李竹海** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Chenghui Zhao** | **赵乘辉** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | Master Student | [UCAS](https://astro.ucas.ac.cn/index.php/cn/) |
@@ -243,6 +229,7 @@ permalink: /member/
 <p></p>
 
 <!-- 
+| &#9794;  **Zhuhai Li** | **李竹海** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zhiheng Zheng** | **郑志恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Zhirui Xie** | **谢祉锐** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Haoran Di** | **邸浩然** | Lecturer | [SCI-ECUT](https://lxy.ecut.edu.cn/0c/18/c3214a68632/page.htm) |
