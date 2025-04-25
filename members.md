@@ -187,7 +187,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(22 ppl.)</small></small>
+## Members <small><small>(21 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -211,7 +211,6 @@ permalink: /member/
 | &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate Research |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
@@ -224,6 +223,7 @@ permalink: /member/
 | &#9794;  **Yukai Fang** | **方煜凯** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Yifan Liu** | **刘一凡** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Yanhao Jin** | **金延昊** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Tianqi Yu** | **俞天麒** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
