@@ -491,7 +491,7 @@ permalink: /member/
 | &#9830; **Xu, Yiming** (**徐一鸣**) &#9830; <small>School of Earth and Space Sciences, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Classification of Gravitational Wave Detector Glitches with Machine Learning* (PKU'24) |
 | &#9830; **Yang, Yiqiu** (**杨一秋**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spectral Instability of Black Holes* (2024)<br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole Resonance between Quasinormal Modes* (PKU'25) |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spectral Instability of Black Holes* (2024)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole Resonance between Quasinormal Modes* (PKU'25) |
 | &#9830; [**Yim, Garvin**](https://garvinyim.wixsite.com/home) (**嚴家榮**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravitational Waves from Pulsar Glitches and Antiglitches* (2024); co-advisor: Renxin Xu</small> |
 | &#9830; **Zhang, Hongyi** (**章弘毅**) &#9830; <small>School of Physics, Peking University</small> |
