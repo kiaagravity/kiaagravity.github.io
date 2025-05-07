@@ -20,7 +20,7 @@ anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
 
 0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
 [Shared Properties of Merger-driven Long-duration Gamma-Ray Bursts](TBA),
-arXiv:TBA
+*Astron. & Astrophys.* (submitted), arXiv:TBA
 
 0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
 TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
