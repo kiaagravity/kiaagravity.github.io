@@ -14,6 +14,8 @@ Wenfan, Hongbo, Peixiang, Yacheng, Zexin, Lirui, Ziming, Yiming, Ze, Jiangchuan,
 
 ### Agenda
 
+- Roundtable
+
 - Arxiv sharing: Zexin, Hongbo, Ze, Yiming, Jiangchuan
 
 ### Time
