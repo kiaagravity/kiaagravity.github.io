@@ -14,6 +14,10 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
+   gravitational-wave sources: Prospects with LISA and Cosmic
+   Explorer](https://arxiv.org/abs/2505.05900), arXiv:2505.05900
+
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
