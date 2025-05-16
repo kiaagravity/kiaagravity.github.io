@@ -14,6 +14,9 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
+Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
+
 0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
    gravitational-wave sources: Prospects with LISA and Cosmic
    Explorer](https://arxiv.org/abs/2505.05900), arXiv:2505.05900
@@ -21,10 +24,6 @@ permalink: /publication/
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
-
-0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
-[Shared Properties of Merger-driven Long-duration Gamma-Ray Bursts](TBA),
-*Astron. & Astrophys.* (submitted), arXiv:TBA
 
 0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
 TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
@@ -48,6 +47,11 @@ Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
+
+0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
+[Shared Properties of Merger-driven Long-duration Gamma-Ray
+Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* (accepted),
+arXiv:2505.10165
 
 0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
 Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
@@ -87,6 +91,9 @@ method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
 {: reversed="reversed"}
 
 ##### Collaboration Papers
+
+0. R. Dahale, *et al.*, [Origin of the ring ellipticity in the black hole images
+of M87*](https://arxiv.org/abs/2505.10333), arXiv:2505.10333
 
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
