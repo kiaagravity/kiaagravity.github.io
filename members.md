@@ -365,7 +365,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://garvinyim.wixsite.com/home">Garvin Yim</a> (嚴家榮)</b></h5>
-          <p class="teamtitle"><small>Data Scientist</small></p>
+          <p class="teamtitle"><small>UK·Data Scientist</small></p>
           </center>
         </div>
       </div>
