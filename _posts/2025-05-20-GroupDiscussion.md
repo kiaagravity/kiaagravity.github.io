@@ -17,6 +17,7 @@ Wenfan, Hongbo, Peixiang, Yacheng, Zexin, Lirui, Ziming, Yiming, Ze, Jiangchuan,
 - Arxiv sharing: Zexin, Yiming, Hongbo, Jiangchuan, Wenfan
 
 - Peixiang: Neutron star structure in massive scalar-tensor gravity
+  
   Ref: [Scalarized neutron stars in massive scalar-tensor gravity: X-ray pulsars and tidal deformability]([https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104014])
 
 ### Time
