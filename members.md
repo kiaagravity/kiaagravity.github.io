@@ -400,10 +400,12 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar >6个月</b></font></span>
 </small>
 
-## Former Members <small><small>(52 ppl.)</small></small>
+## Former Members <small><small>(56 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
+| &#9830; **Chu, Kaiyao** (**楚开尧**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Pinning Mechanism and Continuous Gravitational Waves* (2025) |
 | &#9830; **Deng, Jingyuan** (**邓景元**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
 | &#9830; **Dong, Yiming** (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
@@ -450,6 +452,8 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravtitational Waves in Modified Gravity Theories* (2024)</small> |
 | &#9830; [**Liu, Chang**](https://orcid.org/0000-0001-7649-6792) (**刘畅**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Science Cases with Space-based Gravitational-wave Detectors* (PKU'24); co-advisor: Nicola Tamanini |
+| &#9830; **Liu, Wenshuai** (**刘文帅**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Gravitational-wave Data Analysis and Machine Learning* (2025) |
 | &#9830; **Liu, Yukun** (**刘宇堃**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Effects from Dark Matter Halos on X-ray Pulsar Pulse Profiles* (2024) |
 | &#9830; **Luo, Jianyuan** (**罗荐元**) &#9830; <small>School of Physics and Technology, Wuhan University</small> |
@@ -490,12 +494,16 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Neutron Star Structure in Alternative Gravitational Theories* (2021)</small><br><small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Compact Objects in Alternative Theories of Gravity* (2023) |
 | &#9830; **Xu, Yiming** (**徐一鸣**) &#9830; <small>School of Earth and Space Sciences, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Classification of Gravitational Wave Detector Glitches with Machine Learning* (PKU'24) |
+| &#9830; **Yang, Yibo** (**杨奕博**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Probing Axion with Binary Pulsars* (2025) |
 | &#9830; **Yang, Yiqiu** (**杨一秋**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spectral Instability of Black Holes* (2024)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole Resonance between Quasinormal Modes* (PKU'25) |
 | &#9830; [**Yim, Garvin**](https://garvinyim.wixsite.com/home) (**嚴家榮**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravitational Waves from Pulsar Glitches and Antiglitches* (2024); co-advisor: Renxin Xu</small> |
 | &#9830; **Zhang, Hongyi** (**章弘毅**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Possible Degeneracy between Different Effects on GW Phase* (2024) |
+| &#9830; **Zhang, Yilun** (**张逸伦**) &#9830; <small>Yuanpei College, Peking University</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spin Dynamics in Scalar-tensor Theories* (2025) |
 | &#9830; **Zhang, Zhejian** (**张喆戬**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Testing Equivalence Principle with Pulsar Timing* (2022) |
 | &#9830; **Zhao, Chenghui** (**赵乘辉**) &#9830; <small>School of Astronomy and Space Science, Nanjing University</small> |
