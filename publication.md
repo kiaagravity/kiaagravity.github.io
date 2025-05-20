@@ -14,6 +14,9 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. Z. Hu, Y. Gao, L. Shao, [Linear analysis of I-C-Love universal relations for
+neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
+
 0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
 Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
 
@@ -97,6 +100,11 @@ of M87*](https://arxiv.org/abs/2505.10333), arXiv:2505.10333
 
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
+
+0. C. Goddi, D.F. Carlos, *et al.*, [First polarization study of the M87 jet and
+active galactic nuclei at submillimeter wavelengths with
+ALMA](https://arxiv.org/abs/2505.10181), *Astron. & Astrophys.* (accepted),
+arXiv:2505.10181
 
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* (accepted), arXiv:2410.16565
