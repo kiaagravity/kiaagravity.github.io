@@ -55,6 +55,11 @@ Shao](https://friendshao.github.io/)!
 
 
 <figure>   
+<img src="/assets/group/Group_meeting_Jun1_2025.png" style="width:100%">                 
+<figcaption><font color="grey"><b>Group meeting on June 1, 2025.</b></font></figcaption>
+</figure>
+
+<figure>   
 <img src="/assets/group/Group_meeting_Dec22_2024.png" style="width:100%">                 
 <figcaption><font color="grey"><b>Group meeting on December 22, 2024.</b></font></figcaption>
 </figure>
