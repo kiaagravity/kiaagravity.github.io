@@ -56,16 +56,6 @@ arXiv:2312.01406
 Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* (accepted),
 arXiv:2505.10165
 
-0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
-Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
-Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
-Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
-Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
-Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, L. Shao, A.
-Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X. Xue, K.
-Yakut, H. Yang, Z. Younsi, [Fundamental Physics Opportunities with the
-Next-Generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130), *Living Rev. Relativ.* (accepted), arXiv:2312.02130
-
 0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
 Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (accepted),
@@ -87,6 +77,17 @@ stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (
 0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
 signal of GW150914 using the $F$-statistic
 method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
+
+0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
+Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
+Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
+Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
+Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
+Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, L. Shao, S.
+Tahura, A.  Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X.
+Xue, K.  Yakut, H. Yang, Z. Younsi, [Fundamental physics opportunities with
+future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130), 
+*Living Rev. Relativ.* 28 (2025) 4
 
 0. 邵立晶, 《探知无界：天文学中的基础物理》, 北京大学出版社 (2025)
 
