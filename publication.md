@@ -14,6 +14,10 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
+on Axion-Photon Coupling $g_\gamma$ from Neutron Star
+Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
 0. Z. Hu, Y. Gao, L. Shao, [Linear analysis of I-C-Love universal relations for
 neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 
