@@ -14,6 +14,12 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. Y. Lian, Z. Pan, H. Zhang, S. Cao, P.C.C. Freire, L. Qian, R.P. Eatough,
+**L. Shao**, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
+Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
+Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
+(GC FANS)](https://arxiv.org/abs/2506.07970), arXiv:2506.07970
+
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
