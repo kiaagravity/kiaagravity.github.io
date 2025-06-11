@@ -107,6 +107,12 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 
 ##### Collaboration Papers
 
+0. A. Li, *et al.*, [Dense Matter in Neutron Stars with
+eXTP](https://arxiv.org/abs/2506.08104), arXiv:2506.08104
+
+0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
+with eXTP](https://arxiv.org/abs/2506.08368), arXiv:2506.08368
+
 0. R. Dahale, *et al.*, [Origin of the ring ellipticity in the black hole images
 of M87*](https://arxiv.org/abs/2505.10333), arXiv:2505.10333
 
