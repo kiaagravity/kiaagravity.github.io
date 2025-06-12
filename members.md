@@ -70,7 +70,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://humphreywang.github.io/">Dr. Han Wang</a> (王晗)</b></h5>
-          <p class="teamtitle"><small>Incoming Joint KIAA Postdoc</small></p>
+          <p class="teamtitle"><small>Joint KIAA Postdoc</small></p>
           </center>
         </div>
       </div>
@@ -164,7 +164,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0000-0002-4509-4747">Jiangchuan Yu</a> (于江川)</b></h5>
-          <p class="teamtitle"><small>Incoming PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student</small></p>
           </center>
         </div>
       </div>
@@ -180,14 +180,14 @@ permalink: /member/
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Hongbo Li** | **李洪波** | Visiting KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9792;  **Han Wang** | **王晗** | Incoming Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| &#9792;  **Han Wang** | **王晗** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student <small>(visiting Rome)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student <small>(visiting Tübingen)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiming Dong** | **董益铭** | PhD Student <small>(visiting Alibaba)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Jiangchuan Yu** | **于江川** | Incoming PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Jiangchuan Yu** | **于江川** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yibo Yang** | **杨奕博** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
