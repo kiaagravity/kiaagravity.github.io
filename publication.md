@@ -62,11 +62,6 @@ Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
 (GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* (accepted),
 arXiv:2506.07970
 
-0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
-[Shared Properties of Merger-driven Long-duration Gamma-Ray
-Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* (accepted),
-arXiv:2505.10165
-
 0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
 Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (accepted),
@@ -76,6 +71,10 @@ arXiv:2502.02995
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
 Scientific Publishing, 2025), p. 375
+
+0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
+[Shared Properties of Merger-driven Long-duration Gamma-Ray
+Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* 698 (2025) A205
 
 0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
 thermal mountains on accreting neutron stars: effect of the nuclear pasta
