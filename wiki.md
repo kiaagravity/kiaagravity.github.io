@@ -46,7 +46,7 @@ Otherwise it is suggested to talk in Chinese, but use English in slides.
 
 ## Discussion on Research Topics
 
-**Chair**: Peixiang Ji (姬佩祥)
+**Chair**: Dr. Wenfan Feng (冯文凡)
 
 - We have weekly discussion on research topics every **Tuesdays 19:00—20:30** in
 **K208**. The attendees are limited to graduates/postdocs who work on research
