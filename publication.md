@@ -101,6 +101,8 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 
 0. 邵立晶, 《探知无界：天文学中的基础物理》, 北京大学出版社 (2025)
 
+0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, in press
+
 0. 姬佩祥, 梁迪聪, 邵立晶, 以天为则：从弱场到强场的引力检验, 《现代物理知识》, in press
 {: reversed="reversed"}
 
