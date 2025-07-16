@@ -117,9 +117,6 @@ eXTP](https://arxiv.org/abs/2506.08104), arXiv:2506.08104
 0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
 with eXTP](https://arxiv.org/abs/2506.08368), arXiv:2506.08368
 
-0. R. Dahale, *et al.*, [Origin of the ring ellipticity in the black hole images
-of M87*](https://arxiv.org/abs/2505.10333), arXiv:2505.10333
-
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
 
@@ -146,6 +143,10 @@ Astrophys.* 693 (2025) A265
 
 0. A.S. Abdalla, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Summary of the Second Workshop](https://arxiv.org/abs/2412.14960), *EPJ Quant. Technol.* 12 (2025) 42
+
+0. R. Dahale, *et al.*, [Origin of the ring ellipticity in the black hole images
+of M87*](https://arxiv.org/abs/2505.10333), *Astron. & Astrophys.* 699 (2025)
+A279
 
 0. J. Röder, *et al.*, [A multifrequency study of sub-parsec jets with the Event
 Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695
