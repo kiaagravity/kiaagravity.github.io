@@ -108,6 +108,10 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [All-sky search for long-duration gravitational-wave
+transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
+run](https://arxiv.org/abs/2507.12282), arXiv:2507.12282
+
 0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
 the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2507.12374), arXiv:2507.12374
