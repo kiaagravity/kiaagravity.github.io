@@ -108,8 +108,12 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
+the first part of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2507.12374), arXiv:2507.12374
+
 0. A.G. Abac, *et al.*, [GW231123: a Binary Black Hole Merger with Total Mass
-190-265 $M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
+190$-$265 $M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
 
 0. A. Li, *et al.*, [Dense Matter in Neutron Stars with
 eXTP](https://arxiv.org/abs/2506.08104), arXiv:2506.08104
