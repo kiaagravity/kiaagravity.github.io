@@ -24,10 +24,6 @@ neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
 Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
 
-0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
-   gravitational-wave sources: Prospects with LISA and Cosmic
-   Explorer](https://arxiv.org/abs/2505.05900), arXiv:2505.05900
-
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
@@ -54,6 +50,11 @@ Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
+
+0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
+gravitational-wave sources: Prospects with LISA and Cosmic
+Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* (accepted),
+arXiv:2505.05900
 
 0. Y. Lian, Z. Pan, H. Zhang, S. Cao, P.C.C. Freire, L. Qian, R.P. Eatough,
 L. Shao, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
