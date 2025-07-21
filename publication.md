@@ -14,6 +14,11 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
+Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
+transients in the 10 pc region around Sgr
+A$^\ast$](https://arxiv.org/abs/2507.08534), arXiv:2507.08534
+
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
@@ -108,6 +113,9 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 {: reversed="reversed"}
 
 ##### Collaboration Papers
+
+0. T. Akutsu, *et al.*, [Identification of Noise-Associated Glitches in KAGRA
+O3GK with Hveto](https://arxiv.org/abs/2506.21021), arXiv:2506.21021
 
 0. A.G. Abac, *et al.*, [All-sky search for long-duration gravitational-wave
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
