@@ -584,7 +584,7 @@ first Event Horizon Telescope dataset](https://arxiv.org/abs/2308.15381),
 used by the EHT Collaboration](https://arxiv.org/abs/2303.12004), *Astrophys.
 J.* 950 (2023) 35
 
-0. R. Freek, M.D. Johnson, *et al.*, [Polarimetric Geometric Modeling for
+0. F. Roelofs, M.D. Johnson, *et al.*, [Polarimetric Geometric Modeling for
 mm-VLBI Observations of Black
 Holes](https://iopscience.iop.org/article/10.3847/2041-8213/acff6f), *Astrophys.
 J. Lett.* 957 (2023) L21
