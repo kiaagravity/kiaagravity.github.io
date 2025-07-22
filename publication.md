@@ -137,11 +137,6 @@ with eXTP](https://arxiv.org/abs/2506.08368), arXiv:2506.08368
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
 
-0. C. Goddi, D.F. Carlos, *et al.*, [First polarization study of the M87 jet and
-active galactic nuclei at submillimeter wavelengths with
-ALMA](https://arxiv.org/abs/2505.10181), *Astron. & Astrophys.* (accepted),
-arXiv:2505.10181
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -164,6 +159,10 @@ Summary of the Second Workshop](https://arxiv.org/abs/2412.14960), *EPJ Quant. T
 0. R. Dahale, *et al.*, [Origin of the ring ellipticity in the black hole images
 of M87$^\ast$](https://arxiv.org/abs/2505.10333), *Astron. & Astrophys.* 699 (2025)
 A279
+
+0. C. Goddi, D.F. Carlos, *et al.*, [First polarization study of the M87 jet and
+active galactic nuclei at submillimeter wavelengths with
+ALMA](https://arxiv.org/abs/2505.10181), *Astron. & Astrophys.* 699 (2025) A265
 
 0. J. Röder, *et al.*, [A multifrequency study of sub-parsec jets with the Event
 Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695
