@@ -114,9 +114,6 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 
 ##### Collaboration Papers
 
-0. T. Akutsu, *et al.*, [Identification of Noise-Associated Glitches in KAGRA
-O3GK with Hveto](https://arxiv.org/abs/2506.21021), arXiv:2506.21021
-
 0. A.G. Abac, *et al.*, [All-sky search for long-duration gravitational-wave
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
 run](https://arxiv.org/abs/2507.12282), arXiv:2507.12282
@@ -136,6 +133,10 @@ with eXTP](https://arxiv.org/abs/2506.08368), arXiv:2506.08368
 
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
+
+0. T. Akutsu, *et al.*, [Identification of Noise-Associated Glitches in KAGRA
+O3GK with Hierarchical Veto](https://arxiv.org/abs/2506.21021), *Prog. Theor.
+Exp. Phys.* (accepted), arXiv:2506.21021
 
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
