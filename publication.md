@@ -125,11 +125,11 @@ run](https://arxiv.org/abs/2507.12374), arXiv:2507.12374
 0. A.G. Abac, *et al.*, [GW231123: a Binary Black Hole Merger with Total Mass
 190$-$265 $M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
 
-0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
-with eXTP](https://arxiv.org/abs/2506.08368), arXiv:2506.08368
-
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), arXiv:2503.12263
+
+0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
+with eXTP](https://arxiv.org/abs/2506.08368), *Sci. China Phys. Mech. Astron.* (accepted), arXiv:2506.08368
 
 0. A. Li, *et al.*, [Dense Matter in Neutron Stars with
 eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* (accepted), arXiv:2506.08104
