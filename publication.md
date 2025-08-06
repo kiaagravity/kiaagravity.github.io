@@ -69,8 +69,7 @@ Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* 1 (2025) 2
 L. Shao, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
 Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
 Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
-(GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* (accepted),
-arXiv:2506.07970
+(GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* 279 (2025) 51
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
