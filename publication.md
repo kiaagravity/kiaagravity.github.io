@@ -70,8 +70,7 @@ arXiv:2506.07970
 
 0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
 intermediate-mass black hole binaries with the Lunar Gravitational-wave
-Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* (accepted),
-arXiv:2502.02995
+Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* 1 (2025) 2
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
