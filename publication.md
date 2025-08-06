@@ -61,16 +61,6 @@ gravitational-wave sources: Prospects with LISA and Cosmic
 Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* (accepted),
 arXiv:2505.05900
 
-0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
-intermediate-mass black hole binaries with the Lunar Gravitational-wave
-Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* 1 (2025) 2
-
-0. Y. Lian, Z. Pan, H. Zhang, S. Cao, P.C.C. Freire, L. Qian, R.P. Eatough,
-L. Shao, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
-Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
-Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
-(GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* 279 (2025) 51
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
@@ -91,6 +81,16 @@ stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (
 0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
 signal of GW150914 using the $F$-statistic
 method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
+
+0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
+intermediate-mass black hole binaries with the Lunar Gravitational-wave
+Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* 1 (2025) 2
+
+0. Y. Lian, Z. Pan, H. Zhang, S. Cao, P.C.C. Freire, L. Qian, R.P. Eatough,
+L. Shao, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
+Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
+Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
+(GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* 279 (2025) 51
 
 0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
 Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
