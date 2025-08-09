@@ -40,10 +40,6 @@ TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 
-0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
-gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218),
-arXiv:2501.05218
-
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
@@ -55,6 +51,10 @@ Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
+
+0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
+gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* (accepted),
+arXiv:2501.05218
 
 0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
 gravitational-wave sources: Prospects with LISA and Cosmic
