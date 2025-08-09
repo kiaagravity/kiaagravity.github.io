@@ -202,6 +202,7 @@ permalink: /member/
 ## Associates <small><small>— regularly seen in group meetings</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
+| &#9794;  **Haoran Di** | **邸浩然** | Lecturer | [ECUT](https://lxy.ecut.edu.cn/_t468/0c/18/c3214a68632/page.htm) |
 | &#9794;  **Yifan Liu** | **刘一凡** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Tianqi Yu** | **俞天麒** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
@@ -400,7 +401,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar >6个月</b></font></span>
 </small>
 
-## Former Members <small><small>(56 ppl.)</small></small>
+## Former Members <small><small>(57 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -494,6 +495,8 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Neutron Star Structure in Alternative Gravitational Theories* (2021)</small><br><small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Compact Objects in Alternative Theories of Gravity* (2023) |
 | &#9830; **Xu, Yiming** (**徐一鸣**) &#9830; <small>School of Earth and Space Sciences, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Classification of Gravitational Wave Detector Glitches with Machine Learning* (PKU'24) |
+| &#9830; **Yang, Lirui** (**杨力睿**) &#9830; <small>Cambridge University</small> |
+| <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *Compact Objects in Alternative Gravity Theories* (2023 & 2025) |
 | &#9830; **Yang, Yibo** (**杨奕博**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Probing Axion with Binary Pulsars* (2025) |
 | &#9830; **Yang, Yiqiu** (**杨一秋**) &#9830; <small>School of Physics, Peking University</small> |
