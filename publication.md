@@ -55,11 +55,6 @@ arXiv:2312.01406
 gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* (accepted),
 arXiv:2501.05218
 
-0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
-gravitational-wave sources: Prospects with LISA and Cosmic
-Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* (accepted),
-arXiv:2505.05900
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
@@ -76,6 +71,10 @@ phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* 980 (2025) 144
 0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
 continuous gravitational waveforms from triaxially-deformed precessing neutron
 stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (2025) 023053
+
+0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
+gravitational-wave sources: Prospects with LISA and Cosmic
+Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* 112 (2025) 043023
 
 0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
 signal of GW150914 using the $F$-statistic
