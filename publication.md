@@ -47,10 +47,6 @@ modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
 arXiv:2411.18647
 
-0. Z. Lyu, L. Shao, [Measuring Mass Transfer Rates in Coalescing Neutron
-Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
-Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
-
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
@@ -1280,6 +1276,10 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 
 0. K. Akiyama, *et al.*, [Mid-Range Science Objectives for the Event Horizon
 Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
+
+0. Z. Lyu, L. Shao, [Measuring Mass Transfer Rates in Coalescing Neutron
+Star--White Dwarf Binaries with Deci-Hz Gravitational-wave
+Detectors](http://arxiv.org/abs/2402.16612), arXiv:2402.16612
 
 0. R. Schoedel, *et al.*, [The JWST Galactic Center Survey - A White
 Paper](https://arxiv.org/abs/2310.11912), arXiv:2310.11912
