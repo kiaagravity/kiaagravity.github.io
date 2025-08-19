@@ -14,6 +14,9 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. P. Ji, L. Shao, [Scalarized neutron stars with a highly relativistic core in
+scalar-tensor gravity](https://arxiv.org/abs/2508.12573), arXiv:2508.12573
+
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A$^\ast$](https://arxiv.org/abs/2508.09931), arXiv:2508.09931
 
