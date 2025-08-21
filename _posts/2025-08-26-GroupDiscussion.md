@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discussion on Research Topics 08/26/2025"
+title:  "Tan Liu's Talk 08/26/2025"
 date:   2025-08-26
 author: Wenfan Feng
 categories: activities
