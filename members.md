@@ -203,6 +203,7 @@ permalink: /member/
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Haoran Di** | **邸浩然** | Lecturer | [ECUT](https://lxy.ecut.edu.cn/_t468/0c/18/c3214a68632/page.htm) |
+| &#9794;  **Sobhan Kazempour** |  | Postdoc | [BIT](https://physics.bit.edu.cn/index.htm) |
 | &#9794;  **Yifan Liu** | **刘一凡** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Tianqi Yu** | **俞天麒** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
