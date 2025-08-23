@@ -93,10 +93,17 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
-0. **杨奕博**, et al., [](TBA), in prep.
+0. **J. Zhang (张景灏)**, Y. Kang, **J. Zhong (钟佳航)**, H.-B. Li, L.-D. Liu, Y.-W.
+Yu, L. Shao, [Lightcurve Features of Magnetar-Powered Superluminous Supernovae
+with Gravitational-Wave Emission and High-Energy Leakage](TBA), to be submitted
 
-0. **W. Liu (刘文帅)**, Y. Dong, Z. Wang, L. Shao, [Eﬀicient Data Products for
-Gravitational-Wave Posteriors via Neural Density Estimation](TBA), in prep.
+0. Y. Kang, J.-P. Zhu, L. Shao, **J. Zhong (钟佳航)**, **J. Zhang (张景灏)**, B.
+Zhang, [Kilonova emission from white dwarf–neutron star mergers:
+viewing-angle-dependent spectra and lightcurves](TBA), to be submitted
+
+0. **W. Liu (刘文帅)**, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior
+construction for gravitational-wave catalogs with the Kolmogorov-Arnold
+network](TBA), submitted
 
 0. **J. Luo (罗荐元)**, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with
 Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
