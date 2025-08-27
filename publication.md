@@ -14,6 +14,15 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. W. Liu, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior construction for
+gravitational-wave catalogs with the Kolmogorov-Arnold
+network](https://arxiv.org/abs/2508.18698), arXiv:2508.18698
+
+0. J. Zhang, Y. Kang, J. Zhong, H.-B. Li, L.-D. Liu, Y.-W. Yu, L.  Shao,
+[Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
+Gravitational-Wave Emission and High-Energy
+Leakage](https://arxiv.org/abs/2508.18940), arXiv:2508.18940
+
 0. P. Ji, L. Shao, [Scalarized neutron stars with a highly relativistic core in
 scalar-tensor gravity](https://arxiv.org/abs/2508.12573), arXiv:2508.12573
 
