@@ -122,6 +122,10 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
+Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
+Run](https://www.arxiv.org/abs/2508.20721), arXiv:2508.20721
+
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
 
