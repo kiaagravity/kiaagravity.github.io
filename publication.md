@@ -169,10 +169,6 @@ with eXTP](https://arxiv.org/abs/2506.08368), *Sci. China Phys. Mech. Astron.* (
 0. A. Li, *et al.*, [Dense Matter in Neutron Stars with
 eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* (accepted), arXiv:2506.08104
 
-0. T. Akutsu, *et al.*, [Identification of Noise-Associated Glitches in KAGRA
-O3GK with Hierarchical Veto](https://arxiv.org/abs/2506.21021), *Prog. Theor.
-Exp. Phys.* (accepted), arXiv:2506.21021
-
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
@@ -188,6 +184,10 @@ run](https://arxiv.org/abs/2501.01495), *Astrophys. J.* 983 (2025) 99
 of M87. II. Model comparisons and theoretical
 interpretations](https://doi.org/10.1051/0004-6361/202451296), *Astron. &
 Astrophys.* 693 (2025) A265
+
+0. T. Akutsu, *et al.*, [Identification of Noise-Associated Glitches in KAGRA
+O3GK with Hierarchical Veto](https://arxiv.org/abs/2506.21021), *Prog. Theor.
+Exp. Phys.* 2025 (2025) 083F01
 
 0. A.S. Abdalla, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Summary of the Second Workshop](https://arxiv.org/abs/2412.14960), *EPJ Quant. Technol.* 12 (2025) 42
