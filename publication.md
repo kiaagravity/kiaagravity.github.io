@@ -122,6 +122,10 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [GWTC-4.0: Constraints on the Cosmic Expansion Rate and
+Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348),
+arXiv:2509.04348
+
 0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
 Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
 Run](https://www.arxiv.org/abs/2508.20721), arXiv:2508.20721
