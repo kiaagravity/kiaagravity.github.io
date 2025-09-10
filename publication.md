@@ -14,6 +14,10 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
+overlapping gravitational-wave signals: detector
+network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
+
 0. W. Liu, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior construction for
 gravitational-wave catalogs with the Kolmogorov-Arnold
 network](https://arxiv.org/abs/2508.18698), arXiv:2508.18698
@@ -121,6 +125,15 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 {: reversed="reversed"}
 
 ##### Collaboration Papers
+
+0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
+signal observed with a single detector](https://arxiv.org/abs/2509.07348),
+arXiv:2509.07348
+
+0. A.G. Abac, *et al.*, [Directed searches for gravitational waves from
+ultralight vector boson clouds around merger remnant and galactic black holes
+during the first part of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2509.07352), arXiv:2509.07352
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Constraints on the Cosmic Expansion Rate and
 Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348),
