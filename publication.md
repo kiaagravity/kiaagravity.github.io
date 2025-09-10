@@ -14,6 +14,10 @@ permalink: /publication/
 
 <!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
 
+0. Z. Hu, D.D. Doneva, Z.  Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, L.
+Shao, [Ringdown mode amplitudes of charged binary black
+holes](https://arxiv.org/abs/2509.07111), arXiv:2509.07111
+
 0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
 overlapping gravitational-wave signals: detector
 network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
