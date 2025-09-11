@@ -195,6 +195,10 @@ eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* (accep
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
 arXiv:2112.06861
 
+0. A.G. Abac, *et al.*, [GW250114: Testing Hawking's Area Law and the Kerr
+Nature of Black Holes](https://doi.org/10.1103/kw5g-d732), *Phys. Rev. Lett.*
+135 (2025) 111403
+
 0. A.G. Abac, *et al.*, [Search for gravitational waves emitted from SN
 2023ixf](https://arxiv.org/abs/2410.16565), *Astrophys. J.* 985 (2025) 183
 
