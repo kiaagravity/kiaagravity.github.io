@@ -130,6 +130,9 @@ future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130),
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Black Hole Spectroscopy and Tests of General Relativity
+with GW250114](https://arxiv.org/abs/2509.08099), arXiv:2509.08099
+
 0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
 signal observed with a single detector](https://arxiv.org/abs/2509.07348),
 arXiv:2509.07348
