@@ -173,16 +173,16 @@ arXiv:2508.18079
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
 run](https://arxiv.org/abs/2507.12282), arXiv:2507.12282
 
-0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
-the first part of the fourth LIGO-Virgo-KAGRA observing
-run](https://arxiv.org/abs/2507.12374), arXiv:2507.12374
-
 0. A.G. Abac, *et al.*, [GW231123: a Binary Black Hole Merger with Total Mass
 190$-$265 $M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
 
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
 arXiv:2508.03392
+
+0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
+the first part of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2507.12374), *Phys. Rev. D* (accepted), arXiv:2507.12374
 
 0. K. Akiyama, *et al.*, [Horizon-scale variability of from 2017-2021 EHT
 observations](https://doi.org/10.1051/0004-6361/202555855),
