@@ -184,6 +184,10 @@ run](https://arxiv.org/abs/2507.12374), arXiv:2507.12374
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
 arXiv:2508.03392
 
+0. K. Akiyama, *et al.*, [Horizon-scale variability of from 2017-2021 EHT
+observations](https://doi.org/10.1051/0004-6361/202555855),
+*Astron. & Astrophys.* (accepted)
+
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
