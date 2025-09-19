@@ -71,14 +71,13 @@ arXiv:2411.18647
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
 
-0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
-gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* (accepted),
-arXiv:2501.05218
-
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
 Scientific Publishing, 2025), p. 375
+
+0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
+gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* 991 (2025) 108
 
 0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
 [Shared Properties of Merger-driven Long-duration Gamma-Ray
