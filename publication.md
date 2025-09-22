@@ -8,11 +8,11 @@ permalink: /publication/
 
 ---
 
-### 2025
+### 2026
 
 ##### Regular Papers
 
-<!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), to be submitted -->
+<!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), submitted -->
 
 0. Z. Hu, D.D. Doneva, Z.  Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, L.
 Shao, [Ringdown mode amplitudes of charged binary black
@@ -71,59 +71,6 @@ arXiv:2411.18647
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
 
-0. L. Shao, [Testing relativistic gravity with radio timing of neutron
-stars](https://doi.org/10.1142/9789819800643_0019), in
-*Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
-Scientific Publishing, 2025), p. 375
-
-0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
-gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* 991 (2025) 108
-
-0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
-[Shared Properties of Merger-driven Long-duration Gamma-Ray
-Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* 698 (2025) A205
-
-0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
-thermal mountains on accreting neutron stars: effect of the nuclear pasta
-phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* 980 (2025) 144
-
-0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
-continuous gravitational waveforms from triaxially-deformed precessing neutron
-stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (2025) 023053
-
-0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
-gravitational-wave sources: Prospects with LISA and Cosmic
-Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* 112 (2025) 043023
-
-0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
-signal of GW150914 using the $F$-statistic
-method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
-
-0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
-intermediate-mass black hole binaries with the Lunar Gravitational-wave
-Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* 1 (2025) 2
-
-0. Y. Lian, Z. Pan, H. Zhang, S. Cao, P.C.C. Freire, L. Qian, R.P. Eatough,
-L. Shao, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
-Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
-Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
-(GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* 279 (2025) 51
-
-0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
-Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
-Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
-Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
-Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
-Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, L. Shao, S.
-Tahura, A.  Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X.
-Xue, K.  Yakut, H. Yang, Z. Younsi, [Fundamental physics opportunities with
-future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130), 
-*Living Rev. Relativ.* 28 (2025) 4
-
-0. 邵立晶, [探知无界：天文学中的基础物理](http://friendshao.github.io/docs/2025_shao_cover.png), 北京大学出版社 (2025)
-
-0. 姬佩祥, 梁迪聪, 邵立晶, [以天为则：从弱场到强场的引力检验](http://mp.ihep.ac.cn/article/id/27caedc0-6d45-4151-9d73-5dc23efb2d95), *《现代物理知识》* 37 (2025) 12
-
 0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), *《天文学进展》*, in press
 {: reversed="reversed"}
 
@@ -178,6 +125,69 @@ run](https://arxiv.org/abs/2507.12282), arXiv:2507.12282
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
 arXiv:2508.03392
+{: reversed="reversed"}
+
+---
+
+### 2025
+
+##### Regular Papers
+
+0. L. Shao, [Testing relativistic gravity with radio timing of neutron
+stars](https://doi.org/10.1142/9789819800643_0019), in
+*Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
+Scientific Publishing, 2025), p. 375
+
+0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
+gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* 991 (2025) 108
+
+0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
+[Shared Properties of Merger-driven Long-duration Gamma-Ray
+Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* 698 (2025) A205
+
+0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
+thermal mountains on accreting neutron stars: effect of the nuclear pasta
+phase](https://arxiv.org/abs/2411.11075), *Astrophys. J.* 980 (2025) 144
+
+0. W.-F. Feng, T. Liu, Y.  Wang, L. Shao, [Effects of orbital eccentricity on
+continuous gravitational waveforms from triaxially-deformed precessing neutron
+stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (2025) 023053
+
+0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
+gravitational-wave sources: Prospects with LISA and Cosmic
+Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* 112 (2025) 043023
+
+0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
+signal of GW150914 using the $F$-statistic
+method](http://www.arxiv.org/abs/2411.13333), *Phys. Rev. D* 111 (2025) 064037
+
+0. H. Song, H. Yan, Y. Kang, X. Chen, J. Zhao, L. Shao, [Probing
+intermediate-mass black hole binaries with the Lunar Gravitational-wave
+Antenna](http://arxiv.org/abs/2502.02995), *npj Space Explor.* 1 (2025) 2
+
+0. Y. Lian, Z. Pan, H. Zhang, S. Cao, P.C.C. Freire, L. Qian, R.P. Eatough,
+L. Shao, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
+Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
+Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
+(GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* 279 (2025) 51
+
+0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
+Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
+Davoudiasl, P.B. Denton, S.S. Doeleman, A. Eichhorn, M. Eubanks, Y. Fang, A.
+Foschi, C.M. Fromm, P. Galison, S.G. Ghosh, R. Gold, L.I. Gurvits, S. Hadar, A.
+Held, J. Houston, Y. Hu, M.D. Johnson, P. Kocherlakota, P. Natarajan, H.
+Olivares, D. Palumbo, D.W. Pesce, S. Rajendran, R. Roy, Saurabh, L. Shao, S.
+Tahura, A.  Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X.
+Xue, K.  Yakut, H. Yang, Z. Younsi, [Fundamental physics opportunities with
+future ground-based mm/sub-mm VLBI arrays](http://arxiv.org/abs/2312.02130), 
+*Living Rev. Relativ.* 28 (2025) 4
+
+0. 邵立晶, [探知无界：天文学中的基础物理](http://friendshao.github.io/docs/2025_shao_cover.png), 北京大学出版社 (2025)
+
+0. 姬佩祥, 梁迪聪, 邵立晶, [以天为则：从弱场到强场的引力检验](http://mp.ihep.ac.cn/article/id/27caedc0-6d45-4151-9d73-5dc23efb2d95), *《现代物理知识》* 37 (2025) 12
+{: reversed="reversed"}
+
+##### Collaboration Papers
 
 0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
 the first part of the fourth LIGO-Virgo-KAGRA observing
