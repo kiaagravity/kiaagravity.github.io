@@ -203,13 +203,14 @@ permalink: /member/
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Haoran Di** | **邸浩然** | Lecturer | [ECUT](https://lxy.ecut.edu.cn/_t468/0c/18/c3214a68632/page.htm) |
-| &#9794;  **Sobhan Kazempour** |  | Postdoc | [BIT](https://physics.bit.edu.cn/index.htm) |
+| &#9794;  **Zhao Li** | **李钊** | Postdoc | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yifan Liu** | **刘一凡** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794;  **Tianqi Yu** | **俞天麒** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
 <!-- 
+| &#9794;  **Sobhan Kazempour** |  | Postdoc | [BIT](https://physics.bit.edu.cn/index.htm) |
 | &#9794;  **Lirui Yang** | **杨力睿** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 | &#9792;  **Ruijing Tang** | **唐睿婧** | Undergraduate |  [BJTU](https://www.bjtu.edu.cn/) |
 | &#9794;  **Yanhao Jin** | **金延昊** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
