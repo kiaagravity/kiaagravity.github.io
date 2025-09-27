@@ -107,10 +107,6 @@ Observing Run](https://www.arxiv.org/abs/2508.18082), arXiv:2508.18082
 Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081),
 arXiv:2508.18081
 
-0. A.G. Abac, *et al.*, [GWTC-4.0: An Introduction to Version 4.0 of the
-Gravitational-Wave Transient Catalog](https://www.arxiv.org/abs/2508.18080),
-arXiv:2508.18080
-
 0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
 Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079),
 arXiv:2508.18079
@@ -188,6 +184,10 @@ next-generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 {: reversed="reversed"}
 
 ##### Collaboration Papers
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: An Introduction to Version 4.0 of the
+Gravitational-Wave Transient Catalog](https://www.arxiv.org/abs/2508.18080),
+*Astrophys. J. Lett.* (accepted), arXiv:2508.18080
 
 0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
 the first part of the fourth LIGO-Virgo-KAGRA observing
