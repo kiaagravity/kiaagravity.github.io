@@ -115,9 +115,6 @@ arXiv:2508.18079
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
 run](https://arxiv.org/abs/2507.12282), arXiv:2507.12282
 
-0. A.G. Abac, *et al.*, [GW231123: a Binary Black Hole Merger with Total Mass
-190$-$265 $M_\odot$](https://arxiv.org/abs/2507.08219), arXiv:2507.08219
-
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
 arXiv:2508.03392
@@ -184,6 +181,9 @@ next-generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 {: reversed="reversed"}
 
 ##### Collaboration Papers
+
+0. A.G. Abac, *et al.*, [GW231123: a Binary Black Hole Merger with Total Mass
+190$-$265 $M_\odot$](https://arxiv.org/abs/2507.08219), *Astrophys. J. Lett.* (accepted), arXiv:2507.08219
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: An Introduction to Version 4.0 of the
 Gravitational-Wave Transient Catalog](https://www.arxiv.org/abs/2508.18080),
