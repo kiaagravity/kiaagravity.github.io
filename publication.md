@@ -70,9 +70,9 @@ arXiv:2411.18647
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
-
-0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), *《天文学进展》*, in press
 {: reversed="reversed"}
+
+<!-- 0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), *《天文学进展》*, in press -->
 
 ##### Collaboration Papers
 
