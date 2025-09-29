@@ -93,6 +93,8 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
+<!-- 0. **赵乘辉**, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, accepted -->
+
 0. **J. Zhang (张景灏)**, Y. Kang, **J. Zhong (钟佳航)**, H.-B. Li, L.-D. Liu, Y.-W.
 Yu, L. Shao, [Lightcurve Features of Magnetar-Powered Superluminous Supernovae
 with Gravitational-Wave Emission and High-Energy
@@ -109,8 +111,6 @@ network](https://arxiv.org/abs/2508.18698), arXiv:2508.18698
 0. **J. Luo (罗荐元)**, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with
 Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
 
-<!-- 0. **赵乘辉**, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, accepted -->
-   
 0. P. Ji, **Z. Li (李竹海)**, **L. Yang (杨力睿)**,  R. Xu, Z. Hu, L. Shao, [Neutron
 stars in the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys.  Rev. D* 110 (2024) 104057
 
