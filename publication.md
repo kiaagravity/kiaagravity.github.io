@@ -194,8 +194,8 @@ the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2507.12374), *Phys. Rev. D* (accepted), arXiv:2507.12374
 
 0. K. Akiyama, *et al.*, [Horizon-scale variability of from 2017-2021 EHT
-observations](https://doi.org/10.1051/0004-6361/202555855),
-*Astron. & Astrophys.* (accepted)
+observations](https://arxiv.org/abs/2509.24593),
+*Astron. & Astrophys.* (accepted), arXiv:2509.24593
 
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
