@@ -12,8 +12,6 @@ permalink: /publication/
 
 ##### Regular Papers
 
-<!-- 0. L. Meng, P.C.C. Freire, K. Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H. Hu, L. Shao, M. Xue, D.J. Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y. Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of general relativity](TBA), submitted -->
-
 0. Z. Hu, D.D. Doneva, Z.  Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, L.
 Shao, [Ringdown mode amplitudes of charged binary black
 holes](https://arxiv.org/abs/2509.07111), arXiv:2509.07111
@@ -125,6 +123,12 @@ arXiv:2508.03392
 ### 2025
 
 ##### Regular Papers
+
+0. L. Meng, P.C.C. Freire, K.  Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, H.
+Hu, L. Shao, M. Xue, D.J.  Champion, Z. Fang, Q. Fu, Y. Guo, C. Miao, J. Niu, Z.
+Wu, J. Yao, M. Yuan, Y.  Yue, C. Zhang, [The double neutron star PSR J1946+2052.
+I. Masses and tests of general relativity](TBA), *Astron. & Astrophys.*
+(accepted), arXiv:TBA
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
