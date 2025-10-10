@@ -174,7 +174,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(20 ppl.)</small></small>
+## Members <small><small>(21 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -192,6 +192,7 @@ permalink: /member/
 | &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yilun Zhang** | **张逸伦** | Undergraduate Research |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
+| &#9794;  **Puyu Zhang** | **张璞玉** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate Research | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
