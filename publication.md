@@ -32,9 +32,6 @@ Leakage](https://arxiv.org/abs/2508.18940), arXiv:2508.18940
 0. P. Ji, L. Shao, [Scalarized neutron stars with a highly relativistic core in
 scalar-tensor gravity](https://arxiv.org/abs/2508.12573), arXiv:2508.12573
 
-0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2508.09931), arXiv:2508.09931
-
 0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
 Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
 transients in the 10 pc region around Sgr
@@ -134,6 +131,10 @@ I. Masses and tests of general relativity](TBA), *Astron. & Astrophys.*
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
 Scientific Publishing, 2025), p. 375
+
+0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/2508.09931), *J. Phys. Conf. Ser.* (accepted),
+arXiv:2508.09931
 
 0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
 gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* 991 (2025) 108
