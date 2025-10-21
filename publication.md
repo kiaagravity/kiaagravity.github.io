@@ -71,6 +71,10 @@ arXiv:2312.01406
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
+Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
+Run](https://arxiv.org/abs/2510.17487), arXiv:2510.17487
+
 0. A.G. Abac, *et al.*, [Black Hole Spectroscopy and Tests of General Relativity
 with GW250114](https://arxiv.org/abs/2509.08099), arXiv:2509.08099
 
