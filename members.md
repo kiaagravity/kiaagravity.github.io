@@ -174,7 +174,7 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(21 ppl.)</small></small>
+## Members <small><small>(18 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
@@ -189,9 +189,6 @@ permalink: /member/
 | &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Jiangchuan Yu** | **于江川** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yibo Yang** | **杨奕博** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Yilun Zhang** | **张逸伦** | Undergraduate Research |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9794;  **Puyu Zhang** | **张璞玉** | Bachelor Dissertation | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 | &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate Research | [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
@@ -212,6 +209,9 @@ permalink: /member/
 <p></p>
 
 <!-- 
+| &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Yilun Zhang** | **张逸伦** | Undergraduate Research |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
 | &#9794;  **Sobhan Kazempour** |  | Postdoc | [BIT](https://physics.bit.edu.cn/index.htm) |
 | &#9794;  **Lirui Yang** | **杨力睿** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
 | &#9792;  **Ruijing Tang** | **唐睿婧** | Undergraduate |  [BJTU](https://www.bjtu.edu.cn/) |
