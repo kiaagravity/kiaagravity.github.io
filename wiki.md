@@ -42,6 +42,7 @@ Otherwise it is suggested to talk in Chinese, but use English in slides.
 
 <p></p>
 
+<!-- 
 ---
 
 ## Discussion on Research Topics
@@ -55,7 +56,8 @@ projects in the group.
 - Group discussion composes of a roundtable and arXiv readings. Occasionally, we
 will have one science talk. Speakers are encouraged to use blackboard only!
 
-<p></p>
+<p></p> 
+-->
 
 ---
 

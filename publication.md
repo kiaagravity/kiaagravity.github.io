@@ -12,6 +12,14 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
+Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),
+arXiv:2510.22573
+
+0. Z. Zheng, Z. Wang, J. Deng, Y. Dong, L. Shao, [Inferring neutron-star Love-Q
+relations from gravitational waves in the hierarchical Bayesian
+framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
+
 0. Z. Hu, D.D. Doneva, Z.  Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, L.
 Shao, [Ringdown mode amplitudes of charged binary black
 holes](https://arxiv.org/abs/2509.07111), arXiv:2509.07111

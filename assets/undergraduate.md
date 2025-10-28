@@ -95,6 +95,10 @@ layout: page
 
 <!-- 0. **赵乘辉**, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, accepted -->
 
+0. **Z. Zheng (郑智豪)**, Z. Wang, **J. Deng (邓锦文)**, Y. Dong, L. Shao, [Inferring
+neutron-star Love-Q relations from gravitational waves in the hierarchical
+Bayesian framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
+
 0. **J. Zhang (张景灏)**, Y. Kang, **J. Zhong (钟佳航)**, H.-B. Li, L.-D. Liu, Y.-W.
 Yu, L. Shao, [Lightcurve Features of Magnetar-Powered Superluminous Supernovae
 with Gravitational-Wave Emission and High-Energy
