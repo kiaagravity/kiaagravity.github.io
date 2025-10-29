@@ -232,6 +232,11 @@ with eXTP](https://arxiv.org/abs/2506.08368), *Sci. China Phys. Mech. Astron.*
 eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* 68
 (2025) 119503
 
+0. A.G. Abac, *et al.*, [GW241011 and GW241110: Exploring Binary Formation and
+Fundamental Physics with Asymmetric, High-spin Black Hole
+Coalescences](https://iopscience.iop.org/article/10.3847/2041-8213/ae0d54),
+*Astrophys. J. Lett.* 993 (2025) L21
+
 0. A.G. Abac, *et al.*, [GW250114: Testing Hawking's Area Law and the Kerr
 Nature of Black Holes](https://doi.org/10.1103/kw5g-d732), *Phys. Rev. Lett.*
 135 (2025) 111403
