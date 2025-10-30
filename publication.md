@@ -201,9 +201,6 @@ next-generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 
 ##### Collaboration Papers
 
-0. A.G. Abac, *et al.*, [GW231123: a Binary Black Hole Merger with Total Mass
-190$-$265 $M_\odot$](https://arxiv.org/abs/2507.08219), *Astrophys. J. Lett.* (accepted), arXiv:2507.08219
-
 0. A.G. Abac, *et al.*, [GWTC-4.0: An Introduction to Version 4.0 of the
 Gravitational-Wave Transient Catalog](https://www.arxiv.org/abs/2508.18080),
 *Astrophys. J. Lett.* (accepted), arXiv:2508.18080
@@ -231,6 +228,9 @@ with eXTP](https://arxiv.org/abs/2506.08368), *Sci. China Phys. Mech. Astron.*
 0. A. Li, *et al.*, [Dense Matter in Neutron Stars with
 eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* 68
 (2025) 119503
+
+0. A.G. Abac, *et al.*, [GW231123: a Binary Black Hole Merger with Total Mass
+190$-$265 $M_\odot$](https://arxiv.org/abs/2507.08219), *Astrophys. J. Lett.* 993 (2025) L25
 
 0. A.G. Abac, *et al.*, [GW241011 and GW241110: Exploring Binary Formation and
 Fundamental Physics with Asymmetric, High-spin Black Hole
