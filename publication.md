@@ -52,10 +52,6 @@ neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
 Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
 
-0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
-The FLRW solution and the CMB temperature
-anisotropy](https://arxiv.org/abs/2504.10297), arXiv:2504.10297
-
 0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
 TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
 
@@ -70,6 +66,10 @@ arXiv:2411.18647
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
+
+0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
+The FLRW solution and the CMB temperature
+anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 {: reversed="reversed"}
 
 <!-- 0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), *《天文学进展》*, in press -->
