@@ -59,10 +59,6 @@ TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
 
-0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
-stars using a new local electron density map](https://arxiv.org/abs/2411.18647),
-arXiv:2411.18647
-
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
@@ -129,6 +125,10 @@ arXiv:2508.03392
 ### 2025
 
 ##### Regular Papers
+
+0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
+stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
+Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
 
 0. P. Ji, L. Shao, [Scalarized neutron stars with a highly relativistic core in
 scalar-tensor gravity](https://arxiv.org/abs/2508.12573), *Phys. Rev. D* (accepted), arXiv:2508.12573
