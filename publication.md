@@ -126,6 +126,12 @@ arXiv:2508.03392
 
 ##### Regular Papers
 
+0. F. Abbate, S. Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough,
+E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.
+Ransom, G. Saowanit, L. Shao, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
+[Galactic Centre Pulsars with the SKA](https://arxiv.org/abs/TBA)  *Open J.
+Astrophys.* (accepted), arXiv:TBA
+
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
 Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
