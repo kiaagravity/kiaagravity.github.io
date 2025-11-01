@@ -223,10 +223,6 @@ observations](https://arxiv.org/abs/2509.24593),
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
 
-0. R. Abbott, *et al.*, [Tests of general relativity with
-GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* (accepted),
-arXiv:2112.06861
-
 0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
 with eXTP](https://arxiv.org/abs/2506.08368), *Sci. China Phys. Mech. Astron.*
 68 (2025) 119506
@@ -253,6 +249,9 @@ Nature of Black Holes](https://doi.org/10.1103/kw5g-d732), *Phys. Rev. Lett.*
 0. A.G. Abac, *et al.*, [Search for continuous gravitational waves from known
 pulsars in the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2501.01495), *Astrophys. J.* 983 (2025) 99
+
+0. R. Abbott, *et al.*, [Tests of general relativity with
+GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* 112 (2025) 084080
 
 0. K. Akiyama, *et al.*, [The persistent shadow of the supermassive black hole
 of M87. II. Model comparisons and theoretical
