@@ -72,6 +72,11 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Direct multi-model dark-matter search with
+gravitational-wave interferometers using data from the first part of the fourth
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022),
+arXiv:2510.27022
+
 0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
 Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
 Run](https://arxiv.org/abs/2510.17487), arXiv:2510.17487
