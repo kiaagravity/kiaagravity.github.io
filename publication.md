@@ -72,6 +72,10 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Cosmological and High Energy Physics implications from
+gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a
+runs](https://arxiv.org/abs/2510.26848), arXiv:2510.26848
+
 0. A.G. Abac, *et al.*, [Direct multi-model dark-matter search with
 gravitational-wave interferometers using data from the first part of the fourth
 LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022),
