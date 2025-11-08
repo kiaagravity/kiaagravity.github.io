@@ -49,9 +49,6 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 0. Z. Hu, Y. Gao, L. Shao, [Linear analysis of I-C-Love universal relations for
 neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 
-0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
-Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
-
 0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
 TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
 
@@ -134,6 +131,10 @@ arXiv:2508.03392
 ### 2025
 
 ##### Regular Papers
+
+0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
+Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark Univ.* (accepted),
+arXiv:2505.10026
 
 0. F. Abbate, S. Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough,
 E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.
