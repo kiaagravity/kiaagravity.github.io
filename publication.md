@@ -114,8 +114,7 @@ Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081),
 arXiv:2508.18081
 
 0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
-Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079),
-arXiv:2508.18079
+Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
 
 0. A.G. Abac, *et al.*, [All-sky search for long-duration gravitational-wave
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
