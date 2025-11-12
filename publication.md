@@ -128,10 +128,6 @@ arXiv:2508.03392
 
 ##### Regular Papers
 
-0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
-Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark Univ.* (accepted),
-arXiv:2505.10026
-
 0. F. Abbate, S. Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough,
 E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.
 Ransom, G. Saowanit, L. Shao, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
@@ -168,6 +164,9 @@ gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *
 0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
 [Shared Properties of Merger-driven Long-duration Gamma-Ray
 Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* 698 (2025) A205
+
+0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
+Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark Univ.* 50 (2025) 102163
 
 0. H.-B. Li, L. Shao, C.-J. Xia, R.-X. Xu, [Continuous gravitational waves from
 thermal mountains on accreting neutron stars: effect of the nuclear pasta

@@ -113,7 +113,7 @@ construction for gravitational-wave catalogs with the Kolmogorov-Arnold
 network](https://arxiv.org/abs/2508.18698), arXiv:2508.18698
 
 0. **J. Luo (罗荐元)**, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with
-Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), arXiv:2505.10026
+Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark Univ.* 50 (2025) 102163
 
 0. P. Ji, **Z. Li (李竹海)**, **L. Yang (杨力睿)**,  R. Xu, Z. Hu, L. Shao, [Neutron
 stars in the bumblebee theory of gravity](http://arxiv.org/abs/2409.04805), *Phys.  Rev. D* 110 (2024) 104057
