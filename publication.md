@@ -138,9 +138,6 @@ Astrophys.* (accepted), arXiv:TBA
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
 Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
 
-0. P. Ji, L. Shao, [Scalarized neutron stars with a highly relativistic core in
-scalar-tensor gravity](https://arxiv.org/abs/2508.12573), *Phys. Rev. D* (accepted), arXiv:2508.12573
-
 0. L. Meng, P.C.C. Freire, K.  Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, J.M.
 Cordes, H. Hu, J. Jiang, E.  Parent, L. Shao, I.H. Stairs, M. Xue, A. Brazier,
 F. Camilo, D.J.  Champion, S. Chatterjee, F. Crawford, Z. Fang, Q. Fu, Y. Guo,
@@ -164,6 +161,9 @@ gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *
 0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
 [Shared Properties of Merger-driven Long-duration Gamma-Ray
 Bursts](https://arxiv.org/abs/2505.10165), *Astron. & Astrophys.* 698 (2025) A205
+
+0. P. Ji, L. Shao, [Scalarized neutron stars with a highly relativistic core in
+scalar-tensor gravity](https://arxiv.org/abs/2508.12573), *Phys. Rev. D* 112 (2025) 104030
 
 0. J. Luo, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with Galactic
 Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark Univ.* 50 (2025) 102163
