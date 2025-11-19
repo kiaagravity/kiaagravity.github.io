@@ -110,7 +110,7 @@ viewing-angle-dependent spectra and lightcurves](TBA), submitted
 
 0. **W. Liu (刘文帅)**, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior
 construction for gravitational-wave catalogs with the Kolmogorov-Arnold
-network](https://arxiv.org/abs/2508.18698), arXiv:2508.18698
+network](https://arxiv.org/abs/2508.18698), *Phys. Rev. D* (accepted), arXiv:2508.18698
 
 0. **J. Luo (罗荐元)**, D. Liang, L. Shao, [Constraining Fermionic Dark Matter with
 Galactic Neutron Stars](https://arxiv.org/abs/2505.10026), *Phys. Dark Univ.* 50 (2025) 102163

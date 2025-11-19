@@ -34,6 +34,10 @@ general relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
 A$^\ast$](https://arxiv.org/abs/2508.09931), *J. Phys. Conf. Ser.* (accepted),
 arXiv:2508.09931
 
+0. W. Liu, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior construction for
+gravitational-wave catalogs with the Kolmogorov-Arnold
+network](https://arxiv.org/abs/2508.18698), *Phys. Rev. D* (accepted), arXiv:2508.18698
+
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
 Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),
 arXiv:2510.22573
@@ -49,10 +53,6 @@ holes](https://arxiv.org/abs/2509.07111), arXiv:2509.07111
 0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
 overlapping gravitational-wave signals: detector
 network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
-
-0. W. Liu, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior construction for
-gravitational-wave catalogs with the Kolmogorov-Arnold
-network](https://arxiv.org/abs/2508.18698), arXiv:2508.18698
 
 0. J. Zhang, Y. Kang, J. Zhong, H.-B. Li, L.-D. Liu, Y.-W. Yu, L.  Shao,
 [Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
