@@ -12,6 +12,28 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. F. Abbate, S. Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough,
+E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.
+Ransom, G. Saowanit, L. Shao, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
+[Galactic Centre Pulsars with the SKA](https://arxiv.org/abs/TBA)  *Open J.
+Astrophys.* (accepted), arXiv:TBA
+
+0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
+stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
+Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
+
+0. L. Meng, P.C.C. Freire, K.  Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, J.M.
+Cordes, H. Hu, J. Jiang, E.  Parent, L. Shao, I.H. Stairs, M. Xue, A. Brazier,
+F. Camilo, D.J.  Champion, S. Chatterjee, F. Crawford, Z. Fang, Q. Fu, Y. Guo,
+J.W.T. Hessels, M.  MacLaughlin, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.
+Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of
+general relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
+(accepted), arXiv:2510.12506
+
+0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
+A$^\ast$](https://arxiv.org/abs/2508.09931), *J. Phys. Conf. Ser.* (accepted),
+arXiv:2508.09931
+
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
 Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),
 arXiv:2510.22573
@@ -68,6 +90,25 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 <!-- 0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), *《天文学进展》*, in press -->
 
 ##### Collaboration Papers
+
+0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
+Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: An Introduction to Version 4.0 of the
+Gravitational-Wave Transient Catalog](https://www.arxiv.org/abs/2508.18080),
+*Astrophys. J. Lett.* (accepted), arXiv:2508.18080
+
+0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
+the first part of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2507.12374), *Phys. Rev. D* (accepted), arXiv:2507.12374
+
+0. K. Akiyama, *et al.*, [Horizon-scale variability of from 2017-2021 EHT
+observations](https://arxiv.org/abs/2509.24593),
+*Astron. & Astrophys.* (accepted), arXiv:2509.24593
+
+0. A. Abac, *et al.*, [The Science of the Einstein
+Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
+(accepted), arXiv:2503.12263
 
 0. A.G. Abac, *et al.*, [Cosmological and High Energy Physics implications from
 gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a
@@ -127,28 +168,6 @@ arXiv:2508.03392
 ### 2025
 
 ##### Regular Papers
-
-0. F. Abbate, S. Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough,
-E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.
-Ransom, G. Saowanit, L. Shao, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
-[Galactic Centre Pulsars with the SKA](https://arxiv.org/abs/TBA)  *Open J.
-Astrophys.* (accepted), arXiv:TBA
-
-0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
-stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
-Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
-
-0. L. Meng, P.C.C. Freire, K.  Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, J.M.
-Cordes, H. Hu, J. Jiang, E.  Parent, L. Shao, I.H. Stairs, M. Xue, A. Brazier,
-F. Camilo, D.J.  Champion, S. Chatterjee, F. Crawford, Z. Fang, Q. Fu, Y. Guo,
-J.W.T. Hessels, M.  MacLaughlin, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.
-Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of
-general relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
-(accepted), arXiv:2510.12506
-
-0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
-A$^\ast$](https://arxiv.org/abs/2508.09931), *J. Phys. Conf. Ser.* (accepted),
-arXiv:2508.09931
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
@@ -211,25 +230,6 @@ next-generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130),
 {: reversed="reversed"}
 
 ##### Collaboration Papers
-
-0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
-Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
-
-0. A.G. Abac, *et al.*, [GWTC-4.0: An Introduction to Version 4.0 of the
-Gravitational-Wave Transient Catalog](https://www.arxiv.org/abs/2508.18080),
-*Astrophys. J. Lett.* (accepted), arXiv:2508.18080
-
-0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
-the first part of the fourth LIGO-Virgo-KAGRA observing
-run](https://arxiv.org/abs/2507.12374), *Phys. Rev. D* (accepted), arXiv:2507.12374
-
-0. K. Akiyama, *et al.*, [Horizon-scale variability of from 2017-2021 EHT
-observations](https://arxiv.org/abs/2509.24593),
-*Astron. & Astrophys.* (accepted), arXiv:2509.24593
-
-0. A. Abac, *et al.*, [The Science of the Einstein
-Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
-(accepted), arXiv:2503.12263
 
 0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
 with eXTP](https://arxiv.org/abs/2506.08368), *Sci. China Phys. Mech. Astron.*
