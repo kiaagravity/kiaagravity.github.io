@@ -109,6 +109,11 @@ observations](https://arxiv.org/abs/2509.24593),
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
 (accepted), arXiv:2503.12263
 
+0. A.G. Abac, *et al.*, [All-sky search for continuous gravitational-wave
+signals from unknown neutron stars in binary systems in the first part of the
+fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2511.16863),
+arXiv:2511.16863
+
 0. A.G. Abac, *et al.*, [Cosmological and High Energy Physics implications from
 gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a
 runs](https://arxiv.org/abs/2510.26848), arXiv:2510.26848
