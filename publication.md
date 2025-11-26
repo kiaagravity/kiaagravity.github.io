@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. Z. Hu, D.D. Doneva, S.S. Yazadjiev, L. Shao, [Quasi-Normal Mode Ringing of
+Binary Black Hole Mergers in Scalar-Gauss-Bonnet
+Gravity](https://arxiv.org/abs/2511.20301), arXiv:2511.20301
+
 0. F. Abbate, S. Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough,
 E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.
 Ransom, G. Saowanit, L. Shao, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
