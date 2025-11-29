@@ -95,6 +95,9 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
+signal observed with a single detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), arXiv:2509.07348
+
 0. A.G. Abac, *et al.*, [Black Hole Spectroscopy and Tests of General Relativity
 with GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* (accepted), arXiv:2509.08099
 
@@ -130,10 +133,6 @@ arXiv:2510.27022
 0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
 Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
 Run](https://arxiv.org/abs/2510.17487), arXiv:2510.17487
-
-0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
-signal observed with a single detector](https://arxiv.org/abs/2509.07348),
-arXiv:2509.07348
 
 0. A.G. Abac, *et al.*, [Directed searches for gravitational waves from
 ultralight vector boson clouds around merger remnant and galactic black holes
