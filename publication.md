@@ -52,7 +52,7 @@ framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 
 0. Z. Hu, D.D. Doneva, Z.  Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, L.
 Shao, [Ringdown mode amplitudes of charged binary black
-holes](https://arxiv.org/abs/2509.07111), arXiv:2509.07111
+holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* (accepted), arXiv:2509.07111
 
 0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
 overlapping gravitational-wave signals: detector
