@@ -95,6 +95,10 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
+Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
+Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:2508.20721
+
 0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
 signal observed with a single detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), arXiv:2509.07348
 
@@ -146,10 +150,6 @@ run](https://arxiv.org/abs/2509.07352), arXiv:2509.07352
 0. A.G. Abac, *et al.*, [GWTC-4.0: Constraints on the Cosmic Expansion Rate and
 Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348),
 arXiv:2509.04348
-
-0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
-Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
-Run](https://www.arxiv.org/abs/2508.20721), arXiv:2508.20721
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
