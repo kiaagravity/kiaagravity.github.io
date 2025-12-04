@@ -105,8 +105,7 @@ with Gravitational-Wave Emission and High-Energy
 Leakage](https://arxiv.org/abs/2508.18940), arXiv:2508.18940
 
 0. Y. Kang, J.-P. Zhu, L. Shao, **J. Zhong (钟佳航)**, **J. Zhang (张景灏)**, B.
-Zhang, [Kilonova emission from white dwarf–neutron star mergers:
-viewing-angle-dependent spectra and lightcurves](TBA), submitted
+Zhang, [Mini-supernovae from white dwarf--neutron star mergers: Viewing-angle-dependent spectra and lightcurves](TBA), submitted
 
 0. **W. Liu (刘文帅)**, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior
 construction for gravitational-wave catalogs with the Kolmogorov-Arnold
