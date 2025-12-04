@@ -38,10 +38,6 @@ general relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
 A$^\ast$](https://arxiv.org/abs/2508.09931), *J. Phys. Conf. Ser.* (accepted),
 arXiv:2508.09931
 
-0. W. Liu, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior construction for
-gravitational-wave catalogs with the Kolmogorov-Arnold
-network](https://arxiv.org/abs/2508.18698), *Phys. Rev. D* (accepted), arXiv:2508.18698
-
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
 Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),
 arXiv:2510.22573
@@ -184,6 +180,10 @@ Scientific Publishing, 2025), p. 375
 
 0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
 gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* 991 (2025) 108
+
+0. W. Liu, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior construction for
+gravitational-wave catalogs with the Kolmogorov-Arnold
+network](https://arxiv.org/abs/2508.18698), *Phys. Rev. D* 112 (2025) 122003
 
 0. Y. Kang, J.-P. Zhu, Y.-H. Yang, Z. Wang, E. Troja, B. Zhang, L. Shao, Z. Li,
 [Shared Properties of Merger-driven Long-duration Gamma-Ray
