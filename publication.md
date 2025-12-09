@@ -14,7 +14,7 @@ permalink: /publication/
 
 0. Y. Kang, J.-P. Zhu, L. Shao, J. Zhong, J. Zhang, B. Zhang, [Mini-supernovae
 from white dwarf--neutron star mergers: Viewing-angle-dependent spectra and
-lightcurves](https://arxiv.org/abs/2512.04378), arXiv:2512.04378
+lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
 
 0. Z. Hu, D.D. Doneva, S.S. Yazadjiev, L. Shao, [Quasi-Normal Mode Ringing of
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet

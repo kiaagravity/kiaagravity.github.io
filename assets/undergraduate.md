@@ -107,7 +107,7 @@ Leakage](https://arxiv.org/abs/2508.18940), arXiv:2508.18940
 0. Y. Kang, J.-P. Zhu, L. Shao, **J. Zhong (钟佳航)**, **J. Zhang (张景灏)**, B.
 Zhang, [Mini-supernovae from white dwarf--neutron star mergers:
 Viewing-angle-dependent spectra and
-lightcurves](https://arxiv.org/abs/2512.04378), arXiv:2512.04378
+lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
 
 0. **W. Liu (刘文帅)**, Y. Dong, Z. Wang, L. Shao, [Lightweight posterior
 construction for gravitational-wave catalogs with the Kolmogorov-Arnold
