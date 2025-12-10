@@ -30,14 +30,6 @@ Astrophys.* (accepted), arXiv:TBA
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
 Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
 
-0. L. Meng, P.C.C. Freire, K.  Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, J.M.
-Cordes, H. Hu, J. Jiang, E.  Parent, L. Shao, I.H. Stairs, M. Xue, A. Brazier,
-F. Camilo, D.J.  Champion, S. Chatterjee, F. Crawford, Z. Fang, Q. Fu, Y. Guo,
-J.W.T. Hessels, M.  MacLaughlin, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.
-Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of
-general relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.*
-(accepted), arXiv:2510.12506
-
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A$^\ast$](https://arxiv.org/abs/2508.09931), *J. Phys. Conf. Ser.* (accepted),
 arXiv:2508.09931
@@ -224,6 +216,13 @@ L. Shao, S.M. Ransom, D.R. Lorimer, D. Yin, Y. Dai, K. Liu, L.
 Wang, Y. Wang, Z. Zhang, Z. Feng, B. Li, M. Li, T. Liu, Y. Li, B. Peng, Y. Pan,
 Y. Wu, L. Zhang,  X. Zhang, P. Jiang, [The FAST Globular Cluster Pulsar Survey
 (GC FANS)](https://arxiv.org/abs/2506.07970), *Astrophys. J. Suppl.* 279 (2025) 51
+
+0. L. Meng, P.C.C. Freire, K.  Stovall, N. Wex, X. Miao, W. Zhu, M. Kramer, J.M.
+Cordes, H. Hu, J. Jiang, E.  Parent, L. Shao, I.H. Stairs, M. Xue, A. Brazier,
+F. Camilo, D.J.  Champion, S. Chatterjee, F. Crawford, Z. Fang, Q. Fu, Y. Guo,
+J.W.T. Hessels, M.  MacLaughlin, C. Miao, J. Niu, Z. Wu, J. Yao, M. Yuan, Y.
+Yue, C. Zhang, [The double neutron star PSR J1946+2052. I. Masses and tests of
+general relativity](https://arxiv.org/abs/2510.12506), *Astron. & Astrophys.* 704 (2025) A153
 
 0. D. Ayzenberg, L. Blackburn, R. Brito, S. Britzen, A.E. Broderick, R.
 Carballo-Rubio, V. Cardoso, A. Chael, K. Chatterjee, Y. Chen, P.V.P. Cunha, H.
