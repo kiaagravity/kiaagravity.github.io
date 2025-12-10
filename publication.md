@@ -156,7 +156,7 @@ arXiv:2508.18081
 
 0. A.G. Abac, *et al.*, [All-sky search for long-duration gravitational-wave
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
-run](https://arxiv.org/abs/2507.12282), arXiv:2507.12282
+run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* (accepted), arXiv:2507.12282
 
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
