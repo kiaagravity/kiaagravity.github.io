@@ -87,6 +87,10 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 
 ##### Collaboration Papers
 
+0. Saurabh, *et al.*, [Probing jet base emission of M87* with the 2021 Event
+Horizon Telescope observations](https://arxiv.org/abs/2512.08970),
+*Astron. & Astrophys.* (accepted), arXiv:2512.08970
+
 0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
 Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
 Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:2508.20721
