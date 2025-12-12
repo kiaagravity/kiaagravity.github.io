@@ -57,8 +57,8 @@ Leakage](https://arxiv.org/abs/2508.18940), arXiv:2508.18940
 
 0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
 Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
-transients in the 10 pc region around Sgr
-A$^\ast$](https://arxiv.org/abs/2507.08534), arXiv:2507.08534
+transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
+*Astron. & Astrophys.* (accepted), arXiv:2507.08534
 
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
