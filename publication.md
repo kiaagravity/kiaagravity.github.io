@@ -104,10 +104,6 @@ with GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* (accepted),
 0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
 Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
 
-0. A.G. Abac, *et al.*, [GWTC-4.0: An Introduction to Version 4.0 of the
-Gravitational-Wave Transient Catalog](https://www.arxiv.org/abs/2508.18080),
-*Astrophys. J. Lett.* (accepted), arXiv:2508.18080
-
 0. K. Akiyama, *et al.*, [Horizon-scale variability of from 2017-2021 EHT
 observations](https://arxiv.org/abs/2509.24593),
 *Astron. & Astrophys.* (accepted), arXiv:2509.24593
@@ -253,6 +249,10 @@ with eXTP](https://arxiv.org/abs/2506.08368), *Sci. China Phys. Mech. Astron.*
 0. A. Li, *et al.*, [Dense Matter in Neutron Stars with
 eXTP](https://arxiv.org/abs/2506.08104), *Sci. China Phys. Mech. Astron.* 68
 (2025) 119503
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: An Introduction to Version 4.0 of the
+Gravitational-Wave Transient Catalog](https://www.arxiv.org/abs/2508.18080),
+*Astrophys. J. Lett.* 995 (2025) L18
 
 0. A.G. Abac, *et al.*, [All-sky search for short gravitational-wave bursts in
 the first part of the fourth LIGO-Virgo-KAGRA observing
