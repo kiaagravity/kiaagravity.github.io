@@ -53,7 +53,7 @@ network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
 0. J. Zhang, Y. Kang, J. Zhong, H.-B. Li, L.-D. Liu, Y.-W. Yu, L.  Shao,
 [Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
 Gravitational-Wave Emission and High-Energy
-Leakage](https://arxiv.org/abs/2508.18940), arXiv:2508.18940
+Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys* (accepted), arXiv:2508.18940
 
 0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
 Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and

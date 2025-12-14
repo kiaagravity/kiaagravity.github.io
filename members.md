@@ -205,6 +205,7 @@ permalink: /member/
 | &#9794;  **Zhao Li** | **李钊** | Postdoc | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Qiang Wang** | **王强** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yifan Liu** | **刘一凡** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+| &#9794;  **Yujin Tao** | **陶昱锦** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
 
 <p></p>
 
