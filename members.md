@@ -414,7 +414,7 @@ permalink: /member/
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Pinning Mechanism and Continuous Gravitational Waves* (2025) |
 | &#9830; **Deng, Jingyuan** (**邓景元**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
-| &#9830; **Dong, Yiming** (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Dong, Yiming**](https://orcid.org/0000-0001-5371-4697) (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
 | &#9830; **Du, Rong** (**杜嵘**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Analyzing the Systematic Bias of Measuring Cosmological Parameters with Gravitational-Wave Sirens* (PKU'24) |
@@ -428,11 +428,11 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
 | &#9830; **Guo, Yuxin** (**郭雨欣**) &#9830; <small>School of Space and Environment, Beihang University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Estimating Black Hole Merger Parameters Based on Numerical Relativity Waveforms* (BUAA'24); co-advisor: Yan Liu |
-| &#9830; **Hu, Jierui** (**胡杰瑞**) &#9830; <small>School of Physics, Peking University</small> | 
+| &#9830; [**Hu, Jierui**](https://inspirehep.net/authors/2940156) (**胡杰瑞**) &#9830; <small>School of Physics, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Studying gravitational-wave polarizations* (2023)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Testing Lorentz Symmetry with Pulsar Timing Arrays* (PKU'24) |
 | &#9830; [**Hu, Zexin**](https://orcid.org/0000-0002-3081-0659) (**胡泽昕**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Neutron Star Structures in Scalar-tensor Gravity* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole-pulsar Timing Model: Numerical implementation and parameter estimation* (PKU'22) |
-| &#9830; **Ji, Peixiang** (**姬佩祥**) &#9830; <small> Nankai University &#8614; School of Physics, Peking University</small> |
+| &#9830; [**Ji, Peixiang**](https://orcid.org/0009-0007-1101-5020) (**姬佩祥**) &#9830; <small> Nankai University &#8614; School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Cosmology in the Scalar-tensor Theory of Gravity* (Nankai'22) <!-- co-advisor: Liu Zhao --> |
 | &#9830; [**Kang, Yacheng**](https://astrokang.github.io/) (**康亚城**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Exoplanets with Space-based Gravitational-wave Detectors* (2021)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Multi-messenger Early-warning Detections of Binary Neutron Star Mergers* (PKU'22)  |
@@ -468,7 +468,7 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Unveiling Physical Insights from Gravitational Waves* (2024)</small> |
 | &#9830; [**Mai, Zhan-Feng**](https://zhanfengmai.github.io/) (**麦展风**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Stability Analysis for Bumblebee Black Holes* (2024)</small> |
-| &#9830; **Miao, Xueli** (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Miao, Xueli**](https://www.mpifr-bonn.mpg.de/person/136271/144762) (**缪雪丽**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Gravity Theories with Binary Pulsar Systems* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; **Pan, Yichen** (**潘奕晨**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Application of Artificial Intelligence Technology in Search for Pulsar and FRB Signals* (PKU'24); co-advisor: W. Zhu |
@@ -490,7 +490,7 @@ permalink: /member/
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spin dynamics of black hole - pulsar systems* (2023) |
 | &#9830; **Wang, Yichen** (**王弋尘**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Dark-matter Particles with Neutron Stars* (2020) |
-| &#9830; **Wang, Zihang** (**王子航**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Wang, Zihang**](https://inspirehep.net/authors/2064380) (**王子航**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *Axion as a Dark Matter Candidate* (2023) |
 | &#9830; [**Wang, Ziming**](https://orcid.org/0000-0002-8742-8397) (**王子铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Testing Spacetime Symmetries with Gravitational Waves* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Anatomy of Parameter-estimation Biases in Overlapping Gravitational-wave Signals* (PKU'23) |
@@ -500,11 +500,11 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Neutron Star Structure in Alternative Gravitational Theories* (2021)</small><br><small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Compact Objects in Alternative Theories of Gravity* (2023) |
 | &#9830; **Xu, Yiming** (**徐一鸣**) &#9830; <small>School of Earth and Space Sciences, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Classification of Gravitational Wave Detector Glitches with Machine Learning* (PKU'24) |
-| &#9830; **Yang, Lirui** (**杨力睿**) &#9830; <small>Cambridge University</small> |
+| &#9830; [**Yang, Lirui**](https://inspirehep.net/authors/2896567) (**杨力睿**) &#9830; <small>Cambridge University</small> |
 | <small><span style="background-color:#CC0000"><font color="white"><b>VS</b></font></span> *Compact Objects in Alternative Gravity Theories* (2023 & 2025) |
 | &#9830; **Yang, Yibo** (**杨奕博**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Probing Axion with Binary Pulsars* (2025) |
-| &#9830; **Yang, Yiqiu** (**杨一秋**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Yang, Yiqiu**](https://inspirehep.net/authors/2911516) (**杨一秋**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spectral Instability of Black Holes* (2024)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Black Hole Resonance between Quasinormal Modes* (PKU'25) |
 | &#9830; [**Yim, Garvin**](https://garvinyim.wixsite.com/home) (**嚴家榮**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravitational Waves from Pulsar Glitches and Antiglitches* (2024); co-advisor: Renxin Xu</small> |
@@ -522,7 +522,7 @@ permalink: /member/
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; [**Zhao, Xinmiao**](https://github.com/XinmiaoZhao) (**赵鑫淼**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (PKU'21) |
-| &#9830; **Zhou, Lihang** (**周立杭**) &#9830; <small>School of Physics, Peking University</small> | 
+| &#9830; [**Zhou, Lihang**](https://inspirehep.net/authors/2723152) (**周立杭**) &#9830; <small>School of Physics, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Superradiant instabilities of massive bosons* (2023)<br><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Forward Ray Tracing Method for Kerr Black Hole Strong Lensing* (PKU'24) |
 
 <script type="text/x-mathjax-config">
