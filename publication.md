@@ -68,7 +68,8 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 
 0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
-TianQin](https://arxiv.org/abs/2502.20138), arXiv:2502.20138
+TianQin](https://arxiv.org/abs/2502.20138), **Living Rev.  Relativ.**
+(accepted), arXiv:2502.20138
 
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
