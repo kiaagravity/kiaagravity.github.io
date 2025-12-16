@@ -148,7 +148,7 @@ Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Updating the Gravitational-Wave Transient
 Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA
-Observing Run](https://www.arxiv.org/abs/2508.18082), arXiv:2508.18082
+Observing Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* (accepted), arXiv:2508.18082
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Methods for Identifying and Characterizing
 Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081),
