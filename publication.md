@@ -20,13 +20,6 @@ lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet
 Gravity](https://arxiv.org/abs/2511.20301), arXiv:2511.20301
 
-0. V. Venkatraman Krishnan, L. Shao, V. Balakrishnan, M.  Colom i Bernadich, A.
-Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu, Z.
-Hu, J. Kunz, M. Kramer, K. Liu, M.E. Lower, X. Miao, A.  Possenti, D.  Perrodin,
-D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, [Testing gravity with binary pulsars in the SKA
-era](https://www.arxiv.org/abs/2512.16161),  *Open J.  Astrophys.* (accepted),
-arXiv:2512.16161
-
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
 Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
@@ -178,6 +171,12 @@ arXiv:2508.03392
 stars](https://doi.org/10.1142/9789819800643_0019), in
 *Pulsar Astronomy: Unveiling Compact Stars With China's New Facilities* (World
 Scientific Publishing, 2025), p. 375
+
+0. V. Venkatraman Krishnan, L. Shao, V. Balakrishnan, M.  Colom i Bernadich, A.
+Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu, Z.
+Hu, J. Kunz, M. Kramer, K. Liu, M.E. Lower, X. Miao, A.  Possenti, D.  Perrodin,
+D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, [Testing gravity with binary pulsars in the SKA
+era](https://www.arxiv.org/abs/2512.16161),  *Open J. Astrophys.* 8 (2025) 154246
 
 0. Z. Wang, Z. Hu, L. Shao, [Rigorous analytic solution to the
 gravitational-wave overlapping event rates](https://arxiv.org/abs/2501.05218), *Astrophys. J.* 991 (2025) 108
