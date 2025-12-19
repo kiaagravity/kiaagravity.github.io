@@ -27,13 +27,6 @@ D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, [Testing gravity with binary pul
 era](https://www.arxiv.org/abs/2512.16161),  *Open J.  Astrophys.* (accepted),
 arXiv:2512.16161
 
-0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P. Demorest, G. Desvignes,
-R.P. Eatough, E. Hackmann, Z.  Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I.
-Rammala-Zitha, S.  Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
-Wongphechauxsorn, W. Zhu, [Galactic Centre Pulsars with the
-SKAO](https://www.arxiv.org/abs/2512.16155),  *Open J.
-Astrophys.* (accepted), arXiv:2512.16155
-
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
 Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
@@ -246,6 +239,13 @@ Tahura, A.  Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X.
 Xue, K.  Yakut, H. Yang, Z. Younsi, [Fundamental physics opportunities with the
 next-generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130), 
 *Living Rev. Relativ.* 28 (2025) 4
+
+0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P. Demorest, G. Desvignes,
+R.P. Eatough, E. Hackmann, Z.  Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I.
+Rammala-Zitha, S.  Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
+Wongphechauxsorn, W. Zhu, [Galactic Centre Pulsars with the
+SKAO](https://www.arxiv.org/abs/2512.16155),  *Open J.
+Astrophys.* 8 (2025) 154252
 
 0. 邵立晶, [探知无界：天文学中的基础物理](http://friendshao.github.io/docs/2025_shao_cover.png), 北京大学出版社 (2025)
 
