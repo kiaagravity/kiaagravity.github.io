@@ -20,18 +20,20 @@ lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet
 Gravity](https://arxiv.org/abs/2511.20301), arXiv:2511.20301
 
-0. V. Venkatraman Krishnan, L. Shao, V. Balakrishnan, M. Colom i Bernadich,
-A. Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
-Z. Hu, J. Kunz, M. Kramer, K. Liu, M.E. Lower, X. Miao, A. Possenti, D.
-Perrodin, D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, [Testing gravity with
-binary pulsars in the SKA era](https://arxiv.org/abs/TBA),  *Open J.
-Astrophys.* (accepted), arXiv:TBA
+0. V. Venkatraman Krishnan, L. Shao, V. Balakrishnan, M.  Colom i Bernadich, A.
+Carelo, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu, Z.
+Hu, J. Kunz, M. Kramer, K. Liu, M.E. Lower, X. Miao, A.  Possenti, D.  Perrodin,
+D.S. Pillay, S. Ransom, I. Stairs, B. Stappers, SKA Pulsar Science Working
+Group, [Testing gravity with binary pulsars in the SKA
+era](https://www.arxiv.org/abs/2512.16161),  *Open J.  Astrophys.* (accepted),
+arXiv:2512.16161
 
-0. F. Abbate, S. Chatterjee, J. Cordes, P. Demorest, G. Desvignes, R.P. Eatough,
-E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I. Rammala-Zitha, S.
-Ransom, G. Saowanit, L. Shao, P. Torne, R. Wharton, J. Wongphechauxsorn, W. Zhu,
-[Galactic Centre Pulsars with the SKA](https://arxiv.org/abs/TBA),  *Open J.
-Astrophys.* (accepted), arXiv:TBA
+0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P. Demorest, G. Desvignes,
+R.P. Eatough, E. Hackmann, Z.  Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I.
+Rammala-Zitha, S.  Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
+Wongphechauxsorn, W. Zhu, SKAO Pulsar Science Working Group, [Galactic Centre Pulsars with the
+*SKAO](https://www.arxiv.org/abs/2512.16155),  *Open J.
+Astrophys.* (accepted), arXiv:2512.16155
 
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
 stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
