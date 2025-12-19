@@ -32,7 +32,7 @@ arXiv:2512.16161
 R.P. Eatough, E. Hackmann, Z.  Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I.
 Rammala-Zitha, S.  Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
 Wongphechauxsorn, W. Zhu, SKAO Pulsar Science Working Group, [Galactic Centre Pulsars with the
-*SKAO](https://www.arxiv.org/abs/2512.16155),  *Open J.
+SKAO](https://www.arxiv.org/abs/2512.16155),  *Open J.
 Astrophys.* (accepted), arXiv:2512.16155
 
 0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
