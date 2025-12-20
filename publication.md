@@ -20,10 +20,6 @@ lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet
 Gravity](https://arxiv.org/abs/2511.20301), arXiv:2511.20301
 
-0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
-stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
-Cosmol. Astropart. Phys.* (accepted), arXiv:2411.18647
-
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> (accepted),
 arXiv:2508.09931
@@ -238,6 +234,10 @@ Tahura, A.  Tamar, P. Tiede, F.H. Vincent, L. Visinelli, Z. Wang, M. Wielgus, X.
 Xue, K.  Yakut, H. Yang, Z. Younsi, [Fundamental physics opportunities with the
 next-generation Event Horizon Telescope](http://arxiv.org/abs/2312.02130), 
 *Living Rev. Relativ.* 28 (2025) 4
+
+0. J. Bramante, K. Mack, N. Raj, L. Shao, N. Tyagi, [Seeking the nearest neutron
+stars using a new local electron density map](https://arxiv.org/abs/2411.18647), *J.
+Cosmol. Astropart. Phys.* 12 (2025) 051
 
 0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P. Demorest, G. Desvignes,
 R.P. Eatough, E. Hackmann, Z.  Hu, M.  Kramer, J. Lazio, K.J. Lee, K. Liu, I.
