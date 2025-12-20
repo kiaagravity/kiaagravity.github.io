@@ -287,7 +287,7 @@ run](https://arxiv.org/abs/2501.01495), *Astrophys. J.* 983 (2025) 99
 0. R. Abbott, *et al.*, [Tests of general relativity with
 GWTC-3](https://arxiv.org/abs/2112.06861), *Phys. Rev. D* 112 (2025) 084080
 
-0. K. Akiyama, *et al.* (EHT Collaboration), [Horizon-scale variability of M87* from
+0. K. Akiyama, *et al.*, [Horizon-scale variability of M87* from
 2017-2021 EHT observations](https://arxiv.org/abs/2509.24593),
 *Astron. & Astrophys.* 704 (2025) A91
 
