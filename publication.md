@@ -78,6 +78,9 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
+pulsar glitch](https://arxiv.org/abs/2512.17990), arXiv:2512.17990
+
 0. A.G. Abac, *et al.*, [GWTC-4.0: Searches for Gravitational-Wave Lensing
 Signatures](https://arxiv.org/abs/2512.16347), arXiv:2512.16347
 
