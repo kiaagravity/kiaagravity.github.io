@@ -32,10 +32,6 @@ arXiv:2510.22573
 relations from gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 
-0. Z. Hu, D.D. Doneva, Z.  Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, L.
-Shao, [Ringdown mode amplitudes of charged binary black
-holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* (accepted), arXiv:2509.07111
-
 0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
 overlapping gravitational-wave signals: detector
 network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
@@ -201,6 +197,10 @@ stars in tight binaries](https://arxiv.org/abs/2410.09540), *Phys. Rev. D* 111 (
 0. W.-F. Feng, L. Shao, [Galactic double neutron stars as dual-line
 gravitational-wave sources: Prospects with LISA and Cosmic
 Explorer](https://arxiv.org/abs/2505.05900), *Phys. Rev. D* 112 (2025) 043023
+
+0. Z. Hu, D.D. Doneva, Z.  Wang, V.  Paschalidis, G. Bozzola, S.S. Yazadjiev, L.
+Shao, [Ringdown mode amplitudes of charged binary black
+holes](https://arxiv.org/abs/2509.07111), *Phys. Rev. D* 112 (2025) 124071
 
 0. H.-T. Wang, Z. Wang, Y. Dong, G. Yim, L. Shao, [Reanalyzing the ringdown
 signal of GW150914 using the $F$-statistic
