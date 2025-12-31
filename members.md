@@ -183,7 +183,7 @@ permalink: /member/
 | &#9792;  **Han Wang** | **王晗** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
+| &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student <small>(visiting Durham)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Yiming Dong** | **董益铭** | PhD Student <small>(visiting Alibaba)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
