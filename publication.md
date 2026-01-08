@@ -34,7 +34,7 @@ framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 
 0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
 overlapping gravitational-wave signals: detector
-network](https://arxiv.org/abs/2509.07737), arXiv:2509.07737
+network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* (accepted), arXiv:2509.07737
 
 0. J. Zhang, Y. Kang, J. Zhong, H.-B. Li, L.-D. Liu, Y.-W. Yu, L.  Shao,
 [Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
