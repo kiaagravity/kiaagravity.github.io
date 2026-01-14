@@ -154,6 +154,11 @@ run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* (accepted), arXiv:2507.12
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
 arXiv:2508.03392
+
+0. J.L. Gómez, *et al.*, [Spatially resolved polarization swings in the
+supermassive binary black hole candidate OJ 287 with first Event Horizon
+Telescope observations](https://doi.org/10.1051/0004-6361/202555831), *Astron. &
+Astrophys.* 705 (2026) A23
 {: reversed="reversed"}
 
 ---
