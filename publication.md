@@ -36,11 +36,6 @@ framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 overlapping gravitational-wave signals: detector
 network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* (accepted), arXiv:2509.07737
 
-0. J. Zhang, Y. Kang, J. Zhong, H.-B. Li, L.-D. Liu, Y.-W. Yu, L.  Shao,
-[Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
-Gravitational-Wave Emission and High-Energy
-Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys* (accepted), arXiv:2508.18940
-
 0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
 Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
 transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
@@ -57,13 +52,18 @@ neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
 TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.*
 (accepted), arXiv:2502.20138
 
-0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
-for gravitational-wave ringdown analysis with multiple
-modes](http://arxiv.org/abs/2502.01093), arXiv:2502.01093
-
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
+
+0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
+for gravitational-wave ringdown analysis with multiple
+modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published
+
+0. J. Zhang, Y. Kang, J. Zhong, H.-B. Li, L.-D. Liu, Y.-W. Yu, L.  Shao,
+[Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
+Gravitational-Wave Emission and High-Energy
+Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys* 26 (2026) 035013
 
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
