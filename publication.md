@@ -125,7 +125,7 @@ arXiv:2510.27022
 
 0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
 Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
-Run](https://arxiv.org/abs/2510.17487), arXiv:2510.17487
+Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17487
 
 0. A.G. Abac, *et al.*, [Directed searches for gravitational waves from
 ultralight vector boson clouds around merger remnant and galactic black holes
