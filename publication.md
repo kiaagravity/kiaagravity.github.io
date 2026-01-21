@@ -74,6 +74,10 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 
 ##### Collaboration Papers
 
+0. B. Georgiev, *et al.*, [Locating the missing large-scale
+emission in the jet of M87* with short EHT
+baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
+
 0. R. Abbasi, *et al.*, [Deep Search for Joint Sources of Gravitational Waves
 and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO
 and Virgo](https://arxiv.org/abs/2601.07595), arXiv:2601.07595
