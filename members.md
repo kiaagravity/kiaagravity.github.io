@@ -57,7 +57,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Dr. Hongbo Li</a> (李洪波)</b></h5>
-          <p class="teamtitle"><small>Visiting KIAA Postdoc</small></p>
+          <p class="teamtitle"><small>Joint KIAA Postdoc</small></p>
           </center>
         </div>
       </div>
@@ -179,7 +179,7 @@ permalink: /member/
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9794;  **Hongbo Li** | **李洪波** | Visiting KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| &#9794;  **Hongbo Li** | **李洪波** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9792;  **Han Wang** | **王晗** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
