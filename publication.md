@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
+[Novae breves from magnetar giant flares: Potential probes of neutron star
+crusts](https://arxiv.org/abs/TBA), arXiv:TBA
+
 0. Y. Kang, J.-P. Zhu, L. Shao, J. Zhong, J. Zhang, B. Zhang, [Mini-supernovae
 from white dwarf--neutron star mergers: Viewing-angle-dependent spectra and
 lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
