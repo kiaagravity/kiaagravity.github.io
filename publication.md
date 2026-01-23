@@ -36,10 +36,6 @@ arXiv:2510.22573
 relations from gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 
-0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
-overlapping gravitational-wave signals: detector
-network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* (accepted), arXiv:2509.07737
-
 0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
 Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
 transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
@@ -63,6 +59,10 @@ arXiv:2312.01406
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published
+
+0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
+overlapping gravitational-wave signals: detector
+network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* 113 (2026) 023044
 
 0. J. Zhang, Y. Kang, J. Zhong, H.-B. Li, L.-D. Liu, Y.-W. Yu, L.  Shao,
 [Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
