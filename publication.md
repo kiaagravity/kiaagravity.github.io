@@ -22,7 +22,7 @@ lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted
 
 0. Z. Hu, D.D. Doneva, S.S. Yazadjiev, L. Shao, [Quasi-Normal Mode Ringing of
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet
-Gravity](https://arxiv.org/abs/2511.20301), arXiv:2511.20301
+Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* (accepted), arXiv:2511.20301
 
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> (accepted),
