@@ -46,7 +46,8 @@ on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 
 0. Z. Hu, Y. Gao, L. Shao, [Linear analysis of I-C-Love universal relations for
-neutron stars](https://arxiv.org/abs/2505.13110), arXiv:2505.13110
+neutron stars](https://arxiv.org/abs/2505.13110), *Phys.  Rev. D* (accepted),
+arXiv:2505.13110
 
 0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
 TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.*
