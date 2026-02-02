@@ -93,10 +93,6 @@ pulsar glitch](https://arxiv.org/abs/2512.17990), arXiv:2512.17990
 0. A.G. Abac, *et al.*, [GWTC-4.0: Searches for Gravitational-Wave Lensing
 Signatures](https://arxiv.org/abs/2512.16347), arXiv:2512.16347
 
-0. Saurabh, *et al.*, [Probing jet base emission of M87* with the 2021 Event
-Horizon Telescope observations](https://arxiv.org/abs/2512.08970),
-*Astron. & Astrophys.* (accepted), arXiv:2512.08970
-
 0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
 Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
 Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:2508.20721
@@ -163,6 +159,10 @@ arXiv:2508.03392
 
 0. A.G. Abac, *et al.*, [Black Hole Spectroscopy and Tests of General Relativity
 with GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* 136 (2026) 041403
+
+0. Saurabh, *et al.*, [Probing jet base emission of M87* with the 2021 Event
+Horizon Telescope observations](https://arxiv.org/abs/2512.08970),
+*Astron. & Astrophys.* 706 (2026) A27
 
 0. J.L. Gómez, *et al.*, [Spatially resolved polarization swings in the
 supermassive binary black hole candidate OJ 287 with first Event Horizon
