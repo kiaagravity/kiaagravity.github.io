@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR training instability
+through the lens of objective-level hacking](https://arxiv.org/abs/2602.01103),
+arXiv:2602.01103
+
 0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
 [Novae breves from magnetar giant flares: Potential probes of neutron star
 crusts](https://arxiv.org/abs/TBA), arXiv:TBA
