@@ -20,10 +20,6 @@ arXiv:2602.01103
 [Novae breves from magnetar giant flares: Potential probes of neutron star
 crusts](https://arxiv.org/abs/TBA), arXiv:TBA
 
-0. Y. Kang, J.-P. Zhu, L. Shao, J. Zhong, J. Zhang, B. Zhang, [Mini-supernovae
-from white dwarf--neutron star mergers: Viewing-angle-dependent spectra and
-lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
-
 0. Z. Hu, D.D. Doneva, S.S. Yazadjiev, L. Shao, [Quasi-Normal Mode Ringing of
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet
 Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* (accepted), arXiv:2511.20301
@@ -64,6 +60,10 @@ arXiv:2312.01406
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published
+
+0. Y. Kang, J.-P. Zhu, L. Shao, J. Zhong, J. Zhang, B. Zhang, [Mini-supernovae
+from white dwarf--neutron star mergers: Viewing-angle-dependent spectra and
+lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* 706 (2026) A106
 
 0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
 overlapping gravitational-wave signals: detector

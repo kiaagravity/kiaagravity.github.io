@@ -106,7 +106,7 @@ Bayesian framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 0. Y. Kang, J.-P. Zhu, L. Shao, **J. Zhong (钟佳航)**, **J. Zhang (张景灏)**, B.
 Zhang, [Mini-supernovae from white dwarf--neutron star mergers:
 Viewing-angle-dependent spectra and
-lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* (accepted), arXiv:2512.04378
+lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* 706 (2026) A106
 
 0. **J. Zhang (张景灏)**, Y. Kang, **J. Zhong (钟佳航)**, H.-B. Li, L.-D. Liu, Y.-W.
 Yu, L. Shao, [Lightcurve Features of Magnetar-Powered Superluminous Supernovae
