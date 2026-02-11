@@ -36,11 +36,6 @@ arXiv:2510.22573
 relations from gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 
-0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
-Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
-transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
-<i>Astron. & Astrophys.</i> (accepted), arXiv:2507.08534
-
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
@@ -77,6 +72,11 @@ Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys* 26 (2026) 0
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
+Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
+transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
+<i>Astron. & Astrophys.</i> 706 (2026) A113
 {: reversed="reversed"}
 
 <!-- 0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), *《天文学进展》*, in press -->
