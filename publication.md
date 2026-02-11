@@ -150,8 +150,7 @@ Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA
 Observing Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* (accepted), arXiv:2508.18082
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Methods for Identifying and Characterizing
-Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081),
-arXiv:2508.18081
+Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* (accepted), arXiv:2508.18081
 
 0. A.G. Abac, *et al.*, [All-sky search for long-duration gravitational-wave
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
