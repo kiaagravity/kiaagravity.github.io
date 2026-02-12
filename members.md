@@ -63,13 +63,28 @@ permalink: /member/
       </div>
     </div>
 
+<!-- 
+  <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://inspirehep.net/authors/2634373">Sulagna Bhattacharya</a></b></h5>
+          <p class="teamtitle"><small>Incoming KIAA Fellow</small></p>
+          </center>
+        </div>
+      </div>
+    </div> 
+-->
+
   <div class="column2">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Wang_Han.png" alt="" style="width:100%; height:210px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://humphreywang.github.io/">Dr. Han Wang</a> (王晗)</b></h5>
+          <h5><b><a href="https://humphreywang.github.io/"></a> (王晗)</b></h5>
           <p class="teamtitle"><small>Joint KIAA Postdoc</small></p>
           </center>
         </div>
