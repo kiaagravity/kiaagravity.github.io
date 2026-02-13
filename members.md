@@ -63,7 +63,6 @@ permalink: /member/
       </div>
     </div>
 
-<!-- 
   <div class="column2">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:210px">
@@ -76,7 +75,6 @@ permalink: /member/
         </div>
       </div>
     </div> 
--->
 
   <div class="column2">
       <div class="card">
@@ -189,13 +187,14 @@ permalink: /member/
 
 ---
 
-## Members <small><small>(19 ppl.)</small></small>
+## Members <small><small>(20 ppl.)</small></small>
 
 | **NAME** | | **STATUS** | **AFFILIATION** |
 | &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9794;  **Hongbo Li** | **李洪波** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
 | &#9792;  **Han Wang** | **王晗** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
+| &#9792;  **Sulagna Bhattacharya** | | Incoming KIAA Fellow | [TIFR](https://www.tifr.res.in/) |
 | &#9794;  **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
 | &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student <small>(visiting Durham)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
