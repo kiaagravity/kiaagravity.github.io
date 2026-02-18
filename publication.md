@@ -24,10 +24,6 @@ arXiv:2602.01103
 [Novae breves from magnetar giant flares: Potential probes of neutron star
 crusts](https://arxiv.org/abs/TBA), arXiv:TBA
 
-0. Z. Hu, D.D. Doneva, S.S. Yazadjiev, L. Shao, [Quasi-Normal Mode Ringing of
-Binary Black Hole Mergers in Scalar-Gauss-Bonnet
-Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* (accepted), arXiv:2511.20301
-
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> (accepted),
 arXiv:2508.09931
@@ -72,6 +68,10 @@ network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* 113 (2026) 023044
 [Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
 Gravitational-Wave Emission and High-Energy
 Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys* 26 (2026) 035013
+
+0. Z. Hu, D.D. Doneva, S.S. Yazadjiev, L. Shao, [Quasi-Normal Mode Ringing of
+Binary Black Hole Mergers in Scalar-Gauss-Bonnet
+Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* 113 (2026) 044041
 
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
