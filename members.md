@@ -202,7 +202,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b>Yibo Yang (杨奕博)</b></h5>
+          <h5><b><a href="http://astro.pku.edu.cn/">Yibo Yang</a> (杨奕博)</b></h5>
           <p class="teamtitle"><small>Undergraduate Research</small></p>
           </center>
         </div>
@@ -215,7 +215,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b>Puyu Zhang (张璞玉)</b></h5>
+          <h5><b><a href="http://www.phy.pku.edu.cn/">Puyu Zhang</a> (张璞玉)</b></h5>
           <p class="teamtitle"><small>Bachelor Dissertation</small></p>
           </center>
         </div>
@@ -228,7 +228,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b>Zhihao Zheng (郑智豪)</b></h5>
+          <h5><b><a href="https://yuanpei.pku.edu.cn/">Zhihao Zheng</a> (郑智豪)</b></h5>
           <p class="teamtitle"><small>Undergraduate Research</small></p>
           </center>
         </div>
@@ -241,7 +241,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b>Jinwen Deng (邓锦文)</b></h5>
+          <h5><b><a href="http://astro.pku.edu.cn/">Jinwen Deng</a> (邓锦文)</b></h5>
           <p class="teamtitle"><small>Undergraduate Research</small></p>
           </center>
         </div>
@@ -254,7 +254,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b>Jiahang Zhong (钟佳航)</b></h5>
+          <h5><b><a href="http://astro.pku.edu.cn/">Jiahang Zhong</a> (钟佳航)</b></h5>
           <p class="teamtitle"><small>Undergraduate Research</small></p>
           </center>
         </div>
@@ -267,7 +267,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b>Jinghao Zhang (张景灏)</b></h5>
+          <h5><b><a href="http://astro.pku.edu.cn/">Jinghao Zhang</a> (张景灏)</b></h5>
           <p class="teamtitle"><small>Undergraduate Research</small></p>
           </center>
         </div>
@@ -280,7 +280,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b>Tianqi Yu (俞天麒)</b></h5>
+          <h5><b><a href="http://www.phy.pku.edu.cn/">Tianqi Yu</a> (俞天麒)</b></h5>
           <p class="teamtitle"><small>Undergraduate Research</small></p>
           </center>
         </div>
@@ -293,7 +293,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b>Yujin Tao (陶昱锦)</b></h5>
+          <h5><b><a href="http://www.phy.pku.edu.cn/">Yujin Tao</a> (陶昱锦)</b></h5>
           <p class="teamtitle"><small>Undergraduate Research</small></p>
           </center>
         </div>
@@ -302,70 +302,68 @@ permalink: /member/
 
 </div>
 
----
-
-## Members <small><small>(21 ppl.)</small></small>
-
-| **NAME** | | **STATUS** | **AFFILIATION** |
-| &#9794;  **Lijing Shao** | **邵立晶** | Associate Professor | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9794;  **Wenfan Feng** | **冯文凡** | Boya Postdoctoral Fellow | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9794;  **Hongbo Li** | **李洪波** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9792;  **Han Wang** | **王晗** | Joint KIAA Postdoc | [KIAA-PKU](http://kiaa.pku.edu.cn/) |
-| &#9792;  **Sulagna Bhattacharya** | | Incoming KIAA Fellow | [TIFR](https://www.tifr.res.in/) |
-| &#9794;  **Pinku Routaray** | | Incoming KIAA Postdoc | [NIT](https://www.nitrkl.ac.in/) |
-| &#9794;  **Yacheng Kang** | **康亚城** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Zexin Hu** | **胡泽昕** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Peixiang Ji** | **姬佩祥** | PhD Student <small>(visiting Durham)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Ziming Wang** | **王子铭** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Yiming Dong** | **董益铭** | PhD Student <small>(visiting Alibaba)</small> | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Ze Zhang** | **张泽** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Jiangchuan Yu** | **于江川** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Yibo Yang** | **杨奕博** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Puyu Zhang** | **张璞玉** | Bachelor Dissertation | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794; **Zhihao Zheng** | **郑智豪** | Undergraduate Research | [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| &#9794;  **Jinwen Deng** | **邓锦文** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9792; **Jiahang Zhong** | **钟佳航** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794; **Jinghao Zhang** | **张景灏** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Tianqi Yu** | **俞天麒** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794;  **Yujin Tao** | **陶昱锦** | Undergraduate Research | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-
 <p></p>
 
 ## Associates <small><small>— regularly seen in group meetings</small></small>
 
-| **NAME** | | **STATUS** | **AFFILIATION** |
-| &#9794;  **Haoran Di** | **邸浩然** | Associate Professor | [ECUT](https://lxy.ecut.edu.cn/_t468/0c/18/c3214a68632/page.htm) |
-| &#9794;  **Zhao Li** | **李钊** | Postdoc | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Qiang Wang** | **王强** | PhD Student | [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Yifan Liu** | **刘一凡** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
+<div class="row">
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="https://lxy.ecut.edu.cn/_t468/0c/18/c3214a68632/page.htm">Haoran Di</a> (邸浩然)</b></h5>
+        <p class="teamtitle"><small>Associate Professor</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="http://astro.pku.edu.cn/">Zhao Li</a> (李钊)</b></h5>
+        <p class="teamtitle"><small>Postdoc</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="http://astro.pku.edu.cn/">Qiang Wang</a> (王强)</b></h5>
+        <p class="teamtitle"><small>PhD Student</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/alumni/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="http://www.phy.pku.edu.cn/">Yifan Liu</a> (刘一凡)</b></h5>
+        <p class="teamtitle"><small>Undergraduate</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 <p></p>
 
-<!-- 
-| &#9794;  **Wenshuai Liu** | **刘文帅** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Kaiyao Chu** | **楚开尧** | Undergraduate Research |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Yilun Zhang** | **张逸伦** | Undergraduate Research |  [YP-PKU](https://yuanpei.pku.edu.cn/) |
-| &#9794;  **Sobhan Kazempour** |  | Postdoc | [BIT](https://physics.bit.edu.cn/index.htm) |
-| &#9794;  **Lirui Yang** | **杨力睿** | Undergraduate | [Cambridge](https://www.phy.cam.ac.uk/) |
-| &#9792;  **Ruijing Tang** | **唐睿婧** | Undergraduate |  [BJTU](https://www.bjtu.edu.cn/) |
-| &#9794;  **Yanhao Jin** | **金延昊** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794;  **Yiqiu Yang** | **杨一秋** | Bachelor Dissertation | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9792; **Yirui Yang** | **杨怡蕊** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| &#9794;  **Yiheng Fan** | **范逸恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794;  **Yukai Fang** | **方煜凯** | Undergraduate | [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794;  **Zhuhai Li** | **李竹海** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Zhiheng Zheng** | **郑志恒** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794;  **Zhirui Xie** | **谢祉锐** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Haoran Di** | **邸浩然** | Lecturer | [SCI-ECUT](https://lxy.ecut.edu.cn/0c/18/c3214a68632/page.htm) |
-| &#9794;  **Yukun Liu** | **刘宇堃** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9794;  **Hongyi Zhang** | **章弘毅** | Undergraduate |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Bolin Li** | **李柏霖** | Undergraduate |  [PHY-PKU](http://www.phy.pku.edu.cn/) |
-| &#9792;  **Yuxin Guo** | **郭雨欣** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9792;  **Yan Luo** | **骆彦** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
-| &#9794;  **Rui Xu** | **徐睿** | Postdoc | [Tsinghua](https://astro.tsinghua.edu.cn/zh/index.htm) |
-| &#9792; **Ruiqi Wang** | **王芮琪** | PhD Student | [ITP-PKU](http://itp.phy.pku.edu.cn/) |
-| &#9792;  **Jianyuan Luo** | **罗荐元** | PhD Student |  [DoA-PKU](http://astro.pku.edu.cn/) |
- -->
 
 ---
 
