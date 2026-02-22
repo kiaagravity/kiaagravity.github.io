@@ -328,7 +328,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="http://astro.pku.edu.cn/">Zhao Li</a> (李钊)</b></h5>
-        <p class="teamtitle"><small>Postdoc</small></p>
+        <p class="teamtitle"><small>Boya Fellow</small></p>
         </center>
       </div>
     </div>
