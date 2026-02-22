@@ -310,7 +310,7 @@ permalink: /member/
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/male.png" alt="" style="width:100%; height:150px">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -323,7 +323,7 @@ permalink: /member/
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/male.png" alt="" style="width:100%; height:150px">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -336,7 +336,7 @@ permalink: /member/
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/male.png" alt="" style="width:100%; height:150px">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -349,7 +349,7 @@ permalink: /member/
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/alumni/male.png" alt="" style="width:100%; height:150px">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
