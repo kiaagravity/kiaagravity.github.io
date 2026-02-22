@@ -202,12 +202,103 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="">Yibo Yang</a> (杨奕博)</b></h5>
+          <h5><b>Yibo Yang (杨奕博)</b></h5>
           <p class="teamtitle"><small>Undergraduate Research</small></p>
           </center>
         </div>
       </div>
     </div> 
+
+    <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b>Puyu Zhang (张璞玉)</b></h5>
+          <p class="teamtitle"><small>Bachelor Dissertation</small></p>
+          </center>
+        </div>
+      </div>
+    </div> 
+
+    <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b>Zhihao Zheng (郑智豪)</b></h5>
+          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+    <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b>Jinwen Deng (邓锦文)</b></h5>
+          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+    <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b>Jiahang Zhong (钟佳航)</b></h5>
+          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+    <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b>Jinghao Zhang (张景灏)</b></h5>
+          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+    <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b>Tianqi Yu (俞天麒)</b></h5>
+          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
+    <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b>Yujin Tao (陶昱锦)</b></h5>
+          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
 
 </div>
 
@@ -278,7 +369,7 @@ permalink: /member/
 
 ---
 
-<big><big><big><b>Alumnae and Alumni</b></big></big></big><br>
+<big><big><big><b>Kernel Alumnae and Alumni</b></big></big></big><br>
 
 
 <div class="row">
