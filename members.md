@@ -196,6 +196,19 @@ permalink: /member/
       </div>
     </div>
 
+    <div class="column2">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="">Yibo Yang</a> (杨奕博)</b></h5>
+          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          </center>
+        </div>
+      </div>
+    </div> 
+
 </div>
 
 ---
