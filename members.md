@@ -450,7 +450,7 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Timing Signals of Vector Ultra-Light Dark Matter in Binary Pulsar Systems* (PKU'24) |
 | &#9830; [**Gao, Yong**](https://gravyong.github.io/) (**高勇**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Study of Neutron-star Structures and Precession in the era of Multimessenger Astrophysics* (PKU'23) |
-| &#9830; **Gu, Huapeng** (**顾华鹏**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Gu, Huapeng**](https://inspirehep.net/authors/2711264) (**顾华鹏**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Constraints on Black Hole Charge from GWTC-3 and ET Simulation* (PKU'23) |
 | &#9830; [**Guo, Minghao**](https://mh-guo.github.io/) (**郭明浩**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *A Numerical Study of Scalar-tensor Gravity Theory* (PKU'21)  |
