@@ -57,7 +57,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Dr. Hongbo Li</a> (李洪波)</b></h5>
-          <p class="teamtitle"><small>Joint KIAA Postdoc</small></p>
+          <p class="teamtitle"><small>Visiting KIAA Postdoc</small></p>
           </center>
         </div>
       </div>
