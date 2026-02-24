@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive
+Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
+
 0. W.-F. Feng, T. Liu, Y. Fang, Y. Kang, B. Liu, L. Shao, [An Enhanced Formation Channel for
 Galactic Dual-Line Gravitational-Wave Sources: von1 Zeipel-Lidov-Kozai effect in
 Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), arXiv:2602.10928
