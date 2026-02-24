@@ -43,10 +43,6 @@ framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 
-0. Z. Hu, Y. Gao, L. Shao, [Linear analysis of I-C-Love universal relations for
-neutron stars](https://arxiv.org/abs/2505.13110), *Phys.  Rev. D* (accepted),
-arXiv:2505.13110
-
 0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
 TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.*
 (accepted), arXiv:2502.20138
@@ -58,6 +54,9 @@ arXiv:2312.01406
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published
+
+0. Z. Hu, Y. Gao, L. Shao, [Linear analysis of I-C-Love universal relations for
+neutron stars](https://arxiv.org/abs/2505.13110), *Phys.  Rev. D* 113 (2026) 044056 
 
 0. Y. Kang, J.-P. Zhu, L. Shao, J. Zhong, J. Zhang, B. Zhang, [Mini-supernovae
 from white dwarf--neutron star mergers: Viewing-angle-dependent spectra and
