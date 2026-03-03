@@ -32,9 +32,8 @@ to learn different methods in solving problems, to strengthen the capability in
 scientifically sound presentations, even to develop close collaborations via
 inspiring discussions. 
 
-- Our group meetings take place in the <b>Meeting Room in Auditorium</b> at
-PKU-KIAA. To avoid conflicts with students' classes, the time is fixed to
-<b>Sundays 9:00—11:30</b>.
+- Our group meetings take place in the <b>Shuqi Meeting Room</b> at
+PKU-KIAA. The time is fixed to <b>Thursdays 9:00—11:30</b>.
 
 - In each group meeting, one or two science talks will be presented. It is
 suggested to speak English whenever there are foreigners in the audience.
