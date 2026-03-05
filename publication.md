@@ -95,7 +95,7 @@ baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
 
 0. R. Abbasi, *et al.*, [Deep Search for Joint Sources of Gravitational Waves
 and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO
-and Virgo](https://arxiv.org/abs/2601.07595), arXiv:2601.07595
+and Virgo](https://arxiv.org/abs/2601.07595), *Astrophys. J.* (accepted), arXiv:2601.07595
 
 0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
 pulsar glitch](https://arxiv.org/abs/2512.17990), arXiv:2512.17990
