@@ -89,6 +89,11 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 ##### Collaboration Papers
 
+0. E. Albentosa-Ruiz, *et al.*, [Full-polarization millimeter wavelength
+variability of Sagittarius A* during the 2018 EHT
+campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.*
+(accepted)
+
 0. B. Georgiev, *et al.*, [Locating the missing large-scale
 emission in the jet of M87* with short EHT
 baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
