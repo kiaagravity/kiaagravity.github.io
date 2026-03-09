@@ -536,7 +536,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar >6个月</b></font></span>
 </small>
 
-## Former Members <small><small>(58 ppl.)</small></small>
+## Former Members <small><small>(61 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -548,6 +548,8 @@ permalink: /member/
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
 | &#9830; **Du, Rong** (**杜嵘**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Analyzing the Systematic Bias of Measuring Cosmological Parameters with Gravitational-Wave Sirens* (PKU'24) |
+| &#9830; [**Feng, Wen-Fan**](https://inspirehep.net/authors/2592240) (**冯文凡**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
+| <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Continuous Gravitational Waves from Elliptical Neutron Stars in Binaries* (2026)</small> |
 | &#9830; **Gao, Kun** (**高焜**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Timing Signals of Vector Ultra-Light Dark Matter in Binary Pulsar Systems* (PKU'24) |
 | &#9830; [**Gao, Yong**](https://gravyong.github.io/) (**高勇**) &#9830; <small>School of Physics, Peking University</small> |
@@ -640,6 +642,8 @@ permalink: /member/
 | <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Gravitational Waves from Pulsar Glitches and Antiglitches* (2024); co-advisor: Renxin Xu</small> |
 | &#9830; **Zhang, Hongyi** (**章弘毅**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Possible Degeneracy between Different Effects on GW Phase* (2024) |
+| &#9830; **Zhang, Jinghao** (**张景灏**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Magnetar-powered Superluminous Supernovae* (2026) |
 | &#9830; **Zhang, Puyu** (**张璞玉**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Spin Evolution of X-ray Pulsars* (PKU'26) |
 | &#9830; **Zhang, Yilun** (**张逸伦**) &#9830; <small>Yuanpei College, Peking University</small> |
@@ -652,6 +656,8 @@ permalink: /member/
 | <small><span style="background-color:#6A5ACD"><font color="white"><b>DT</b></font></span> *Testing Dipole Radiation with Binary Pulsars and Gravitational Waves* (PKU'21); co-advisor: Bo-Qiang Ma |
 | &#9830; [**Zhao, Xinmiao**](https://github.com/XinmiaoZhao) (**赵鑫淼**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Test the Spacetime of Sgr A$^\ast$ with Pulsars* (PKU'21) |
+| &#9830; **Zhong, Jiahang** (**钟佳航**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Novae Breves from Magnetar Giant Flares* (2026) |
 | &#9830; [**Zhou, Lihang**](https://inspirehep.net/authors/2723152) (**周立杭**) &#9830; <small>School of Physics, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Superradiant instabilities of massive bosons* (2023)<br><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Forward Ray Tracing Method for Kerr Black Hole Strong Lensing* (PKU'24) |
 
