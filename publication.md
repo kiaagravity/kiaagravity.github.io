@@ -25,7 +25,7 @@ arXiv:2602.01103
 
 0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
 [Novae breves from magnetar giant flares: Potential probes of neutron star
-crusts](https://arxiv.org/abs/TBA), arXiv:TBA
+crusts](https://arxiv.org/abs/2603.10500), arXiv:2603.10500
 
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> (accepted),
