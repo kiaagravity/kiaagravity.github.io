@@ -89,6 +89,11 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [All-sky Searches for Continuous Gravitational Waves
+from Isolated Neutron Stars in the Data from the First Part of the Fourth
+LIGO-Virgo-KAGRA Observing Run](https://arxiv.org/abs/2603.14168),
+arXiv:2603.14168
+
 0. E. Albentosa-Ruiz, *et al.*, [Full-polarization millimeter wavelength
 variability of Sagittarius A* during the 2018 EHT
 campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.*
