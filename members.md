@@ -353,7 +353,7 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="http://www.phy.pku.edu.cn/">Yifan Liu</a> (刘一凡)</b></h5>
+        <h5><b><a href="https://yuanpei.pku.edu.cn/">Zhangyan Yan</a> (颜张岩)</b></h5>
         <p class="teamtitle"><small>Undergraduate</small></p>
         </center>
       </div>
