@@ -8,7 +8,7 @@ categories: activities
 
 ## Two talks:
 
-#### Tujin Tao: Dark Siren Cosmology: A Promising Approach to Solve the Hubble Tension
+#### Yujin Tao: Dark Siren Cosmology: A Promising Approach to Solve the Hubble Tension
 
 Ref. 1: [How Low Can You Go: Constraining the Effects of Catalog Incompleteness on Dark Siren Cosmology](https://doi.org/10.48550/arXiv.2511.04786)  
 
