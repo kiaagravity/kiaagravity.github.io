@@ -89,6 +89,15 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. III. Tests of
+the Remnants](https://arxiv.org/abs/2603.19021), arXiv:2603.19021
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. II.
+Parameterized Tests](https://arxiv.org/abs/2603.19020), arXiv:2603.19020
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. I. Overview and
+General Tests](https://arxiv.org/abs/2603.19019), arXiv:2603.19019
+
 0. A.G. Abac, *et al.*, [All-sky Searches for Continuous Gravitational Waves
 from Isolated Neutron Stars in the Data from the First Part of the Fourth
 LIGO-Virgo-KAGRA Observing Run](https://arxiv.org/abs/2603.14168),
