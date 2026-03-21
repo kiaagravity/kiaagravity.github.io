@@ -203,7 +203,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="http://astro.pku.edu.cn/">Yibo Yang</a> (杨奕博)</b></h5>
-          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          <p class="teamtitle"><small>Undergrad Research</small></p>
           </center>
         </div>
       </div>
@@ -229,7 +229,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://yuanpei.pku.edu.cn/">Zhihao Zheng</a> (郑智豪)</b></h5>
-          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          <p class="teamtitle"><small>Undergrad Research</small></p>
           </center>
         </div>
       </div>
@@ -242,7 +242,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="http://astro.pku.edu.cn/">Jinwen Deng</a> (邓锦文)</b></h5>
-          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          <p class="teamtitle"><small>Undergrad Research</small></p>
           </center>
         </div>
       </div>
@@ -255,7 +255,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="http://astro.pku.edu.cn/">Jiahang Zhong</a> (钟佳航)</b></h5>
-          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          <p class="teamtitle"><small>Undergrad Research</small></p>
           </center>
         </div>
       </div>
@@ -268,7 +268,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="http://astro.pku.edu.cn/">Jinghao Zhang</a> (张景灏)</b></h5>
-          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          <p class="teamtitle"><small>Undergrad Research</small></p>
           </center>
         </div>
       </div>
@@ -281,7 +281,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="http://www.phy.pku.edu.cn/">Tianqi Yu</a> (俞天麒)</b></h5>
-          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          <p class="teamtitle"><small>Undergrad Research</small></p>
           </center>
         </div>
       </div>
@@ -294,7 +294,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="http://www.phy.pku.edu.cn/">Yujin Tao</a> (陶昱锦)</b></h5>
-          <p class="teamtitle"><small>Undergraduate Research</small></p>
+          <p class="teamtitle"><small>Undergrad Research</small></p>
           </center>
         </div>
       </div>
