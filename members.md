@@ -501,7 +501,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://garvinyim.wixsite.com/home">Garvin Yim</a> (嚴家榮)</b></h5>
-          <p class="teamtitle"><small>UK·Water Industry</small></p>
+          <p class="teamtitle"><small>UK · Water Industry</small></p>
           </center>
         </div>
       </div>
