@@ -26,7 +26,7 @@ permalink: /member/
 
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl }}/assets/members/Shao_Lijing.png" alt="" style="width:100%; height:210px">
+      <img src="{{ site.baseurl }}/assets/members/Shao_Lijing.png" alt="" style="width:100%; height:150px">
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
@@ -39,7 +39,7 @@ permalink: /member/
 
 <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -52,7 +52,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -65,7 +65,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Wang_Han.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Wang_Han.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -78,7 +78,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -91,7 +91,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -104,7 +104,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Kang_Yacheng.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Kang_Yacheng.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -118,7 +118,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Hu_Zexin.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Hu_Zexin.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -131,7 +131,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Ji_Peixiang.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Ji_Peixiang.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -144,7 +144,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Wang_Ziming.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Wang_Ziming.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -158,7 +158,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Dong_Yiming.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Dong_Yiming.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -172,7 +172,7 @@ permalink: /member/
   
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Zhang_Ze.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Zhang_Ze.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -185,7 +185,7 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Yu_Jiangchuan.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/Yu_Jiangchuan.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -198,7 +198,7 @@ permalink: /member/
 
     <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -211,7 +211,7 @@ permalink: /member/
 
     <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -224,7 +224,7 @@ permalink: /member/
 
     <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -237,7 +237,7 @@ permalink: /member/
 
     <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -250,7 +250,7 @@ permalink: /member/
 
     <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -263,7 +263,7 @@ permalink: /member/
 
     <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -276,7 +276,7 @@ permalink: /member/
 
     <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
@@ -289,7 +289,7 @@ permalink: /member/
 
     <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:210px">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
