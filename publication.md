@@ -89,6 +89,14 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 ##### Collaboration Papers
 
+0. A.G. Abac, *et al.*, [Searches for Continuous Gravitational Waves from
+Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing
+run](https://arxiv.org/abs/2603.25808), arXiv:2603.25808
+
+0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
+from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
+observing run](https://arxiv.org/abs/2603.25938), arXiv:2603.25938
+
 0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. III. Tests of
 the Remnants](https://arxiv.org/abs/2603.19021), arXiv:2603.19021
 
