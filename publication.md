@@ -140,10 +140,6 @@ signal observed with a single detector](https://arxiv.org/abs/2509.07348), *Astr
 0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
 Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
 
-0. A. Abac, *et al.*, [The Science of the Einstein
-Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*
-(accepted), arXiv:2503.12263
-
 0. A.G. Abac, *et al.*, [Search for planetary-mass ultra-compact objects using
 data from the first part of the LIGO-Virgo-KAGRA fourth observing
 run](https://arxiv.org/abs/2511.19911), arXiv:2511.19911
@@ -192,6 +188,10 @@ run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* (accepted), arXiv:2507.12
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
 arXiv:2508.03392
+
+0. A. Abac, *et al.*, [The Science of the Einstein
+Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
+(2026) 081
 
 0. A.G. Abac, *et al.*, [Black Hole Spectroscopy and Tests of General Relativity
 with GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* 136 (2026) 041403
