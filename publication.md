@@ -27,10 +27,6 @@ arXiv:2602.01103
 [Novae breves from magnetar giant flares: Potential probes of neutron star
 crusts](https://arxiv.org/abs/2603.10500), arXiv:2603.10500
 
-0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
-A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> (accepted),
-arXiv:2508.09931
-
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
 Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),
 arXiv:2510.22573
@@ -54,6 +50,10 @@ arXiv:2312.01406
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published
+
+0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
+A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> 3177 (2026)
+012043
 
 0. Z. Hu, Y. Gao, L. Shao, [Linear analysis of I-C-Love universal relations for
 neutron stars](https://arxiv.org/abs/2505.13110), *Phys.  Rev. D* 113 (2026) 044056 
