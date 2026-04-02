@@ -83,6 +83,8 @@ anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
 Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
 transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 <i>Astron. & Astrophys.</i> 706 (2026) A113
+
+0. 康亚城, 邵立晶, [GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, submitted
 {: reversed="reversed"}
 
 <!-- 0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), *《天文学进展》*, in press -->
