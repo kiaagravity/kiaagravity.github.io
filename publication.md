@@ -25,7 +25,7 @@ arXiv:2602.01103
 
 0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
 [Novae breves from magnetar giant flares: Potential probes of neutron star
-crusts](https://arxiv.org/abs/2603.10500), arXiv:2603.10500
+crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* (accepted), arXiv:2603.10500
 
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
 Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),

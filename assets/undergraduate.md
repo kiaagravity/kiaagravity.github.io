@@ -98,7 +98,7 @@ layout: page
 0. **J. Zhong (钟佳航)**, Q.-H. Chen, Y. Kang, H.-B. Li, **J. Zhang (张景灏)**, M.-H.
 Chen, L.  Shao, [Novae breves from magnetar giant flares: Potential probes of
 neutron star crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.*
-(submitted), arXiv:2603.10500
+(accepted), arXiv:2603.10500
 
 0. **Z. Zheng (郑智豪)**, Z. Wang, **J. Deng (邓锦文)**, Y. Dong, L. Shao, [Inferring
 neutron-star Love-Q relations from gravitational waves in the hierarchical
