@@ -549,7 +549,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar >6个月</b></font></span>
 </small>
 
-## Former Members <small><small>(62 ppl.)</small></small>
+## Former Members <small><small>(63 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -557,6 +557,8 @@ permalink: /member/
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Pinning Mechanism and Continuous Gravitational Waves* (2025) |
 | &#9830; **Deng, Jingyuan** (**邓景元**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
+| &#9830; **Deng, Jinwen** (**邓锦文**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Application of AI in Gravitational-wave Data Analysis* (2026) |
 | &#9830; [**Dong, Yiming**](https://orcid.org/0000-0001-5371-4697) (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
 | &#9830; **Du, Rong** (**杜嵘**) &#9830; <small>School of Physics, Peking University</small> |
