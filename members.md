@@ -360,6 +360,19 @@ permalink: /member/
     </div>
   </div>
 
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="https://www.phy.pku.edu.cn/">Jiawei Lin</a> (林家卫)</b></h5>
+        <p class="teamtitle"><small>Undergraduate</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <p></p>
