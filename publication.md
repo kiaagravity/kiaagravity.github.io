@@ -127,7 +127,7 @@ and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO
 and Virgo](https://arxiv.org/abs/2601.07595), *Astrophys. J.* (accepted), arXiv:2601.07595
 
 0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
-pulsar glitch](https://arxiv.org/abs/2512.17990), arXiv:2512.17990
+pulsar glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Searches for Gravitational-Wave Lensing
 Signatures](https://arxiv.org/abs/2512.16347), arXiv:2512.16347
