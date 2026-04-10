@@ -117,11 +117,6 @@ from Isolated Neutron Stars in the Data from the First Part of the Fourth
 LIGO-Virgo-KAGRA Observing Run](https://arxiv.org/abs/2603.14168),
 arXiv:2603.14168
 
-0. E. Albentosa-Ruiz, *et al.*, [Full-polarization millimeter wavelength
-variability of Sagittarius A* during the 2018 EHT
-campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.*
-(accepted)
-
 0. B. Georgiev, *et al.*, [Locating the missing large-scale
 emission in the jet of M87* with short EHT
 baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
@@ -205,6 +200,10 @@ with GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* 136 (2026) 
 0. Saurabh, *et al.*, [Probing jet base emission of M87* with the 2021 Event
 Horizon Telescope observations](https://arxiv.org/abs/2512.08970),
 *Astron. & Astrophys.* 706 (2026) A27
+
+0. E. Albentosa-Ruiz, *et al.*, [Full-polarization millimeter wavelength
+variability of Sagittarius A* during the 2018 EHT
+campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.* 708 (2026) A179
 
 0. J.L. Gómez, *et al.*, [Spatially resolved polarization swings in the
 supermassive binary black hole candidate OJ 287 with first Event Horizon
