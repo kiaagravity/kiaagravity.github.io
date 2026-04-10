@@ -37,7 +37,7 @@ arXiv:2510.22573
 
 0. Z. Zheng, Z. Wang, J. Deng, Y. Dong, L. Shao, [Inferring neutron-star Love-Q
 relations from gravitational waves in the hierarchical Bayesian
-framework](https://arxiv.org/abs/2510.22137), arXiv:2510.22137
+framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2510.22137
 
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star

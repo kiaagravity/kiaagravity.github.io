@@ -102,7 +102,8 @@ neutron star crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.*
 
 0. **Z. Zheng (郑智豪)**, Z. Wang, **J. Deng (邓锦文)**, Y. Dong, L. Shao, [Inferring
 neutron-star Love-Q relations from gravitational waves in the hierarchical
-Bayesian framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (submitted), arXiv:2510.22137
+Bayesian framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), 
+arXiv:2510.22137
 
 0. Y. Kang, J.-P. Zhu, L. Shao, **J. Zhong (钟佳航)**, **J. Zhang (张景灏)**, B.
 Zhang, [Mini-supernovae from white dwarf--neutron star mergers:
