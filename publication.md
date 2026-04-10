@@ -12,6 +12,10 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. J.-C. Yu, Y. Cao, L.  Shao, [Constraining Ultralight Scalar Dark Matter in
+the Galactic Center with the S2 Orbit](https://arxiv.org/abs/2604.08053),
+arXiv:2604.08053
+
 0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive
 Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
 
