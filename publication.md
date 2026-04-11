@@ -27,29 +27,29 @@ Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), arXiv:2602.10928
 through the lens of objective-level hacking](https://arxiv.org/abs/2602.01103),
 arXiv:2602.01103
 
-0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
-[Novae breves from magnetar giant flares: Potential probes of neutron star
-crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* (accepted), arXiv:2603.10500
-
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
 Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),
 arXiv:2510.22573
-
-0. Z. Zheng, Z. Wang, J. Deng, Y. Dong, L. Shao, [Inferring neutron-star Love-Q
-relations from gravitational waves in the hierarchical Bayesian
-framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2510.22137
 
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 
-0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
-TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.*
-(accepted), arXiv:2502.20138
-
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
+
+0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
+[Novae breves from magnetar giant flares: Potential probes of neutron star
+crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* (accepted), arXiv:2603.10500
+
+0. Z. Zheng, Z. Wang, J. Deng, Y. Dong, L. Shao, [Inferring neutron-star Love-Q
+relations from gravitational waves in the hierarchical Bayesian
+framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2510.22137
+
+0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
+TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.*
+(accepted), arXiv:2502.20138
 
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
@@ -117,29 +117,8 @@ from Isolated Neutron Stars in the Data from the First Part of the Fourth
 LIGO-Virgo-KAGRA Observing Run](https://arxiv.org/abs/2603.14168),
 arXiv:2603.14168
 
-0. B. Georgiev, *et al.*, [Locating the missing large-scale
-emission in the jet of M87* with short EHT
-baselines](https://arxiv.org/abs/2601.13356), arXiv:2601.13356
-
-0. R. Abbasi, *et al.*, [Deep Search for Joint Sources of Gravitational Waves
-and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO
-and Virgo](https://arxiv.org/abs/2601.07595), *Astrophys. J.* (accepted), arXiv:2601.07595
-
-0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
-pulsar glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
-
 0. A.G. Abac, *et al.*, [GWTC-4.0: Searches for Gravitational-Wave Lensing
 Signatures](https://arxiv.org/abs/2512.16347), arXiv:2512.16347
-
-0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
-Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
-Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:2508.20721
-
-0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
-signal observed with a single detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), arXiv:2509.07348
-
-0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
-Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
 
 0. A.G. Abac, *et al.*, [Search for planetary-mass ultra-compact objects using
 data from the first part of the LIGO-Virgo-KAGRA fourth observing
@@ -159,10 +138,6 @@ gravitational-wave interferometers using data from the first part of the fourth
 LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022),
 arXiv:2510.27022
 
-0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
-Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
-Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17487
-
 0. A.G. Abac, *et al.*, [Directed searches for gravitational waves from
 ultralight vector boson clouds around merger remnant and galactic black holes
 during the first part of the fourth LIGO-Virgo-KAGRA observing
@@ -175,6 +150,27 @@ arXiv:2509.04348
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
 
+0. R. Abbasi, *et al.*, [Deep Search for Joint Sources of Gravitational Waves
+and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO
+and Virgo](https://arxiv.org/abs/2601.07595), *Astrophys. J.* (accepted), arXiv:2601.07595
+
+0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
+pulsar glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
+
+0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
+Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
+Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:2508.20721
+
+0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
+signal observed with a single detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), arXiv:2509.07348
+
+0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
+Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
+
+0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
+Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
+Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17487
+
 0. A.G. Abac, *et al.*, [GWTC-4.0: Updating the Gravitational-Wave Transient
 Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA
 Observing Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* (accepted), arXiv:2508.18082
@@ -186,9 +182,9 @@ Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081), *Astrophys
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
 run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* (accepted), arXiv:2507.12282
 
-0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
-gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
-arXiv:2508.03392
+0. B. Georgiev, *et al.*, [Locating the missing large-scale
+emission in the jet of M87* with short EHT
+baselines](https://arxiv.org/abs/2601.13356), *Astron. & Astrophys.* (accepted), arXiv:2601.13356
 
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
@@ -1478,6 +1474,10 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 ---
 
 ### Unpublished
+
+0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
+gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
+arXiv:2508.03392
 
 0. K. Akiyama, *et al.*, [Mid-Range Science Objectives for the Event Horizon
 Telescope](https://arxiv.org/abs/2410.02986), arXiv:2410.02986
