@@ -91,6 +91,10 @@ Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
 transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 <i>Astron. & Astrophys.</i> 706 (2026) A113
 
+0. 张泽, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂, 仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 
+夏铖君, 俞云伟, 袁业飞, 郑小平, 邵立晶, [用SKA探索基础物理与脉冲星物理](TBA), 
+《中国科学：物理学 力学 天文学》, submitted
+
 0. 康亚城, 邵立晶, [GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, submitted
 {: reversed="reversed"}
 
