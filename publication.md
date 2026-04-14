@@ -91,6 +91,10 @@ Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
 transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 <i>Astron. & Astrophys.</i> 706 (2026) A113
 
+0. 赵乘辉, 李洪波, 邵立晶,
+[晶格化对白矮星振荡模式的影响](https://shao.cas.cn/twxjz/wzll/202601/202601yfb/202604/P020260402387656317269.pdf),
+《天文学进展》, in press
+
 0. 张泽, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂, 仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 
 夏铖君, 俞云伟, 袁业飞, 郑小平, 邵立晶, [用SKA探索基础物理与脉冲星物理](TBA), 
 《中国科学：物理学 力学 天文学》, submitted

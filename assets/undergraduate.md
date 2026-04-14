@@ -93,7 +93,7 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
-<!-- 0. **赵乘辉**, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, accepted -->
+0. **赵乘辉**, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), 《天文学进展》, accepted
 
 0. **J. Zhong (钟佳航)**, Q.-H. Chen, Y. Kang, H.-B. Li, **J. Zhang (张景灏)**, M.-H.
 Chen, L.  Shao, [Novae breves from magnetar giant flares: Potential probes of
