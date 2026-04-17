@@ -96,7 +96,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://inspirehep.net/authors/2634373">Sulagna Bhattacharya</a></b></h5>
-          <p class="teamtitle"><small>Incoming Boya Fellow</small></p>
+          <p class="teamtitle"><small>Incoming KIAA/Boya</small></p>
           </center>
         </div>
       </div>
