@@ -106,10 +106,6 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 ##### Collaboration Papers
 
-0. A.G. Abac, *et al.*, [Searches for Continuous Gravitational Waves from
-Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing
-run](https://arxiv.org/abs/2603.25808), arXiv:2603.25808
-
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
 from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
 observing run](https://arxiv.org/abs/2603.25938), arXiv:2603.25938
@@ -160,6 +156,10 @@ arXiv:2509.04348
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
+
+0. A.G. Abac, *et al.*, [Searches for Continuous Gravitational Waves from
+Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing
+run](https://arxiv.org/abs/2603.25808), *Astrophys. J.* (accepted), arXiv:2603.25808
 
 0. R. Abbasi, *et al.*, [Deep Search for Joint Sources of Gravitational Waves
 and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO
