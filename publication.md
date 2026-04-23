@@ -56,7 +56,7 @@ TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.*
 
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
-modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* (2026), published
+modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* 10 (2026) 564
 
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> 3177 (2026)
