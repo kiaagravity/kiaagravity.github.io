@@ -83,7 +83,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://www.worldhorizon.site/">Hong Guo</a> (郭弘)</b></h5>
-          <p class="teamtitle"><small>Incoming Boya Postdoc</small></p>
+          <p class="teamtitle"><small>Incoming Boya Fellow</small></p>
           </center>
         </div>
       </div>
