@@ -562,7 +562,7 @@ permalink: /member/
 <span style="background-color:#CC0000"><font color="white"><b>Visiting Scholar >6个月</b></font></span>
 </small>
 
-## Former Members <small><small>(63 ppl.)</small></small>
+## Former Members <small><small>(62 ppl.)</small></small>
 
 | &#9830; **An, Zihe** (**安子訸**) &#9830; <small>College of Engineering, Peking University</small> | 
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Fisher Matrix in Gravitational-wave Data Analysis* (2020) |
@@ -672,8 +672,6 @@ permalink: /member/
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Possible Degeneracy between Different Effects on GW Phase* (2024) |
 | &#9830; **Zhang, Jinghao** (**张景灏**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Magnetar-powered Superluminous Supernovae* (2026) |
-| &#9830; **Zhang, Puyu** (**张璞玉**) &#9830; <small>School of Physics, Peking University</small> |
-| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Spin Evolution of X-ray Pulsars* (PKU'26) |
 | &#9830; **Zhang, Yilun** (**张逸伦**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Spin Dynamics in Scalar-tensor Theories* (2025) |
 | &#9830; **Zhang, Zhejian** (**张喆戬**) &#9830; <small>School of Physics, Peking University</small> |
@@ -701,3 +699,6 @@ permalink: /member/
 </script>
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
+
+<!-- | &#9830; **Zhang, Puyu** (**张璞玉**) &#9830; <small>School of Physics, Peking University</small> |
+| <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Spin Evolution of X-ray Pulsars* (PKU'26) | -->
