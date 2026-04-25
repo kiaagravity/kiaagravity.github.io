@@ -122,7 +122,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://astrokang.github.io">Yacheng Kang</a> (康亚城)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student'22</small></p>
           </center>
         </div>
       </div>
@@ -136,7 +136,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0000-0002-3081-0659">Zexin Hu</a> (胡泽昕)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student'22</small></p>
           </center>
         </div>
       </div>
@@ -149,7 +149,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0009-0007-1101-5020">Peixiang Ji</a> (姬佩祥)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student'22</small></p>
           </center>
         </div>
       </div>
@@ -162,7 +162,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0000-0002-8742-8397">Ziming Wang</a> (王子铭)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student'23</small></p>
           </center>
         </div>
       </div>
@@ -176,7 +176,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0000-0001-5371-4697">Yiming Dong</a> (董益铭)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student'23</small></p>
           </center>
         </div>
       </div>
@@ -190,7 +190,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0009-0007-1438-8113">Ze Zhang</a> (张泽)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student'24</small></p>
           </center>
         </div>
       </div>
@@ -203,7 +203,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="https://orcid.org/0000-0002-4509-4747">Jiangchuan Yu</a> (于江川)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
+          <p class="teamtitle"><small>PhD Student'25</small></p>
           </center>
         </div>
       </div>
