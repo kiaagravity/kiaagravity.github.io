@@ -12,6 +12,9 @@ permalink: /publication/
 
 ##### Regular Papers
 
+0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
+Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/TBA), arXiv:TBA
+
 0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
 Gravitational Wave Multiple Ringdown Modes in
 Space](https://arxiv.org/abs/2604.20914), arXiv:2604.20914
