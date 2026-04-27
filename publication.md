@@ -197,10 +197,6 @@ Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081), *Astrophys
 transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
 run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* (accepted), arXiv:2507.12282
 
-0. B. Georgiev, *et al.*, [Locating the missing large-scale
-emission in the jet of M87* with short EHT
-baselines](https://arxiv.org/abs/2601.13356), *Astron. & Astrophys.* (accepted), arXiv:2601.13356
-
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
@@ -208,13 +204,17 @@ Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 0. A.G. Abac, *et al.*, [Black Hole Spectroscopy and Tests of General Relativity
 with GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* 136 (2026) 041403
 
+0. B. Georgiev, *et al.*, [Locating the missing large-scale
+emission in the jet of M87* with short EHT
+baselines](https://arxiv.org/abs/2601.13356), *Astron. & Astrophys.* 709 (2026) A26
+
 0. Saurabh, *et al.*, [Probing jet base emission of M87* with the 2021 Event
 Horizon Telescope observations](https://arxiv.org/abs/2512.08970),
 *Astron. & Astrophys.* 706 (2026) A27
 
 0. E. Albentosa-Ruiz, *et al.*, [Full-polarization millimeter wavelength
 variability of Sagittarius A* during the 2018 EHT
-campaign](https://doi.org/10.1051/0004-6361/202556759), *Astron. & Astrophys.* 708 (2026) A179
+campaign](https://arxiv.org/abs/2604.10287), *Astron. & Astrophys.* 708 (2026) A179
 
 0. J.L. Gómez, *et al.*, [Spatially resolved polarization swings in the
 supermassive binary black hole candidate OJ 287 with first Event Horizon
