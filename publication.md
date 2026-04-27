@@ -54,10 +54,6 @@ crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* (accepted), ar
 relations from gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2510.22137
 
-0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
-TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.*
-(accepted), arXiv:2502.20138
-
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* 10 (2026) 564
@@ -89,6 +85,9 @@ Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* 113 (2026) 044041
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
+TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.* 29 (2026) 1
 
 0. G. Desvignes, R.P.  Eatough, Y. Men, F. Abbate, R. Karuppusamy, M. Kramer, K.
 Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
