@@ -154,12 +154,11 @@ ultralight vector boson clouds around merger remnant and galactic black holes
 during the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2509.07352), arXiv:2509.07352
 
-0. A.G. Abac, *et al.*, [GWTC-4.0: Constraints on the Cosmic Expansion Rate and
-Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348),
-arXiv:2509.04348
-
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Constraints on the Cosmic Expansion Rate and
+Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted), arXiv:2509.04348
 
 0. A.G. Abac, *et al.*, [Searches for Continuous Gravitational Waves from
 Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing
