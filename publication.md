@@ -191,13 +191,13 @@ Observing Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* (acc
 0. A.G. Abac, *et al.*, [GWTC-4.0: Methods for Identifying and Characterizing
 Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* (accepted), arXiv:2508.18081
 
-0. A.G. Abac, *et al.*, [All-sky search for long-duration gravitational-wave
-transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
-run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* (accepted), arXiv:2507.12282
-
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
+
+0. A.G. Abac, *et al.*, [All-sky search for long-duration gravitational-wave
+transients in the first part of the fourth LIGO-Virgo-KAGRA Observing
+run](https://arxiv.org/abs/2507.12282), *Phys. Rev. D* 113 (2026) 082004 
 
 0. A.G. Abac, *et al.*, [Black Hole Spectroscopy and Tests of General Relativity
 with GW250114](https://arxiv.org/abs/2509.08099), *Phys. Rev. Lett.* 136 (2026) 041403
