@@ -8,9 +8,11 @@ permalink: /publication/
 
 ---
 
-### 2026
 
-##### Regular Papers
+<div class="accordion">
+  <div class="accordion-item">
+    <button class="accordion-btn">2026: Regular Papers</button>
+    <div class="accordion-content">
 
 0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
 Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/TBA), arXiv:TBA
@@ -105,9 +107,14 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 0. 康亚城, 邵立晶, [GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, submitted
 {: reversed="reversed"}
 
-<!-- 0. 赵乘辉, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](TBA), *《天文学进展》*, in press -->
+    </div>
+  </div>
+  
 
-##### Collaboration Papers
+
+  <div class="accordion-item">
+    <button class="accordion-btn">2026: Collaboration Papers</button>
+    <div class="accordion-content hidden">
 
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
 from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
@@ -218,7 +225,13 @@ campaign](https://arxiv.org/abs/2604.10287), *Astron. & Astrophys.* 708 (2026) A
 supermassive binary black hole candidate OJ 287 with first Event Horizon
 Telescope observations](https://doi.org/10.1051/0004-6361/202555831), *Astron. &
 Astrophys.* 705 (2026) A23
-{: reversed="reversed"}
+{: reversed="reversed"}    
+
+    </div>
+  </div>
+  
+
+</div>
 
 ---
 
@@ -1524,4 +1537,76 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
   });
 </script>
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+// 由 Deepseek 生成
+
+<style>
+.hidden {
+  display: none;
+}
+
+.accordion-btn {
+  width: 100%;
+  text-align: left;
+  padding: 12px 15px;
+  background: #17a2b8;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.accordion-btn:hover {
+  background: #138496;
+}
+
+.accordion-content {
+  padding: 15px;
+  background: #e9ecef;
+  margin-bottom: 10px;
+  border-radius: 0 0 4px 4px;
+}
+</style>
+
+<script>
+// 手动设置第一个按钮的文字和状态
+document.addEventListener('DOMContentLoaded', function() {
+  const btns = document.querySelectorAll('.accordion-btn');
+  const contents = document.querySelectorAll('.accordion-content');
+  
+  // 默认：第一个内容显示，其他隐藏
+  // 注意：第一个内容没有 hidden 类，其他都有 hidden 类
+  // 设置第一个按钮的文字为"隐藏"
+  btns[0].textContent = '隐藏 第一部分：引言';
+  
+  // 为所有按钮绑定点击事件
+  btns.forEach((btn, index) => {
+    btn.addEventListener('click', function() {
+      const currentContent = this.nextElementSibling;
+      const isHidden = currentContent.classList.contains('hidden');
+      
+      // 关闭所有内容
+      contents.forEach(content => {
+        content.classList.add('hidden');
+      });
+      
+      // 重置所有按钮文字为"显示"
+      btns.forEach(button => {
+        const originalText = button.textContent.replace(/显示|隐藏/g, '').trim();
+        button.textContent = `显示 ${originalText}`;
+      });
+      
+      // 如果当前内容之前是隐藏的，就展开它
+      if (isHidden) {
+        currentContent.classList.remove('hidden');
+        const originalText = this.textContent.replace(/显示|隐藏/g, '').trim();
+        this.textContent = `隐藏 ${originalText}`;
+      }
+    });
+  });
+});
 </script>
