@@ -110,7 +110,7 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
@@ -323,7 +323,7 @@ Astrophys.* 8 (2025) 154252
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
@@ -552,7 +552,7 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
@@ -751,7 +751,7 @@ Scientific, Singapore, 2023), p. 250
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
@@ -924,7 +924,7 @@ Singapore, 2022), p. 1866
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. A.E. Broderick, *et al.*, [The photon ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
@@ -1128,7 +1128,7 @@ stars](https://arxiv.org/abs/2011.04472), *Astron. Nachr.* 342 (2021) 364
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
@@ -1326,7 +1326,7 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
@@ -1413,7 +1413,7 @@ in a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.*
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. J. Liu, *et al.*, [A wide star−black-hole binary system from
@@ -1481,7 +1481,7 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9659; Unpublished</button>
+    <button class="accordion-btn">&nbsp; &#9655; Unpublished</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
