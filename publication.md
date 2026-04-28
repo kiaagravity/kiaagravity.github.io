@@ -110,7 +110,7 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9654; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
