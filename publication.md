@@ -223,7 +223,6 @@ supermassive binary black hole candidate OJ 287 with first Event Horizon
 Telescope observations](https://doi.org/10.1051/0004-6361/202555831), *Astron. &
 Astrophys.* 705 (2026) A23
 {: reversed="reversed"}    
-    </div>
   </div>
   
   <div class="accordion-item">
@@ -321,18 +320,10 @@ Astrophys.* 8 (2025) 154252
 
 0. 姬佩祥, 梁迪聪, 邵立晶, [以天为则：从弱场到强场的引力检验](http://mp.ihep.ac.cn/article/id/27caedc0-6d45-4151-9d73-5dc23efb2d95), *《现代物理知识》* 37 (2025) 12
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
     <button class="accordion-btn">2025: Collaboration Papers</button>
-    <div class="accordion-content hidden" markdown="1">
-
-    </div>
-  </div>
-
-  <div class="accordion-item">
-    <button class="accordion-btn">2025: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
@@ -404,7 +395,6 @@ Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695
 0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
 in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.*  980 (2025) 207
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -559,7 +549,6 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
 0. 高勇, G. Desvignes, 邵立晶, [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), *《科学通报》* 69 (2024) 367
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -629,7 +618,6 @@ Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* 964 (2024) 149
 0. G.F. Paraschos, *et al.*, [Ordered magnetic fields around the 3C 84 central
 black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682 (2024) L3
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -760,7 +748,6 @@ Scientific, Singapore, 2023), p. 250
 
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428), *《中国科学：物理学 力学 天文学》* 53 (2023) 100014
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -831,7 +818,6 @@ J. Lett.* 957 (2023) L21
 Telescope image of the quasar NRAO 530](https://arxiv.org/abs/2302.04622),
 *Astrophys. J.* 943 (2023) 170
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -935,7 +921,6 @@ Singapore, 2022), p. 1866
 
 0. 梁迪聪, 邵立晶 [摘译], [Rainer Weiss: 引力波探测的50年](http://www.wuli.ac.cn/cn/article/id/5d047897-319b-4a29-96e7-9d0c74dfb340), *《物理》* 51 (2022) 853
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1055,7 +1040,6 @@ mm-VLBI](https://iopscience.iop.org/article/10.3847/2041-8213/ac6584), *Astrophy
 the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 925 (2022) 13
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1141,7 +1125,6 @@ stars](https://arxiv.org/abs/2011.04472), *Astron. Nachr.* 342 (2021) 364
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008), *《天文学报》* 62 (2021) 54
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1274,7 +1257,6 @@ Gravitational
 Waves](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF6-TF9_TF0_SnowMass_2021_Multi_Messenger_Cosmology-143.pdf),
 Letter of Interest for Snowmass2021
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1341,7 +1323,6 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 
 0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), *《科学通报》* 65 (2020) 4013
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1384,7 +1365,6 @@ Array](https://arxiv.org/abs/1810.02680), *Publ. Astron. Soc. Aust.* 37 (2020) e
 LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
 81
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1430,7 +1410,6 @@ in a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.*
 0. 邵立晶, [GW170817:
 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), *《物理》* 48 (2019) 567
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1486,7 +1465,6 @@ Array and instrumentation](https://doi.org/10.3847/2041-8213/ab0c96), *Astrophys
 shadow of the supermassive black
 hole](https://doi.org/10.3847/2041-8213/ab0ec7), *Astrophys. J. Lett.* 875 (2019) L1
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1500,7 +1478,6 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 [一“波”发现](http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml), *《物理》* 47
 (2018) 734
 {: reversed="reversed"}
-    </div>
   </div>
 
   <div class="accordion-item">
@@ -1531,7 +1508,6 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 {: reversed="reversed"}
-    </div>
   </div>
 
 </div>
@@ -1602,14 +1578,14 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // 重置所有按钮文字为"显示"
       btns.forEach(button => {
-        const originalText = button.textContent.replace(/显示|隐藏/g, '').trim();
+        const originalText = button.textContent.replace(/show|hide/g, '').trim();
         button.textContent = `${originalText}`;
       });
       
       // 如果当前内容之前是隐藏的，就展开它
       if (isHidden) {
         currentContent.classList.remove('hidden');
-        const originalText = this.textContent.replace(/显示|隐藏/g, '').trim();
+        const originalText = this.textContent.replace(/show|hide/g, '').trim();
         this.textContent = `${originalText}`;
       }
     });
