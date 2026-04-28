@@ -11,7 +11,7 @@ kramdown:
 <div class="accordion">
   <div class="accordion-item">
     <button class="accordion-btn">2026: Regular Papers</button>
-    <div class="accordion-content" markdown="1">
+    <div class="accordion-content hidden" markdown="1">
 
 0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
 Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/TBA), arXiv:TBA
@@ -1533,7 +1533,7 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
   width: 100%;
   text-align: left;
   padding: 12px 15px;
-  background: #17a2b8;
+  background: #70aad0;
   color: white;
   border: none;
   cursor: pointer;
@@ -1543,7 +1543,7 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 }
 
 .accordion-btn:hover {
-  background: #138496;
+  background: #17a2b8;
 }
 
 .accordion-content {
