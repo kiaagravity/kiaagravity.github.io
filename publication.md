@@ -1550,7 +1550,7 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
   padding: 15px;
   background: transparent;
   margin-bottom: 10px;
-  border-radius: 0 0 4px 4px;
+  border-radius: 0 0 0 0;
 }
 </style>
 
