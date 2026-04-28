@@ -10,7 +10,7 @@ kramdown:
 
 <div class="accordion">
   <div class="accordion-item">
-    <button class="accordion-btn">2026: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
@@ -110,7 +110,7 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 
   <div class="accordion-item">
-    <button class="accordion-btn">&nbsp; &#9654; Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
@@ -226,7 +226,7 @@ Astrophys.* 705 (2026) A23
   </div>
   
   <div class="accordion-item">
-    <button class="accordion-btn">2025: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2025: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
@@ -323,7 +323,7 @@ Astrophys.* 8 (2025) 154252
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2025: Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
@@ -398,7 +398,7 @@ in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), 
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2024: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2024: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
@@ -552,7 +552,7 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2024: Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
@@ -621,7 +621,7 @@ black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.*
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2023: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2023: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
@@ -751,7 +751,7 @@ Scientific, Singapore, 2023), p. 250
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2023: Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
@@ -821,7 +821,7 @@ Telescope image of the quasar NRAO 530](https://arxiv.org/abs/2302.04622),
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2022: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2022: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
@@ -924,7 +924,7 @@ Singapore, 2022), p. 1866
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2022: Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. A.E. Broderick, *et al.*, [The photon ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
@@ -1043,7 +1043,7 @@ the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2021: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2021: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, [General relativity withstands double pulsar's
@@ -1128,7 +1128,7 @@ stars](https://arxiv.org/abs/2011.04472), *Astron. Nachr.* 342 (2021) 364
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2021: Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
@@ -1260,7 +1260,7 @@ Letter of Interest for Snowmass2021
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2020: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2020: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
@@ -1326,7 +1326,7 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2020: Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
@@ -1368,7 +1368,7 @@ LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2019: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2019: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence
@@ -1413,7 +1413,7 @@ in a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.*
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2019: Collaboration Papers</button>
+    <button class="accordion-btn">&nbsp; &#9659; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. J. Liu, *et al.*, [A wide star−black-hole binary system from
@@ -1468,7 +1468,7 @@ hole](https://doi.org/10.3847/2041-8213/ab0ec7), *Astrophys. J. Lett.* 875 (2019
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">2018: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2018: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, Q.G. Bailey, [Testing velocity-dependent CPT-violating
@@ -1481,7 +1481,7 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
   </div>
 
   <div class="accordion-item">
-    <button class="accordion-btn">Unpublished</button>
+    <button class="accordion-btn">&nbsp; &#9659; Unpublished</button>
     <div class="accordion-content hidden" markdown="1">
 
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
