@@ -8,9 +8,6 @@ kramdown:
 
 **Papers that are affiliated with PKU-KIAA**
 
----
-
-
 <div class="accordion">
   <div class="accordion-item">
     <button class="accordion-btn">2026: Regular Papers</button>
@@ -108,7 +105,6 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 0. 康亚城, 邵立晶, [GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, submitted
 {: reversed="reversed"}
-
     </div>
   </div>
   
@@ -228,18 +224,12 @@ supermassive binary black hole candidate OJ 287 with first Event Horizon
 Telescope observations](https://doi.org/10.1051/0004-6361/202555831), *Astron. &
 Astrophys.* 705 (2026) A23
 {: reversed="reversed"}    
-
     </div>
   </div>
   
-
-</div>
-
----
-
-### 2025
-
-##### Regular Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2025: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, [Testing relativistic gravity with radio timing of neutron
 stars](https://doi.org/10.1142/9789819800643_0019), in
@@ -332,8 +322,19 @@ Astrophys.* 8 (2025) 154252
 
 0. 姬佩祥, 梁迪聪, 邵立晶, [以天为则：从弱场到强场的引力检验](http://mp.ihep.ac.cn/article/id/27caedc0-6d45-4151-9d73-5dc23efb2d95), *《现代物理知识》* 37 (2025) 12
 {: reversed="reversed"}
+    </div>
+  </div>
 
-##### Collaboration Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2025: Collaboration Papers</button>
+    <div class="accordion-content hidden" markdown="1">
+
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <button class="accordion-btn">2025: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. S.-X. Yi, *et al.*, [Prospects for Time-Domain and Multi-Messenger Science
 with eXTP](https://arxiv.org/abs/2506.08368), *Sci. China Phys. Mech. Astron.*
@@ -404,12 +405,12 @@ Horizon Telescope](https://arxiv.org/abs/2501.05518), *Astron. & Astrophys.* 695
 0. G. Raman, *et al.*, [Swift-BAT GUANO follow-up of gravitational-wave triggers
 in the third LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2407.12867), *Astrophys. J.*  980 (2025) 207
 {: reversed="reversed"}
+    </div>
+  </div>
 
----
-
-### 2024
-
-##### Regular Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2024: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. Z. Hu, L. Shao, [Measuring the Spin of the Galactic Center Supermassive Black
 Hole with Two Pulsars](http://arxiv.org/abs/2408.00245), *Phys. Rev. Lett.* 133 (2024) 231402
@@ -559,8 +560,12 @@ Waves](http://arxiv.org/abs/2403.08681), *Phys. Rev. D* 109 (2024) 064092
 
 0. 高勇, G. Desvignes, 邵立晶, [一颗自由进动的磁星](https://doi.org/10.1360/TB-2024-0538), *《科学通报》* 69 (2024) 367
 {: reversed="reversed"}
+    </div>
+  </div>
 
-##### Collaboration Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2024: Collaboration Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. S. Abend, *et al.*, [Terrestrial Very-Long-Baseline Atom Interferometry:
 Workshop Summary](https://arxiv.org/abs/2310.08183), *AVS Quantum Sci.* 6 (2024)
@@ -625,12 +630,12 @@ Run](https://arxiv.org/abs/2308.13666), *Astrophys. J.* 964 (2024) 149
 0. G.F. Paraschos, *et al.*, [Ordered magnetic fields around the 3C 84 central
 black hole](https://doi.org/10.1051/0004-6361/202348308), *Astron. & Astrophys.* 682 (2024) L3
 {: reversed="reversed"}
+    </div>
+  </div>
 
----
-
-### 2023
-
-##### Regular Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2023: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, [Radio pulsars as a laboratory for strong-field gravity
 tests](https://arxiv.org/abs/2206.15187), *Lect. Notes Phys.* 1017 (2023) 385,
@@ -756,8 +761,12 @@ Scientific, Singapore, 2023), p. 250
 
 0. 康亚城, 刘畅, 朱锦平, 邵立晶, [分赫兹引力波探测助推双中子星并合的多信使研究](http://engine.scichina.com/doi/10.1360/SSPMA-2022-0428), *《中国科学：物理学 力学 天文学》* 53 (2023) 100014
 {: reversed="reversed"}
+    </div>
+  </div>
 
-##### Collaboration Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2023: Collaboration Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. P. Amaro-Seoane, *et al.*, [Astrophysics with the Laser Interferometer Space
 Antenna](https://arxiv.org/abs/2203.06016), *Living Rev. Relativ.* 26 (2023) 2
@@ -823,36 +832,12 @@ J. Lett.* 957 (2023) L21
 Telescope image of the quasar NRAO 530](https://arxiv.org/abs/2302.04622),
 *Astrophys. J.* 943 (2023) 170
 {: reversed="reversed"}
+    </div>
+  </div>
 
-<!-- 
-0. R. Abbott, *et al.*, [The first joint observation by KAGRA with GEO
-600](https://pos.sissa.it/444/1579), *PoS* (ICRC2023) 1579
-
-0. H. Abe, *et al.*, [Development of Gravity Field Calibrator for
-KAGRA](https://doi.org/10.22323/1.444.1550), *PoS* (ICRC2023) 1550
-
-0. H. Abe, *et al.*, [Calibration of the integrating sphere for O4 in KAGRA
-gravitational wave telescope](https://doi.org/10.22323/1.444.1553), *PoS*
-(ICRC2023) 1553
-
-0. H. Abe, *et al.*, [Status of KAGRA](https://doi.org/10.22323/1.444.1555),
-*PoS* (ICRC2023) 1555
-
-0. H. Abe, *et al.*, [Investigation of the environmental noise at KAGRA
-detector](https://doi.org/10.22323/1.444.1557), *PoS* (ICRC2023) 1557
-
-0. H. Abe, *et al.*, [Calibration of the gravitational wave telescope
-KAGRA](https://doi.org/10.22323/1.444.1549), *PoS* (ICRC2023) 1549
-
-0. H. Abe, *et al.*, [Detector characterization of KAGRA for the fourth
-observing run](https://doi.org/10.22323/1.444.1564), *PoS* (ICRC2023) 1564 
--->
-
----
-
-### 2022
-
-##### Regular Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2022: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, K. Yagi, [Neutron stars as extreme laboratories for gravity
 tests](https://arxiv.org/abs/2209.03351), *Sci. Bull.* 67 (2022) 1946
@@ -951,8 +936,12 @@ Singapore, 2022), p. 1866
 
 0. 梁迪聪, 邵立晶 [摘译], [Rainer Weiss: 引力波探测的50年](http://www.wuli.ac.cn/cn/article/id/5d047897-319b-4a29-96e7-9d0c74dfb340), *《物理》* 51 (2022) 853
 {: reversed="reversed"}
+    </div>
+  </div>
 
-##### Collaboration Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2022: Collaboration Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. A.E. Broderick, *et al.*, [The photon ring in M87$^\ast$](https://iopscience.iop.org/article/10.3847/1538-4357/ac7c1d), *Astrophys. J.* 935 (2022) 61
 
@@ -1067,12 +1056,12 @@ mm-VLBI](https://iopscience.iop.org/article/10.3847/2041-8213/ac6584), *Astrophy
 the dynamical time scale](https://arxiv.org/abs/2111.01317), *Astrophys. J.*
 925 (2022) 13
 {: reversed="reversed"}
+    </div>
+  </div>
 
----
-
-### 2021
-
-##### Regular Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2021: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, [General relativity withstands double pulsar's
 scrutiny](https://physics.aps.org/articles/v14/173), *Physics* 14 (2021) 173
@@ -1153,8 +1142,12 @@ stars](https://arxiv.org/abs/2011.04472), *Astron. Nachr.* 342 (2021) 364
 
 0. 王弋尘, 缪雪丽, 邵立晶, [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008), *《天文学报》* 62 (2021) 54
 {: reversed="reversed"}
+    </div>
+  </div>
 
-##### Collaboration Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2021: Collaboration Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. J. Baker, *et al.*, [High angular resolution gravitational wave
 astronomy](https://arxiv.org/abs/1908.11410), *Exp. Astron.* 
@@ -1282,12 +1275,12 @@ Gravitational
 Waves](https://www.snowmass21.org/docs/files/summaries/CF/SNOWMASS21-CF7_CF6-TF9_TF0_SnowMass_2021_Multi_Messenger_Cosmology-143.pdf),
 Letter of Interest for Snowmass2021
 {: reversed="reversed"}
+    </div>
+  </div>
 
----
-
-### 2020
-
-##### Regular Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2020: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, [Combined search for anisotropic birefringence in the
 gravitational-wave transient catalog
@@ -1349,8 +1342,12 @@ along eccentric orbits](https://arxiv.org/abs/1910.00784), *Phys. Rev. D*
 
 0. 邵立晶, [引力波视角下的世界图景](http://engine.scichina.com/doi/10.1360/TB-2020-1068), *《科学通报》* 65 (2020) 4013
 {: reversed="reversed"}
+    </div>
+  </div>
 
-##### Collaboration Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2020: Collaboration Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. M. Arca Sedda, C.P.L. Berry, K. Jani, *et al.*, [The missing link in
 gravitational-wave astronomy: Discoveries waiting in the decihertz
@@ -1388,12 +1385,12 @@ Array](https://arxiv.org/abs/1810.02680), *Publ. Astron. Soc. Aust.* 37 (2020) e
 LISA](https://arxiv.org/abs/2001.09793), *Gen. Relativ. Gravit.* 52 (2020)
 81
 {: reversed="reversed"}
+    </div>
+  </div>
 
----
-
-### 2019
-
-##### Regular Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2019: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, Q.G. Bailey, [Testing the gravitational weak equivalence
 principle in the standard-model extension with binary
@@ -1434,8 +1431,12 @@ in a galactic nucleus](https://arxiv.org/abs/1903.02685), *Astrophys. J.*
 0. 邵立晶, [GW170817:
 爱因斯坦对了吗?](http://www.wuli.ac.cn/CN/abstract/abstract74649.shtml), *《物理》* 48 (2019) 567
 {: reversed="reversed"}
+    </div>
+  </div>
 
-##### Collaboration Papers
+  <div class="accordion-item">
+    <button class="accordion-btn">2019: Collaboration Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. J. Liu, *et al.*, [A wide star−black-hole binary system from
 radial-velocity measurements](https://arxiv.org/abs/1911.11989), *Nature*
@@ -1486,10 +1487,12 @@ Array and instrumentation](https://doi.org/10.3847/2041-8213/ab0c96), *Astrophys
 shadow of the supermassive black
 hole](https://doi.org/10.3847/2041-8213/ab0ec7), *Astrophys. J. Lett.* 875 (2019) L1
 {: reversed="reversed"}
+    </div>
+  </div>
 
----
-
-### 2018
+  <div class="accordion-item">
+    <button class="accordion-btn">2018: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. L. Shao, Q.G. Bailey, [Testing velocity-dependent CPT-violating
 gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phys. Rev. D* 98 (2018) 084049
@@ -1498,10 +1501,12 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
 [一“波”发现](http://www.wuli.ac.cn/CN/abstract/abstract73163.shtml), *《物理》* 47
 (2018) 734
 {: reversed="reversed"}
+    </div>
+  </div>
 
----
-
-### Unpublished
+  <div class="accordion-item">
+    <button class="accordion-btn">Unpublished</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
@@ -1527,8 +1532,11 @@ Shah, G. Shaifullah, L. Shao, L. Speri, N. Tamanini, D. Weir, [Legacy of the
 first workshop on Gravitational Wave Astrophysics for Early Career
 Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 {: reversed="reversed"}
+    </div>
+  </div>
 
----
+</div>
+
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -1540,9 +1548,6 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 </script>
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-
-
-// 由 Deepseek 生成
 
 <style>
 .hidden {
