@@ -1533,13 +1533,22 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
   width: 100%;
   text-align: left;
   padding: 12px 15px;
-  background: #70aad0;
   color: white;
   border: none;
   cursor: pointer;
   font-size: 16px;
   font-weight: bold;
   transition: background 0.3s;
+}
+
+/* 奇数条目（第1、3、5...个） */
+.accordion-item:nth-child(odd) .accordion-btn {
+  background: #70aad0;  /* 青绿色 */
+}
+
+/* 偶数条目（第2、4、6...个） */
+.accordion-item:nth-child(even) .accordion-btn {
+  background: #6c757d;  /* 灰色 */
 }
 
 .accordion-btn:hover {
