@@ -2,6 +2,8 @@
 layout: page
 title: Publication
 permalink: /publication/
+kramdown:
+  parse_block_html: true
 ---
 
 **Papers that are affiliated with PKU-KIAA**
@@ -12,7 +14,7 @@ permalink: /publication/
 <div class="accordion">
   <div class="accordion-item">
     <button class="accordion-btn">2026: Regular Papers</button>
-    <div class="accordion-content">
+    <div class="accordion-content" markdown="1">
 
 0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
 Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/TBA), arXiv:TBA
@@ -114,7 +116,7 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
   <div class="accordion-item">
     <button class="accordion-btn">2026: Collaboration Papers</button>
-    <div class="accordion-content hidden">
+    <div class="accordion-content hidden" markdown="1">
 
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
 from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
