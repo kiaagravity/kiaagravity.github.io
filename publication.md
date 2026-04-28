@@ -105,7 +105,6 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 
 0. 康亚城, 邵立晶, [GW231123：聆听宇宙深处的极端黑洞并合](TBA), 《现代物理知识》, submitted
 {: reversed="reversed"}
-    </div>
   </div>
   
 
@@ -1573,7 +1572,7 @@ Scientists](https://arxiv.org/abs/2111.15596), arXiv:2111.15596
 
 .accordion-content {
   padding: 15px;
-  background: #e9ecef;
+  background: transparent;
   margin-bottom: 10px;
   border-radius: 0 0 4px 4px;
 }
@@ -1588,7 +1587,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // 默认：第一个内容显示，其他隐藏
   // 注意：第一个内容没有 hidden 类，其他都有 hidden 类
   // 设置第一个按钮的文字为"隐藏"
-  btns[0].textContent = '隐藏 第一部分：引言';
+  // btns[0].textContent = '隐藏 第一部分：引言';
   
   // 为所有按钮绑定点击事件
   btns.forEach((btn, index) => {
@@ -1604,14 +1603,14 @@ document.addEventListener('DOMContentLoaded', function() {
       // 重置所有按钮文字为"显示"
       btns.forEach(button => {
         const originalText = button.textContent.replace(/显示|隐藏/g, '').trim();
-        button.textContent = `显示 ${originalText}`;
+        button.textContent = `${originalText}`;
       });
       
       // 如果当前内容之前是隐藏的，就展开它
       if (isHidden) {
         currentContent.classList.remove('hidden');
         const originalText = this.textContent.replace(/显示|隐藏/g, '').trim();
-        this.textContent = `隐藏 ${originalText}`;
+        this.textContent = `${originalText}`;
       }
     });
   });
