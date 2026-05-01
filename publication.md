@@ -14,7 +14,8 @@ kramdown:
     <div class="accordion-content hidden" markdown="1">
 
 0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
-Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/TBA), arXiv:TBA
+Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734),
+arXiv:2604.27734
 
 0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
 Gravitational Wave Multiple Ringdown Modes in
@@ -31,8 +32,9 @@ Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
 Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in
 Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), arXiv:2602.10928
 
-0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR training instability
-through the lens of objective-level hacking](https://arxiv.org/abs/2602.01103),
+0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
+training instability through the lens of objective-level
+hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
 arXiv:2602.01103
 
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
