@@ -28,15 +28,6 @@ arXiv:2604.08053
 0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive
 Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
 
-0. W.-F. Feng, T. Liu, Y. Fang, Y. Kang, B. Liu, L. Shao, [An Enhanced Formation Channel for
-Galactic Dual-Line Gravitational-Wave Sources: von Zeipel-Lidov-Kozai effect in
-Triples Involving Sgr A*](https://arxiv.org/abs/2602.10928), arXiv:2602.10928
-
-0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
-training instability through the lens of objective-level
-hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
-arXiv:2602.01103
-
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
 Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),
 arXiv:2510.22573
@@ -48,6 +39,17 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
 black hole of the same mass?](https://arxiv.org/abs/2312.01406),
 arXiv:2312.01406
+
+0. W.-F. Feng, T. Liu, Y. Fang, Y. Kang, B. Liu, L. Shao, [An Enhanced Formation
+Channel for Galactic Dual-Line Gravitational-Wave Sources: von
+Zeipel-Lidov-Kozai effect in Triples Involving Sgr
+A*](https://arxiv.org/abs/2602.10928), *Astrophys. J.  Lett.* (accepted),
+arXiv:2602.10928
+
+0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
+training instability through the lens of objective-level
+hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
+arXiv:2602.01103
 
 0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
 [Novae breves from magnetar giant flares: Potential probes of neutron star
