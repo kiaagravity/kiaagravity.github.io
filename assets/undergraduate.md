@@ -93,15 +93,14 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
-0. **J. Zhong (钟佳航)**, Q.-H. Chen, Y. Kang, H.-B. Li, **J. Zhang (张景灏)**, M.-H.
-Chen, L.  Shao, [Novae breves from magnetar giant flares: Potential probes of
-neutron star crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.*
-(accepted), arXiv:2603.10500
-
 0. **Z. Zheng (郑智豪)**, Z. Wang, **J. Deng (邓锦文)**, Y. Dong, L. Shao, [Inferring
 neutron-star Love-Q relations from gravitational waves in the hierarchical
 Bayesian framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), 
 arXiv:2510.22137
+
+0. **J. Zhong (钟佳航)**, Q.-H. Chen, Y. Kang, H.-B. Li, **J. Zhang (张景灏)**, M.-H.
+Chen, L.  Shao, [Novae breves from magnetar giant flares: Potential probes of
+neutron star crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* 709 (2026) A195
 
 0. Y. Kang, J.-P. Zhu, L. Shao, **J. Zhong (钟佳航)**, **J. Zhang (张景灏)**, B.
 Zhang, [Mini-supernovae from white dwarf--neutron star mergers:

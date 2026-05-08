@@ -51,10 +51,6 @@ training instability through the lens of objective-level
 hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
 arXiv:2602.01103
 
-0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
-[Novae breves from magnetar giant flares: Potential probes of neutron star
-crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.* (accepted), arXiv:2603.10500
-
 0. Z. Zheng, Z. Wang, J. Deng, Y. Dong, L. Shao, [Inferring neutron-star Love-Q
 relations from gravitational waves in the hierarchical Bayesian
 framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), arXiv:2510.22137
@@ -77,6 +73,10 @@ lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* 706 (2026
 0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
 overlapping gravitational-wave signals: detector
 network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* 113 (2026) 023044
+
+0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
+[Novae breves from magnetar giant flares: Potential probes of neutron star
+crusts](https://arxiv.org/abs/2603.10500), *Astron. & Astrophys.*  709 (2026) A195
 
 0. J. Zhang, Y. Kang, J. Zhong, H.-B. Li, L.-D. Liu, Y.-W. Yu, L.  Shao,
 [Lightcurve Features of Magnetar-Powered Superluminous Supernovae with
