@@ -78,7 +78,7 @@ permalink: /member/
 
 <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Guo_Hong.jpg" alt="" style="width:100%; height:150px">
+        <img src="{{ site.baseurl }}/assets/members/Guo_Hong.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
