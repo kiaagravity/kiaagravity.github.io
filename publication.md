@@ -43,7 +43,7 @@ arXiv:2312.01406
 0. W.-F. Feng, T. Liu, Y. Fang, Y. Kang, B. Liu, L. Shao, [An Enhanced Formation
 Channel for Galactic Dual-Line Gravitational-Wave Sources: von
 Zeipel-Lidov-Kozai effect in Triples Involving Sgr
-A*](https://arxiv.org/abs/2602.10928), *Astrophys. J.  Lett.* (accepted),
+A*](https://arxiv.org/abs/2602.10928), <i>Astrophys. J.  Lett.</i> (accepted),
 arXiv:2602.10928
 
 0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
