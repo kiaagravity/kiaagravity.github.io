@@ -91,32 +91,6 @@ permalink: /member/
 
   <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://inspirehep.net/authors/2634373">Sulagna Bhattacharya</a></b></h5>
-          <p class="teamtitle"><small>Incoming KIAA/Boya</small></p>
-          </center>
-        </div>
-      </div>
-    </div> 
-
-  <div class="column">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://inspirehep.net/authors/2178024">Pinku Routaray</a></b></h5>
-          <p class="teamtitle"><small>Incoming KIAA Postdoc</small></p>
-          </center>
-        </div>
-      </div>
-    </div> 
-
-  <div class="column">
-      <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Kang_Yacheng.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
@@ -286,6 +260,32 @@ permalink: /member/
       </div>
     </div>
   </div>
+
+  <div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/female.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://inspirehep.net/authors/2634373">Sulagna Bhattacharya</a></b></h5>
+          <p class="teamtitle"><small>Incoming Fellow</small></p>
+          </center>
+        </div>
+      </div>
+    </div> 
+
+  <div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://inspirehep.net/authors/2178024">Pinku Routaray</a></b></h5>
+          <p class="teamtitle"><small>Incoming Postdoc</small></p>
+          </center>
+        </div>
+      </div>
+    </div> 
 
 </div>
 
