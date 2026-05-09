@@ -215,6 +215,19 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
+          <h5><b><a href="http://astro.pku.edu.cn/">Yibo Yang</a> (杨奕博)</b></h5>
+          <p class="teamtitle"><small>Undergraduate</small></p>
+          </center>
+        </div>
+      </div>
+    </div> 
+
+    <div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
           <h5><b><a href="http://astro.pku.edu.cn/">Jinwen Deng</a> (邓锦文)</b></h5>
           <p class="teamtitle"><small>Undergrad Research</small></p>
           </center>
@@ -256,6 +269,19 @@ permalink: /member/
         <p></p>
         <h5><b><a href="https://yuanpei.pku.edu.cn/">Zhangyan Yan</a> (颜张岩)</b></h5>
         <p class="teamtitle"><small>Undergrad Research</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="https://www.phy.pku.edu.cn/">Jiawei Lin</a> (林家卫)</b></h5>
+        <p class="teamtitle"><small>Undergraduate</small></p>
         </center>
       </div>
     </div>
@@ -308,18 +334,18 @@ permalink: /member/
     </div>
   </div>
 
-    <div class="column">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="http://astro.pku.edu.cn/">Yibo Yang</a> (杨奕博)</b></h5>
-          <p class="teamtitle"><small>Undergraduate</small></p>
-          </center>
-        </div>
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="http://astro.pku.edu.cn/">Jinghao Zhang</a> (张景灏)</b></h5>
+        <p class="teamtitle"><small>Undergraduate</small></p>
+        </center>
       </div>
-    </div> 
+    </div>
+  </div>
 
     <div class="column">
       <div class="card">
@@ -346,19 +372,6 @@ permalink: /member/
         </div>
       </div>
     </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
-        <h5><b><a href="https://www.phy.pku.edu.cn/">Jiawei Lin</a> (林家卫)</b></h5>
-        <p class="teamtitle"><small>Undergraduate</small></p>
-        </center>
-      </div>
-    </div>
-  </div>
 
 </div>
 
