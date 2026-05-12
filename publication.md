@@ -17,6 +17,10 @@ kramdown:
 Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734),
 arXiv:2604.27734
 
+0. Y. Dong, Y. Kang, J. Zhao, X. Zhu, Z. Wang, L. Shao, [An
+agentic framework for gravitational-wave counterpart association in the
+multi-messenger era](https://arxiv.org/abs/2605.10584), arXiv:2605.10584
+
 0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
 Gravitational Wave Multiple Ringdown Modes in
 Space](https://arxiv.org/abs/2604.20914), arXiv:2604.20914
