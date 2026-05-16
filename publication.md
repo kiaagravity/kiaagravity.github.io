@@ -121,6 +121,10 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. A.G. Abac, *et al.*, [Searches for Binary Mergers with Sub-solar Mass
+Components in Data from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
+Run](https://arxiv.org/abs/2605.05444), arXiv:2605.05444
+
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
 from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
 observing run](https://arxiv.org/abs/2603.25938), arXiv:2603.25938
@@ -167,6 +171,10 @@ run](https://arxiv.org/abs/2509.07352), arXiv:2509.07352
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
+
+0. A.G. Abac, *et al.*, [GW240925 and GW250207: Astrophysical Calibration of
+Gravitational-wave Detectors](https://arxiv.org/abs/2605.11703), *Phys. Rev.
+Lett.* (accepted), arXiv:2605.11703
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Constraints on the Cosmic Expansion Rate and
 Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted), arXiv:2509.04348
