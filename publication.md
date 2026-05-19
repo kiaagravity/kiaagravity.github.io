@@ -40,8 +40,9 @@ arXiv:2510.22573
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 
-0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Can a star be smaller than a
-black hole of the same mass?](https://arxiv.org/abs/2312.01406),
+0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Neutron stars more compact
+than black holes as a probe of strong-field
+gravity](https://arxiv.org/abs/2312.01406), *Phys. Rev. D* (accepted),
 arXiv:2312.01406
 
 0. W.-F. Feng, T. Liu, Y. Fang, Y. Kang, B. Liu, L. Shao, [An Enhanced Formation
