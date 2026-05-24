@@ -149,7 +149,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://orcid.org/0000-0001-5371-4697">Yiming Dong</a> (董益铭)</b></h5>
+          <h5><b><a href="https://yiming-astro.github.io/">Yiming Dong</a> (董益铭)</b></h5>
           <p class="teamtitle"><small>PhD Student'23</small></p>
           </center>
         </div>
@@ -163,7 +163,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://orcid.org/0009-0007-1438-8113">Ze Zhang</a> (张泽)</b></h5>
+          <h5><b><a href="https://xel-naga7.github.io/">Ze Zhang</a> (张泽)</b></h5>
           <p class="teamtitle"><small>PhD Student'24</small></p>
           </center>
         </div>
@@ -475,7 +475,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://faculty.dlut.edu.cn/wanghaitian/zh_CN/index.htm">Haitian Wang</a> (王海天)</b></h5>
+          <h5><b><a href="https://whaitian.github.io/">Haitian Wang</a> (王海天)</b></h5>
           <p class="teamtitle"><small>大连理工大学·副教授</small></p>
           </center>
         </div>
@@ -547,7 +547,7 @@ permalink: /member/
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *The Forced Precession of Pulsars* (PKU'21) |
 | &#9830; **Deng, Jinwen** (**邓锦文**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Application of AI in Gravitational-wave Data Analysis* (2026) |
-| &#9830; [**Dong, Yiming**](https://orcid.org/0000-0001-5371-4697) (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
+| &#9830; [**Dong, Yiming**](https://yiming-astro.github.io/) (**董益铭**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#1E90FF"><font color="white"><b>UR</b></font></span> *Constraining Yukawa Gravity with Pulsars around Sgr A$^\ast$* (2022)</small><br><small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Moments of Inertia of Axisymmetric Neutron Stars in the Standard-Model Extension* (PKU'23) |
 | &#9830; **Du, Rong** (**杜嵘**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Analyzing the Systematic Bias of Measuring Cosmological Parameters with Gravitational-Wave Sirens* (PKU'24) |
