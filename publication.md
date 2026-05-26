@@ -45,12 +45,6 @@ than black holes as a probe of strong-field
 gravity](https://arxiv.org/abs/2312.01406), *Phys. Rev. D* (accepted),
 arXiv:2312.01406
 
-0. W.-F. Feng, T. Liu, Y. Fang, Y. Kang, B. Liu, L. Shao, [An Enhanced Formation
-Channel for Galactic Dual-Line Gravitational-Wave Sources: von
-Zeipel-Lidov-Kozai effect in Triples Involving Sgr
-A*](https://arxiv.org/abs/2602.10928), <i>Astrophys. J.  Lett.</i> (accepted),
-arXiv:2602.10928
-
 0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
 training instability through the lens of objective-level
 hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
@@ -74,6 +68,11 @@ lightcurves](https://arxiv.org/abs/2512.04378), *Astron. & Astrophys.* 706 (2026
 0. Z. Wang, D. Liang, L. Shao, [Anatomy of parameter-estimation biases in
 overlapping gravitational-wave signals: detector
 network](https://arxiv.org/abs/2509.07737), *Phys. Rev. D* 113 (2026) 023044
+
+0. W.-F. Feng, T. Liu, Y. Fang, Y. Kang, B. Liu, L. Shao, [An Enhanced Formation
+Channel for Galactic Dual-Line Gravitational-Wave Sources: von
+Zeipel-Lidov-Kozai effect in Triples Involving Sgr
+A*](https://arxiv.org/abs/2602.10928), <i>Astrophys. J.  Lett.</i> 1003 (2026) L35
 
 0. J. Zhong, Q.-H. Chen, Y. Kang, H.-B. Li, J. Zhang, M.-H. Chen, L.  Shao,
 [Novae breves from magnetar giant flares: Potential probes of neutron star
