@@ -121,6 +121,29 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the
+Second Part of the Fourth Observing Run](https://arxiv.org/abs/2605.27090),
+arXiv:2605.27090
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
+Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223),
+arXiv:2605.27223
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Methods for Identifying and Characterizing
+Gravitational-wave Transients](https://arxiv.org/abs/2605.27224),
+arXiv:2605.27224
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Observations from the Second Part of the
+Fourth LIGO-Virgo-KAGRA Observing Run and Updates to the Gravitational-Wave
+Transient Catalog](https://arxiv.org/abs/2605.27225), arXiv:2605.27225
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Population Properties of Merging Compact
+Objects](https://arxiv.org/abs/2605.27226), arXiv:2605.27226
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Constraints on the Cosmic Expansion Rate and
+Modified Gravitational-wave Propagation](https://arxiv.org/abs/2605.27227),
+arXiv:2605.27227
+
 0. A.G. Abac, *et al.*, [Searches for Binary Mergers with Sub-solar Mass
 Components in Data from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
 Run](https://arxiv.org/abs/2605.05444), arXiv:2605.05444
