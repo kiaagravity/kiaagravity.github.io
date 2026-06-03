@@ -13,6 +13,12 @@ kramdown:
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
+black hole system](TBA), arXiv:TBA
+
+0. J. Yang, Z.-F. Mai, D. Liang, L. Shao, [Exact asymptotically flat black hole
+solutions in Bumblebee gravity and their thermodynamics](TBA), arXiv:TBA
+
 0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
 Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734),
 arXiv:2604.27734
@@ -148,10 +154,6 @@ arXiv:2605.27227
 Components in Data from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
 Run](https://arxiv.org/abs/2605.05444), arXiv:2605.05444
 
-0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
-from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
-observing run](https://arxiv.org/abs/2603.25938), arXiv:2603.25938
-
 0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. III. Tests of
 the Remnants](https://arxiv.org/abs/2603.19021), arXiv:2603.19021
 
@@ -189,7 +191,11 @@ during the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2509.07352), arXiv:2509.07352
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
-Binaries](https://www.arxiv.org/abs/2508.18083), arXiv:2508.18083
+Binaries](https://www.arxiv.org/abs/2508.18083), *Astrophys. J. Lett.* (accepted), arXiv:2508.18083
+
+0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
+from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
+observing run](https://arxiv.org/abs/2603.25938), *Astrophys. J.* (accepted), arXiv:2603.25938
 
 0. A.G. Abac, *et al.*, [Search for planetary-mass ultra-compact objects using
 data from the first part of the LIGO-Virgo-KAGRA fourth observing
