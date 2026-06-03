@@ -13,11 +13,6 @@ kramdown:
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
-0. X. Miao, P.C.C. Freire, N.  Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu, R.
-Ferdman, M. Kramer, H. Hu, **L.  Shao**, Y. Guo, D.J. Champion, Y. Yue,
-[Improved proper motion and gravity tests with PSR J1913+1102](TBA), *Astron. &
-Astrophys.* (accepted), arXiv:TBA
-
 0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
 black hole system](TBA), arXiv:TBA
 
@@ -50,6 +45,11 @@ arXiv:2510.22573
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. X. Miao, P.C.C. Freire, N.  Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu, R.
+Ferdman, M. Kramer, H. Hu, L.  Shao, Y. Guo, D.J. Champion, Y. Yue,
+[Improved proper motion and gravity tests with PSR J1913+1102](TBA), *Astron. &
+Astrophys.* (accepted), arXiv:TBA
 
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Neutron stars more compact
 than black holes as a probe of strong-field
