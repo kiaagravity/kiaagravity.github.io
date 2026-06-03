@@ -13,6 +13,11 @@ kramdown:
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. X. Miao, P.C.C. Freire, N.  Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu, R.
+Ferdman, M. Kramer, H. Hu, **L.  Shao**, Y. Guo, D.J. Champion, Y. Yue,
+[Improved proper motion and gravity tests with PSR J1913+1102](TBA), *Astron. &
+Astrophys.* (accepted), arXiv:TBA
+
 0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
 black hole system](TBA), arXiv:TBA
 
