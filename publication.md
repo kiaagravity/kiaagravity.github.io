@@ -14,7 +14,7 @@ kramdown:
     <div class="accordion-content hidden" markdown="1">
 
 0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
-black hole system](TBA), arXiv:TBA
+black hole system](http://arxiv.org/abs/2606.04762), arXiv:2606.04762
 
 0. J. Yang, Z.-F. Mai, D. Liang, L. Shao, [Exact asymptotically flat black hole
 solutions in Bumblebee gravity and their thermodynamics](TBA), arXiv:TBA
