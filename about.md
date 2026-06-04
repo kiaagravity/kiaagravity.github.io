@@ -53,6 +53,10 @@ when available. Please read [this
 article](https://kiaagravity.github.io/assets/postdoc) and contact [Dr. Lijing
 Shao](https://friendshao.github.io/)!
 
+<figure>   
+<img src="/assets/group/Group_meeting_Jun4_2026.jpg" style="width:100%">                 
+<figcaption><font color="grey"><b>Group meeting on June 4, 2026.</b></font></figcaption>
+</figure>
 
 <figure>   
 <img src="/assets/group/Group_meeting_Dec21_2025.jpg" style="width:100%">                 
