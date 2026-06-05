@@ -16,8 +16,9 @@ kramdown:
 0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
 black hole system](http://arxiv.org/abs/2606.04762), arXiv:2606.04762
 
-0. J. Yang, Z.-F. Mai, D. Liang, L. Shao, [Exact asymptotically flat black hole
-solutions in Bumblebee gravity and their thermodynamics](TBA), arXiv:TBA
+0. J. Yang, Z.-F. Mai, D. Liang, L. Shao, [Asymptotically-flat Black holes in
+Bumblebee Gravity: Exact Solutions and
+Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
 
 0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
 Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734),
