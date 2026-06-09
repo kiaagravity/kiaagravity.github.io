@@ -194,7 +194,7 @@ arXiv:2510.27022
 0. A.G. Abac, *et al.*, [Directed searches for gravitational waves from
 ultralight vector boson clouds around merger remnant and galactic black holes
 during the first part of the fourth LIGO-Virgo-KAGRA observing
-run](https://arxiv.org/abs/2509.07352), arXiv:2509.07352
+run](https://arxiv.org/abs/2509.07352), *Phys. Rev. D* (accepted), arXiv:2509.07352
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), *Astrophys. J. Lett.* (accepted), arXiv:2508.18083
