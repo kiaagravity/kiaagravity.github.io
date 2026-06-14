@@ -82,7 +82,7 @@ permalink: /member/
         <div class="teamcontainer" style="padding:1px; ">
           <center>
           <p></p>
-          <h5><b><a href="https://www.worldhorizon.site/">Hong Guo</a> (郭弘)</b></h5>
+          <h5><b><a href="https://kiaa.pku.edu.cn/info/1014/11442.htm">Hong Guo</a> (郭弘)</b></h5>
           <p class="teamtitle"><small>Boya Fellow</small></p>
           </center>
         </div>
