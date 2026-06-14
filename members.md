@@ -394,7 +394,7 @@ permalink: /member/
           <p></p>
           <!-- <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Hongbo Li</a> (李洪波)</b></h5> -->
           <h5><b><a href="https://kiaa.pku.edu.cn/info/1014/9374.htm">Hongbo Li</a> (李洪波)</b></h5>
-          <p class="teamtitle"><small>北京大学·博后</small></p>
+          <p class="teamtitle"><small>兰州大学·青年研究员</small></p>
           </center>
         </div>
       </div>
