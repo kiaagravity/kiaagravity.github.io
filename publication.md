@@ -214,10 +214,6 @@ Lett.* (accepted), arXiv:2605.11703
 0. A.G. Abac, *et al.*, [GWTC-4.0: Constraints on the Cosmic Expansion Rate and
 Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted), arXiv:2509.04348
 
-0. A.G. Abac, *et al.*, [Searches for Continuous Gravitational Waves from
-Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing
-run](https://arxiv.org/abs/2603.25808), *Astrophys. J.* (accepted), arXiv:2603.25808
-
 0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
 pulsar glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
 
@@ -245,6 +241,10 @@ Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081), *Astrophys
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
+
+0. A.G. Abac, *et al.*, [Searches for Continuous Gravitational Waves from
+Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing
+run](https://arxiv.org/abs/2603.25808), *Astrophys. J.* 1004 (2026) 204
 
 0. R. Abbasi, *et al.*, [Deep Search for Joint Sources of Gravitational Waves
 and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO
