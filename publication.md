@@ -48,9 +48,9 @@ on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 
 0. X. Miao, P.C.C. Freire, N.  Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu, R.
-Ferdman, M. Kramer, H. Hu, L.  Shao, Y. Guo, D.J. Champion, Y. Yue,
-[Improved proper motion and gravity tests with PSR J1913+1102](TBA), *Astron. &
-Astrophys.* (accepted), arXiv:TBA
+Ferdman, M. Kramer, H. Hu, L.  Shao, Y. Guo, D.J. Champion, Y. Yue, [Improved
+proper motion and gravity tests with PSR
+J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* (accepted), arXiv:2606.19276
 
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Neutron stars more compact
 than black holes as a probe of strong-field
