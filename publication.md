@@ -221,26 +221,26 @@ pulsar glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), ar
 Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
 Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:2508.20721
 
-0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
-signal observed with a single detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* (accepted), arXiv:2509.07348
-
-0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
-Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* (accepted), arXiv:2508.18079
-
 0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
 Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
 Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17487
 
-0. A.G. Abac, *et al.*, [GWTC-4.0: Updating the Gravitational-Wave Transient
-Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA
-Observing Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* (accepted), arXiv:2508.18082
-
-0. A.G. Abac, *et al.*, [GWTC-4.0: Methods for Identifying and Characterizing
-Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* (accepted), arXiv:2508.18081
-
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Methods for Identifying and Characterizing
+Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* 1004 (2026) L21
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Updating the Gravitational-Wave Transient
+Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA
+Observing Run](https://www.arxiv.org/abs/2508.18082), *Astrophys. J. Lett.* 1004 (2026) L22
+
+0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the First
+Part of the Fourth Observing Run](https://www.arxiv.org/abs/2508.18079), *Astrophys. J.* 1004 (2026) 232
+
+0. A.G. Abac, *et al.*, [GW230814: investigation of a loud gravitational-wave
+signal observed with a single detector](https://arxiv.org/abs/2509.07348), *Astrophys. J. Lett.* 1004 (2026) L23
 
 0. A.G. Abac, *et al.*, [Searches for Continuous Gravitational Waves from
 Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing
