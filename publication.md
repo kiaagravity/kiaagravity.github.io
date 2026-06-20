@@ -214,9 +214,6 @@ Lett.* (accepted), arXiv:2605.11703
 0. A.G. Abac, *et al.*, [GWTC-4.0: Constraints on the Cosmic Expansion Rate and
 Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348), *Astrophys. J. Lett.* (accepted), arXiv:2509.04348
 
-0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
-pulsar glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* (accepted), arXiv:2512.17990
-
 0. A.G. Abac, *et al.*, [Upper Limits on the Isotropic Gravitational-Wave
 Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
 Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:2508.20721
@@ -228,6 +225,9 @@ Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
+
+0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
+pulsar glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* 1005 (2026) 12
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Methods for Identifying and Characterizing
 Gravitational-wave Transients](https://www.arxiv.org/abs/2508.18081), *Astrophys. J. Lett.* 1004 (2026) L21
