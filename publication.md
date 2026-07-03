@@ -103,6 +103,13 @@ Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys* 26 (2026) 0
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet
 Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* 113 (2026) 044041
 
+0. V. Venkatraman Krishnan, L. Shao, V. Balakrishnan, A. Carleo, M. Colom i
+Bernadich, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
+Z. Hu, M. Kramer, J. Kunz, K. Liu, M.E. Lower, X. Miao, D. Perrodin, D.S.
+Pillay, A. Possenti, S. Ransom, I. Stairs, B. Stappers, [Testing Gravity with
+Binary Pulsars in the SKA Era](https://arxiv.org/abs/2607.02064), in *Advancing
+Astrophysics with the SKA II* (AASKAII), 2026
+
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
