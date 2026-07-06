@@ -275,19 +275,6 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="https://lxy.ecut.edu.cn/_t468/0c/18/c3214a68632/page.htm">Haoran Di</a> (邸浩然)</b></h5>
-        <p class="teamtitle"><small>Associate Professor</small></p>
-        </center>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
         <h5><b><a href="http://astro.pku.edu.cn/">Zhao Li</a> (李钊)</b></h5>
         <p class="teamtitle"><small>Boya Fellow</small></p>
         </center>
