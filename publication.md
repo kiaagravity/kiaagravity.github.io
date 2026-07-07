@@ -203,9 +203,6 @@ ultralight vector boson clouds around merger remnant and galactic black holes
 during the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2509.07352), *Phys. Rev. D* (accepted), arXiv:2509.07352
 
-0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
-Binaries](https://www.arxiv.org/abs/2508.18083), *Astrophys. J. Lett.* (accepted), arXiv:2508.18083
-
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
 from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
 observing run](https://arxiv.org/abs/2603.25938), *Astrophys. J.* (accepted), arXiv:2603.25938
@@ -232,6 +229,9 @@ Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
+Binaries](https://www.arxiv.org/abs/2508.18083), *Astrophys. J. Lett.* 1005 (2026) L51
 
 0. A.G. Abac, *et al.*, [Constraints on gravitational waves from the 2024 Vela
 pulsar glitch](https://arxiv.org/abs/2512.17990), *Astrophys. J.* 1005 (2026) 12
