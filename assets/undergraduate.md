@@ -95,8 +95,7 @@ layout: page
 
 0. **Z. Zheng (郑智豪)**, Z. Wang, **J. Deng (邓锦文)**, Y. Dong, L. Shao, [Inferring
 neutron-star Love-Q relations from gravitational waves in the hierarchical
-Bayesian framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* (accepted), 
-arXiv:2510.22137
+Bayesian framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* 05 (2026) 086
 
 0. **J. Zhong (钟佳航)**, Q.-H. Chen, Y. Kang, H.-B. Li, **J. Zhang (张景灏)**, M.-H.
 Chen, L.  Shao, [Novae breves from magnetar giant flares: Potential probes of
@@ -219,7 +218,9 @@ propagation of fast radio bursts](https://arxiv.org/abs/2103.15299), *Phys. Lett
 gravitational-wave data analysis](https://arxiv.org/abs/2011.04418), *Phys.
 Rev. D* 103 (2021) 024040
 
-0. **赵乘辉**, 李洪波, 邵立晶, [晶格化对白矮星振荡模式的影响](https://shao.cas.cn/twxjz/wzll/202601/202601yfb/202604/P020260402387656317269.pdf), 《天文学进展》, accepted
+0. **赵乘辉**, 李洪波, 邵立晶,
+[晶格化对白矮星振荡模式的影响](https://shao.cas.cn/twxjz/wzll/202602/202602yjlw/202606/P020260629397284584331.pdf),
+《天文学进展》 44 (2026) 200
 
 0. **王弋尘**, 缪雪丽, 邵立晶,
 [用中子星限制暗物质粒子散射截面](http://dx.doi.org/10.15940/j.cnki.0001-5245.2021.05.008),
