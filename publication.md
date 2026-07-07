@@ -110,6 +110,13 @@ Pillay, A. Possenti, S. Ransom, I. Stairs, B. Stappers, [Testing Gravity with
 Binary Pulsars in the SKA Era](https://arxiv.org/abs/2607.02064), in *Advancing
 Astrophysics with the SKA II* (AASKAII), 2026
 
+0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P.B. Demorest, G. Desvignes,
+R.P. Eatough, E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I.
+Rammala-Zitha, S.M. Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
+Wongphechauxsorn, W. Zhu, [Galactic Centre Pulsars with the
+SKAO](https://arxiv.org/abs/2607.03078), in
+*Advancing Astrophysics with the SKA II* (AASKAII), 2026
+
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
