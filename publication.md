@@ -210,10 +210,6 @@ ultralight vector boson clouds around merger remnant and galactic black holes
 during the first part of the fourth LIGO-Virgo-KAGRA observing
 run](https://arxiv.org/abs/2509.07352), *Phys. Rev. D* (accepted), arXiv:2509.07352
 
-0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
-from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
-observing run](https://arxiv.org/abs/2603.25938), *Astrophys. J.* (accepted), arXiv:2603.25938
-
 0. A.G. Abac, *et al.*, [Search for planetary-mass ultra-compact objects using
 data from the first part of the LIGO-Virgo-KAGRA fourth observing
 run](https://arxiv.org/abs/2511.19911), *Phys. Rev. D* (accepted), arXiv:2511.19911
@@ -229,13 +225,17 @@ Modified Gravitational-wave Propagation](https://www.arxiv.org/abs/2509.04348), 
 Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing
 Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:2508.20721
 
-0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
-Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
-Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* (accepted), arXiv:2510.17487
-
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
+
+0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
+from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
+observing run](https://arxiv.org/abs/2603.25938), *Astrophys. J.* 1005 (2026) 221
+
+0. A.G. Abac, *et al.*, [Directional Search for Persistent Gravitational Waves:
+Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
+Run](https://arxiv.org/abs/2510.17487), *Phys. Rev. D* 114 (2026) 022001
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Population Properties of Merging Compact
 Binaries](https://www.arxiv.org/abs/2508.18083), *Astrophys. J. Lett.* 1005 (2026) L51
