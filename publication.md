@@ -147,6 +147,10 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
+Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765),
+arXiv:2607.07765
+
 0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the
 Second Part of the Fourth Observing Run](https://arxiv.org/abs/2605.27090),
 arXiv:2605.27090
