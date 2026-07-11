@@ -192,9 +192,6 @@ from Isolated Neutron Stars in the Data from the First Part of the Fourth
 LIGO-Virgo-KAGRA Observing Run](https://arxiv.org/abs/2603.14168),
 arXiv:2603.14168
 
-0. A.G. Abac, *et al.*, [GWTC-4.0: Searches for Gravitational-Wave Lensing
-Signatures](https://arxiv.org/abs/2512.16347), arXiv:2512.16347
-
 0. A.G. Abac, *et al.*, [All-sky search for continuous gravitational-wave
 signals from unknown neutron stars in binary systems in the first part of the
 fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2511.16863),
@@ -208,6 +205,9 @@ runs](https://arxiv.org/abs/2510.26848), arXiv:2510.26848
 gravitational-wave interferometers using data from the first part of the fourth
 LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022),
 arXiv:2510.27022
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Searches for Gravitational-Wave Lensing
+Signatures](https://arxiv.org/abs/2512.16347), *Astrophys. J.* (accepted), arXiv:2512.16347
 
 0. A.G. Abac, *et al.*, [Directed searches for gravitational waves from
 ultralight vector boson clouds around merger remnant and galactic black holes
