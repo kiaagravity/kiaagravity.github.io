@@ -20,10 +20,6 @@ black hole system](http://arxiv.org/abs/2606.04762), arXiv:2606.04762
 Bumblebee Gravity: Exact Solutions and
 Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
 
-0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
-Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734),
-arXiv:2604.27734
-
 0. Y. Dong, Y. Kang, J. Zhao, X. Zhu, Z. Wang, L. Shao, [An
 agentic framework for gravitational-wave counterpart association in the
 multi-messenger era](https://arxiv.org/abs/2605.10584), arXiv:2605.10584
@@ -46,6 +42,9 @@ arXiv:2510.22573
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
+Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734), *Phys. Rev. D* (accepted), arXiv:2604.27734
 
 0. X. Miao, P.C.C. Freire, N.  Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu, R.
 Ferdman, M. Kramer, H. Hu, L.  Shao, Y. Guo, D.J. Champion, Y. Yue, [Improved
