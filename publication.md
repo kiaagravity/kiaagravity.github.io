@@ -32,9 +32,6 @@ Space](https://arxiv.org/abs/2604.20914), arXiv:2604.20914
 the Galactic Center with the S2 Orbit](https://arxiv.org/abs/2604.08053),
 arXiv:2604.08053
 
-0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive
-Black Hole Timing Model](https://arxiv.org/abs/2602.19546), arXiv:2602.19546
-
 0. J.-C. Yu, Y. Cao, Z. Hu, L.  Shao, [Detecting ultralight dark matter in the
 Galactic Center with pulsars around Sgr A*](https://arxiv.org/abs/2510.22573),
 arXiv:2510.22573
@@ -42,6 +39,10 @@ arXiv:2510.22573
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive Black Hole Timing
+Model](https://arxiv.org/abs/2602.19546), *Astrophys. J. Suppl.* (accepted),
+arXiv:2602.19546
 
 0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
 Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734), *Phys. Rev. D* (accepted), arXiv:2604.27734
