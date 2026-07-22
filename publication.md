@@ -146,6 +146,9 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. A.G. Abac, *et al.*, [GWTC-5.0: Tests of General
+Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
+
 0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
 Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765),
 arXiv:2607.07765
