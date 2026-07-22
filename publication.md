@@ -52,11 +52,6 @@ Ferdman, M. Kramer, H. Hu, L.  Shao, Y. Guo, D.J. Champion, Y. Yue, [Improved
 proper motion and gravity tests with PSR
 J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* (accepted), arXiv:2606.19276
 
-0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Neutron stars more compact
-than black holes as a probe of strong-field
-gravity](https://arxiv.org/abs/2312.01406), *Phys. Rev. D* (accepted),
-arXiv:2312.01406
-
 0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
 training instability through the lens of objective-level
 hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
@@ -109,6 +104,10 @@ Z. Hu, M. Kramer, J. Kunz, K. Liu, M.E. Lower, X. Miao, D. Perrodin, D.S.
 Pillay, A. Possenti, S. Ransom, I. Stairs, B. Stappers, [Testing Gravity with
 Binary Pulsars in the SKA Era](https://arxiv.org/abs/2607.02064), in *Advancing
 Astrophysics with the SKA II* (AASKAII), 2026
+
+0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Neutron stars more compact
+than black holes as a probe of strong-field
+gravity](https://arxiv.org/abs/2312.01406), *Phys. Rev. D* 114 (2026) L021504
 
 0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P.B. Demorest, G. Desvignes,
 R.P. Eatough, E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I.
