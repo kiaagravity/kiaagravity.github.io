@@ -211,11 +211,6 @@ runs](https://arxiv.org/abs/2510.26848), *Phys. Rev. X* (accepted), arXiv:2510.2
 0. A.G. Abac, *et al.*, [GWTC-4.0: Searches for Gravitational-Wave Lensing
 Signatures](https://arxiv.org/abs/2512.16347), *Astrophys. J.* (accepted), arXiv:2512.16347
 
-0. A.G. Abac, *et al.*, [Directed searches for gravitational waves from
-ultralight vector boson clouds around merger remnant and galactic black holes
-during the first part of the fourth LIGO-Virgo-KAGRA observing
-run](https://arxiv.org/abs/2509.07352), *Phys. Rev. D* (accepted), arXiv:2509.07352
-
 0. A.G. Abac, *et al.*, [GW240925 and GW250207: Astrophysical Calibration of
 Gravitational-wave Detectors](https://arxiv.org/abs/2605.11703), *Phys. Rev.
 Lett.* (accepted), arXiv:2605.11703
@@ -230,6 +225,11 @@ Run](https://www.arxiv.org/abs/2508.20721), *Phys. Rev. D* (accepted), arXiv:250
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
+
+0. A.G. Abac, *et al.*, [Directed searches for gravitational waves from
+ultralight vector boson clouds around merger remnant and galactic black holes
+during the first part of the fourth LIGO-Virgo-KAGRA observing
+run](https://arxiv.org/abs/2509.07352), *Phys. Rev. D* 114 (2026) 022006
 
 0. A.G. Abac, *et al.*, [Narrowband searches for continuous gravitational waves
 from known pulsars in the first two parts of the fourth LIGO-Virgo-KAGRA
