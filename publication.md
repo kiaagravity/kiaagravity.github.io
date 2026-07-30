@@ -13,6 +13,10 @@ kramdown:
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. Z. Hu, L. Shao, [Probing an Intermediate-Mass Black Hole Companion of
+Sagittarius A* with Pulsar Timing](http://arxiv.org/abs/2607.24201),
+arXiv:2607.24201
+
 0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
 black hole system](http://arxiv.org/abs/2606.04762), arXiv:2606.04762
 
