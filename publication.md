@@ -48,9 +48,6 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 Model](https://arxiv.org/abs/2602.19546), *Astrophys. J. Suppl.* (accepted),
 arXiv:2602.19546
 
-0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
-Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734), *Phys. Rev. D* (accepted), arXiv:2604.27734
-
 0. X. Miao, P.C.C. Freire, N.  Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu, R.
 Ferdman, M. Kramer, H. Hu, L.  Shao, Y. Guo, D.J. Champion, Y. Yue, [Improved
 proper motion and gravity tests with PSR
@@ -68,6 +65,10 @@ modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* 10 (2026) 564
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> 3177 (2026)
 012043
+
+0. H. Wang, L. Shao, [Constraining Dipole Radiation with Multiband Gravitational
+Waves from Eccentric Binary Black Holes](https://arxiv.org/abs/2604.27734), *Phys. Rev. 
+D* 114 (2026) 024089
 
 0. Z. Hu, Y. Gao, L. Shao, [Linear analysis of I-C-Love universal relations for
 neutron stars](https://arxiv.org/abs/2505.13110), *Phys.  Rev. D* 113 (2026) 044056 
