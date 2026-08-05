@@ -93,6 +93,9 @@ layout: page
 
 <big> **附：组内本科生文章发表列表** </big> &nbsp; &nbsp; &nbsp; <small>(**粗体**为本科生)</small>
 
+0. **Y. Yang (杨奕博)**, J.-C. Yu, Z. Hu, L. Shao, [Probing Dynamical Friction of
+Dark Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
+
 0. **Z. Zheng (郑智豪)**, Z. Wang, **J. Deng (邓锦文)**, Y. Dong, L. Shao, [Inferring
 neutron-star Love-Q relations from gravitational waves in the hierarchical
 Bayesian framework](https://arxiv.org/abs/2510.22137), *J. Cosmol. Astropart. Phys.* 05 (2026) 086

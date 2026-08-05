@@ -13,6 +13,10 @@ kramdown:
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+
+0. Y. Yang, J.-C. Yu, Z. Hu, L. Shao, [Probing Dynamical Friction of Dark
+Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
+
 0. Z. Hu, L. Shao, [Probing an Intermediate-Mass Black Hole Companion of
 Sagittarius A* with Pulsar Timing](http://arxiv.org/abs/2607.24201),
 arXiv:2607.24201
