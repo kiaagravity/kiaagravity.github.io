@@ -28,10 +28,6 @@ black hole system](http://arxiv.org/abs/2606.04762), arXiv:2606.04762
 Bumblebee Gravity: Exact Solutions and
 Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
 
-0. Y. Dong, Y. Kang, J. Zhao, X. Zhu, Z. Wang, L. Shao, [An
-agentic framework for gravitational-wave counterpart association in the
-multi-messenger era](https://arxiv.org/abs/2605.10584), arXiv:2605.10584
-
 0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
 Gravitational Wave Multiple Ringdown Modes in
 Space](https://arxiv.org/abs/2604.20914), arXiv:2604.20914
@@ -47,6 +43,10 @@ arXiv:2510.22573
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Y. Dong, Y. Kang, J. Zhao, X. Zhu, Z. Wang, L. Shao, [An
+agentic framework for gravitational-wave counterpart association in the
+multi-messenger era](https://arxiv.org/abs/2605.10584), *Innovation* (accepted), arXiv:2605.10584
 
 0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive Black Hole Timing
 Model](https://arxiv.org/abs/2602.19546), *Astrophys. J. Suppl.* (accepted),
