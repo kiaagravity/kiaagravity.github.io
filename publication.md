@@ -155,6 +155,11 @@ transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
+and remnant black holes observed during the second and third parts of the fourth
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620),
+arXiv:2608.11620
+
 0. A.G. Abac, *et al.*, [GWTC-5.0: Tests of General
 Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 
