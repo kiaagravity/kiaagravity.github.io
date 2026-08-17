@@ -44,10 +44,6 @@ arXiv:2510.22573
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 
-0. Y. Dong, Y. Kang, J. Zhao, X. Zhu, Z. Wang, L. Shao, [An
-agentic framework for gravitational-wave counterpart association in the
-multi-messenger era](https://arxiv.org/abs/2605.10584), *Innovation* (accepted), arXiv:2605.10584
-
 0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive Black Hole Timing
 Model](https://arxiv.org/abs/2602.19546), *Astrophys. J. Suppl.* (accepted),
 arXiv:2602.19546
@@ -65,6 +61,10 @@ arXiv:2602.01103
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* 10 (2026) 564
+
+0. Y. Dong, Y. Kang, J. Zhao, X. Zhu, Z. Wang, L. Shao, [An
+agentic framework for gravitational-wave counterpart association in the
+multi-messenger era](https://arxiv.org/abs/2605.10584), *Innovation* 7 (2026) 101538
 
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> 3177 (2026)
