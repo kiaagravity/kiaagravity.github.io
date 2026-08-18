@@ -212,8 +212,8 @@ arXiv:2511.16863
 
 0. A.G. Abac, *et al.*, [Direct multi-model dark-matter search with
 gravitational-wave interferometers using data from the first part of the fourth
-LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022),
-arXiv:2510.27022
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022), *Phys. Rev.
+Lett.* (accepted), arXiv:2510.27022
 
 0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. II.
 Parameterized Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (accepted), arXiv:2603.19020
