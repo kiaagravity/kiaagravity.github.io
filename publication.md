@@ -171,10 +171,6 @@ arXiv:2607.07765
 Second Part of the Fourth Observing Run](https://arxiv.org/abs/2605.27090),
 arXiv:2605.27090
 
-0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
-Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223),
-arXiv:2605.27223
-
 0. A.G. Abac, *et al.*, [GWTC-5.0: Methods for Identifying and Characterizing
 Gravitational-wave Transients](https://arxiv.org/abs/2605.27224),
 arXiv:2605.27224
@@ -209,6 +205,10 @@ arXiv:2603.14168
 signals from unknown neutron stars in binary systems in the first part of the
 fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2511.16863),
 arXiv:2511.16863
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
+Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted),
+arXiv:2605.27223
 
 0. A.G. Abac, *et al.*, [Direct multi-model dark-matter search with
 gravitational-wave interferometers using data from the first part of the fourth
