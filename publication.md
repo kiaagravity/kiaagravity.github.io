@@ -107,23 +107,9 @@ Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys* 26 (2026) 0
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet
 Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* 113 (2026) 044041
 
-0. V. Venkatraman Krishnan, L. Shao, V. Balakrishnan, A. Carleo, M. Colom i
-Bernadich, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
-Z. Hu, M. Kramer, J. Kunz, K. Liu, M.E. Lower, X. Miao, D. Perrodin, D.S.
-Pillay, A. Possenti, S. Ransom, I. Stairs, B. Stappers, [Testing Gravity with
-Binary Pulsars in the SKA Era](https://arxiv.org/abs/2607.02064), in *Advancing
-Astrophysics with the SKA II* (AASKAII), 2026
-
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Neutron stars more compact
 than black holes as a probe of strong-field
 gravity](https://arxiv.org/abs/2312.01406), *Phys. Rev. D* 114 (2026) L021504
-
-0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P.B. Demorest, G. Desvignes,
-R.P. Eatough, E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I.
-Rammala-Zitha, S.M. Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
-Wongphechauxsorn, W. Zhu, [Galactic Centre Pulsars with the
-SKAO](https://arxiv.org/abs/2607.03078), in
-*Advancing Astrophysics with the SKA II* (AASKAII), 2026
 
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
@@ -136,6 +122,20 @@ TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.* 29 (2026) 1
 Liu, L. Shao, P.  Torne, R. S. Wharton, [A survey for radio pulsars and
 transients in the 10 pc region around Sgr A*](https://arxiv.org/abs/2507.08534),
 <i>Astron. & Astrophys.</i> 706 (2026) A113
+
+0. V. Venkatraman Krishnan, L. Shao, V. Balakrishnan, A. Carleo, M. Colom i
+Bernadich, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
+Z. Hu, M. Kramer, J. Kunz, K. Liu, M.E. Lower, X. Miao, D. Perrodin, D.S.
+Pillay, A. Possenti, S. Ransom, I. Stairs, B. Stappers, [Testing Gravity with
+Binary Pulsars in the SKA Era](https://arxiv.org/abs/2607.02064), in *Advancing
+Astrophysics with the SKA II* (AASKAII), 2026
+
+0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P.B. Demorest, G. Desvignes,
+R.P. Eatough, E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I.
+Rammala-Zitha, S.M. Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
+Wongphechauxsorn, W. Zhu, [Galactic Centre Pulsars with the
+SKAO](https://arxiv.org/abs/2607.03078), in
+*Advancing Astrophysics with the SKA II* (AASKAII), 2026
 
 0. 赵乘辉, 李洪波, 邵立晶,
 [晶格化对白矮星振荡模式的影响](https://shao.cas.cn/twxjz/wzll/202602/202602yjlw/202606/P020260629397284584331.pdf),
