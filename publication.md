@@ -155,6 +155,10 @@ SKAO](https://arxiv.org/abs/2607.03078), in
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. A.G. Abac, *et al.*, [Updated Upper Limits on the Isotropic
+Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April
+2025](https://arxiv.org/abs/2608.23477), arXiv:2608.23477
+
 0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
 and remnant black holes observed during the second and third parts of the fourth
 LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620),
