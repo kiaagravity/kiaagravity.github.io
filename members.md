@@ -37,32 +37,6 @@ permalink: /member/
     </div>
   </div>
 
-<div class="column">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://inspirehep.net/authors/2592240">Wenfan Feng</a> (冯文凡)</b></h5>
-          <p class="teamtitle"><small>Boya Fellow</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-
-  <div class="column">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/alumni/Li_Hongbo.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://orcid.org/0000-0002-4850-8351">Hongbo Li</a> (李洪波)</b></h5>
-          <p class="teamtitle"><small>Visiting KIAA Postdoc</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-
   <div class="column">
       <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Wang_Han.png" alt="" style="width:100%; height:150px">
@@ -359,6 +333,19 @@ permalink: /member/
 
 
 <div class="row">
+
+<div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://inspirehep.net/authors/2592240">Wenfan Feng</a> (冯文凡)</b></h5>
+          <p class="teamtitle"><small>Boya Fellow</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
 
   <div class="column">
     <div class="card">
