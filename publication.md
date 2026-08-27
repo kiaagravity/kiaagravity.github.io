@@ -66,10 +66,6 @@ arXiv:2608.11620
 0. A.G. Abac, *et al.*, [GWTC-5.0: Tests of General
 Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 
-0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
-Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765),
-arXiv:2607.07765
-
 0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the
 Second Part of the Fourth Observing Run](https://arxiv.org/abs/2605.27090),
 arXiv:2605.27090
@@ -225,6 +221,9 @@ SKAO](https://arxiv.org/abs/2607.03078), in
   <div class="accordion-item">
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
+
+0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
+Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765), *Astrophys. J. Lett.* (accepted), arXiv:2607.07765
 
 0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
 Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted),
