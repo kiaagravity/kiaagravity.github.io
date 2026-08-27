@@ -9,8 +9,10 @@ kramdown:
 **Papers that are affiliated with PKU-KIAA**
 
 <div class="accordion">
+
+
   <div class="accordion-item">
-    <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
+    <button class="accordion-btn">&#9654; 2027: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
 
@@ -43,6 +45,75 @@ arXiv:2510.22573
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+{: reversed="reversed"}
+  </div>
+  
+
+
+  <div class="accordion-item">
+    <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
+    <div class="accordion-content hidden" markdown="1">
+
+0. A.G. Abac, *et al.*, [Updated Upper Limits on the Isotropic
+Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April
+2025](https://arxiv.org/abs/2608.23477), arXiv:2608.23477
+
+0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
+and remnant black holes observed during the second and third parts of the fourth
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620),
+arXiv:2608.11620
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Tests of General
+Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
+
+0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
+Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765),
+arXiv:2607.07765
+
+0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the
+Second Part of the Fourth Observing Run](https://arxiv.org/abs/2605.27090),
+arXiv:2605.27090
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Methods for Identifying and Characterizing
+Gravitational-wave Transients](https://arxiv.org/abs/2605.27224),
+arXiv:2605.27224
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Observations from the Second Part of the
+Fourth LIGO-Virgo-KAGRA Observing Run and Updates to the Gravitational-Wave
+Transient Catalog](https://arxiv.org/abs/2605.27225), arXiv:2605.27225
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Population Properties of Merging Compact
+Objects](https://arxiv.org/abs/2605.27226), arXiv:2605.27226
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Constraints on the Cosmic Expansion Rate and
+Modified Gravitational-wave Propagation](https://arxiv.org/abs/2605.27227),
+arXiv:2605.27227
+
+0. A.G. Abac, *et al.*, [Searches for Binary Mergers with Sub-solar Mass
+Components in Data from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
+Run](https://arxiv.org/abs/2605.05444), arXiv:2605.05444
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. III. Tests of
+the Remnants](https://arxiv.org/abs/2603.19021), arXiv:2603.19021
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. I. Overview and
+General Tests](https://arxiv.org/abs/2603.19019), arXiv:2603.19019
+
+0. A.G. Abac, *et al.*, [All-sky Searches for Continuous Gravitational Waves
+from Isolated Neutron Stars in the Data from the First Part of the Fourth
+LIGO-Virgo-KAGRA Observing Run](https://arxiv.org/abs/2603.14168),
+arXiv:2603.14168
+
+0. A.G. Abac, *et al.*, [All-sky search for continuous gravitational-wave
+signals from unknown neutron stars in binary systems in the first part of the
+fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2511.16863),
+arXiv:2511.16863
+{: reversed="reversed"}    
+  </div>
+
+  <div class="accordion-item">
+    <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
+    <div class="accordion-content hidden" markdown="1">
 
 0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive Black Hole Timing
 Model](https://arxiv.org/abs/2602.19546), *Astrophys. J. Suppl.* (accepted),
@@ -154,61 +225,6 @@ SKAO](https://arxiv.org/abs/2607.03078), in
   <div class="accordion-item">
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
-
-0. A.G. Abac, *et al.*, [Updated Upper Limits on the Isotropic
-Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April
-2025](https://arxiv.org/abs/2608.23477), arXiv:2608.23477
-
-0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
-and remnant black holes observed during the second and third parts of the fourth
-LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620),
-arXiv:2608.11620
-
-0. A.G. Abac, *et al.*, [GWTC-5.0: Tests of General
-Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
-
-0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
-Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765),
-arXiv:2607.07765
-
-0. A.G. Abac, *et al.*, [Open Data from LIGO, Virgo, and KAGRA through the
-Second Part of the Fourth Observing Run](https://arxiv.org/abs/2605.27090),
-arXiv:2605.27090
-
-0. A.G. Abac, *et al.*, [GWTC-5.0: Methods for Identifying and Characterizing
-Gravitational-wave Transients](https://arxiv.org/abs/2605.27224),
-arXiv:2605.27224
-
-0. A.G. Abac, *et al.*, [GWTC-5.0: Observations from the Second Part of the
-Fourth LIGO-Virgo-KAGRA Observing Run and Updates to the Gravitational-Wave
-Transient Catalog](https://arxiv.org/abs/2605.27225), arXiv:2605.27225
-
-0. A.G. Abac, *et al.*, [GWTC-5.0: Population Properties of Merging Compact
-Objects](https://arxiv.org/abs/2605.27226), arXiv:2605.27226
-
-0. A.G. Abac, *et al.*, [GWTC-5.0: Constraints on the Cosmic Expansion Rate and
-Modified Gravitational-wave Propagation](https://arxiv.org/abs/2605.27227),
-arXiv:2605.27227
-
-0. A.G. Abac, *et al.*, [Searches for Binary Mergers with Sub-solar Mass
-Components in Data from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
-Run](https://arxiv.org/abs/2605.05444), arXiv:2605.05444
-
-0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. III. Tests of
-the Remnants](https://arxiv.org/abs/2603.19021), arXiv:2603.19021
-
-0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. I. Overview and
-General Tests](https://arxiv.org/abs/2603.19019), arXiv:2603.19019
-
-0. A.G. Abac, *et al.*, [All-sky Searches for Continuous Gravitational Waves
-from Isolated Neutron Stars in the Data from the First Part of the Fourth
-LIGO-Virgo-KAGRA Observing Run](https://arxiv.org/abs/2603.14168),
-arXiv:2603.14168
-
-0. A.G. Abac, *et al.*, [All-sky search for continuous gravitational-wave
-signals from unknown neutron stars in binary systems in the first part of the
-fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2511.16863),
-arXiv:2511.16863
 
 0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
 Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted),
