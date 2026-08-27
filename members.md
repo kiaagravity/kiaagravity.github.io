@@ -302,7 +302,7 @@ permalink: /member/
           <center>
           <p></p>
           <h5><b><a href="http://astro.pku.edu.cn/">Yibo Yang</a> (杨奕博)</b></h5>
-          <p class="teamtitle"><small>Undergraduate</small></p>
+          <p class="teamtitle"><small>PhD Student</small></p>
           </center>
         </div>
       </div>
@@ -321,19 +321,6 @@ permalink: /member/
     </div>
   </div>
 
-    <div class="column">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://yuanpei.pku.edu.cn/">Zhihao Zheng</a> (郑智豪)</b></h5>
-          <p class="teamtitle"><small>Undergraduate</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-
   <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
@@ -346,6 +333,19 @@ permalink: /member/
       </div>
     </div>
   </div>
+
+    <div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="http://astro.pku.edu.cn/">Wuhao Song</a> (宋武豪)</b></h5>
+          <p class="teamtitle"><small>Undergraduate</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
 
 
 </div>
