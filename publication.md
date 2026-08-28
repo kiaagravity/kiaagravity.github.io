@@ -115,11 +115,6 @@ arXiv:2511.16863
 Model](https://arxiv.org/abs/2602.19546), *Astrophys. J. Suppl.* (accepted),
 arXiv:2602.19546
 
-0. X. Miao, P.C.C. Freire, N.  Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu, R.
-Ferdman, M. Kramer, H. Hu, L.  Shao, Y. Guo, D.J. Champion, Y. Yue, [Improved
-proper motion and gravity tests with PSR
-J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* (accepted), arXiv:2606.19276
-
 0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
 training instability through the lens of objective-level
 hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
@@ -173,6 +168,12 @@ Leakage](https://arxiv.org/abs/2508.18940), *Res. Astron. Astrophys* 26 (2026) 0
 0. Z. Hu, D.D. Doneva, S.S. Yazadjiev, L. Shao, [Quasi-Normal Mode Ringing of
 Binary Black Hole Mergers in Scalar-Gauss-Bonnet
 Gravity](https://arxiv.org/abs/2511.20301), *Phys. Rev. D* 113 (2026) 044041
+
+0. X. Miao, P.C.C. Freire, N.  Wex, L. Meng, T.M. Tauris, J. Zhao, W. Zhu, R.
+Ferdman, M. Kramer, H. Hu, L.  Shao, Y. Guo, D.J. Champion, Y. Yue, [Improved
+proper motion and gravity tests with PSR
+J1913+1102](https://arxiv.org/abs/2606.19276), *Astron. & Astrophys.* 713
+(2026) A1
 
 0. S. Li, H. Lü, Y. Gao, R.  Xu, L. Shao, H. Yu, [Neutron stars more compact
 than black holes as a probe of strong-field
