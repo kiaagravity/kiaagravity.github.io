@@ -39,6 +39,19 @@ permalink: /member/
 
 <div class="column">
       <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://inspirehep.net/authors/2592240">Wenfan Feng</a> (冯文凡)</b></h5>
+          <p class="teamtitle"><small>Boya Fellow</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+    
+<div class="column">
+      <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Guo_Hong.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
@@ -333,19 +346,6 @@ permalink: /member/
 
 
 <div class="row">
-
-<div class="column">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://inspirehep.net/authors/2592240">Wenfan Feng</a> (冯文凡)</b></h5>
-          <p class="teamtitle"><small>Boya Fellow</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
 
   <div class="column">
     <div class="card">
