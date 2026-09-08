@@ -24,7 +24,7 @@ tr:nth-child(odd) {
 
 ## Group Meeting
 
-**Chair**: Ziming Wang (王子铭)
+**Chair**: Yacheng Kang (康亚城)
 
 Group meeting provides a friendly environment to interact with group members or
 visiting scholars.  It also brings the opportunity to broaden views in science,
