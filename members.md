@@ -39,19 +39,6 @@ permalink: /member/
 
 <div class="column">
       <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="https://inspirehep.net/authors/2592240">Wenfan Feng</a> (冯文凡)</b></h5>
-          <p class="teamtitle"><small>Boya Fellow</small></p>
-          </center>
-        </div>
-      </div>
-    </div>
-    
-<div class="column">
-      <div class="card">
         <img src="{{ site.baseurl }}/assets/members/Guo_Hong.png" alt="" style="width:100%; height:150px">
         <div class="teamcontainer" style="padding:1px; ">
           <center>
@@ -333,6 +320,19 @@ permalink: /member/
 
 <div class="row">
 
+<div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/Feng_Wenfan.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://inspirehep.net/authors/2592240">Wenfan Feng</a> (冯文凡)</b></h5>
+          <p class="teamtitle"><small>Boya Fellow</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+    
   <div class="column">
     <div class="card">
       <img src="{{ site.baseurl }}/assets/alumni/Gao_Yong.png" alt="GaoYong" style="width:100%; height:150px">
@@ -514,7 +514,7 @@ permalink: /member/
 | &#9830; **Du, Rong** (**杜嵘**) &#9830; <small>School of Physics, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Analyzing the Systematic Bias of Measuring Cosmological Parameters with Gravitational-Wave Sirens* (PKU'24) |
 | &#9830; [**Feng, Wen-Fan**](https://inspirehep.net/authors/2592240) (**冯文凡**) &#9830; <small>Kavli Institute for Astronomy and Astrophysics, Peking University</small> |
-| <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *Continuous Gravitational Waves from Elliptical Neutron Stars in Binaries* (2026)</small> |
+| <small><span style="background-color:#2F4F4F"><font color="white"><b>PR</b></font></span> *GW Modeling and Applications for Rapidly Spinning NSs in Galactic Binary and Triple Systems* (2026)</small> |
 | &#9830; **Gao, Kun** (**高焜**) &#9830; <small>Yuanpei College, Peking University</small> |
 | <small><span style="background-color:#32CD32"><font color="white"><b>BD</b></font></span> *Timing Signals of Vector Ultra-Light Dark Matter in Binary Pulsar Systems* (PKU'24) |
 | &#9830; [**Gao, Yong**](https://gravyong.github.io/) (**高勇**) &#9830; <small>School of Physics, Peking University</small> |
