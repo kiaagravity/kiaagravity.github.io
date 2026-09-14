@@ -111,10 +111,6 @@ arXiv:2511.16863
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
-0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive Black Hole Timing
-Model](https://arxiv.org/abs/2602.19546), *Astrophys. J. Suppl.* (accepted),
-arXiv:2602.19546
-
 0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
 training instability through the lens of objective-level
 hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
@@ -127,6 +123,9 @@ modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* 10 (2026) 564
 0. Y. Dong, Y. Kang, J. Zhao, X. Zhu, Z. Wang, L. Shao, [An
 agentic framework for gravitational-wave counterpart association in the
 multi-messenger era](https://arxiv.org/abs/2605.10584), *Innovation* 7 (2026) 101538
+
+0. Z. Hu, Z. Wang, L. Shao, [A Realistic Pulsar - Supermassive Black Hole Timing
+Model](https://arxiv.org/abs/2602.19546), *Astrophys. J. Suppl.* 286 (2026) 41
 
 0. L. Shao, Z. Hu, [Fundamental Physics with Pulsars around Sagittarius
 A*](https://arxiv.org/abs/2508.09931), <i>J. Phys. Conf. Ser.</i> 3177 (2026)
