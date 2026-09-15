@@ -111,10 +111,9 @@ arXiv:2511.16863
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
-0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing RLVR
-training instability through the lens of objective-level
-hacking](https://arxiv.org/abs/2602.01103), ICML2026 (accepted),
-arXiv:2602.01103
+0. Y. Wang, Z. Zhang, Z. Pan, L. Qian, L. Shao, D.  Yin, Y. Lian, [A Massive
+   Binary Pulsar with Eccentricity 0.12 in the Globular Cluster M10](TBA),
+*Astrophys. J.* (accepted),  arXiv:TBA
 
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
@@ -203,6 +202,10 @@ Rammala-Zitha, S.M. Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
 Wongphechauxsorn, W. Zhu, [Galactic Centre Pulsars with the
 SKAO](https://arxiv.org/abs/2607.03078), in
 *Advancing Astrophysics with the SKA II* (AASKAII), 2026
+
+0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing
+   RLVR training instability through the lens of objective-level
+hacking](https://arxiv.org/abs/2602.01103), ICML (2026)
 
 0. 赵乘辉, 李洪波, 邵立晶,
 [晶格化对白矮星振荡模式的影响](https://shao.cas.cn/twxjz/wzll/202602/202602yjlw/202606/P020260629397284584331.pdf),
