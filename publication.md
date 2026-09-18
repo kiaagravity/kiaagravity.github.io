@@ -15,6 +15,9 @@ kramdown:
     <button class="accordion-btn">&#9654; 2027: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. H. Guo, Y.S. Myung, L. Shao, [Extremal Scalarization of Charged Black Holes:
+Miransky Scaling across Reissner-Nordström
+Extremality](https://arxiv.org/abs/2609.20040), arXiv:2609.20040
 
 0. Y. Yang, J.-C. Yu, Z. Hu, L. Shao, [Probing Dynamical Friction of Dark
 Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
