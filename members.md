@@ -288,7 +288,7 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="http://astro.pku.edu.cn/">Yuze</a> (郭雨泽)</b></h5>
+        <h5><b><a href="http://astro.pku.edu.cn/">Yuze Guo</a> (郭雨泽)</b></h5>
         <p class="teamtitle"><small>PhD Student</small></p>
         </center>
       </div>
