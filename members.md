@@ -269,18 +269,31 @@ permalink: /member/
     </div>
   </div>
 
-    <div class="column">
-      <div class="card">
-        <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
-        <div class="teamcontainer" style="padding:1px; ">
-          <center>
-          <p></p>
-          <h5><b><a href="http://astro.pku.edu.cn/">Yibo Yang</a> (杨奕博)</b></h5>
-          <p class="teamtitle"><small>PhD Student</small></p>
-          </center>
-        </div>
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="http://astro.pku.edu.cn/">Yibo Yang</a> (杨奕博)</b></h5>
+        <p class="teamtitle"><small>PhD Student</small></p>
+        </center>
       </div>
-    </div> 
+    </div>
+  </div> 
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="http://astro.pku.edu.cn/">Yuze</a> (郭雨泽)</b></h5>
+        <p class="teamtitle"><small>PhD Student</small></p>
+        </center>
+      </div>
+    </div>
+  </div> 
 
   <div class="column">
     <div class="card">
