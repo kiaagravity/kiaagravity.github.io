@@ -235,11 +235,6 @@ Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765), *Astro
 Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted),
 arXiv:2605.27223
 
-0. A.G. Abac, *et al.*, [Direct multi-model dark-matter search with
-gravitational-wave interferometers using data from the first part of the fourth
-LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022), *Phys. Rev.
-Lett.* (accepted), arXiv:2510.27022
-
 0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. II.
 Parameterized Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (accepted), arXiv:2603.19020
 
@@ -253,6 +248,11 @@ Signatures](https://arxiv.org/abs/2512.16347), *Astrophys. J.* (accepted), arXiv
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 (2026) 081
+
+0. A.G. Abac, *et al.*, [Direct multi-model dark-matter search with
+gravitational-wave interferometers using data from the first part of the fourth
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022), *Phys. Rev.
+Lett.* 137 (2026) 131001
 
 0. A.G. Abac, *et al.*, [GW240925 and GW250207: Astrophysical Calibration of
 Gravitational-wave Detectors](https://arxiv.org/abs/2605.11703), *Phys. Rev.
