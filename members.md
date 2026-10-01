@@ -89,6 +89,19 @@ permalink: /member/
       </div>
     </div>
 
+  <div class="column">
+      <div class="card">
+        <img src="{{ site.baseurl }}/assets/members/panda.png" alt="" style="width:100%; height:150px">
+        <div class="teamcontainer" style="padding:1px; ">
+          <center>
+          <p></p>
+          <h5><b><a href="https://en.wikipedia.org/wiki/Giant_panda">Panda Chen</a> (摸竹猫)</b></h5>
+          <p class="teamtitle"><small>Stay Up All Night</small></p>
+          </center>
+        </div>
+      </div>
+    </div>
+
 
   <div class="column">
       <div class="card">
