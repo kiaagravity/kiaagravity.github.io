@@ -61,11 +61,6 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April
 2025](https://arxiv.org/abs/2608.23477), arXiv:2608.23477
 
-0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
-and remnant black holes observed during the second and third parts of the fourth
-LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620),
-arXiv:2608.11620
-
 0. A.G. Abac, *et al.*, [GWTC-5.0: Tests of General
 Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 
@@ -227,6 +222,11 @@ hacking](https://arxiv.org/abs/2602.01103), ICML (2026)
   <div class="accordion-item">
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
+
+0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
+and remnant black holes observed during the second and third parts of the fourth
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620), *Phys. Rev.
+D* (accepted), arXiv:2608.11620
 
 0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
 Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765), *Astrophys. J. Lett.* (accepted), arXiv:2607.07765
