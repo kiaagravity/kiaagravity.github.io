@@ -14,7 +14,7 @@ Ref. 1: [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
 
 Ref. 2: [The missing semester of your cs education](https://missing-semester-cn.github.io/)
 
-#### Jiangchun Yu: An introduction to Overleaf, INSPIRE and ADS
+#### Jiangchuan Yu: An introduction to Overleaf, INSPIRE and ADS
 
 Ref. 1: [INSPIRE](https://inspirehep.net)
 
