@@ -26,9 +26,6 @@ Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
 Sagittarius A* with Pulsar Timing](http://arxiv.org/abs/2607.24201),
 arXiv:2607.24201
 
-0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
-black hole system](http://arxiv.org/abs/2606.04762), arXiv:2606.04762
-
 0. J. Yang, Z.-F. Mai, D. Liang, L. Shao, [Asymptotically-flat Black holes in
 Bumblebee Gravity: Exact Solutions and
 Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
@@ -108,6 +105,10 @@ arXiv:2511.16863
   <div class="accordion-item">
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
+
+0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
+black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.*
+(accepted), arXiv:2606.04762
 
 0. Y. Wang, Z. Zhang, Z. Pan, L. Qian, L. Shao, D.  Yin, Y. Lian, [A Massive
    Binary Pulsar with Eccentricity 0.12 in the Globular Cluster M10](TBA),
