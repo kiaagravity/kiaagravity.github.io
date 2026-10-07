@@ -15,6 +15,10 @@ kramdown:
     <button class="accordion-btn">&#9654; 2027: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. H.-B. Li, Z. Wang, L.  Shao, R.-X. Xu, [Continuous Gravitational Waves from
+Thermo-Elastic Mountains in Ultraluminous X-ray
+Pulsars](https://arxiv.org/abs/2610.06299), arXiv:2610.06299
+
 0. H. Guo, Y.S. Myung, L. Shao, [Extremal Scalarization of Charged Black Holes:
 Miransky Scaling across Reissner-Nordström
 Extremality](https://arxiv.org/abs/2609.20040), arXiv:2609.20040
