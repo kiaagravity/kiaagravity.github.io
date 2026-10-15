@@ -241,9 +241,6 @@ and remnant black holes observed during the second and third parts of the fourth
 LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620), *Phys. Rev.
 D* (accepted), arXiv:2608.11620
 
-0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
-Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765), *Astrophys. J. Lett.* (accepted), arXiv:2607.07765
-
 0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
 Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted),
 arXiv:2605.27223
@@ -266,6 +263,9 @@ Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
 gravitational-wave interferometers using data from the first part of the fourth
 LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2510.27022), *Phys. Rev.
 Lett.* 137 (2026) 131001
+
+0. A.G. Abac, *et al.*, [Sub-Torque-Balance Upper Limits on Continuous
+Gravitational Waves from Scorpius X-1](https://arxiv.org/abs/2607.07765), *Astrophys. J. Lett.* 1010 (2026) L23
 
 0. A.G. Abac, *et al.*, [GW240925 and GW250207: Astrophysical Calibration of
 Gravitational-wave Detectors](https://arxiv.org/abs/2605.11703), *Phys. Rev.
