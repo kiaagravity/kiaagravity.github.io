@@ -62,6 +62,10 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. A.G. Abac, *et al.*, [Search for Compact Binary Coalescences with Sub-solar
+Mass Components in Data from the Second Part of LIGO-Virgo-KAGRA's Fourth
+Observing Run](https://arxiv.org/abs/2610.20276), arXiv:2610.20276
+
 0. A.G. Abac, *et al.*, [Updated Upper Limits on the Isotropic
 Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April
 2025](https://arxiv.org/abs/2608.23477), arXiv:2608.23477
