@@ -30,10 +30,6 @@ Extremality](https://arxiv.org/abs/2609.20040), arXiv:2609.20040
 0. Y. Yang, J.-C. Yu, Z. Hu, L. Shao, [Probing Dynamical Friction of Dark
 Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
 
-0. Z. Hu, L. Shao, [Probing an Intermediate-Mass Black Hole Companion of
-Sagittarius A* with Pulsar Timing](http://arxiv.org/abs/2607.24201),
-arXiv:2607.24201
-
 0. J. Yang, Z.-F. Mai, D. Liang, L. Shao, [Asymptotically-flat Black holes in
 Bumblebee Gravity: Exact Solutions and
 Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
@@ -113,6 +109,10 @@ arXiv:2511.16863
   <div class="accordion-item">
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
+
+0. Z. Hu, L. Shao, [Probing an Intermediate-Mass Black Hole Companion of
+Sagittarius A* with Pulsar Timing](http://arxiv.org/abs/2607.24201), *Sci.
+China Phys. Mech. Astron.* (accepted), arXiv:2607.24201
 
 0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
 Gravitational Wave Multiple Ringdown Modes in
