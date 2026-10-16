@@ -38,10 +38,6 @@ arXiv:2607.24201
 Bumblebee Gravity: Exact Solutions and
 Thermodynamics](https://arxiv.org/abs/2606.05801), arXiv:2606.05801
 
-0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
-Gravitational Wave Multiple Ringdown Modes in
-Space](https://arxiv.org/abs/2604.20914), arXiv:2604.20914
-
 0. J.-C. Yu, Y. Cao, L.  Shao, [Constraining Ultralight Scalar Dark Matter in
 the Galactic Center with the S2 Orbit](https://arxiv.org/abs/2604.08053),
 arXiv:2604.08053
@@ -117,6 +113,10 @@ arXiv:2511.16863
   <div class="accordion-item">
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
+
+0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
+Gravitational Wave Multiple Ringdown Modes in
+Space](https://arxiv.org/abs/2604.20914),  **Sci. China Phys. Mech. Astron.** (accepted), arXiv:2604.20914
 
 0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
 black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.*
