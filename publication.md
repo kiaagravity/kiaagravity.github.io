@@ -116,7 +116,7 @@ arXiv:2511.16863
 
 0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
 Gravitational Wave Multiple Ringdown Modes in
-Space](https://arxiv.org/abs/2604.20914),  **Sci. China Phys. Mech. Astron.** (accepted), arXiv:2604.20914
+Space](https://arxiv.org/abs/2604.20914),  *Sci. China Phys. Mech. Astron.* (accepted), arXiv:2604.20914
 
 0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
 black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.*
