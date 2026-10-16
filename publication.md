@@ -1607,6 +1607,11 @@ gravitational forces with radio pulsars](https://arxiv.org/abs/1810.06332), *Phy
     <button class="accordion-btn">&nbsp; &#9655; Unpublished</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. K. Liu, M. Cruces, G. Desvignes, M. Kramer, M. De Laurentis, N. Lewandowska,
+N. Masoongnoen,  D.D. Nguyen, L. Shao, P. Torne, J. Wongphechauxsorn, [Probing
+fundamental physics with ALMA2040 mm-wavelength observations of neutron
+stars](https://arxiv.org/abs/2610.21589), arXiv:2610.21589
+
 0. T. Akutsu, *et al.*, [Decadal upgrade strategy for KAGRA toward post-O5
 gravitational-wave astronomy](https://arxiv.org/abs/2508.03392),
 arXiv:2508.03392
