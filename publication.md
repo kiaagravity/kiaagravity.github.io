@@ -69,10 +69,6 @@ Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 Second Part of the Fourth Observing Run](https://arxiv.org/abs/2605.27090),
 arXiv:2605.27090
 
-0. A.G. Abac, *et al.*, [GWTC-5.0: Methods for Identifying and Characterizing
-Gravitational-wave Transients](https://arxiv.org/abs/2605.27224),
-arXiv:2605.27224
-
 0. A.G. Abac, *et al.*, [GWTC-5.0: Observations from the Second Part of the
 Fourth LIGO-Virgo-KAGRA Observing Run and Updates to the Gravitational-Wave
 Transient Catalog](https://arxiv.org/abs/2605.27225), arXiv:2605.27225
@@ -235,6 +231,10 @@ hacking](https://arxiv.org/abs/2602.01103), ICML (2026)
   <div class="accordion-item">
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Methods for Identifying and Characterizing
+   Gravitational-wave Transients](https://arxiv.org/abs/2605.27224), *Astrophys. 
+J. Lett.* (accepted), arXiv:2605.27224
 
 0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
 and remnant black holes observed during the second and third parts of the fourth
