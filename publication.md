@@ -201,14 +201,14 @@ Bernadich, A. Corongiu, A. Deller, P.C.C. Freire, M. Geyer, E. Hackmann, H. Hu,
 Z. Hu, M. Kramer, J. Kunz, K. Liu, M.E. Lower, X. Miao, D. Perrodin, D.S.
 Pillay, A. Possenti, S. Ransom, I. Stairs, B. Stappers, [Testing Gravity with
 Binary Pulsars in the SKA Era](https://arxiv.org/abs/2607.02064), in *Advancing
-Astrophysics with the SKA II* (AASKAII), 2026
+Astrophysics with the SKA I* (2026), p. 171
 
 0. F. Abbate, A. Carleo, S.  Chatterjee, J. Cordes, P.B. Demorest, G. Desvignes,
 R.P. Eatough, E. Hackmann, Z. Hu, M. Kramer, J. Lazio, K.J. Lee, K. Liu, I.
 Rammala-Zitha, S.M. Ransom, G.  Saowanit, L. Shao, P. Torne, R. Wharton, J.
 Wongphechauxsorn, W. Zhu, [Galactic Centre Pulsars with the
 SKAO](https://arxiv.org/abs/2607.03078), in
-*Advancing Astrophysics with the SKA II* (AASKAII), 2026
+*Advancing Astrophysics with the SKA I* (2026), p. 165
 
 0. Y. Dong, K. Fu, H. Li, X. Zhu, Y. Liu, L. Shao, J. Ye, Z. Wang, [Probing
    RLVR training instability through the lens of objective-level
