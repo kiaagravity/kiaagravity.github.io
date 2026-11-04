@@ -119,10 +119,6 @@ Space](https://arxiv.org/abs/2604.20914),  *Sci. China Phys. Mech. Astron.* (acc
 black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.*
 (accepted), arXiv:2606.04762
 
-0. Y. Wang, Z. Zhang, Z. Pan, L. Qian, L. Shao, D.  Yin, Y. Lian, [A Massive
-   Binary Pulsar with Eccentricity 0.12 in the Globular Cluster M10](TBA),
-*Astrophys. J.* (accepted),  arXiv:TBA
-
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* 10 (2026) 564
@@ -188,6 +184,10 @@ gravity](https://arxiv.org/abs/2312.01406), *Phys. Rev. D* 114 (2026) L021504
 0. R. Xu, D. Xu, L. Andersson, P. Amaro-Seoane, L. Shao, [Bumblebee cosmology:
 The FLRW solution and the CMB temperature
 anisotropy](https://arxiv.org/abs/2504.10297), *Front. Phys.* 21 (2026) 036201
+
+0. Y. Wang, Z. Zhang, Z. Pan, L. Qian, L. Shao, D. Yin, Y. Lian, [A Massive and
+   Eccentric Binary Millisecond Pulsar in the Globular Cluster
+M10](https://arxiv.org/abs/2611.02397), *Astrophys. J.* 1011 (2026) 130     
 
 0. J. Luo, *et al.*, [Fundamental Physics and Cosmology with
 TianQin](https://arxiv.org/abs/2502.20138), *Living Rev.  Relativ.* 29 (2026) 1
