@@ -80,10 +80,6 @@ Objects](https://arxiv.org/abs/2605.27226), arXiv:2605.27226
 Modified Gravitational-wave Propagation](https://arxiv.org/abs/2605.27227),
 arXiv:2605.27227
 
-0. A.G. Abac, *et al.*, [Searches for Binary Mergers with Sub-solar Mass
-Components in Data from the First Part of LIGO-Virgo-KAGRA's Fourth Observing
-Run](https://arxiv.org/abs/2605.05444), arXiv:2605.05444
-
 0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. III. Tests of
 the Remnants](https://arxiv.org/abs/2603.19021), arXiv:2603.19021
 
@@ -99,6 +95,11 @@ arXiv:2603.14168
 signals from unknown neutron stars in binary systems in the first part of the
 fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2511.16863),
 arXiv:2511.16863
+
+0. A.G. Abac, *et al.*, [Searches for Binary Mergers with Sub-solar Mass
+   Components in Data from the First Part of LIGO-Virgo-KAGRA's Fourth
+Observing Run](https://arxiv.org/abs/2605.05444), *Astrophys. J.* (accepted),
+arXiv:2605.05444
 {: reversed="reversed"}    
   </div>
 
