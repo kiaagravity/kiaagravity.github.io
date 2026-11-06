@@ -202,19 +202,6 @@ permalink: /member/
       <div class="teamcontainer" style="padding:1px; ">
         <center>
         <p></p>
-        <h5><b><a href="http://astro.pku.edu.cn/">Jinwen Deng</a> (邓锦文)</b></h5>
-        <p class="teamtitle"><small>Undergrad Research</small></p>
-        </center>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
-      <div class="teamcontainer" style="padding:1px; ">
-        <center>
-        <p></p>
         <h5><b><a href="http://www.phy.pku.edu.cn/">Qiuhao Xiong</a> (熊秋豪)</b></h5>
         <p class="teamtitle"><small>Dissertation</small></p>
         </center>
@@ -307,6 +294,19 @@ permalink: /member/
       </div>
     </div>
   </div> 
+
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl }}/assets/members/male.png" alt="" style="width:100%; height:150px">
+      <div class="teamcontainer" style="padding:1px; ">
+        <center>
+        <p></p>
+        <h5><b><a href="http://astro.pku.edu.cn/">Jinwen Deng</a> (邓锦文)</b></h5>
+        <p class="teamtitle"><small>Undergrad Research</small></p>
+        </center>
+      </div>
+    </div>
+  </div>
 
   <div class="column">
     <div class="card">
