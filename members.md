@@ -302,7 +302,7 @@ permalink: /member/
         <center>
         <p></p>
         <h5><b><a href="http://astro.pku.edu.cn/">Jinwen Deng</a> (邓锦文)</b></h5>
-        <p class="teamtitle"><small>Undergrad Research</small></p>
+        <p class="teamtitle"><small>Undergraduate</small></p>
         </center>
       </div>
     </div>
