@@ -45,6 +45,22 @@ arXiv:2510.22573
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. Z. Hu, L. Shao, [Probing an Intermediate-Mass Black Hole Companion of
+Sagittarius A* with Pulsar Timing](http://arxiv.org/abs/2607.24201), *Sci.
+China Phys. Mech. Astron.* (accepted), arXiv:2607.24201
+
+0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
+Gravitational Wave Multiple Ringdown Modes in
+Space](https://arxiv.org/abs/2604.20914),  *Sci. China Phys. Mech. Astron.* (accepted), arXiv:2604.20914
+
+0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
+black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.*
+(accepted), arXiv:2606.04762
+
+0. 张泽, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂, 仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 
+夏铖君, 俞云伟, 袁业飞, 郑小平, 邵立晶, [用SKA探索基础物理与脉冲星物理](http://engine.scichina.com/doi/10.1360/SSPMA-2026-0510), 
+《中国科学：物理学 力学 天文学》, accepted
 {: reversed="reversed"}
   </div>
   
@@ -57,10 +73,6 @@ Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
 0. A.G. Abac, *et al.*, [Search for Compact Binary Coalescences with Sub-solar
 Mass Components in Data from the Second Part of LIGO-Virgo-KAGRA's Fourth
 Observing Run](https://arxiv.org/abs/2610.20276), arXiv:2610.20276
-
-0. A.G. Abac, *et al.*, [Updated Upper Limits on the Isotropic
-Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April
-2025](https://arxiv.org/abs/2608.23477), arXiv:2608.23477
 
 0. A.G. Abac, *et al.*, [GWTC-5.0: Tests of General
 Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
@@ -96,28 +108,36 @@ signals from unknown neutron stars in binary systems in the first part of the
 fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2511.16863),
 arXiv:2511.16863
 
+0. A.G. Abac, *et al.*, [Updated Upper Limits on the Isotropic
+Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April
+2025](https://arxiv.org/abs/2608.23477), *Phys. Rev. D* (accepted), arXiv:2608.23477
+   
 0. A.G. Abac, *et al.*, [Searches for Binary Mergers with Sub-solar Mass
    Components in Data from the First Part of LIGO-Virgo-KAGRA's Fourth
 Observing Run](https://arxiv.org/abs/2605.05444), *Astrophys. J.* (accepted),
 arXiv:2605.05444
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Methods for Identifying and Characterizing
+   Gravitational-wave Transients](https://arxiv.org/abs/2605.27224), *Astrophys. 
+J. Lett.* (accepted), arXiv:2605.27224
+
+0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
+and remnant black holes observed during the second and third parts of the fourth
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620), *Phys. Rev.
+D* (accepted), arXiv:2608.11620
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
+Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted),
+arXiv:2605.27223
+
+0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. II.
+Parameterized Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (accepted), arXiv:2603.19020
 {: reversed="reversed"}    
   </div>
 
   <div class="accordion-item">
     <button class="accordion-btn">&#9654; 2026: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
-
-0. Z. Hu, L. Shao, [Probing an Intermediate-Mass Black Hole Companion of
-Sagittarius A* with Pulsar Timing](http://arxiv.org/abs/2607.24201), *Sci.
-China Phys. Mech. Astron.* (accepted), arXiv:2607.24201
-
-0. Z. Wang, H. Wang, Y. Yang, Y. Dong, H.-T. Wang, Y.-M. Hu, L. Shao, [Cracking
-Gravitational Wave Multiple Ringdown Modes in
-Space](https://arxiv.org/abs/2604.20914),  *Sci. China Phys. Mech. Astron.* (accepted), arXiv:2604.20914
-
-0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
-black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.*
-(accepted), arXiv:2606.04762
 
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
@@ -220,10 +240,6 @@ hacking](https://arxiv.org/abs/2602.01103), ICML (2026)
 《天文学进展》 44 (2026) 200
 
 0. 康亚城, 邵立晶, [GW231123：聆听宇宙深处的极端黑洞并合](http://mp.ihep.ac.cn/article/id/5768bc69-b11e-4add-b44a-52a116dc342e), 《现代物理知识》 38 (2026) 49
-
-0. 张泽, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂, 仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 
-夏铖君, 俞云伟, 袁业飞, 郑小平, 邵立晶, [用SKA探索基础物理与脉冲星物理](http://engine.scichina.com/doi/10.1360/SSPMA-2026-0510), 
-《中国科学：物理学 力学 天文学》, accepted
 {: reversed="reversed"}
   </div>
   
@@ -232,22 +248,6 @@ hacking](https://arxiv.org/abs/2602.01103), ICML (2026)
   <div class="accordion-item">
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
-
-0. A.G. Abac, *et al.*, [GWTC-5.0: Methods for Identifying and Characterizing
-   Gravitational-wave Transients](https://arxiv.org/abs/2605.27224), *Astrophys. 
-J. Lett.* (accepted), arXiv:2605.27224
-
-0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
-and remnant black holes observed during the second and third parts of the fourth
-LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620), *Phys. Rev.
-D* (accepted), arXiv:2608.11620
-
-0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
-Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted),
-arXiv:2605.27223
-
-0. A.G. Abac, *et al.*, [GWTC-4.0: Tests of General Relativity. II.
-Parameterized Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (accepted), arXiv:2603.19020
 
 0. A. Abac, *et al.*, [The Science of the Einstein
 Telescope](https://arxiv.org/abs/2503.12263), *J. Cosmol. Astropart. Phys.*  03
