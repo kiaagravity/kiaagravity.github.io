@@ -81,10 +81,6 @@ Relativity](https://arxiv.org/abs/2607.19293), arXiv:2607.19293
 Second Part of the Fourth Observing Run](https://arxiv.org/abs/2605.27090),
 arXiv:2605.27090
 
-0. A.G. Abac, *et al.*, [GWTC-5.0: Observations from the Second Part of the
-Fourth LIGO-Virgo-KAGRA Observing Run and Updates to the Gravitational-Wave
-Transient Catalog](https://arxiv.org/abs/2605.27225), arXiv:2605.27225
-
 0. A.G. Abac, *et al.*, [GWTC-5.0: Population Properties of Merging Compact
 Objects](https://arxiv.org/abs/2605.27226), arXiv:2605.27226
 
@@ -107,6 +103,11 @@ arXiv:2603.14168
 signals from unknown neutron stars in binary systems in the first part of the
 fourth LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2511.16863),
 arXiv:2511.16863
+
+0. A.G. Abac, *et al.*, [GWTC-5.0: Observations from the Second Part of the
+   Fourth LIGO-Virgo-KAGRA Observing Run and Updates to the Gravitational-Wave
+Transient Catalog](https://arxiv.org/abs/2605.27225), *Astrophys. J. Lett.*
+(accepted), arXiv:2605.27225
 
 0. A.G. Abac, *et al.*, [Updated Upper Limits on the Isotropic
 Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April
