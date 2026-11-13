@@ -122,11 +122,6 @@ arXiv:2605.05444
    Gravitational-wave Transients](https://arxiv.org/abs/2605.27224), *Astrophys. 
 J. Lett.* (accepted), arXiv:2605.27224
 
-0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
-and remnant black holes observed during the second and third parts of the fourth
-LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620), *Phys. Rev.
-D* (accepted), arXiv:2608.11620
-
 0. A.G. Abac, *et al.*, [GWTC-5.0: An Introduction to Version 5.0 of the
 Gravitational-Wave Transient Catalog](https://arxiv.org/abs/2605.27223), *Astrophys. J. Lett.* (accepted),
 arXiv:2605.27223
@@ -260,6 +255,11 @@ Signatures](https://arxiv.org/abs/2512.16347), *Astrophys. J.* 1011 (2026) 240
 0. A.G. Abac, *et al.*, [Cosmological and High Energy Physics implications from
 gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a
 runs](https://arxiv.org/abs/2510.26848), *Phys. Rev. X*  16 (2026) 041023
+
+0. A.G. Abac, *et al.*, [Constraints on ultralight bosons from merging binary
+and remnant black holes observed during the second and third parts of the fourth
+LIGO-Virgo-KAGRA observing run](https://arxiv.org/abs/2608.11620), *Phys. Rev.
+D*  114 (2026) 103025  
 
 0. A.G. Abac, *et al.*, [Direct multi-model dark-matter search with
 gravitational-wave interferometers using data from the first part of the fourth
