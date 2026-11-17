@@ -54,10 +54,6 @@ China Phys. Mech. Astron.* (accepted), arXiv:2607.24201
 Gravitational Wave Multiple Ringdown Modes in
 Space](https://arxiv.org/abs/2604.20914),  *Sci. China Phys. Mech. Astron.* (accepted), arXiv:2604.20914
 
-0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
-black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.*
-(accepted), arXiv:2606.04762
-
 0. 张泽, 胡泽昕, 许帆, 颜宇龙, 黄永锋, 来小禹, 李昂, 仝号, 周恩平, 陈列文, 程泉, 戴子高, 龚碧平, 
 夏铖君, 俞云伟, 袁业飞, 郑小平, 邵立晶, [用SKA探索基础物理与脉冲星物理](http://engine.scichina.com/doi/10.1360/SSPMA-2026-0510), 
 《中国科学：物理学 力学 天文学》, accepted
@@ -138,6 +134,9 @@ Parameterized Tests](https://arxiv.org/abs/2603.19020), *Astrophys. J. Lett.* (a
 0. Y. Dong, Z. Wang, H.-T. Wang, J. Zhao, L. Shao, [A practical Bayesian method
 for gravitational-wave ringdown analysis with multiple
 modes](http://arxiv.org/abs/2502.01093), *Nat. Astron.* 10 (2026) 564
+
+0. Z. Hu, L. Shao, [Granular mass perturbations on the pulsar - supermassive
+black hole system](http://arxiv.org/abs/2606.04762), *Phys. Rev. Lett.* 137 (2026) 211401
 
 0. Y. Dong, Y. Kang, J. Zhao, X. Zhu, Z. Wang, L. Shao, [An
 agentic framework for gravitational-wave counterpart association in the
