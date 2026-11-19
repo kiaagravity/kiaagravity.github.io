@@ -66,6 +66,9 @@ Space](https://arxiv.org/abs/2604.20914),  *Sci. China Phys. Mech. Astron.* (acc
     <button class="accordion-btn">&nbsp; &#9655; Collaboration Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. R.  Schödel, *et al.*, [Multi-epoch imaging observations of the Galactic
+Center with NIRCam and MIRI](https://arxiv.org/abs/2611.24110), arXiv:2611.24110
+
 0. A.G. Abac, *et al.*, [Search for Compact Binary Coalescences with Sub-solar
 Mass Components in Data from the Second Part of LIGO-Virgo-KAGRA's Fourth
 Observing Run](https://arxiv.org/abs/2610.20276), arXiv:2610.20276
