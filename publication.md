@@ -23,10 +23,6 @@ Observations](https://arxiv.org/abs/2610.11855), arXiv:2610.11855
 Thermo-Elastic Mountains in Ultraluminous X-ray
 Pulsars](https://arxiv.org/abs/2610.06299), arXiv:2610.06299
 
-0. H. Guo, Y.S. Myung, L. Shao, [Extremal Scalarization of Charged Black Holes:
-Miransky Scaling across Reissner-Nordström
-Extremality](https://arxiv.org/abs/2609.20040), arXiv:2609.20040
-
 0. Y. Yang, J.-C. Yu, Z. Hu, L. Shao, [Probing Dynamical Friction of Dark
 Matter with Pulsars around Sagittarius A*](TBA), arXiv:TBA
 
@@ -45,6 +41,10 @@ arXiv:2510.22573
 0. J.-C. Wang, S. Cao, J. Jiang, Y.  Liu, Q.-H. Cao, L. Shao, [First Constraint
 on Axion-Photon Coupling $g_\gamma$ from Neutron Star
 Observations](https://arxiv.org/abs/2506.07546), arXiv:2506.07546
+
+0. H. Guo, Y.S. Myung, L. Shao, [Extremal Scalarization of Charged Black Holes:
+Miransky Scaling across Reissner-Nordström
+Extremality](https://arxiv.org/abs/2609.20040), *Phys. Rev. D* (accepted), arXiv:2609.20040
 
 0. Z. Hu, L. Shao, [Probing an Intermediate-Mass Black Hole Companion of
 Sagittarius A* with Pulsar Timing](http://arxiv.org/abs/2607.24201), *Sci.
