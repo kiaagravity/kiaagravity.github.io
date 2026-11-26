@@ -15,6 +15,10 @@ kramdown:
     <button class="accordion-btn">&#9654; 2027: Regular Papers</button>
     <div class="accordion-content hidden" markdown="1">
 
+0. B. Liang, J. Deng, M. Du, H. Song, X. Fan, P. Xu, Z. Luo, L. Shao, [Toward
+   Solving the Galactic Foreground Problem in Gravitational-Wave Astronomy with
+Machine Learning](https://arxiv.org/abs/2611.32800), arXiv:2611.32800
+
 0. H.-T. Wang, D. Liang, L. Shao, Y.-X. Liu, [Testing Extra-Dimensional
    Gravitational-Wave Polarizations with Compact-Binary
 Observations](https://arxiv.org/abs/2610.11855), arXiv:2610.11855
